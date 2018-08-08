@@ -28,7 +28,7 @@ def makeBarGraph(data):
     fig, ax = plt.subplots()
 
     ind = np.arange(N)    # the x locations for the groups
-    width = 0.35         # the width of the bars
+    width = 0.5         # the width of the bars
     p1 = ax.bar(ind, Males, width, color='#66C3FF')
     # p1 = ax.bar(ind, Males, width)
 
@@ -38,7 +38,7 @@ def makeBarGraph(data):
                 color='#E56399')
     # p2 = ax.bar(ind + width, Females, width)
 
-    ax.set_title("Monthly articles by writer's gender")
+    ax.set_title("Monthly Articles by Writer's Gender")
     ax.set_xticks(ind + width / 2)
 
     strDates = [str(date) for date in data[:,0]]

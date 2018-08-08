@@ -40,5 +40,5 @@ def scrapeYears(year, month, startYear=2014):
         else:
             month -= 1
 
-if __name__ == "__main__":
-    scrapeYears(2012, 12, 2010)
+# if __name__ == "__main__":
+    # scrapeYears(2012, 12, 2010)
