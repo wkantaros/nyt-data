@@ -32,8 +32,8 @@ def scrape(articles):
                 continue
 
 # will count backwards from year/month to startYear
-def scrapeYears(year, month, startYear=2014):
-    while(year > startYear):
+def scrapeYears(year, month, startYear=2011):
+    while(year >= startYear):
         scrape(getArticlesMonth(year, month))
         if month == 1:
             year,month = year-1, 12
