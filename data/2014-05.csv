@@ -1,0 +1,6343 @@
+section_name,firstname,pub_date,gender
+Fashion & Style,Joyce,2014-05-01,F
+Movies,Neil,2014-05-01,M
+Movies,Nicolas,2014-05-01,M
+Movies,Nicolas,2014-05-01,M
+Movies,Neil,2014-05-01,M
+Movies,David,2014-05-01,M
+Movies,Daniel,2014-05-01,M
+Movies,Ben,2014-05-01,M
+Movies,Jeannette,2014-05-01,F
+Movies,Nicolas,2014-05-01,M
+Movies,Stephen,2014-05-01,M
+Movies,Stephen,2014-05-01,M
+Movies,Manohla,2014-05-01,F
+Crosswords/Games,Deb,2014-05-01,M
+Movies,A.,2014-05-01,M
+Health,Catherine,2014-05-01,F
+Sports,Erica,2014-05-01,F
+Business Day,Ben,2014-05-01,M
+Movies,Daniel,2014-05-01,M
+Movies,Ben,2014-05-01,M
+Movies,Rachel,2014-05-01,M
+Arts,William,2014-05-01,M
+Arts,Patrick,2014-05-01,M
+World,Chris,2014-05-01,M
+Business Day,William,2014-05-01,M
+Business Day,David,2014-05-01,M
+Technology,Nick,2014-05-01,M
+Movies,Robin,2014-05-01,M
+false,Dawn,2014-05-01,M
+Technology,Nicole,2014-05-01,F
+,Sofia,2014-05-01,F
+Arts,Sofia,2014-05-01,F
+Opinion,David,2014-05-01,M
+false,Nadia,2014-05-01,F
+U.S.,Rick,2014-05-01,M
+Arts,William,2014-05-01,M
+Magazine,Jeannie,2014-05-01,F
+Opinion,Ross,2014-05-01,M
+Opinion,Brent,2014-05-01,M
+Opinion,Paul,2014-05-01,M
+Business Day,Christopher,2014-05-01,M
+Arts,Allan,2014-05-01,M
+Opinion,Jennifer,2014-05-01,M
+U.S.,Katherine,2014-05-01,F
+Health,Nicholas,2014-05-01,M
+T:Style,Kevin,2014-05-01,M
+,Christine,2014-05-01,F
+Travel,Jon,2014-05-01,M
+false,Brooke,2014-05-01,M
+U.S.,Annie,2014-05-01,F
+Business Day,William,2014-05-01,M
+false,Andrew,2014-05-01,M
+Movies,Ashley,2014-05-01,F
+Business Day,Gene,2014-05-01,F
+T:Style,Alice,2014-05-01,F
+Arts,Mekado,2014-05-01,M
+World,Sebnem,2014-05-01,M
+Arts,Allan,2014-05-01,M
+,Carrie,2014-05-01,F
+Multimedia/Photos,Carrie,2014-05-01,F
+Movies,Mekado,2014-05-01,M
+Health,Allison,2014-05-01,M
+Crosswords/Games,Deb,2014-05-01,M
+Movies,Manohla,2014-05-01,F
+Arts,Shout,2014-05-01,M
+Arts,Shout,2014-05-01,M
+Arts,Shout,2014-05-01,M
+U.S.,Shannon,2014-05-01,M
+T:Style,Gisela,2014-05-01,F
+Health,Nicholas,2014-05-01,M
+Opinion,Paul,2014-05-01,M
+U.S.,Ron,2014-05-01,M
+Opinion,Vikas,2014-05-01,M
+T:Style,Jeff,2014-05-01,M
+N.Y. / Region,Michael,2014-05-01,M
+Business Day,Sydney,2014-05-01,F
+Business Day,William,2014-05-01,M
+Business Day,Michael,2014-05-01,M
+,International,2014-05-01,M
+Technology,Jenna,2014-05-01,F
+Business Day,Jenny,2014-05-01,F
+Sports,Lynn,2014-05-01,F
+U.S.,Adeel,2014-05-01,M
+N.Y. / Region,Andy,2014-05-01,F
+U.S.,Katherine,2014-05-01,F
+Multimedia,Andrew,2014-05-01,M
+U.S.,Katherine,2014-05-01,F
+World,Didi,2014-05-01,F
+World,Didi,2014-05-01,F
+U.S.,Shannon,2014-05-01,M
+Business Day,Chad,2014-05-01,M
+World,Vaibhav,2014-05-01,M
+Business Day,Annie,2014-05-01,F
+Arts,Kathryn,2014-05-01,M
+World,Austin,2014-05-01,M
+Business Day,Bruce,2014-05-01,M
+Sports,Mike,2014-05-01,F
+The Upshot,Neil,2014-05-01,M
+,Mona,2014-05-01,F
+Multimedia/Photos,Mona,2014-05-01,F
+World,Suhasini,2014-05-01,F
+Health,Lisa,2014-05-01,F
+Books,Paul,2014-05-01,M
+Sports,Andrew,2014-05-01,M
+Sports,Allan,2014-05-01,M
+N.Y. / Region,James,2014-05-01,M
+World,Ian,2014-05-01,M
+Arts,Noam,2014-05-01,M
+N.Y. / Region,James,2014-05-01,M
+N.Y. / Region,Matt,2014-05-01,M
+N.Y. / Region,Colin,2014-05-01,M
+N.Y. / Region,Nate,2014-05-01,F
+Your Money,Ann,2014-05-01,F
+Sports,Peter,2014-05-01,M
+Theater,Charles,2014-05-01,M
+N.Y. / Region,Michael,2014-05-01,M
+U.S.,Amy,2014-05-01,F
+Sports,Tyler,2014-05-01,M
+Business Day,Clifford,2014-05-01,M
+U.S.,Robert,2014-05-01,M
+U.S.,Michael,2014-05-01,M
+World,Eric,2014-05-01,M
+N.Y. / Region,J.,2014-05-01,M
+Sports,Karen,2014-05-01,M
+Opinion,Gail,2014-05-01,M
+U.S.,Eric,2014-05-01,M
+World,Somini,2014-05-01,F
+Business Day,Stuart,2014-05-01,M
+Opinion,Nicholas,2014-05-01,M
+U.S.,Fernanda,2014-05-01,F
+World,Michael,2014-05-01,M
+Business Day,Diane,2014-05-01,F
+N.Y. / Region,Matt,2014-05-01,M
+World,Tim,2014-05-01,M
+Sports,Joe,2014-05-01,F
+World,Kareem,2014-05-01,M
+World,Steven,2014-05-01,M
+U.S.,Kirk,2014-05-01,M
+U.S.,Monica,2014-05-01,F
+U.S.,Steven,2014-05-01,M
+Sports,Emmarie,2014-05-01,F
+N.Y. / Region,Matt,2014-05-01,M
+World,Matt,2014-05-01,M
+Business Day,Matthew,2014-05-01,M
+Fashion & Style,Patrick,2014-05-01,M
+Fashion & Style,John,2014-05-01,M
+U.S.,Richard,2014-05-01,M
+World,Rick,2014-05-01,M
+World,Randal,2014-05-01,M
+Fashion & Style,Matthew,2014-05-01,M
+Fashion & Style,Alix,2014-05-01,M
+Fashion & Style,Carson,2014-05-01,M
+Fashion & Style,Bee,2014-05-01,F
+Fashion & Style,John,2014-05-01,M
+Fashion & Style,Jon,2014-05-01,M
+Fashion & Style,Alison,2014-05-01,M
+Opinion,H.,2014-05-01,M
+Opinion,Ayana,2014-05-01,F
+Opinion,Linda,2014-05-01,F
+World,Elisabeth,2014-05-01,F
+N.Y. / Region,Steven,2014-05-01,M
+Opinion,Charles,2014-05-01,M
+Fashion & Style,Erica,2014-05-01,F
+Home & Garden,Tim,2014-05-01,M
+Home & Garden,Helene,2014-05-01,F
+Home & Garden,Rima,2014-05-01,F
+Home & Garden,Sarah,2014-05-01,F
+Home & Garden,Penelope,2014-05-01,F
+Fashion & Style,Matthew,2014-05-01,M
+Business Day,Raphael,2014-05-01,M
+Home & Garden,Penelope,2014-05-01,F
+Home & Garden,Julie,2014-05-01,F
+Home & Garden,Rima,2014-05-01,F
+Great Homes & Destinations,Dan,2014-05-01,M
+Home & Garden,Anne,2014-05-01,F
+Arts,Carol,2014-05-01,M
+Fashion & Style,Marisa,2014-05-01,F
+Arts,Zachary,2014-05-01,F
+Crosswords & Games,Phillip,2014-05-01,M
+World,Adam,2014-05-01,M
+Arts,Jon,2014-05-01,M
+Arts,Jason,2014-05-01,M
+Fashion & Style,John,2014-05-01,M
+Movies,Ben,2014-05-01,M
+Sports,Sam,2014-05-01,M
+Automobiles,Benjamin,2014-05-01,M
+U.S.,Michael,2014-05-01,M
+Arts,Siobhan,2014-05-01,M
+World,Patricia,2014-05-01,F
+Arts,Brian,2014-05-01,M
+Technology,Gregory,2014-05-01,M
+Technology,Molly,2014-05-01,F
+Sports,Jeff,2014-05-01,M
+The Upshot,Ian,2014-05-01,M
+Arts,Neil,2014-05-01,M
+Sports,Ben,2014-05-01,M
+Sports,Benjamin,2014-05-01,M
+Fashion & Style,Joanna,2014-05-01,F
+World,Gardiner,2014-05-01,M
+Arts,Anthony,2014-05-01,F
+Theater,Alexis,2014-05-01,M
+Sports,William,2014-05-01,M
+Books,Adam,2014-05-01,M
+Business Day,Jonathan,2014-05-01,M
+The Upshot,Megan,2014-05-01,M
+World,Nick,2014-05-01,M
+N.Y. / Region,Daniel,2014-05-01,M
+Great Homes & Destinations,Alison,2014-05-01,M
+World,Thomas,2014-05-01,M
+Technology,Farhad,2014-05-01,M
+Sports,Billy,2014-05-01,F
+N.Y. / Region,Charles,2014-05-01,M
+The Upshot,Josh,2014-05-01,M
+Business Day,Binyamin,2014-05-01,M
+Sports,Jack,2014-05-01,M
+Arts,Brian,2014-05-01,M
+Technology,Vindu,2014-05-01,M
+U.S.,Erik,2014-05-01,M
+N.Y. / Region,Susanne,2014-05-01,F
+N.Y. / Region,Joseph,2014-05-01,M
+Sports,Billy,2014-05-01,F
+World,Choe,2014-05-01,F
+U.S.,Jeremy,2014-05-01,F
+Movies,John,2014-05-01,M
+N.Y. / Region,David,2014-05-01,M
+The Upshot,Neil,2014-05-01,M
+Business Day,John,2014-05-01,M
+The Upshot,Michael,2014-05-01,M
+Great Homes & Destinations,Mike,2014-05-01,F
+World,Anne,2014-05-01,F
+The Upshot,Claire,2014-05-01,F
+The Upshot,Allison,2014-05-01,M
+U.S.,Kalyn,2014-05-01,F
+Sports,Lynn,2014-05-01,F
+World,Michael,2014-05-01,M
+U.S.,Jennifer,2014-05-01,M
+Business Day,Edward,2014-05-01,M
+Education,Al,2014-05-01,M
+World,Martin,2014-05-01,M
+The Upshot,Neil,2014-05-01,M
+Business Day,Nelson,2014-05-01,M
+World,Alison,2014-05-01,M
+Technology,Kit,2014-05-01,M
+Business Day,Annie,2014-05-01,F
+The Upshot,Binyamin,2014-05-01,M
+Business Day,Jack,2014-05-01,M
+Business Day,James,2014-05-01,M
+Business Day,Chad,2014-05-01,M
+Business Day,Stanley,2014-05-01,F
+The Upshot,Neil,2014-05-01,M
+Technology,J.,2014-05-01,M
+Health,Martha,2014-05-01,F
+Technology,J.,2014-05-02,M
+Fashion & Style,Alex,2014-05-02,M
+Fashion & Style,Jessica,2014-05-02,F
+Business Day,Michael,2014-05-02,M
+Movies,Anita,2014-05-02,F
+Fashion & Style,Bill,2014-05-02,M
+Crosswords/Games,Deb,2014-05-02,M
+Arts,Dave,2014-05-02,F
+World,Ed,2014-05-02,M
+Opinion,Andrew,2014-05-02,M
+Magazine,Jeannie,2014-05-02,F
+false,Julie,2014-05-02,F
+Fashion & Style,Joanna,2014-05-02,F
+Magazine,Photographs,2014-05-02,M
+Health,Paula,2014-05-02,F
+Travel,Diane,2014-05-02,F
+T:Style,Alex,2014-05-02,M
+Opinion,Paul,2014-05-02,M
+U.S.,Andrea,2014-05-02,F
+Technology,Farhad,2014-05-02,M
+false,Alice,2014-05-02,F
+Automobiles,Tom,2014-05-02,M
+T:Style,Malina,2014-05-02,F
+Health,Lisa,2014-05-02,F
+Business Day,Eric,2014-05-02,M
+N.Y. / Region,Robin,2014-05-02,M
+Opinion,Jennifer,2014-05-02,M
+T:Style,Claire,2014-05-02,F
+T Magazine,Franco,2014-05-02,M
+T:Style,Jeff,2014-05-02,M
+Opinion,Carol,2014-05-02,M
+Business Day,Dov,2014-05-02,M
+Arts,John,2014-05-02,M
+,Ken,2014-05-02,M
+Your Money,Ron,2014-05-02,M
+Travel,Shivani,2014-05-02,F
+T Magazine,Magnolia,2014-05-02,F
+T:Style,Paula,2014-05-02,F
+Arts,Allan,2014-05-02,M
+Sports,Erica,2014-05-02,F
+,Mona,2014-05-02,F
+Multimedia/Photos,Mona,2014-05-02,F
+Arts,Allan,2014-05-02,M
+Business Day,Neil,2014-05-02,M
+Health,Martha,2014-05-02,F
+U.S.,Judy,2014-05-02,F
+Arts,Ben,2014-05-02,M
+T:Style,David,2014-05-02,M
+Opinion,Ross,2014-05-02,M
+U.S.,Kj,2014-05-02,M
+U.S.,Retroreport,2014-05-02,M
+Movies,Robin,2014-05-02,M
+Business Day,Robert,2014-05-02,M
+Movies,Robin,2014-05-02,M
+Movies,Robin,2014-05-02,M
+Opinion,Terry,2014-05-02,M
+Business Day,William,2014-05-02,M
+Arts,Allan,2014-05-02,M
+Business Day,Peter,2014-05-02,M
+World,Sai,2014-05-02,M
+Arts,Roslyn,2014-05-02,F
+Business Day,Michael,2014-05-02,M
+Theater,Channon,2014-05-02,M
+Business Day,Gene,2014-05-02,F
+,International,2014-05-02,M
+World,Poh,2014-05-02,M
+The Upshot,A.,2014-05-02,M
+World,Michael,2014-05-02,M
+T:Style,Brooke,2014-05-02,M
+N.Y. / Region,David,2014-05-02,M
+false,Meryl,2014-05-02,M
+U.S.,Sarah,2014-05-02,F
+Business Day,Sydney,2014-05-02,F
+U.S.,Michael,2014-05-02,M
+U.S.,Michael,2014-05-02,M
+World,Vishnu,2014-05-02,M
+World,Didi,2014-05-02,F
+U.S.,Adeel,2014-05-02,M
+N.Y. / Region,Annie,2014-05-02,F
+U.S.,Michael,2014-05-02,M
+Multimedia,Whitney,2014-05-02,F
+Business Day,Chad,2014-05-02,M
+U.S.,Michael,2014-05-02,M
+U.S.,Shannon,2014-05-02,M
+World,Austin,2014-05-02,M
+Business Day,Chad,2014-05-02,M
+Sports,John,2014-05-02,M
+Theater,William,2014-05-02,M
+Arts,Kathryn,2014-05-02,M
+World,Peter,2014-05-02,M
+Sports,Richard,2014-05-02,M
+World,Natalia,2014-05-02,F
+,Mona,2014-05-02,F
+Multimedia/Photos,Mona,2014-05-02,F
+World,Choe,2014-05-02,F
+World,Shaojie,2014-05-02,F
+Sports,Justin,2014-05-02,M
+World,Suhasini,2014-05-02,F
+Business Day,Michael,2014-05-02,M
+N.Y. / Region,Coral,2014-05-02,M
+Health,Anahad,2014-05-02,M
+N.Y. / Region,James,2014-05-02,M
+N.Y. / Region,James,2014-05-02,M
+Sports,Benjamin,2014-05-02,M
+World,Katharine,2014-05-02,F
+N.Y. / Region,Winnie,2014-05-02,F
+Sports,Mike,2014-05-02,F
+Sports,Zach,2014-05-02,M
+Sports,Jeff,2014-05-02,M
+N.Y. / Region,Ashley,2014-05-02,F
+N.Y. / Region,Javier,2014-05-02,M
+World,David,2014-05-02,M
+Sports,Andrew,2014-05-02,M
+N.Y. / Region,Michael,2014-05-02,M
+Business Day,Leslie,2014-05-02,F
+N.Y. / Region,Vivian,2014-05-02,M
+U.S.,Richard,2014-05-02,M
+World,Rick,2014-05-02,M
+N.Y. / Region,J.,2014-05-02,M
+Sports,Harvey,2014-05-02,F
+Business Day,Stuart,2014-05-02,M
+N.Y. / Region,Joseph,2014-05-02,M
+Theater,Ben,2014-05-02,M
+Business Day,Jonathan,2014-05-02,M
+Science,Jan,2014-05-02,M
+N.Y. / Region,Stephanie,2014-05-02,F
+Sports,Melissa,2014-05-02,F
+World,Jodi,2014-05-02,F
+Science,Denise,2014-05-02,F
+Sports,Richard,2014-05-02,M
+World,William,2014-05-02,M
+World,David,2014-05-02,M
+Business Day,Rebecca,2014-05-02,F
+N.Y. / Region,Anemona,2014-05-02,F
+Opinion,David,2014-05-02,M
+Business Day,Hilary,2014-05-02,F
+Business Day,Noam,2014-05-02,M
+Business Day,Nelson,2014-05-02,M
+U.S.,Kirk,2014-05-02,M
+Opinion,Paul,2014-05-02,M
+N.Y. / Region,Paul,2014-05-02,M
+U.S.,Jim,2014-05-02,M
+U.S.,Ross,2014-05-02,M
+U.S.,Becca,2014-05-02,F
+Arts,Neil,2014-05-02,M
+Sports,John,2014-05-02,M
+U.S.,Michael,2014-05-02,M
+Arts,Alastair,2014-05-02,M
+Arts,Giovanni,2014-05-02,F
+Opinion,Timothy,2014-05-02,F
+Movies,Jeannette,2014-05-02,F
+Arts,Anne,2014-05-02,F
+U.S.,Erik,2014-05-02,M
+Arts,Laurel,2014-05-02,M
+The Upshot,Nate,2014-05-02,F
+Movies,Mike,2014-05-02,F
+World,Isabel,2014-05-02,M
+Books,Janet,2014-05-02,M
+Arts,Celia,2014-05-02,F
+Arts,Helene,2014-05-02,F
+Books,George,2014-05-02,M
+Arts,Ken,2014-05-02,M
+Arts,Karen,2014-05-02,M
+Arts,Martha,2014-05-02,F
+Arts,Roberta,2014-05-02,F
+N.Y. / Region,Benjamin,2014-05-02,M
+Arts,Ken,2014-05-02,M
+Arts,Ken,2014-05-02,M
+Technology,David,2014-05-02,M
+Arts,Eve,2014-05-02,F
+Arts,Carol,2014-05-02,M
+U.S.,Michael,2014-05-02,M
+U.S.,David,2014-05-02,M
+Sports,Yael,2014-05-02,M
+Automobiles,Benjamin,2014-05-02,M
+Sports,Richard,2014-05-02,M
+Arts,A.,2014-05-02,M
+Arts,Margalit,2014-05-02,M
+Sports,Steve,2014-05-02,F
+Business Day,Michael,2014-05-02,M
+U.S.,Robert,2014-05-02,M
+The Upshot,Neil,2014-05-02,M
+Sports,Jeff,2014-05-02,M
+World,Douglas,2014-05-02,M
+Business Day,Floyd,2014-05-02,M
+World,Azam,2014-05-02,M
+Sports,Andrew,2014-05-02,M
+U.S.,Tanzina,2014-05-02,F
+The Upshot,Derek,2014-05-02,M
+Business Day,Clifford,2014-05-02,M
+U.S.,Jennifer,2014-05-02,M
+Automobiles,Christopher,2014-05-02,M
+N.Y. / Region,Michael,2014-05-02,M
+Sports,Jack,2014-05-02,M
+Business Day,Brooks,2014-05-02,M
+N.Y. / Region,Joseph,2014-05-02,M
+Automobiles,Christopher,2014-05-02,M
+World,Michael,2014-05-02,M
+World,Chris,2014-05-02,M
+The Upshot,Marjorie,2014-05-02,F
+Business Day,Ben,2014-05-02,M
+Business Day,Adam,2014-05-02,M
+U.S.,Lizette,2014-05-02,F
+The Upshot,David,2014-05-02,M
+World,Alan,2014-05-02,M
+Business Day,Bill,2014-05-02,M
+Sports,Rob,2014-05-02,M
+U.S.,Kalyn,2014-05-02,F
+Sports,Bill,2014-05-02,M
+U.S.,Helene,2014-05-02,F
+Opinion,Roger,2014-05-02,M
+Opinion,Lijia,2014-05-02,F
+The Upshot,Neil,2014-05-02,M
+World,Michael,2014-05-02,M
+Business Day,Stanley,2014-05-02,F
+Opinion,James,2014-05-02,M
+The Upshot,Derek,2014-05-02,M
+Opinion,Ali,2014-05-02,F
+Business Day,Hiroko,2014-05-02,F
+World,Sebnem,2014-05-02,M
+World,Neil,2014-05-02,M
+Great Homes and Destinations,Casey,2014-05-02,F
+World,Ian,2014-05-02,M
+Sports,Frank,2014-05-02,M
+Sports,Robert,2014-05-02,M
+Health,Martha,2014-05-02,F
+Sports,Ryan,2014-05-03,M
+Arts,Adam,2014-05-03,M
+Sports,Erica,2014-05-03,F
+Business Day,Michael,2014-05-03,M
+Sports,Christoph,2014-05-03,M
+Sports,Erica,2014-05-03,F
+N.Y. / Region,Dave,2014-05-03,F
+Crosswords/Games,Deb,2014-05-03,M
+Sports,Melissa,2014-05-03,F
+World,Fares,2014-05-03,M
+Opinion,Nicholas,2014-05-03,M
+U.S.,Elena,2014-05-03,F
+Opinion,Andrea,2014-05-03,F
+U.S.,A.,2014-05-03,M
+Business Day,Sean,2014-05-03,M
+Technology,Jenna,2014-05-03,F
+Opinion,Jennifer,2014-05-03,M
+Crosswords/Games,Deb,2014-05-03,M
+Sports,Christoph,2014-05-03,M
+Sports,Christoph,2014-05-03,M
+Business Day,Michael,2014-05-03,M
+Technology,Quentin,2014-05-03,M
+Sports,Jorge,2014-05-03,M
+Arts,Kathryn,2014-05-03,M
+Sports,Justin,2014-05-03,M
+Sports,Jeff,2014-05-03,M
+U.S.,Amy,2014-05-03,F
+Sports,Zach,2014-05-03,M
+Sports,Andrew,2014-05-03,M
+Sports,Justin,2014-05-03,M
+Sports,Billy,2014-05-03,F
+Sports,Melissa,2014-05-03,F
+Sports,Joe,2014-05-03,F
+N.Y. / Region,Margalit,2014-05-03,M
+World,Jane,2014-05-03,F
+Arts,Dave,2014-05-03,F
+Sports,Karen,2014-05-03,M
+N.Y. / Region,Jesse,2014-05-03,F
+U.S.,David,2014-05-03,M
+Opinion,Joe,2014-05-03,F
+N.Y. / Region,Stephanie,2014-05-03,F
+U.S.,Frances,2014-05-03,M
+Sports,Andrew,2014-05-03,M
+N.Y. / Region,Al,2014-05-03,M
+Technology,Brian,2014-05-03,M
+Opinion,Steven,2014-05-03,M
+Arts,Larry,2014-05-03,M
+U.S.,Samuel,2014-05-03,M
+World,Dan,2014-05-03,M
+U.S.,Michael,2014-05-03,M
+Business Day,Clifford,2014-05-03,M
+Theater,Laura,2014-05-03,F
+Opinion,Anne,2014-05-03,F
+The Upshot,Claire,2014-05-03,F
+U.S.,Monica,2014-05-03,F
+N.Y. / Region,Marc,2014-05-03,M
+Opinion,Alan,2014-05-03,M
+Arts,Roslyn,2014-05-03,F
+Crosswords & Games,Phillip,2014-05-03,M
+Arts,Jon,2014-05-03,M
+World,Steven,2014-05-03,M
+Arts,Jon,2014-05-03,M
+Arts,Gia,2014-05-03,F
+Health,Donald,2014-05-03,M
+Arts,Alessandra,2014-05-03,F
+Arts,Zachary,2014-05-03,F
+Arts,Robin,2014-05-03,M
+Books,Larry,2014-05-03,M
+Arts,Patricia,2014-05-03,F
+Business Day,Ben,2014-05-03,M
+Automobiles,Tom,2014-05-03,M
+Arts,Stephen,2014-05-03,M
+Theater,Alexis,2014-05-03,M
+Arts,Anthony,2014-05-03,F
+Automobiles,Benjamin,2014-05-03,M
+Your Money,Alina,2014-05-03,F
+The Upshot,David,2014-05-03,M
+The Upshot,Michael,2014-05-03,M
+N.Y. / Region,Michael,2014-05-03,M
+World,Azam,2014-05-03,M
+The Upshot,Nate,2014-05-03,F
+Sports,Jeff,2014-05-03,M
+The Upshot,Josh,2014-05-03,M
+N.Y. / Region,James,2014-05-03,M
+Business Day,Hilary,2014-05-03,F
+World,Anne,2014-05-03,F
+U.S.,Jeremy,2014-05-03,F
+U.S.,Peter,2014-05-03,M
+Your Money,Caitlin,2014-05-03,M
+Your Money,Paul,2014-05-03,M
+World,Mark,2014-05-03,M
+Sports,Jack,2014-05-03,M
+World,David,2014-05-03,M
+Arts,Siobhan,2014-05-03,M
+Your Money,Ann,2014-05-03,F
+Automobiles,Benjamin,2014-05-03,M
+World,Choe,2014-05-03,F
+Business Day,Floyd,2014-05-03,M
+Automobiles,Christopher,2014-05-03,M
+U.S.,Jonathan,2014-05-03,M
+N.Y. / Region,Vivian,2014-05-03,M
+N.Y. / Region,Matt,2014-05-03,M
+World,Mayy,2014-05-03,F
+Sports,Christopher,2014-05-03,M
+U.S.,Marian,2014-05-03,M
+World,Nida,2014-05-03,F
+Business Day,Jonathan,2014-05-03,M
+The Upshot,Floyd,2014-05-03,M
+The Upshot,Neil,2014-05-03,M
+Sports,Marjorie,2014-05-03,F
+Business Day,James,2014-05-03,M
+The Upshot,David,2014-05-03,M
+The Upshot,Neil,2014-05-03,M
+Sports,Emma,2014-05-03,F
+Business Day,Nelson,2014-05-03,M
+Sports,Huw,2014-05-03,M
+Opinion,Evan,2014-05-03,M
+Opinion,Nilanjana,2014-05-03,F
+World,Kareem,2014-05-03,M
+Business Day,David,2014-05-03,M
+Sports,Joe,2014-05-03,F
+World,Choe,2014-05-03,F
+World,Gardiner,2014-05-03,M
+World,Michael,2014-05-03,M
+World,C.,2014-05-03,M
+Business Day,Neil,2014-05-04,M
+Arts,Jeremy,2014-05-04,F
+Business Day,William,2014-05-04,M
+Business Day,Matthew,2014-05-04,M
+N.Y. / Region,Richard,2014-05-04,M
+Business Day,Michael,2014-05-04,M
+Arts,Patick,2014-05-04,M
+U.S.,Retro,2014-05-04,M
+Opinion,Patrick,2014-05-04,M
+Crosswords/Games,Deb,2014-05-04,M
+Opinion,Charles,2014-05-04,M
+Arts,Oresti,2014-05-04,F
+Arts,Kathryn,2014-05-04,M
+Technology,Nick,2014-05-04,M
+U.S.,Sharon,2014-05-04,M
+,International,2014-05-04,M
+Business Day,Robert,2014-05-04,M
+Sports,John,2014-05-04,M
+Sports,Justin,2014-05-04,M
+Fashion & Style,Vincent,2014-05-04,M
+U.S.,Michael,2014-05-04,M
+Magazine,Joel,2014-05-04,M
+Sports,Billy,2014-05-04,F
+Sports,Melissa,2014-05-04,F
+N.Y. / Region,Ashley,2014-05-04,F
+Sports,Justin,2014-05-04,M
+Sports,Ben,2014-05-04,M
+U.S.,Aman,2014-05-04,M
+Sports,Jorge,2014-05-04,M
+Sports,Karen,2014-05-04,M
+U.S.,Ross,2014-05-04,M
+U.S.,Michael,2014-05-04,M
+Sports,Jeff,2014-05-04,M
+U.S.,Edgar,2014-05-04,M
+U.S.,Ian,2014-05-04,M
+U.S.,Douglas,2014-05-04,M
+U.S.,William,2014-05-04,M
+Crosswords & Games,Dylan,2014-05-04,M
+N.Y. / Region,Phoebe,2014-05-04,F
+World,Joe,2014-05-04,F
+Sports,Joe,2014-05-04,F
+N.Y. / Region,Patricia,2014-05-04,F
+World,Gerry,2014-05-04,M
+N.Y. / Region,Joanne,2014-05-04,F
+Sports,David,2014-05-04,M
+N.Y. / Region,Phillip,2014-05-04,M
+U.S.,Richard,2014-05-04,M
+Sports,Andrew,2014-05-04,M
+U.S.,Amy,2014-05-04,F
+World,Jodi,2014-05-04,F
+U.S.,Catherine,2014-05-04,F
+N.Y. / Region,Michael,2014-05-04,M
+Sports,Karen,2014-05-04,M
+Sports,Tony,2014-05-04,F
+World,Rod,2014-05-04,M
+Opinion,Nicholas,2014-05-04,M
+Opinion,Ross,2014-05-04,M
+Opinion,Maureen,2014-05-04,M
+Opinion,Thomas,2014-05-04,M
+Opinion,Frank,2014-05-04,M
+World,Elisabetta,2014-05-04,F
+Opinion,Kate,2014-05-04,F
+Opinion,Margaret,2014-05-04,M
+Opinion,Sam,2014-05-04,M
+Opinion,Alfie,2014-05-04,F
+Opinion,Sally,2014-05-04,F
+Opinion,Lisa,2014-05-04,F
+Opinion,James,2014-05-04,M
+Sports,Jeff,2014-05-04,M
+U.S.,Jonathan,2014-05-04,M
+Sports,Corban,2014-05-04,M
+Sports,Ben,2014-05-04,M
+U.S.,Lizette,2014-05-04,F
+Business Day,Matt,2014-05-04,M
+Sports,Stuart,2014-05-04,M
+World,C.,2014-05-04,M
+Business Day,Adam,2014-05-04,M
+Business Day,Gretchen,2014-05-04,M
+Sports,William,2014-05-04,M
+Business Day,Amy,2014-05-04,F
+Business Day,David,2014-05-04,M
+Sports,Bill,2014-05-04,M
+Sports,Jack,2014-05-04,M
+Sports,Beckley,2014-05-04,F
+Sports,Tyler,2014-05-04,M
+Opinion,Bruce,2014-05-04,M
+Business Day,Anna,2014-05-04,F
+Your Money,Jeff,2014-05-04,M
+U.S.,Charlie,2014-05-04,F
+Job Market,Rob,2014-05-04,M
+Job Market,Patricia,2014-05-04,F
+N.Y. / Region,Emma,2014-05-04,F
+Sports,Jeff,2014-05-04,M
+The Upshot,N.,2014-05-04,M
+World,Alison,2014-05-04,M
+World,Azam,2014-05-04,M
+World,Nida,2014-05-04,F
+Arts,Susan,2014-05-04,M
+N.Y. / Region,Anita,2014-05-04,F
+Arts,Daniel,2014-05-04,M
+N.Y. / Region,Michael,2014-05-04,M
+N.Y. / Region,Karin,2014-05-04,M
+Arts,Douglas,2014-05-04,M
+N.Y. / Region,Mary,2014-05-04,F
+Opinion,Serge,2014-05-04,M
+N.Y. / Region,Jill,2014-05-04,M
+N.Y. / Region,Ford,2014-05-04,M
+N.Y. / Region,Julie,2014-05-04,F
+Fashion & Style,Tatiana,2014-05-04,F
+Fashion & Style,Guy,2014-05-04,M
+Fashion & Style,Brooks,2014-05-04,M
+Fashion & Style,Teddy,2014-05-04,F
+Fashion & Style,Ben,2014-05-04,M
+Fashion & Style,Jacob,2014-05-04,M
+Fashion & Style,Stacey,2014-05-04,F
+Fashion & Style,Matt,2014-05-04,M
+Movies,Rachel,2014-05-04,M
+Movies,Anita,2014-05-04,F
+Fashion & Style,Bill,2014-05-04,M
+Opinion,Jo,2014-05-04,F
+Automobiles,Jim,2014-05-04,M
+Automobiles,Tudor,2014-05-04,M
+Automobiles,John,2014-05-04,M
+Automobiles,John,2014-05-04,M
+Automobiles,Paul,2014-05-04,M
+N.Y. / Region,Corey,2014-05-04,F
+Movies,Logan,2014-05-04,M
+Opinion,Maya,2014-05-04,F
+Real Estate,Michelle,2014-05-04,F
+Movies,Manohla,2014-05-04,F
+Opinion,Jessica,2014-05-04,F
+Fashion & Style,Louise,2014-05-04,F
+Movies,Logan,2014-05-04,M
+Fashion & Style,Bethany,2014-05-04,F
+Real Estate,Michelle,2014-05-04,F
+Fashion & Style,Eric,2014-05-04,M
+Arts,Gia,2014-05-04,F
+Arts,James,2014-05-04,M
+Arts,Nate,2014-05-04,F
+Movies,Kevin,2014-05-04,M
+Arts,Kathryn,2014-05-04,M
+Arts,Nate,2014-05-04,F
+Arts,Brian,2014-05-04,M
+Arts,Zachary,2014-05-04,F
+Arts,Ken,2014-05-04,M
+Travel,Stephanie,2014-05-04,F
+Travel,Jane,2014-05-04,F
+Travel,Emily,2014-05-04,F
+Magazine,David,2014-05-04,M
+Arts,Kathryn,2014-05-04,M
+Real Estate,Robin,2014-05-04,M
+Magazine,Marnie,2014-05-04,F
+Magazine,Photographs,2014-05-04,M
+Magazine,Interview,2014-05-04,M
+Magazine,Christopher,2014-05-04,M
+Magazine,Chuck,2014-05-04,M
+Magazine,Daniel,2014-05-04,M
+N.Y. / Region,Ginia,2014-05-04,F
+Real Estate,Christopher,2014-05-04,M
+Books,Liesl,2014-05-04,F
+Books,Robert,2014-05-04,M
+Real Estate,Amy,2014-05-04,F
+Books,Daniel,2014-05-04,M
+Books,Catherine,2014-05-04,F
+Books,Patrick,2014-05-04,M
+Books,Perry,2014-05-04,M
+Books,Carol,2014-05-04,M
+Books,Beth,2014-05-04,F
+Books,Virginia,2014-05-04,F
+Books,Ihsan,2014-05-04,M
+Books,Carmela,2014-05-04,F
+Theater,Eric,2014-05-04,M
+Arts,Alessandra,2014-05-04,F
+N.Y. / Region,Julie,2014-05-04,F
+N.Y. / Region,Sam,2014-05-04,M
+Fashion & Style,Philip,2014-05-04,M
+N.Y. / Region,John,2014-05-04,M
+Fashion & Style,Laura,2014-05-04,F
+Movies,Dave,2014-05-04,F
+Theater,Laura,2014-05-04,F
+Real Estate,Lisa,2014-05-04,F
+Real Estate,Robin,2014-05-04,M
+Movies,Interview,2014-05-04,M
+Movies,Interview,2014-05-04,M
+Arts,Roslyn,2014-05-04,F
+Real Estate,Ronda,2014-05-04,F
+Movies,Interview,2014-05-04,M
+Movies,Interview,2014-05-04,M
+Movies,Interview,2014-05-04,M
+Books,J.,2014-05-04,M
+Books,Gordon,2014-05-04,M
+Books,Brad,2014-05-04,M
+Movies,Cara,2014-05-04,F
+Travel,Rachel,2014-05-04,M
+Arts,Lorne,2014-05-04,F
+Arts,Bob,2014-05-04,M
+Movies,Melena,2014-05-04,F
+Movies,Melena,2014-05-04,F
+Books,John,2014-05-04,M
+Movies,Margy,2014-05-04,F
+Magazine,Mosi,2014-05-04,F
+Theater,Rob,2014-05-04,M
+Arts,Alan,2014-05-04,M
+Theater,Ben,2014-05-04,M
+Real Estate,Joyce,2014-05-04,F
+Travel,Nicholas,2014-05-04,M
+Travel,Ingrid,2014-05-04,M
+Arts,Zachary,2014-05-04,F
+Magazine,Jesse,2014-05-04,F
+Real Estate,John,2014-05-04,M
+Travel,Rocky,2014-05-04,M
+Travel,Steven,2014-05-04,M
+Travel,Seth,2014-05-04,F
+Books,Thomas,2014-05-04,M
+Magazine,Shaila,2014-05-04,F
+Books,Gregory,2014-05-04,M
+World,Suhasini,2014-05-05,F
+Fashion & Style,Claudia,2014-05-05,F
+Crosswords/Games,Deb,2014-05-05,M
+Food,Florence,2014-05-05,F
+Business Day,Andrew,2014-05-05,M
+Business Day,Alan,2014-05-05,M
+Business Day,Janet,2014-05-05,M
+Opinion,Ronald,2014-05-05,M
+Opinion,John,2014-05-05,M
+Health,Richard,2014-05-05,M
+Technology,Nick,2014-05-05,M
+Business Day,Steven,2014-05-05,M
+,Ann,2014-05-05,F
+Arts,Patrick,2014-05-05,M
+Opinion,Juliet,2014-05-05,M
+Science,Erik,2014-05-05,M
+T:Style,Marella,2014-05-05,F
+Theater,Fritzie,2014-05-05,F
+U.S.,Rick,2014-05-05,M
+T:Style,Brooke,2014-05-05,M
+Technology,Brian,2014-05-05,M
+Business Day,Sydney,2014-05-05,F
+Arts,Patrick,2014-05-05,M
+World,None,2014-05-05,F
+Opinion,Eleanor,2014-05-05,M
+Business Day,Rachel,2014-05-05,M
+Health,Roni,2014-05-05,F
+Health,Nicholas,2014-05-05,M
+Arts,Lori,2014-05-05,F
+Business Day,Robert,2014-05-05,M
+T Magazine,Master,2014-05-05,M
+Business Day,Deb,2014-05-05,M
+Business Day,Michael,2014-05-05,M
+Opinion,Jennifer,2014-05-05,M
+Business Day,William,2014-05-05,M
+false,Charles,2014-05-05,M
+Style,John,2014-05-05,M
+Food,Jenny,2014-05-05,F
+U.S.,Katherine,2014-05-05,F
+Business Day,David,2014-05-05,M
+Arts,Allan,2014-05-05,M
+T:Style,Jeff,2014-05-05,M
+,Natalia,2014-05-05,F
+Travel,Elaine,2014-05-05,F
+Multimedia/Photos,Natalia,2014-05-05,F
+Business Day,Peter,2014-05-05,M
+Arts,Dana,2014-05-05,F
+U.S.,Kj,2014-05-05,M
+Arts,Maïa,2014-05-05,F
+Business Day,Peter,2014-05-05,M
+Business Day,Gene,2014-05-05,F
+Opinion,Andrew,2014-05-05,M
+Arts,Allan,2014-05-05,M
+T:Style,Rebecca,2014-05-05,F
+Business Day,David,2014-05-05,M
+Crosswords & Games,Gary,2014-05-05,F
+Business Day,Stuart,2014-05-05,M
+Business Day,Stuart,2014-05-05,M
+Travel,Rachel,2014-05-05,M
+World,None,2014-05-05,F
+Arts,Logan,2014-05-05,M
+Technology,Steve,2014-05-05,F
+Food,Liza,2014-05-05,F
+Business Day,Michael,2014-05-05,M
+Your Money,Carl,2014-05-05,M
+false,Rita,2014-05-05,F
+Business Day,Michael,2014-05-05,M
+Business Day,Michael,2014-05-05,M
+Business Day,Dealbook,2014-05-05,M
+Business Day,Dealbook,2014-05-05,M
+Business Day,Sydney,2014-05-05,F
+World,Raghu,2014-05-05,M
+,International,2014-05-05,M
+U.S.,Joseph,2014-05-05,M
+N.Y. / Region,Emily,2014-05-05,F
+Magazine,Rachel,2014-05-05,M
+U.S.,Shannon,2014-05-05,M
+Multimedia,Jake,2014-05-05,M
+U.S.,Shannon,2014-05-05,M
+World,Didi,2014-05-05,F
+Education,Larry,2014-05-05,M
+The Upshot,Binyamin,2014-05-05,M
+World,Austin,2014-05-05,M
+N.Y. / Region,Emily,2014-05-05,F
+World,Suhasini,2014-05-05,F
+N.Y. / Region,Emily,2014-05-05,F
+Arts,Kathryn,2014-05-05,M
+Multimedia/Photos,Quynhanh,2014-05-05,F
+,Quyn,2014-05-05,M
+Business Day,Brooks,2014-05-05,M
+Health,Jane,2014-05-05,F
+T Magazine,Marella,2014-05-05,F
+N.Y. / Region,Matthew,2014-05-05,M
+Sports,Jeff,2014-05-05,M
+N.Y. / Region,J.,2014-05-05,M
+Business Day,Edward,2014-05-05,M
+U.S.,Ashley,2014-05-05,F
+Business Day,Robert,2014-05-05,M
+Business Day,Stuart,2014-05-05,M
+Arts,Carol,2014-05-05,M
+N.Y. / Region,Ashley,2014-05-05,F
+Business Day,Leslie,2014-05-05,F
+Sports,Christopher,2014-05-05,M
+Business Day,Michael,2014-05-05,M
+Theater,Ben,2014-05-05,M
+Business Day,Annie,2014-05-05,F
+Sports,Beckley,2014-05-05,F
+N.Y. / Region,J.,2014-05-05,M
+Sports,Joe,2014-05-05,F
+Business Day,Diane,2014-05-05,F
+Opinion,Charles,2014-05-05,M
+Sports,Karen,2014-05-05,M
+Business Day,David,2014-05-05,M
+Business Day,John,2014-05-05,M
+World,Andrew,2014-05-05,M
+U.S.,Jason,2014-05-05,M
+Sports,Justin,2014-05-05,M
+World,Andrew,2014-05-05,M
+U.S.,William,2014-05-05,M
+Technology,Jenna,2014-05-05,F
+Theater,Adam,2014-05-05,M
+N.Y. / Region,Jesse,2014-05-05,F
+Sports,Tyler,2014-05-05,M
+World,Norimitsu,2014-05-05,M
+World,Suliman,2014-05-05,M
+N.Y. / Region,Ralph,2014-05-05,M
+World,Isabel,2014-05-05,M
+U.S.,Michael,2014-05-05,M
+Opinion,Paul,2014-05-05,M
+Sports,John,2014-05-05,M
+Business Day,James,2014-05-05,M
+U.S.,Dan,2014-05-05,M
+Business Day,Stuart,2014-05-05,M
+U.S.,Laurie,2014-05-05,F
+U.S.,Jess,2014-05-05,M
+World,Katrin,2014-05-05,M
+Sports,Jack,2014-05-05,M
+World,Azam,2014-05-05,M
+U.S.,Charlie,2014-05-05,F
+U.S.,Sheryl,2014-05-05,M
+Opinion,Ezekiel,2014-05-05,M
+Opinion,Mark,2014-05-05,M
+Opinion,Tahmima,2014-05-05,F
+Opinion,Philip,2014-05-05,M
+Opinion,Jewher,2014-05-05,M
+Opinion,Hasan,2014-05-05,M
+World,Isma'il,2014-05-05,M
+U.S.,Clyde,2014-05-05,F
+Arts,Adam,2014-05-05,M
+Business Day,Raphael,2014-05-05,M
+Crosswords & Games,Phillip,2014-05-05,M
+Books,Janet,2014-05-05,M
+U.S.,Emma,2014-05-05,F
+Arts,Zachary,2014-05-05,F
+Arts,Randy,2014-05-05,F
+Arts,Alessandra,2014-05-05,F
+Movies,Brooks,2014-05-05,M
+Theater,Alexis,2014-05-05,M
+Arts,James,2014-05-05,M
+Arts,Anthony,2014-05-05,F
+Arts,Ben,2014-05-05,M
+Arts,Finn,2014-05-05,F
+Sports,Jorge,2014-05-05,M
+Sports,Andrew,2014-05-05,M
+N.Y. / Region,Rachel,2014-05-05,M
+Arts,Gia,2014-05-05,F
+Sports,Jeff,2014-05-05,M
+U.S.,Brian,2014-05-05,M
+N.Y. / Region,Joseph,2014-05-05,M
+World,Steven,2014-05-05,M
+Science,Carl,2014-05-05,M
+N.Y. / Region,Emma,2014-05-05,F
+Education,Patrick,2014-05-05,M
+World,Michael,2014-05-05,M
+Sports,Rob,2014-05-05,M
+Business Day,Ravi,2014-05-05,F
+World,Rana,2014-05-05,F
+U.S.,Albert,2014-05-05,M
+Sports,Billy,2014-05-05,F
+World,Randal,2014-05-05,M
+The Upshot,David,2014-05-05,M
+The Upshot,David,2014-05-05,M
+Arts,Isabel,2014-05-05,M
+Health,Martha,2014-05-05,F
+Arts,Scott,2014-05-05,M
+Arts,Nate,2014-05-05,F
+Food,Eric,2014-05-05,M
+Multimedia/Photos,Christian,2014-05-06,M
+World,Suhasini,2014-05-06,F
+Arts,Kate,2014-05-06,F
+World,Gerry,2014-05-06,M
+Crosswords/Games,Deb,2014-05-06,M
+Business Day,Peter,2014-05-06,M
+Business Day,Alexandra,2014-05-06,F
+Education,Michael,2014-05-06,M
+Business Day,William,2014-05-06,M
+Business Day,Michael,2014-05-06,M
+Movies,Nicolas,2014-05-06,M
+Movies,Jeannette,2014-05-06,F
+Movies,A.,2014-05-06,M
+Business Day,Steven,2014-05-06,M
+false,Andrew,2014-05-06,M
+Business Day,Sydney,2014-05-06,F
+Technology,Nick,2014-05-06,M
+,Ken,2014-05-06,M
+Travel,Shivani,2014-05-06,F
+Business Day,William,2014-05-06,M
+U.S.,Kj,2014-05-06,M
+Food,Oliver,2014-05-06,M
+,Robert,2014-05-06,M
+T Magazine,Cristina,2014-05-06,F
+Opinion,Andrew,2014-05-06,M
+false,Dan,2014-05-06,M
+Opinion,Jennifer,2014-05-06,M
+U.S.,Rick,2014-05-06,M
+Business Day,Vindu,2014-05-06,M
+U.S.,Ashley,2014-05-06,F
+Business Day,Olaf,2014-05-06,M
+Travel,Rachel,2014-05-06,M
+Opinion,David,2014-05-06,M
+Technology,Nick,2014-05-06,M
+Business Day,Alissa,2014-05-06,F
+Business Day,Jennifer,2014-05-06,M
+Opinion,Ross,2014-05-06,M
+T:Style,Malina,2014-05-06,F
+,Natalia,2014-05-06,F
+Multimedia/Photos,Natalia,2014-05-06,F
+Arts,Allan,2014-05-06,M
+Technology,Quentin,2014-05-06,M
+Health,Paula,2014-05-06,F
+World,Alan,2014-05-06,M
+Business Day,Rachel,2014-05-06,M
+Arts,Felicia,2014-05-06,F
+Arts,Jennifer,2014-05-06,M
+U.S.,Devorah,2014-05-06,F
+Home & Garden,Penelope,2014-05-06,F
+false,Benedetta,2014-05-06,F
+Business Day,Gene,2014-05-06,F
+Arts,Rebecca,2014-05-06,F
+Arts,Allan,2014-05-06,M
+U.S.,Kj,2014-05-06,M
+Business Day,Michael,2014-05-06,M
+Business Day,Chad,2014-05-06,M
+Business Day,Dealbook,2014-05-06,M
+false,Andrew,2014-05-06,M
+N.Y. / Region,Cameron,2014-05-06,M
+World,Neha,2014-05-06,F
+Business Day,Jenny,2014-05-06,F
+Technology,Jenna,2014-05-06,F
+Arts,Erik,2014-05-06,M
+,Philip,2014-05-06,M
+Business Day,Sydney,2014-05-06,F
+Business Day,Rebekah,2014-05-06,F
+Business Day,Chad,2014-05-06,M
+U.S.,Adeel,2014-05-06,M
+N.Y. / Region,Andy,2014-05-06,F
+World,Austin,2014-05-06,M
+,International,2014-05-06,M
+U.S.,Michael,2014-05-06,M
+Multimedia,David,2014-05-06,M
+U.S.,Michael,2014-05-06,M
+U.S.,Michael,2014-05-06,M
+World,Edward,2014-05-06,M
+Business Day,Chad,2014-05-06,M
+Business Day,Chad,2014-05-06,M
+World,Hari,2014-05-06,F
+Business Day,Alexandra,2014-05-06,F
+N.Y. / Region,William,2014-05-06,M
+Sports,David,2014-05-06,M
+World,Gerry,2014-05-06,M
+N.Y. / Region,David,2014-05-06,M
+World,Austin,2014-05-06,M
+Arts,Kathryn,2014-05-06,M
+,Christian,2014-05-06,M
+Multimedia/Photos,Christian,2014-05-06,M
+The Upshot,David,2014-05-06,M
+Arts,Cara,2014-05-06,F
+Technology,William,2014-05-06,M
+World,Choe,2014-05-06,F
+Arts,Jori,2014-05-06,F
+World,Edward,2014-05-06,M
+World,Tim,2014-05-06,M
+World,David,2014-05-06,M
+N.Y. / Region,Winnie,2014-05-06,F
+N.Y. / Region,Colin,2014-05-06,M
+Sports,Allan,2014-05-06,M
+World,Mark,2014-05-06,M
+Sports,Jeff,2014-05-06,M
+World,Peter,2014-05-06,M
+Sports,Tim,2014-05-06,M
+Fashion & Style,John,2014-05-06,M
+Sports,David,2014-05-06,M
+U.S.,Trip,2014-05-06,M
+World,Norimitsu,2014-05-06,M
+U.S.,Jess,2014-05-06,M
+N.Y. / Region,Matt,2014-05-06,M
+Sports,Andrew,2014-05-06,M
+Business Day,Stuart,2014-05-06,M
+Technology,Nick,2014-05-06,M
+World,Eric,2014-05-06,M
+Theater,Charles,2014-05-06,M
+Business Day,Elisabeth,2014-05-06,F
+World,Habib,2014-05-06,M
+N.Y. / Region,Michael,2014-05-06,M
+Sports,Billy,2014-05-06,F
+U.S.,Jeremy,2014-05-06,F
+Business Day,Stephanie,2014-05-06,F
+Sports,Zach,2014-05-06,M
+N.Y. / Region,Jesse,2014-05-06,F
+World,Melissa,2014-05-06,F
+Business Day,Raphael,2014-05-06,M
+U.S.,Damien,2014-05-06,M
+U.S.,Julie,2014-05-06,F
+U.S.,Monica,2014-05-06,F
+U.S.,Abby,2014-05-06,M
+Business Day,Bill,2014-05-06,M
+Opinion,Joe,2014-05-06,F
+Sports,William,2014-05-06,M
+N.Y. / Region,Winnie,2014-05-06,F
+Business Day,Mike,2014-05-06,F
+Sports,Zach,2014-05-06,M
+World,Jim,2014-05-06,M
+N.Y. / Region,Stephen,2014-05-06,M
+U.S.,Michael,2014-05-06,M
+Opinion,David,2014-05-06,M
+N.Y. / Region,Frances,2014-05-06,M
+The Upshot,Neil,2014-05-06,M
+The Upshot,Josh,2014-05-06,M
+Health,Sabrina,2014-05-06,F
+Arts,Alastair,2014-05-06,M
+Theater,Alexis,2014-05-06,M
+Arts,Neil,2014-05-06,M
+The Upshot,Nate,2014-05-06,F
+Science,Henry,2014-05-06,M
+Books,Michiko,2014-05-06,F
+Arts,Roslyn,2014-05-06,F
+Science,Mark,2014-05-06,M
+Theater,Ken,2014-05-06,M
+Arts,Michael,2014-05-06,M
+Theater,Andy,2014-05-06,F
+Arts,Jon,2014-05-06,M
+Arts,Edward,2014-05-06,M
+Science,Donald,2014-05-06,M
+U.S.,Erik,2014-05-06,M
+Business Day,Douglas,2014-05-06,M
+Science,Rachel,2014-05-06,M
+N.Y. / Region,James,2014-05-06,M
+Science,Sindya,2014-05-06,F
+Science,C.,2014-05-06,M
+Business Day,Martin,2014-05-06,M
+Business Day,Michael,2014-05-06,M
+Business Day,Joe,2014-05-06,F
+Science,Dennis,2014-05-06,M
+Sports,Jack,2014-05-06,M
+Automobiles,Christopher,2014-05-06,M
+The Upshot,Allison,2014-05-06,M
+N.Y. / Region,Mireya,2014-05-06,F
+Arts,Nate,2014-05-06,F
+The Upshot,Justin,2014-05-06,M
+Business Day,Edward,2014-05-06,M
+The Upshot,Michael,2014-05-06,M
+World,Adam,2014-05-06,M
+Food,Liza,2014-05-06,F
+U.S.,Adam,2014-05-06,M
+U.S.,Adam,2014-05-06,M
+U.S.,Adam,2014-05-06,M
+World,Celestine,2014-05-06,F
+The Upshot,Josh,2014-05-06,M
+World,Nick,2014-05-06,M
+World,Isma'il,2014-05-06,M
+Business Day,Katie,2014-05-06,F
+Arts,Michael,2014-05-06,M
+Business Day,Elizabeth,2014-05-06,F
+Health,Donald,2014-05-06,M
+Opinion,Roger,2014-05-06,M
+Opinion,Clemens,2014-05-06,M
+World,C.,2014-05-06,M
+Business Day,James,2014-05-06,M
+World,Alan,2014-05-06,M
+World,Michelle,2014-05-06,F
+World,Gerry,2014-05-06,M
+Science,Sindya,2014-05-06,F
+Science,Kenneth,2014-05-06,F
+Health,Martha,2014-05-06,F
+World,Suhasini,2014-05-07,F
+Crosswords/Games,Deb,2014-05-07,M
+Technology,Nick,2014-05-07,M
+Business Day,Matthew,2014-05-07,M
+Business Day,Rachel,2014-05-07,M
+Technology,Edward,2014-05-07,M
+U.S.,Jonathan,2014-05-07,M
+Opinion,Judith,2014-05-07,M
+Opinion,Damon,2014-05-07,M
+,Robert,2014-05-07,M
+T:Style,Su,2014-05-07,M
+World,Didi,2014-05-07,F
+Business Day,Michael,2014-05-07,M
+Arts,Allan,2014-05-07,M
+T:Style,Eviana,2014-05-07,F
+U.S.,Rick,2014-05-07,M
+Magazine,Mark,2014-05-07,M
+T:Style,Ann,2014-05-07,F
+Opinion,Jennifer,2014-05-07,M
+Technology,Nick,2014-05-07,M
+Business Day,Michael,2014-05-07,M
+Business Day,Alexandra,2014-05-07,F
+Arts,Ben,2014-05-07,M
+Technology,Vanessa,2014-05-07,F
+Travel,Rachel,2014-05-07,M
+Multimedia,Rick,2014-05-07,M
+T:Style,Alainna,2014-05-07,F
+Magazine,Jeannie,2014-05-07,F
+Technology,Molly,2014-05-07,F
+Business Day,Landon,2014-05-07,M
+Opinion,Ross,2014-05-07,M
+T:Style,Malina,2014-05-07,F
+U.S.,Frank,2014-05-07,M
+,Mona,2014-05-07,F
+false,Dan,2014-05-07,M
+N.Y. / Region,Andy,2014-05-07,F
+Multimedia/Photos,Mona,2014-05-07,F
+Opinion,Dorothy,2014-05-07,F
+Arts,Roslyn,2014-05-07,F
+Business Day,Sarah,2014-05-07,F
+U.S.,Kj,2014-05-07,M
+Business Day,John,2014-05-07,M
+Technology,Mark,2014-05-07,M
+T:Style,Maureen,2014-05-07,M
+Technology,Dallas,2014-05-07,M
+Opinion,Charles,2014-05-07,M
+Travel,Geraldine,2014-05-07,F
+Business Day,Jesse,2014-05-07,F
+Arts,Allan,2014-05-07,M
+Technology,Quentin,2014-05-07,M
+Business Day,Jenny,2014-05-07,F
+Movies,Image,2014-05-07,M
+N.Y. / Region,David,2014-05-07,M
+Business Day,Gene,2014-05-07,F
+Opinion,Tina,2014-05-07,F
+Blogs,Anne,2014-05-07,F
+Books,Sarah,2014-05-07,F
+T:Style,Eviana,2014-05-07,F
+Arts,Roslyn,2014-05-07,F
+Opinion,David,2014-05-07,M
+Arts,Michael,2014-05-07,M
+Arts,Melissa,2014-05-07,F
+Business Day,Sydney,2014-05-07,F
+T:Style,David,2014-05-07,M
+N.Y. / Region,Kevan,2014-05-07,M
+World,Ankita,2014-05-07,F
+Business Day,Chad,2014-05-07,M
+Business Day,Sydney,2014-05-07,F
+,International,2014-05-07,M
+Arts,Allan,2014-05-07,M
+Business Day,Chad,2014-05-07,M
+Business Day,Adriana,2014-05-07,F
+U.S.,Adeel,2014-05-07,M
+N.Y. / Region,Annie,2014-05-07,F
+Business Day,Chad,2014-05-07,M
+U.S.,Katherine,2014-05-07,F
+World,Austin,2014-05-07,M
+Multimedia,Rena,2014-05-07,F
+World,Anuradha,2014-05-07,F
+U.S.,Katherine,2014-05-07,F
+World,Didi,2014-05-07,F
+Opinion,Paul,2014-05-07,M
+U.S.,Pete,2014-05-07,F
+Business Day,Neil,2014-05-07,M
+Sports,David,2014-05-07,M
+Arts,Kathryn,2014-05-07,M
+Business Day,Leslie,2014-05-07,F
+U.S.,Emma,2014-05-07,F
+Technology,Quentin,2014-05-07,M
+Health,Gretchen,2014-05-07,M
+U.S.,Erik,2014-05-07,M
+,Christian,2014-05-07,M
+Arts,Carol,2014-05-07,M
+U.S.,Robert,2014-05-07,M
+Sports,Andrew,2014-05-07,M
+Opinion,Thomas,2014-05-07,M
+Sports,David,2014-05-07,M
+U.S.,Ian,2014-05-07,M
+N.Y. / Region,Bruce,2014-05-07,M
+Sports,Tim,2014-05-07,M
+U.S.,William,2014-05-07,M
+U.S.,Coral,2014-05-07,M
+U.S.,Jonathan,2014-05-07,M
+U.S.,Julia,2014-05-07,F
+Business Day,Eduardo,2014-05-07,M
+N.Y. / Region,Lisa,2014-05-07,F
+Sports,Jeff,2014-05-07,M
+Real Estate,Chris,2014-05-07,M
+World,Donald,2014-05-07,M
+U.S.,Henry,2014-05-07,M
+Sports,Richard,2014-05-07,M
+N.Y. / Region,Benjamin,2014-05-07,M
+Business Day,Alison,2014-05-07,M
+World,Neil,2014-05-07,M
+N.Y. / Region,James,2014-05-07,M
+Business Day,Bill,2014-05-07,M
+U.S.,Charlie,2014-05-07,F
+Sports,Naila-jean,2014-05-07,M
+Real Estate,Rosalie,2014-05-07,F
+World,Ellen,2014-05-07,M
+Sports,Tyler,2014-05-07,M
+Real Estate,Vivian,2014-05-07,M
+Opinion,Maureen,2014-05-07,M
+World,David,2014-05-07,M
+N.Y. / Region,Jim,2014-05-07,M
+World,Katharine,2014-05-07,F
+Sports,Joshua,2014-05-07,F
+World,Michael,2014-05-07,M
+N.Y. / Region,Mireya,2014-05-07,F
+World,David,2014-05-07,M
+Sports,Harvey,2014-05-07,F
+N.Y. / Region,Kate,2014-05-07,F
+Opinion,Thomas,2014-05-07,M
+Sports,Richard,2014-05-07,M
+Business Day,Stuart,2014-05-07,M
+U.S.,Timothy,2014-05-07,F
+Education,Michael,2014-05-07,M
+U.S.,Alan,2014-05-07,M
+World,Nick,2014-05-07,M
+Sports,Lindsay,2014-05-07,F
+World,Declan,2014-05-07,M
+U.S.,Ashley,2014-05-07,F
+Opinion,Jon,2014-05-07,M
+U.S.,Mark,2014-05-07,M
+The Upshot,Binyamin,2014-05-07,M
+Opinion,Mark,2014-05-07,M
+Opinion,John,2014-05-07,M
+Sports,Ken,2014-05-07,M
+Arts,Tom,2014-05-07,M
+Technology,Vindu,2014-05-07,M
+Business Day,James,2014-05-07,M
+Arts,Jon,2014-05-07,M
+Business Day,Brooks,2014-05-07,M
+Arts,William,2014-05-07,M
+The Upshot,Nate,2014-05-07,F
+Food,Oliver,2014-05-07,M
+The Upshot,Neil,2014-05-07,M
+Theater,Ben,2014-05-07,M
+Food,Florence,2014-05-07,F
+U.S.,David,2014-05-07,M
+Business Day,Jack,2014-05-07,M
+Sports,Billy,2014-05-07,F
+Technology,Nicole,2014-05-07,F
+N.Y. / Region,Stephanie,2014-05-07,F
+Arts,Carrie,2014-05-07,F
+The Upshot,Nate,2014-05-07,F
+Sports,John,2014-05-07,M
+Food,Pete,2014-05-07,F
+Food,Brett,2014-05-07,M
+Books,Dwight,2014-05-07,M
+Business Day,Brooks,2014-05-07,M
+The Upshot,Megan,2014-05-07,M
+Business Day,Ben,2014-05-07,M
+Automobiles,Jerry,2014-05-07,M
+Automobiles,Benjamin,2014-05-07,M
+Food,Florence,2014-05-07,F
+The Upshot,Derek,2014-05-07,M
+Business Day,Nicola,2014-05-07,F
+World,Jim,2014-05-07,M
+U.S.,Eric,2014-05-07,M
+U.S.,Julie,2014-05-07,F
+Sports,Jack,2014-05-07,M
+World,Adam,2014-05-07,M
+Automobiles,Christopher,2014-05-07,M
+U.S.,Adam,2014-05-07,M
+Arts,Vivien,2014-05-07,M
+Arts,Siobhan,2014-05-07,M
+Business Day,Bill,2014-05-07,M
+Sports,Billy,2014-05-07,F
+The Upshot,Michael,2014-05-07,M
+Arts,Melissa,2014-05-07,F
+World,Katrin,2014-05-07,M
+Science,Justin,2014-05-07,M
+Business Day,Bill,2014-05-07,M
+Sports,Rob,2014-05-07,M
+Opinion,Kenneth,2014-05-07,F
+Opinion,Young-ha,2014-05-07,F
+Opinion,Philip,2014-05-07,M
+World,Choe,2014-05-07,F
+U.S.,Jonathan,2014-05-07,M
+World,David,2014-05-07,M
+The Upshot,Aaron,2014-05-07,M
+Food,Kim,2014-05-07,M
+Food,Eric,2014-05-07,M
+Food,Melissa,2014-05-07,F
+Health,Martha,2014-05-07,F
+Food,David,2014-05-07,M
+Food,Ligaya,2014-05-07,F
+Movies,Stephen,2014-05-08,M
+Technology,Vindu,2014-05-08,M
+Arts,Patrick,2014-05-08,M
+World,Suhasini,2014-05-08,F
+World,Edward,2014-05-08,M
+Movies,Jeannette,2014-05-08,F
+Movies,Stephen,2014-05-08,M
+Movies,Nicolas,2014-05-08,M
+Movies,Ben,2014-05-08,M
+,Carrie,2014-05-08,F
+Multimedia/Photos,Carrie,2014-05-08,F
+World,Poh,2014-05-08,M
+Arts,Anthony,2014-05-08,F
+Crosswords/Games,Deb,2014-05-08,M
+Movies,Manohla,2014-05-08,F
+Business Day,Peter,2014-05-08,M
+Movies,A.,2014-05-08,M
+Sports,Sofia,2014-05-08,F
+Movies,Manohla,2014-05-08,F
+Business Day,Chad,2014-05-08,M
+Business Day,David,2014-05-08,M
+Movies,Magnet,2014-05-08,M
+Movies,Stephen,2014-05-08,M
+Technology,Farhad,2014-05-08,M
+Movies,Robin,2014-05-08,M
+Business Day,David,2014-05-08,M
+Magazine,Stacey,2014-05-08,F
+Health,Nicholas,2014-05-08,M
+,Brian,2014-05-08,M
+Business Day,Ben,2014-05-08,M
+,Christian,2014-05-08,M
+Arts,Christian,2014-05-08,M
+Business Day,Rachel,2014-05-08,M
+T:Style,Greg,2014-05-08,M
+Opinion,Lawrence,2014-05-08,F
+T:Style,Olivia,2014-05-08,F
+Technology,Brian,2014-05-08,M
+T:Style,Ann,2014-05-08,F
+U.S.,Rick,2014-05-08,M
+Technology,Brian,2014-05-08,M
+Health,Susan,2014-05-08,M
+Multimedia,James,2014-05-08,M
+Education,Katherine,2014-05-08,F
+Business Day,William,2014-05-08,M
+Travel,Rachel,2014-05-08,M
+Opinion,Margaret,2014-05-08,M
+Opinion,Jennifer,2014-05-08,M
+false,Nadia,2014-05-08,F
+Arts,Allan,2014-05-08,M
+Arts,Nbc,2014-05-08,M
+U.S.,Ana,2014-05-08,F
+Opinion,Francis,2014-05-08,M
+Business Day,Bill,2014-05-08,M
+T:Style,Alex,2014-05-08,M
+World,Vikram,2014-05-08,M
+false,Gay,2014-05-08,F
+Arts,Mekado,2014-05-08,M
+N.Y. / Region,Annie,2014-05-08,F
+Movies,Mekado,2014-05-08,M
+Arts,Patrick,2014-05-08,M
+Arts,Allan,2014-05-08,M
+Opinion,Vikas,2014-05-08,M
+World,Retro,2014-05-08,M
+Opinion,Paul,2014-05-08,M
+false,Michael,2014-05-08,M
+,Mona,2014-05-08,F
+Multimedia/Photos,Mona,2014-05-08,F
+Opinion,Paul,2014-05-08,M
+Opinion,Ross,2014-05-08,M
+Business Day,Andrew,2014-05-08,M
+Travel,Diane,2014-05-08,F
+Sports,Jonathan,2014-05-08,M
+Business Day,Richard,2014-05-08,M
+Business Day,David,2014-05-08,M
+Arts,Allan,2014-05-08,M
+false,Julie,2014-05-08,F
+Science,Carl,2014-05-08,M
+Movies,A.,2014-05-08,M
+Opinion,Ross,2014-05-08,M
+U.S.,Jessica,2014-05-08,F
+World,Bree,2014-05-08,F
+Arts,Allan,2014-05-08,M
+U.S.,Shannon,2014-05-08,M
+Business Day,Gene,2014-05-08,F
+World,Vivek,2014-05-08,M
+T:Style,Jeff,2014-05-08,M
+Business Day,Ted,2014-05-08,M
+World,Didi,2014-05-08,F
+Arts,Roslyn,2014-05-08,F
+Technology,Quentin,2014-05-08,M
+Business Day,William,2014-05-08,M
+T:Style,Julia,2014-05-08,F
+N.Y. / Region,Edward,2014-05-08,M
+,International,2014-05-08,M
+Business Day,William,2014-05-08,M
+Business Day,Sydney,2014-05-08,F
+Business Day,William,2014-05-08,M
+Business Day,Josh,2014-05-08,M
+Business Day,Dealbook,2014-05-08,M
+Business Day,Mark,2014-05-08,M
+N.Y. / Region,Lili,2014-05-08,F
+Health,Danielle,2014-05-08,F
+U.S.,Adeel,2014-05-08,M
+N.Y. / Region,Annie,2014-05-08,F
+World,Austin,2014-05-08,M
+Multimedia/Photos,James,2014-05-08,M
+U.S.,Michael,2014-05-08,M
+Business Day,Chad,2014-05-08,M
+U.S.,Michael,2014-05-08,M
+Sports,Billy,2014-05-08,F
+U.S.,Shannon,2014-05-08,M
+Sports,David,2014-05-08,M
+World,Viabhav,2014-05-08,M
+Sports,Andrew,2014-05-08,M
+Arts,Kathryn,2014-05-08,M
+,Carrie,2014-05-08,F
+Multimedia/Photos,Carrie,2014-05-08,F
+World,Marjorie,2014-05-08,F
+Health,Anne,2014-05-08,F
+Arts,Sarah,2014-05-08,F
+T Magazine,Michael,2014-05-08,M
+T Magazine,Brian,2014-05-08,M
+N.Y. / Region,Carol,2014-05-08,M
+World,Chris,2014-05-08,M
+Sports,David,2014-05-08,M
+Sports,Jeff,2014-05-08,M
+Business Day,Christopher,2014-05-08,M
+Business Day,Chad,2014-05-08,M
+U.S.,Douglas,2014-05-08,M
+Sports,Allan,2014-05-08,M
+N.Y. / Region,James,2014-05-08,M
+U.S.,Erik,2014-05-08,M
+U.S.,Emmarie,2014-05-08,F
+Sports,Tyler,2014-05-08,M
+The Upshot,Derek,2014-05-08,M
+U.S.,Elena,2014-05-08,F
+U.S.,Richard,2014-05-08,M
+Sports,Harvey,2014-05-08,F
+N.Y. / Region,Michael,2014-05-08,M
+World,Rick,2014-05-08,M
+U.S.,Monica,2014-05-08,F
+World,Adam,2014-05-08,M
+Sports,Andrew,2014-05-08,M
+U.S.,Coral,2014-05-08,M
+Business Day,Brooks,2014-05-08,M
+Technology,Eric,2014-05-08,M
+N.Y. / Region,Nick,2014-05-08,M
+U.S.,Robert,2014-05-08,M
+Opinion,Nicholas,2014-05-08,M
+N.Y. / Region,James,2014-05-08,M
+World,Stephen,2014-05-08,M
+U.S.,Michael,2014-05-08,M
+N.Y. / Region,Benjamin,2014-05-08,M
+Technology,Farhad,2014-05-08,M
+World,Thomas,2014-05-08,M
+Sports,Karen,2014-05-08,M
+U.S.,Michael,2014-05-08,M
+Business Day,Diane,2014-05-08,F
+World,Somini,2014-05-08,F
+N.Y. / Region,Lisa,2014-05-08,F
+Sports,Matt,2014-05-08,M
+U.S.,Jon,2014-05-08,M
+World,Alison,2014-05-08,M
+Business Day,Ben,2014-05-08,M
+Business Day,Stuart,2014-05-08,M
+World,William,2014-05-08,M
+Opinion,Judith,2014-05-08,M
+World,Salman,2014-05-08,M
+Automobiles,Benjamin,2014-05-08,M
+World,Edward,2014-05-08,M
+World,Michael,2014-05-08,M
+World,Waqar,2014-05-08,M
+Business Day,Jad,2014-05-08,M
+Opinion,Katherine,2014-05-08,F
+World,Fares,2014-05-08,M
+Sports,Christopher,2014-05-08,M
+Home & Garden,Rima,2014-05-08,F
+Fashion & Style,Alex,2014-05-08,M
+Home & Garden,Sandy,2014-05-08,F
+Home & Garden,Karrie,2014-05-08,F
+Great Homes & Destinations,Elaine,2014-05-08,F
+Home & Garden,Julie,2014-05-08,F
+Home & Garden,Rima,2014-05-08,F
+Home & Garden,Julie,2014-05-08,F
+Home & Garden,Penelope,2014-05-08,F
+Home & Garden,Rima,2014-05-08,F
+Home & Garden,Stephen,2014-05-08,M
+Home & Garden,Tim,2014-05-08,M
+Opinion,Charles,2014-05-08,M
+World,Rick,2014-05-08,M
+Fashion & Style,Sheila,2014-05-08,F
+Fashion & Style,Shivani,2014-05-08,F
+Opinion,Gail,2014-05-08,M
+Fashion & Style,Stuart,2014-05-08,M
+Fashion & Style,Kristin,2014-05-08,M
+World,Adam,2014-05-08,M
+Fashion & Style,Jacob,2014-05-08,M
+Opinion,Yvon,2014-05-08,M
+Arts,Brian,2014-05-08,M
+Arts,Hilarie,2014-05-08,F
+Arts,Jon,2014-05-08,M
+Fashion & Style,Bee,2014-05-08,F
+Fashion & Style,Alex,2014-05-08,M
+Automobiles,Cheryl,2014-05-08,M
+Theater,Alexis,2014-05-08,M
+Crosswords & Games,Phillip,2014-05-08,M
+Fashion & Style,Ruth,2014-05-08,M
+Arts,Doreen,2014-05-08,M
+Arts,Anthony,2014-05-08,F
+Arts,Mike,2014-05-08,F
+Arts,Alastair,2014-05-08,M
+Business Day,Jad,2014-05-08,M
+The Upshot,Alan,2014-05-08,M
+Business Day,Joe,2014-05-08,F
+Books,Adam,2014-05-08,M
+Business Day,Annie,2014-05-08,F
+Business Day,Elizabeth,2014-05-08,F
+U.S.,Paul,2014-05-08,M
+Business Day,Christine,2014-05-08,F
+Business Day,Susan,2014-05-08,M
+Sports,Tim,2014-05-08,M
+N.Y. / Region,Al,2014-05-08,M
+Business Day,Kerry,2014-05-08,M
+Business Day,Bill,2014-05-08,M
+Business Day,Jane,2014-05-08,F
+Technology,Molly,2014-05-08,F
+Theater,Alexis,2014-05-08,M
+World,James,2014-05-08,M
+U.S.,Jeremy,2014-05-08,F
+Sports,Bill,2014-05-08,M
+World,Chris,2014-05-08,M
+Business Day,John,2014-05-08,M
+Business Day,Clifford,2014-05-08,M
+U.S.,David,2014-05-08,M
+Fashion & Style,Guy,2014-05-08,M
+Fashion & Style,Alison,2014-05-08,M
+Sports,Jeff,2014-05-08,M
+Sports,Richard,2014-05-08,M
+Arts,Robin,2014-05-08,M
+U.S.,Jack,2014-05-08,M
+Theater,Laura,2014-05-08,F
+Business Day,Andrew,2014-05-08,M
+Theater,Alexis,2014-05-08,M
+The Upshot,Josh,2014-05-08,M
+Great Homes & Destinations,Mike,2014-05-08,F
+The Upshot,Shaila,2014-05-08,F
+Fashion & Style,Fritzie,2014-05-08,F
+World,Michael,2014-05-08,M
+Sports,Jack,2014-05-08,M
+Technology,Kit,2014-05-08,M
+Business Day,Michael,2014-05-08,M
+Sports,Ken,2014-05-08,M
+Business Day,Sarah,2014-05-08,F
+Great Homes & Destinations,Peter,2014-05-08,M
+Fashion & Style,Alexandra,2014-05-08,F
+World,Neil,2014-05-08,M
+Business Day,Binyamin,2014-05-08,M
+Movies,Dave,2014-05-08,F
+The Upshot,Michael,2014-05-08,M
+The Upshot,David,2014-05-08,M
+Business Day,Leslie,2014-05-08,F
+N.Y. / Region,Michael,2014-05-08,M
+Opinion,Marwan,2014-05-08,M
+World,Anne,2014-05-08,F
+The Upshot,Derek,2014-05-08,M
+The Upshot,Nate,2014-05-08,F
+Sports,Christopher,2014-05-08,M
+Opinion,Adewale,2014-05-08,F
+Technology,Neil,2014-05-08,M
+Business Day,Jack,2014-05-08,M
+World,Gerry,2014-05-08,M
+Business Day,David,2014-05-08,M
+World,Thomas,2014-05-08,M
+World,Norimitsu,2014-05-08,M
+Arts,Siobhan,2014-05-08,M
+Technology,J.,2014-05-08,M
+Health,Martha,2014-05-08,F
+Crosswords/Games,Deb,2014-05-09,M
+U.S.,Sean,2014-05-09,M
+Fashion & Style,Joanna,2014-05-09,F
+Health,Sofia,2014-05-09,F
+Business Day,Bruce,2014-05-09,M
+Arts,Michael,2014-05-09,M
+Technology,Nick,2014-05-09,M
+false,Deborah,2014-05-09,F
+false,Carolina,2014-05-09,F
+false,Julie,2014-05-09,F
+Business Day,Rachel,2014-05-09,M
+U.S.,Carrie,2014-05-09,F
+T Magazine,Sylvia,2014-05-09,F
+false,Alice,2014-05-09,F
+U.S.,Rick,2014-05-09,M
+Automobiles,Tom,2014-05-09,M
+Technology,Nick,2014-05-09,M
+Health,Donald,2014-05-09,M
+Food,Jenny,2014-05-09,F
+Arts,Allan,2014-05-09,M
+Opinion,Jennifer,2014-05-09,M
+Business Day,Eric,2014-05-09,M
+Opinion,Brent,2014-05-09,M
+N.Y. / Region,Robin,2014-05-09,M
+Opinion,Paul,2014-05-09,M
+Education,Sarah,2014-05-09,F
+T:Style,Kevin,2014-05-09,M
+T Magazine,London,2014-05-09,M
+T:Style,Kevin,2014-05-09,M
+Business Day,Victor,2014-05-09,M
+Health,Martha,2014-05-09,F
+Business Day,Peter,2014-05-09,M
+Books,Sarah,2014-05-09,F
+Movies,Warner,2014-05-09,M
+Opinion,Teresa,2014-05-09,F
+Books,Sarah,2014-05-09,F
+Opinion,Mark,2014-05-09,M
+N.Y. / Region,Emily,2014-05-09,F
+Business Day,John,2014-05-09,M
+false,Ben,2014-05-09,M
+Opinion,Ross,2014-05-09,M
+U.S.,Kj,2014-05-09,M
+Arts,Ben,2014-05-09,M
+Movies,Robin,2014-05-09,M
+Science,John,2014-05-09,M
+Movies,Robin,2014-05-09,M
+,Christian,2014-05-09,M
+Fashion & Style,Joyce,2014-05-09,F
+Multimedia/Photos,Christian,2014-05-09,M
+Opinion,Vikas,2014-05-09,M
+World,Malavika,2014-05-09,F
+Movies,Robin,2014-05-09,M
+World,Carrie,2014-05-09,F
+Technology,J.,2014-05-09,M
+Business Day,Michael,2014-05-09,M
+Business Day,William,2014-05-09,M
+Business Day,Deborah,2014-05-09,F
+Business Day,Cliff,2014-05-09,M
+Opinion,Leanne,2014-05-09,F
+false,Sarah,2014-05-09,F
+Business Day,Gene,2014-05-09,F
+Business Day,Rachel,2014-05-09,M
+Business Day,Chad,2014-05-09,M
+Business Day,William,2014-05-09,M
+Business Day,Channon,2014-05-09,M
+U.S.,Kj,2014-05-09,M
+Business Day,Sydney,2014-05-09,F
+Opinion,Paul,2014-05-09,M
+Business Day,William,2014-05-09,M
+T:Style,Carol,2014-05-09,M
+Opinion,Paul,2014-05-09,M
+N.Y. / Region,Barbara,2014-05-09,F
+World,Vaibhav,2014-05-09,M
+Health,Anahad,2014-05-09,M
+World,Andrew,2014-05-09,M
+Business Day,Sydney,2014-05-09,F
+The Upshot,Josh,2014-05-09,M
+,International,2014-05-09,M
+N.Y. / Region,Annie,2014-05-09,F
+U.S.,Adeel,2014-05-09,M
+Business Day,Chad,2014-05-09,M
+U.S.,Michael,2014-05-09,M
+Multimedia,Maurice,2014-05-09,F
+U.S.,Michael,2014-05-09,M
+U.S.,Shannon,2014-05-09,M
+N.Y. / Region,Produced,2014-05-09,M
+Business Day,Mark,2014-05-09,M
+World,Didi,2014-05-09,F
+World,Austin,2014-05-09,M
+Movies,David,2014-05-09,M
+Arts,Kathryn,2014-05-09,M
+Movies,Nicolas,2014-05-09,M
+Movies,Neil,2014-05-09,M
+N.Y. / Region,J.,2014-05-09,M
+Movies,Nicolas,2014-05-09,M
+N.Y. / Region,Lisa,2014-05-09,F
+N.Y. / Region,Ashley,2014-05-09,F
+N.Y. / Region,Jim,2014-05-09,M
+N.Y. / Region,Michael,2014-05-09,M
+N.Y. / Region,William,2014-05-09,M
+Sports,Ben,2014-05-09,M
+Sports,Bill,2014-05-09,M
+N.Y. / Region,Kate,2014-05-09,F
+N.Y. / Region,Joseph,2014-05-09,M
+N.Y. / Region,Nina,2014-05-09,F
+Sports,Andrew,2014-05-09,M
+World,Michael,2014-05-09,M
+Sports,Karen,2014-05-09,M
+Sports,David,2014-05-09,M
+World,Heather,2014-05-09,M
+Technology,David,2014-05-09,M
+Sports,Pat,2014-05-09,M
+N.Y. / Region,Benjamin,2014-05-09,M
+Sports,Allan,2014-05-09,M
+U.S.,Jennifer,2014-05-09,M
+Sports,Harvey,2014-05-09,F
+Arts,Karen,2014-05-09,M
+Sports,Scott,2014-05-09,M
+Arts,Martha,2014-05-09,F
+Arts,Roberta,2014-05-09,F
+Arts,Ken,2014-05-09,M
+Arts,Roberta,2014-05-09,F
+U.S.,Kirk,2014-05-09,M
+Sports,Richard,2014-05-09,M
+U.S.,Michael,2014-05-09,M
+Opinion,David,2014-05-09,M
+Sports,Ken,2014-05-09,M
+U.S.,Frances,2014-05-09,M
+World,William,2014-05-09,M
+U.S.,Jack,2014-05-09,M
+U.S.,Abby,2014-05-09,M
+World,Choe,2014-05-09,F
+Movies,Ben,2014-05-09,M
+Business Day,Jad,2014-05-09,M
+Business Day,Jane,2014-05-09,F
+U.S.,Brandi,2014-05-09,F
+Business Day,Rachel,2014-05-09,M
+Business Day,Jonathan,2014-05-09,M
+U.S.,Coral,2014-05-09,M
+World,Jodi,2014-05-09,F
+Sports,Zach,2014-05-09,M
+U.S.,Charlie,2014-05-09,F
+World,Somini,2014-05-09,F
+Opinion,Paul,2014-05-09,M
+U.S.,Neena,2014-05-09,F
+U.S.,Julián,2014-05-09,M
+Business Day,Elizabeth,2014-05-09,F
+U.S.,Michael,2014-05-09,M
+Opinion,Timothy,2014-05-09,F
+Opinion,Peter,2014-05-09,M
+N.Y. / Region,Stacey,2014-05-09,F
+Arts,Helene,2014-05-09,F
+Arts,Anne,2014-05-09,F
+Arts,Laurel,2014-05-09,M
+Arts,Jon,2014-05-09,M
+Arts,Karen,2014-05-09,M
+Arts,Martha,2014-05-09,F
+Arts,Lori,2014-05-09,F
+U.S.,Julia,2014-05-09,F
+Theater,David,2014-05-09,M
+World,Jane,2014-05-09,F
+Arts,Eve,2014-05-09,F
+Arts,Stephen,2014-05-09,M
+N.Y. / Region,A.,2014-05-09,M
+Business Day,Leslie,2014-05-09,F
+Arts,Alessandra,2014-05-09,F
+Arts,Siobhan,2014-05-09,M
+Arts,Gia,2014-05-09,F
+Arts,Carol,2014-05-09,M
+World,Somini,2014-05-09,F
+Arts,Roberta,2014-05-09,F
+U.S.,Richard,2014-05-09,M
+U.S.,Nick,2014-05-09,M
+N.Y. / Region,Marc,2014-05-09,M
+Business Day,Floyd,2014-05-09,M
+World,Ellen,2014-05-09,M
+Theater,Laurel,2014-05-09,M
+Arts,Randy,2014-05-09,F
+U.S.,Charlie,2014-05-09,F
+Books,Dwight,2014-05-09,M
+Theater,Charles,2014-05-09,M
+Business Day,Stephanie,2014-05-09,F
+U.S.,Erik,2014-05-09,M
+Opinion,Tom,2014-05-09,M
+U.S.,Felicity,2014-05-09,F
+World,Kareem,2014-05-09,M
+Health,Denise,2014-05-09,F
+World,Isma'il,2014-05-09,M
+N.Y. / Region,Michael,2014-05-09,M
+Business Day,Binyamin,2014-05-09,M
+World,Andrew,2014-05-09,M
+Sports,Jack,2014-05-09,M
+Technology,Jenna,2014-05-09,F
+Business Day,Adam,2014-05-09,M
+Arts,Roderick,2014-05-09,M
+Sports,Mary,2014-05-09,F
+Arts,Palko,2014-05-09,M
+Arts,Palko,2014-05-09,M
+Automobiles,Benjamin,2014-05-09,M
+Arts,Ginanne,2014-05-09,F
+Arts,Nina,2014-05-09,F
+The Upshot,Neil,2014-05-09,M
+Arts,Linda,2014-05-09,F
+Arts,Nazanin,2014-05-09,M
+The Upshot,Michael,2014-05-09,M
+World,Gardiner,2014-05-09,M
+Arts,Mara,2014-05-09,F
+Business Day,Edward,2014-05-09,M
+The Upshot,Brendan,2014-05-09,M
+The Upshot,Toni,2014-05-09,F
+Arts,Roberta,2014-05-09,F
+Business Day,Nicola,2014-05-09,F
+Business Day,Stanley,2014-05-09,F
+Business Day,Jack,2014-05-09,M
+U.S.,Robert,2014-05-09,M
+The Upshot,Nate,2014-05-09,F
+World,Chris,2014-05-09,M
+Arts,Elaine,2014-05-09,F
+World,C.,2014-05-09,M
+The Upshot,Marjorie,2014-05-09,F
+Opinion,Roger,2014-05-09,M
+Opinion,Dirk,2014-05-09,M
+World,Thomas,2014-05-09,M
+World,Anne,2014-05-09,F
+World,Ihsanullah,2014-05-09,F
+Business Day,Mark,2014-05-09,M
+World,Norimitsu,2014-05-09,M
+Great Homes and Destinations,Richard,2014-05-09,M
+Great Homes and Destinations,Liza,2014-05-09,F
+U.S.,Paul,2014-05-09,M
+Arts,Sophia,2014-05-09,F
+World,Ian,2014-05-09,M
+World,Matthew,2014-05-09,M
+The Upshot,Neil,2014-05-09,M
+Health,Martha,2014-05-09,F
+Arts,Vivien,2014-05-10,M
+Arts,Brian,2014-05-10,M
+Arts,Adam,2014-05-10,M
+The Upshot,Bill,2014-05-10,M
+U.S.,Sofia,2014-05-10,F
+Crosswords/Games,Deb,2014-05-10,M
+World,Jonah,2014-05-10,F
+Opinion,Nicholas,2014-05-10,M
+U.S.,Elena,2014-05-10,F
+Opinion,David,2014-05-10,M
+Opinion,Michael,2014-05-10,M
+Business Day,David,2014-05-10,M
+Business Day,Matthew,2014-05-10,M
+N.Y. / Region,Stephen,2014-05-10,M
+Technology,Quentin,2014-05-10,M
+Opinion,Paul,2014-05-10,M
+Opinion,Paul,2014-05-10,M
+Business Day,Jonathan,2014-05-10,M
+Crosswords/Games,Deb,2014-05-10,M
+,International,2014-05-10,M
+Opinion,Andrew,2014-05-10,M
+Magazine,Jeannie,2014-05-10,F
+Multimedia,John,2014-05-10,M
+World,Betwa,2014-05-10,F
+Arts,Kathryn,2014-05-10,M
+Sports,Jorge,2014-05-10,M
+Sports,David,2014-05-10,M
+Sports,Ben,2014-05-10,M
+N.Y. / Region,Ashley,2014-05-10,F
+N.Y. / Region,Corey,2014-05-10,F
+Technology,Edward,2014-05-10,M
+Fashion & Style,Bill,2014-05-10,M
+Sports,Jerry,2014-05-10,M
+Sports,Jeff,2014-05-10,M
+Sports,Bill,2014-05-10,M
+Theater,Rachel,2014-05-10,M
+Sports,Ben,2014-05-10,M
+Sports,Karen,2014-05-10,M
+Sports,Joseph,2014-05-10,M
+N.Y. / Region,Corey,2014-05-10,F
+Sports,Ken,2014-05-10,M
+Opinion,Jesse,2014-05-10,F
+World,Rick,2014-05-10,M
+N.Y. / Region,James,2014-05-10,M
+N.Y. / Region,Kia,2014-05-10,F
+U.S.,Fernanda,2014-05-10,F
+U.S.,Jennifer,2014-05-10,M
+Technology,David,2014-05-10,M
+N.Y. / Region,Michael,2014-05-10,M
+World,Eric,2014-05-10,M
+World,Jane,2014-05-10,F
+Business Day,Liz,2014-05-10,F
+Sports,Scott,2014-05-10,M
+U.S.,Charlie,2014-05-10,F
+Business Day,Matthew,2014-05-10,M
+World,C.,2014-05-10,M
+U.S.,Julie,2014-05-10,F
+Arts,J.,2014-05-10,M
+Opinion,Edward,2014-05-10,M
+Business Day,Christopher,2014-05-10,M
+U.S.,Michael,2014-05-10,M
+Opinion,Ivo,2014-05-10,M
+Technology,Ben,2014-05-10,M
+Opinion,Gail,2014-05-10,M
+N.Y. / Region,Matthew,2014-05-10,M
+U.S.,David,2014-05-10,M
+World,Benno,2014-05-10,M
+World,Anne,2014-05-10,F
+Sports,Joshua,2014-05-10,F
+World,Stephen,2014-05-10,M
+U.S.,Jonathan,2014-05-10,M
+World,Elisabetta,2014-05-10,F
+Arts,Ken,2014-05-10,M
+World,Katrin,2014-05-10,M
+Business Day,Bill,2014-05-10,M
+Arts,Alastair,2014-05-10,M
+N.Y. / Region,Michael,2014-05-10,M
+Arts,Randy,2014-05-10,F
+Arts,Neil,2014-05-10,M
+Business Day,Floyd,2014-05-10,M
+Arts,James,2014-05-10,M
+Crosswords & Games,Phillip,2014-05-10,M
+Arts,Michael,2014-05-10,M
+Arts,Nate,2014-05-10,F
+Your Money,Ann,2014-05-10,F
+Arts,Brian,2014-05-10,M
+Books,Jennifer,2014-05-10,M
+U.S.,Jeremy,2014-05-10,F
+Arts,Mike,2014-05-10,F
+Arts,Zachary,2014-05-10,F
+Arts,Zachary,2014-05-10,F
+Sports,Andrew,2014-05-10,M
+Automobiles,Dexter,2014-05-10,M
+Sports,Scott,2014-05-10,M
+U.S.,Amy,2014-05-10,F
+The Upshot,Nate,2014-05-10,F
+The Upshot,Claire,2014-05-10,F
+World,Stephen,2014-05-10,M
+World,Ellen,2014-05-10,M
+U.S.,Michael,2014-05-10,M
+Your Money,Peter,2014-05-10,M
+The Upshot,Jared,2014-05-10,M
+N.Y. / Region,Matt,2014-05-10,M
+Sports,Beckley,2014-05-10,F
+Automobiles,Benjamin,2014-05-10,M
+Business Day,James,2014-05-10,M
+U.S.,Ashley,2014-05-10,F
+The Upshot,Michael,2014-05-10,M
+Sports,Jack,2014-05-10,M
+World,Andrew,2014-05-10,M
+Business Day,Jack,2014-05-10,M
+Your Money,Paul,2014-05-10,M
+Arts,Rachel,2014-05-10,M
+Business Day,Elizabeth,2014-05-10,F
+Automobiles,Benjamin,2014-05-10,M
+Sports,Gerald,2014-05-10,M
+Sports,Jeff,2014-05-10,M
+U.S.,Mark,2014-05-10,M
+The Upshot,Claire,2014-05-10,F
+Your Money,Ron,2014-05-10,M
+Sports,Sam,2014-05-10,M
+Your Money,Ron,2014-05-10,M
+Automobiles,Christopher,2014-05-10,M
+World,Aida,2014-05-10,F
+World,Nick,2014-05-10,M
+U.S.,Ron,2014-05-10,M
+Business Day,Stanley,2014-05-10,F
+Sports,Brad,2014-05-10,M
+Sports,Brad,2014-05-10,M
+Sports,Brad,2014-05-10,M
+Business Day,Mark,2014-05-10,M
+Opinion,Shmuel,2014-05-10,M
+Opinion,Michael,2014-05-10,M
+Opinion,Minae,2014-05-10,F
+Opinion,Milan,2014-05-10,M
+Sports,Billy,2014-05-10,F
+World,David,2014-05-10,M
+Business Day,Stanley,2014-05-10,F
+World,Neil,2014-05-10,M
+World,Norimitsu,2014-05-10,M
+World,Choe,2014-05-10,F
+Arts,Randy,2014-05-10,F
+The Upshot,Brendan,2014-05-10,M
+Books; Arts,Sarah,2014-05-11,F
+Books; Arts,Sarah,2014-05-11,F
+Multimedia/Photos,Carrie,2014-05-11,F
+Arts,Jeremy,2014-05-11,F
+World,Suhasini,2014-05-11,F
+Arts,Eric,2014-05-11,M
+Business Day,Ben,2014-05-11,M
+N.Y. / Region,Patricia,2014-05-11,F
+World,Chris,2014-05-11,M
+U.S.,Retro,2014-05-11,M
+Crosswords/Games,Deb,2014-05-11,M
+Arts,Jennifer,2014-05-11,M
+Arts,Brooks,2014-05-11,M
+Arts,Rachel,2014-05-11,M
+Science,Catherine,2014-05-11,F
+The Upshot,John,2014-05-11,M
+,International,2014-05-11,M
+Technology,Quentin,2014-05-11,M
+Fashion & Style,Samantha,2014-05-11,F
+Arts,Kathryn,2014-05-11,M
+Sports,Zach,2014-05-11,M
+N.Y. / Region,Ashley,2014-05-11,F
+Sports,Christoph,2014-05-11,M
+Sports,Jorge,2014-05-11,M
+Sports,Christoph,2014-05-11,M
+Fashion & Style,Vincent,2014-05-11,M
+Sports,Andrew,2014-05-11,M
+Sports,David,2014-05-11,M
+Sports,Ben,2014-05-11,M
+Sports,Bill,2014-05-11,M
+Sports,Karen,2014-05-11,M
+Sports,Zach,2014-05-11,M
+N.Y. / Region,Joseph,2014-05-11,M
+Crosswords & Games,Dylan,2014-05-11,M
+Sports,Ken,2014-05-11,M
+U.S.,Robyn,2014-05-11,M
+U.S.,Aman,2014-05-11,M
+U.S.,Reeve,2014-05-11,F
+U.S.,Ross,2014-05-11,M
+The Upshot,Adam,2014-05-11,M
+World,Dan,2014-05-11,M
+World,Alison,2014-05-11,M
+Sports,Jeff,2014-05-11,M
+World,Ellen,2014-05-11,M
+World,Saba,2014-05-11,F
+World,Paulina,2014-05-11,F
+World,Steven,2014-05-11,M
+Opinion,Jennifer,2014-05-11,M
+Opinion,Ron,2014-05-11,M
+Sports,Joanne,2014-05-11,F
+Opinion,Michael,2014-05-11,M
+U.S.,Katharine,2014-05-11,F
+Opinion,Frank,2014-05-11,M
+Opinion,Kate,2014-05-11,F
+Opinion,Larry,2014-05-11,M
+Opinion,Roxane,2014-05-11,F
+Opinion,Ross,2014-05-11,M
+Opinion,Nicholas,2014-05-11,M
+Opinion,Thomas,2014-05-11,M
+Opinion,Maureen,2014-05-11,M
+Opinion,Diane,2014-05-11,F
+Sports,George,2014-05-11,M
+Sports,Billy,2014-05-11,F
+U.S.,Coral,2014-05-11,M
+Sports,Tyler,2014-05-11,M
+Sports,Karen,2014-05-11,M
+Sports,Ben,2014-05-11,M
+Business Day,Barry,2014-05-11,M
+World,Raphael,2014-05-11,M
+Business Day,Gretchen,2014-05-11,M
+Technology,Jeff,2014-05-11,M
+U.S.,Trip,2014-05-11,M
+World,Helene,2014-05-11,F
+Sports,John,2014-05-11,M
+N.Y. / Region,Nate,2014-05-11,F
+World,Andrew,2014-05-11,M
+Business Day,Claire,2014-05-11,F
+Your Money,David,2014-05-11,M
+U.S.,Emma,2014-05-11,F
+Business Day,Bryan,2014-05-11,M
+World,Shuaib,2014-05-11,M
+Job Market,Anna,2014-05-11,F
+U.S.,Matt,2014-05-11,M
+Sports,William,2014-05-11,M
+Business Day,Adam,2014-05-11,M
+Sports,Jeff,2014-05-11,M
+Sports,Jack,2014-05-11,M
+Health,Donald,2014-05-11,M
+Sports,George,2014-05-11,M
+N.Y. / Region,Stephen,2014-05-11,M
+U.S.,Michael,2014-05-11,M
+The Upshot,Sendhil,2014-05-11,M
+World,Gerry,2014-05-11,M
+Opinion,Serge,2014-05-11,M
+Sports,Tyler,2014-05-11,M
+Fashion & Style,Bill,2014-05-11,M
+N.Y. / Region,Anita,2014-05-11,F
+N.Y. / Region,Ken,2014-05-11,M
+N.Y. / Region,John,2014-05-11,M
+Fashion & Style,Marialisa,2014-05-11,F
+N.Y. / Region,Martha,2014-05-11,F
+Arts,Neil,2014-05-11,M
+Arts,Jon,2014-05-11,M
+Arts,Siobhan,2014-05-11,M
+Arts,Anthony,2014-05-11,F
+Arts,Randy,2014-05-11,F
+N.Y. / Region,Sylviane,2014-05-11,F
+Fashion & Style,Margaux,2014-05-11,M
+Arts,Gia,2014-05-11,F
+Arts,Interview,2014-05-11,M
+Arts,Bruce,2014-05-11,M
+Arts,Zachary,2014-05-11,F
+N.Y. / Region,Kim,2014-05-11,M
+N.Y. / Region,Steve,2014-05-11,F
+N.Y. / Region,Joanne,2014-05-11,F
+N.Y. / Region,Rand,2014-05-11,M
+N.Y. / Region,John,2014-05-11,M
+Automobiles,Kristen,2014-05-11,M
+Automobiles,Jerry,2014-05-11,M
+Fashion & Style,John,2014-05-11,M
+Automobiles,Dexter,2014-05-11,M
+Automobiles,Lindsay,2014-05-11,F
+Fashion & Style,Bruce,2014-05-11,M
+N.Y. / Region,David,2014-05-11,M
+Fashion & Style,Shivani,2014-05-11,F
+Automobiles,Dexter,2014-05-11,M
+Automobiles,Dexter,2014-05-11,M
+Theater,Erik,2014-05-11,M
+Real Estate,Michelle,2014-05-11,F
+Real Estate,Michelle,2014-05-11,F
+Fashion & Style,Jacob,2014-05-11,M
+Fashion & Style,Alex,2014-05-11,M
+Fashion & Style,Jacob,2014-05-11,M
+N.Y. / Region,Liz,2014-05-11,F
+Opinion,Dolly,2014-05-11,F
+Sports,William,2014-05-11,M
+Real Estate,Dan,2014-05-11,M
+Travel,Henry,2014-05-11,M
+Travel,Julie,2014-05-11,F
+Travel,David,2014-05-11,M
+Travel,Henry,2014-05-11,M
+Movies,Stephen,2014-05-11,M
+Movies,Eric,2014-05-11,M
+Movies,J.,2014-05-11,M
+Movies,A.,2014-05-11,M
+Fashion & Style,Peggy,2014-05-11,F
+Movies,Mekado,2014-05-11,M
+Real Estate,Robin,2014-05-11,M
+Sunday Review,Nicholas,2014-05-11,M
+N.Y. / Region,Corey,2014-05-11,F
+N.Y. / Region,Nikita,2014-05-11,F
+N.Y. / Region,Ginia,2014-05-11,F
+Books,Ihsan,2014-05-11,M
+Real Estate,Julie,2014-05-11,F
+Books,Ellen,2014-05-11,M
+Books,Elizabeth,2014-05-11,F
+Books,Steve,2014-05-11,F
+Books,Dan,2014-05-11,M
+Books,John,2014-05-11,M
+Books,Chelsey,2014-05-11,F
+Books,J.,2014-05-11,M
+Books,Roger,2014-05-11,M
+Books,Cornelius,2014-05-11,M
+Books,A.,2014-05-11,M
+Books,Meg,2014-05-11,M
+Books,Maude,2014-05-11,F
+Books,John,2014-05-11,M
+Books,Nancy,2014-05-11,F
+Books,Domenica,2014-05-11,F
+Real Estate,Robin,2014-05-11,M
+Books,George,2014-05-11,M
+Books,Marilyn,2014-05-11,F
+Books,Holly,2014-05-11,F
+Books,Maria,2014-05-11,F
+Magazine,Daniel,2014-05-11,M
+Magazine,Catie,2014-05-11,F
+Magazine,Interview,2014-05-11,M
+Magazine,Susan,2014-05-11,M
+Magazine,Chuck,2014-05-11,M
+Magazine,Steve,2014-05-11,F
+World,Douglas,2014-05-11,M
+N.Y. / Region,John,2014-05-11,M
+N.Y. / Region,Jonah,2014-05-11,F
+Fashion & Style,Philip,2014-05-11,M
+Books,John,2014-05-11,M
+Real Estate,Ronda,2014-05-11,F
+Fashion & Style,Robert,2014-05-11,M
+Real Estate,Christopher,2014-05-11,M
+Books,Sonia,2014-05-11,F
+Books,Suketu,2014-05-11,F
+Books,Isaac,2014-05-11,M
+Arts,Rachel,2014-05-11,M
+Books,Samanth,2014-05-11,M
+Books,Ayad,2014-05-11,M
+Real Estate,Lisa,2014-05-11,F
+Books,Jyoti,2014-05-11,F
+Books,William,2014-05-11,M
+Fashion & Style,Alexandra,2014-05-11,F
+Travel,Rooksana,2014-05-11,F
+Travel,Emily,2014-05-11,F
+Travel,Naomi,2014-05-11,F
+Magazine,Andrew,2014-05-11,M
+Theater,Ben,2014-05-11,M
+Theater,Charles,2014-05-11,M
+Theater,Charles,2014-05-11,M
+Theater,Ben,2014-05-11,M
+Theater,Patrick,2014-05-11,M
+Arts,Jori,2014-05-11,F
+Theater,Alexis,2014-05-11,M
+Arts,Lorne,2014-05-11,F
+Real Estate,Joyce,2014-05-11,F
+Travel,Stephen,2014-05-11,M
+Theater,Patricia,2014-05-11,F
+Theater,Steven,2014-05-11,M
+Travel,Sarah,2014-05-11,F
+Travel,Ingrid,2014-05-11,M
+Travel,Cheryl,2014-05-11,M
+Travel,Stephanie,2014-05-11,F
+Arts,Jon,2014-05-11,M
+Theater,Patrick,2014-05-11,M
+Magazine,Rollo,2014-05-11,M
+Real Estate,Jill,2014-05-11,M
+Books,Daniel,2014-05-11,M
+Magazine,Mark,2014-05-11,M
+Books,Gregory,2014-05-11,M
+Crosswords/Games,Deb,2014-05-12,M
+Business Day,Andrew,2014-05-12,M
+Arts,Michael,2014-05-12,M
+The Upshot,Tom,2014-05-12,M
+The Upshot,Tom,2014-05-12,M
+Arts,Allan,2014-05-12,M
+Opinion,Pamela,2014-05-12,F
+Opinion,Ramtin,2014-05-12,M
+Business Day,Michael,2014-05-12,M
+Business Day,Rachel,2014-05-12,M
+Technology,Nick,2014-05-12,M
+T:Style,Helga,2014-05-12,F
+Opinion,Andrew,2014-05-12,M
+Business Day,David,2014-05-12,M
+Science,Sean,2014-05-12,M
+Arts,David,2014-05-12,M
+Arts,Gabe,2014-05-12,F
+U.S.,Andrea,2014-05-12,F
+Magazine,Sheila,2014-05-12,F
+Arts,Patrick,2014-05-12,M
+Food,Liza,2014-05-12,F
+Business Day,Michael,2014-05-12,M
+Food,Liza,2014-05-12,F
+T:Style,Kevin,2014-05-12,M
+Health,Paula,2014-05-12,F
+Arts,Gabe,2014-05-12,F
+Home & Garden,Tim,2014-05-12,M
+Travel,Elaine,2014-05-12,F
+Health,Daniel,2014-05-12,M
+Arts,Allan,2014-05-12,M
+Health,Rachel,2014-05-12,M
+Business Day,Stephen,2014-05-12,M
+Opinion,Juliet,2014-05-12,M
+Health,Nicholas,2014-05-12,M
+N.Y. / Region,Raquel,2014-05-12,M
+Health,Nicholas,2014-05-12,M
+N.Y. / Region,Carey,2014-05-12,F
+Opinion,Mark,2014-05-12,M
+Business Day,Deb,2014-05-12,M
+Business Day,Rachel,2014-05-12,M
+Opinion,Ross,2014-05-12,M
+Opinion,Jennifer,2014-05-12,M
+U.S.,Katherine,2014-05-12,F
+Business Day,Richard,2014-05-12,M
+Your Money,Carl,2014-05-12,M
+T:Style,Matt,2014-05-12,M
+U.S.,Kj,2014-05-12,M
+Opinion,Richard,2014-05-12,M
+Business Day,Peter,2014-05-12,M
+,Christian,2014-05-12,M
+Multimedia/Photos,Christian,2014-05-12,M
+Opinion,Teresa,2014-05-12,F
+Magazine,Rachel,2014-05-12,M
+Business Day,Matthew,2014-05-12,M
+false,Kari,2014-05-12,F
+Crosswords/Games,Gary,2014-05-12,F
+Business Day,Jack,2014-05-12,M
+Business Day,Stuart,2014-05-12,M
+Business Day,Gene,2014-05-12,F
+Health,Martha,2014-05-12,F
+Arts,Allan,2014-05-12,M
+Travel,Susanne,2014-05-12,F
+Travel,Rachel,2014-05-12,M
+false,Rebecca,2014-05-12,F
+World,Vaibhav,2014-05-12,M
+Arts,Logan,2014-05-12,M
+Business Day,Stuart,2014-05-12,M
+Opinion,Margaret,2014-05-12,M
+Business Day,Anthony,2014-05-12,F
+T:Style,Alex,2014-05-12,M
+Technology,Steve,2014-05-12,F
+World,Vishnu,2014-05-12,M
+Business Day,Michael,2014-05-12,M
+,International,2014-05-12,M
+Business Day,David,2014-05-12,M
+U.S.,Bettina,2014-05-12,F
+World,Vaibhav,2014-05-12,M
+Business Day,Sydney,2014-05-12,F
+Business Day,William,2014-05-12,M
+Business Day,Dealbook,2014-05-12,M
+Business Day,Chad,2014-05-12,M
+Opinion,Paul,2014-05-12,M
+Business Day,Paul,2014-05-12,M
+N.Y. / Region,Andy,2014-05-12,F
+U.S.,Joseph,2014-05-12,M
+World,Austin,2014-05-12,M
+Business Day,Chad,2014-05-12,M
+World,Michael,2014-05-12,M
+U.S.,Shannon,2014-05-12,M
+Multimedia,David,2014-05-12,M
+U.S.,Shannon,2014-05-12,M
+Education,Larry,2014-05-12,M
+Business Day,Chad,2014-05-12,M
+World,Didi,2014-05-12,F
+Sports,David,2014-05-12,M
+Arts,Kathryn,2014-05-12,M
+Theater,Lori,2014-05-12,F
+Health,Jane,2014-05-12,F
+Technology,David,2014-05-12,M
+,Carrie,2014-05-12,F
+N.Y. / Region,Ashley,2014-05-12,F
+N.Y. / Region,Thomas,2014-05-12,M
+Business Day,Paul,2014-05-12,M
+Business Day,Stuart,2014-05-12,M
+Sports,Jeff,2014-05-12,M
+Business Day,Stuart,2014-05-12,M
+Sports,James,2014-05-12,M
+Sports,Seth,2014-05-12,F
+Business Day,Brooks,2014-05-12,M
+N.Y. / Region,J.,2014-05-12,M
+Business Day,Brooks,2014-05-12,M
+Sports,Andrew,2014-05-12,M
+Sports,Jay,2014-05-12,M
+N.Y. / Region,Javier,2014-05-12,M
+N.Y. / Region,Rachel,2014-05-12,M
+Business Day,Ben,2014-05-12,M
+Business Day,Jonathan,2014-05-12,M
+World,Rick,2014-05-12,M
+Sports,Beckley,2014-05-12,F
+Business Day,Bill,2014-05-12,M
+Sports,Karen,2014-05-12,M
+Technology,Steve,2014-05-12,F
+Sports,Ken,2014-05-12,M
+U.S.,Matt,2014-05-12,M
+Business Day,Bill,2014-05-12,M
+N.Y. / Region,Julie,2014-05-12,F
+World,Neil,2014-05-12,M
+U.S.,Nick,2014-05-12,M
+World,Adam,2014-05-12,M
+Sports,Ashley,2014-05-12,F
+Opinion,Paul,2014-05-12,M
+Sports,Raphael,2014-05-12,M
+World,Jim,2014-05-12,M
+U.S.,Erik,2014-05-12,M
+Sports,Scott,2014-05-12,M
+Business Day,Elizabeth,2014-05-12,F
+World,Dan,2014-05-12,M
+Sports,William,2014-05-12,M
+Arts,Bruce,2014-05-12,M
+U.S.,Emmarie,2014-05-12,F
+Business Day,David,2014-05-12,M
+World,Andrew,2014-05-12,M
+Sports,Ken,2014-05-12,M
+Business Day,Brooks,2014-05-12,M
+Sports,Billy,2014-05-12,F
+U.S.,Steven,2014-05-12,M
+Opinion,Rand,2014-05-12,M
+U.S.,Clyde,2014-05-12,F
+Opinion,Gal,2014-05-12,M
+Opinion,Abhijit,2014-05-12,M
+Sports,Jorge,2014-05-12,M
+Opinion,Yu,2014-05-12,M
+Opinion,Rodrigo,2014-05-12,M
+Theater,Steven,2014-05-12,M
+Arts,Michael,2014-05-12,M
+Business Day,Bill,2014-05-12,M
+Arts,Ben,2014-05-12,M
+Books,Michiko,2014-05-12,F
+Arts,Lori,2014-05-12,F
+Arts,Gia,2014-05-12,F
+Arts,Alastair,2014-05-12,M
+Crosswords & Games,Phillip,2014-05-12,M
+Sports,Allan,2014-05-12,M
+Arts,Anthony,2014-05-12,F
+Arts,Roberta,2014-05-12,F
+Arts,Jon,2014-05-12,M
+Arts,Brian,2014-05-12,M
+Arts,Zachary,2014-05-12,F
+Theater,Charles,2014-05-12,M
+Arts,Neil,2014-05-12,M
+N.Y. / Region,David,2014-05-12,M
+Sports,Richard,2014-05-12,M
+U.S.,Emmarie,2014-05-12,F
+U.S.,Helene,2014-05-12,F
+Sports,Rob,2014-05-12,M
+Sports,David,2014-05-12,M
+Sports,Brad,2014-05-12,M
+Sports,Sam,2014-05-12,M
+U.S.,Albert,2014-05-12,M
+Business Day,Mark,2014-05-12,M
+Arts,Scott,2014-05-12,M
+World,Jane,2014-05-12,F
+World,David,2014-05-12,M
+World,Andrew,2014-05-12,M
+World,Alissa,2014-05-12,F
+Business Day,Sonia,2014-05-12,F
+World,Mike,2014-05-12,F
+Arts,Jon,2014-05-12,M
+U.S.,Richard,2014-05-12,M
+U.S.,William,2014-05-12,M
+Arts,Siobhan,2014-05-13,M
+Arts,Kate,2014-05-13,F
+Crosswords/Games,Deb,2014-05-13,M
+Business Day,Rachel,2014-05-13,M
+Movies,Stephen,2014-05-13,M
+Movies,Neil,2014-05-13,M
+Sports,Shayla,2014-05-13,F
+Technology,John,2014-05-13,M
+Food,Reem,2014-05-13,M
+Technology,Steve,2014-05-13,F
+Arts,Michael,2014-05-13,M
+T:Style,Tom,2014-05-13,M
+World,Carrie,2014-05-13,F
+Business Day,David,2014-05-13,M
+World,Shaojie,2014-05-13,F
+Multimedia,Nicholas,2014-05-13,M
+Technology,Brian,2014-05-13,M
+Travel,Elaine,2014-05-13,F
+Business Day,Michael,2014-05-13,M
+,Robert,2014-05-13,M
+U.S.,Rick,2014-05-13,M
+Business Day,Mayra,2014-05-13,F
+T:Style,Alex,2014-05-13,M
+Business Day,Steven,2014-05-13,M
+Business Day,David,2014-05-13,M
+Arts,Erik,2014-05-13,M
+World,Ali,2014-05-13,F
+Opinion,Jennifer,2014-05-13,M
+Business Day,Adriana,2014-05-13,F
+Technology,Suman,2014-05-13,M
+Opinion,Brent,2014-05-13,M
+U.S.,Sarah,2014-05-13,F
+Business Day,Chad,2014-05-13,M
+T:Style,Eviana,2014-05-13,F
+Travel,Diane,2014-05-13,F
+Business Day,David,2014-05-13,M
+,Carrie,2014-05-13,F
+Multimedia/Photos,Christian,2014-05-13,M
+T:Style,Tim,2014-05-13,M
+U.S.,Tom,2014-05-13,M
+Arts,Jennifer,2014-05-13,M
+Technology,Nick,2014-05-13,M
+Arts,Patrick,2014-05-13,M
+Business Day,Rachel,2014-05-13,M
+Opinion,Juliet,2014-05-13,M
+Business Day,Rob,2014-05-13,M
+Technology,Quentin,2014-05-13,M
+Technology,David,2014-05-13,M
+Business Day,Alexandra,2014-05-13,F
+World,Vaibhav,2014-05-13,M
+Magazine,Stacey,2014-05-13,F
+Business Day,Robert,2014-05-13,M
+Fashion & Style,Kareem,2014-05-13,M
+Arts,Allan,2014-05-13,M
+Arts,Michael,2014-05-13,M
+T:Style,Carrie,2014-05-13,F
+Technology,Mark,2014-05-13,M
+Business Day,Gene,2014-05-13,F
+Arts,Allan,2014-05-13,M
+N.Y. / Region,Francisco,2014-05-13,M
+U.S.,Devorah,2014-05-13,F
+T:Style,Valeriya,2014-05-13,F
+Business Day,Chad,2014-05-13,M
+World,Austin,2014-05-13,M
+,Philip,2014-05-13,M
+Business Day,Sydney,2014-05-13,F
+Opinion,Paul,2014-05-13,M
+,International,2014-05-13,M
+Technology,Steve,2014-05-13,F
+Business Day,Robert,2014-05-13,M
+Business Day,William,2014-05-13,M
+U.S.,Adeel,2014-05-13,M
+N.Y. / Region,Annie,2014-05-13,F
+Business Day,Chad,2014-05-13,M
+Business Day,Chad,2014-05-13,M
+World,Neha,2014-05-13,F
+Multimedia,James,2014-05-13,M
+U.S.,Michael,2014-05-13,M
+World,Michael,2014-05-13,M
+World,Bree,2014-05-13,F
+U.S.,Michael,2014-05-13,M
+U.S.,Michael,2014-05-13,M
+Opinion,Paul,2014-05-13,M
+Opinion,Paul,2014-05-13,M
+World,Nida,2014-05-13,F
+World,Edward,2014-05-13,M
+World,Keith,2014-05-13,M
+Sports,Christoph,2014-05-13,M
+,Natalia,2014-05-13,F
+Sports,Christoph,2014-05-13,M
+World,David,2014-05-13,M
+Multimedia/Photos,Natalia,2014-05-13,F
+Arts,Kathryn,2014-05-13,M
+World,Simon,2014-05-13,M
+Sports,Tim,2014-05-13,M
+Sports,David,2014-05-13,M
+World,Raphael,2014-05-13,M
+Arts,Carol,2014-05-13,M
+Sports,Zach,2014-05-13,M
+The Upshot,David,2014-05-13,M
+N.Y. / Region,J.,2014-05-13,M
+Sports,Scott,2014-05-13,M
+World,Raphael,2014-05-13,M
+World,Michael,2014-05-13,M
+World,Mohammed,2014-05-13,M
+N.Y. / Region,Matt,2014-05-13,M
+World,Alissa,2014-05-13,F
+World,Elisabetta,2014-05-13,F
+World,Ian,2014-05-13,M
+N.Y. / Region,Matt,2014-05-13,M
+World,C.,2014-05-13,M
+World,Andrew,2014-05-13,M
+Sports,Andrew,2014-05-13,M
+Sports,Pat,2014-05-13,M
+N.Y. / Region,Nikita,2014-05-13,F
+World,Charlie,2014-05-13,F
+Sports,Allan,2014-05-13,M
+N.Y. / Region,Julie,2014-05-13,F
+Arts,Cara,2014-05-13,F
+N.Y. / Region,Charles,2014-05-13,M
+Sports,Richard,2014-05-13,M
+World,Max,2014-05-13,M
+Sports,Tyler,2014-05-13,M
+World,James,2014-05-13,M
+N.Y. / Region,Lisa,2014-05-13,F
+N.Y. / Region,Michael,2014-05-13,M
+The Upshot,David,2014-05-13,M
+Sports,Billy,2014-05-13,F
+N.Y. / Region,Jesse,2014-05-13,F
+Sports,Scott,2014-05-13,M
+Business Day,Douglas,2014-05-13,M
+Opinion,Joe,2014-05-13,F
+U.S.,Steven,2014-05-13,M
+U.S.,Monica,2014-05-13,F
+Business Day,Hiroko,2014-05-13,F
+U.S.,Elena,2014-05-13,F
+Opinion,David,2014-05-13,M
+Sports,David,2014-05-13,M
+World,Michael,2014-05-13,M
+World,Saeed,2014-05-13,M
+Business Day,Bill,2014-05-13,M
+U.S.,Lizette,2014-05-13,F
+Business Day,Clifford,2014-05-13,M
+Opinion,Frank,2014-05-13,M
+Opinion,Ramtin,2014-05-13,M
+Business Day,Reed,2014-05-13,M
+U.S.,Richard,2014-05-13,M
+N.Y. / Region,Patrick,2014-05-13,M
+U.S.,Coral,2014-05-13,M
+Arts,Anthony,2014-05-13,F
+Arts,Neil,2014-05-13,M
+Arts,Neil,2014-05-13,M
+Arts,Brian,2014-05-13,M
+Arts,Nate,2014-05-13,F
+Theater,Doreen,2014-05-13,M
+Books,Michiko,2014-05-13,F
+Arts,Vivien,2014-05-13,M
+Science,Dennis,2014-05-13,M
+Science,Justin,2014-05-13,M
+Business Day,Joe,2014-05-13,F
+Business Day,David,2014-05-13,M
+Business Day,Martha,2014-05-13,F
+N.Y. / Region,Marc,2014-05-13,M
+Science,Kenneth,2014-05-13,F
+Business Day,Liz,2014-05-13,F
+The Upshot,Binyamin,2014-05-13,M
+Health,Donald,2014-05-13,M
+Sports,Jack,2014-05-13,M
+Sports,Michael,2014-05-13,M
+Health,Donald,2014-05-13,M
+Science,Douglas,2014-05-13,M
+Science,Douglas,2014-05-13,M
+World,Malavika,2014-05-13,F
+Science,C.,2014-05-13,M
+World,Alissa,2014-05-13,F
+The Upshot,Nate,2014-05-13,F
+World,Keith,2014-05-13,M
+Automobiles,Jerry,2014-05-13,M
+Science,Justin,2014-05-13,M
+U.S.,Michael,2014-05-13,M
+World,Keith,2014-05-13,M
+U.S.,Anand,2014-05-13,M
+World,Ellen,2014-05-13,M
+The Upshot,Neil,2014-05-13,M
+Business Day,Binyamin,2014-05-13,M
+Health,Martha,2014-05-13,F
+World,Adam,2014-05-13,M
+U.S.,Manny,2014-05-13,F
+Arts,Jon,2014-05-13,M
+The Upshot,Marjorie,2014-05-13,F
+Business Day,Bill,2014-05-13,M
+World,Alan,2014-05-13,M
+U.S.,Jonathan,2014-05-13,M
+Sports,Rob,2014-05-13,M
+Arts,Roslyn,2014-05-13,F
+Opinion,Stephen,2014-05-13,M
+Opinion,Roger,2014-05-13,M
+The Upshot,Austin,2014-05-13,M
+Opinion,Colin,2014-05-13,M
+World,Neil,2014-05-13,M
+Sports,Andrew,2014-05-13,M
+U.S.,Emma,2014-05-13,F
+Science,Natalie,2014-05-13,F
+Arts,Sarah,2014-05-14,F
+Technology,Quentin,2014-05-14,M
+Crosswords/Games,Deb,2014-05-14,M
+Business Day,David,2014-05-14,M
+Technology,Rebekah,2014-05-14,F
+Opinion,Peyton,2014-05-14,M
+World,Shreeya,2014-05-14,F
+World,Shreeya,2014-05-14,F
+Business Day,William,2014-05-14,M
+Technology,Quentin,2014-05-14,M
+Business Day,Alexandra,2014-05-14,F
+,Robert,2014-05-14,M
+World,Didi,2014-05-14,F
+T:Style,Kevin,2014-05-14,M
+Fashion & Style,Fritzie,2014-05-14,F
+Opinion,Mark,2014-05-14,M
+Arts,Ben,2014-05-14,M
+Arts,Robin,2014-05-14,M
+Arts,Allan,2014-05-14,M
+U.S.,Rick,2014-05-14,M
+U.S.,Jeffrey,2014-05-14,F
+U.S.,Kj,2014-05-14,M
+,Robert,2014-05-14,M
+T:Style,Malina,2014-05-14,F
+Travel,Seth,2014-05-14,F
+World,Tamir,2014-05-14,M
+Arts,Michael,2014-05-14,M
+Opinion,Jennifer,2014-05-14,M
+Technology,Noam,2014-05-14,M
+Business Day,Victor,2014-05-14,M
+Arts,Ben,2014-05-14,M
+Travel,Elaine,2014-05-14,F
+Technology,Dallas,2014-05-14,M
+Arts,William,2014-05-14,M
+T:Style,Elaine,2014-05-14,F
+Business Day,William,2014-05-14,M
+Magazine,Sophie,2014-05-14,F
+Arts,Jennifer,2014-05-14,M
+Arts,Robin,2014-05-14,M
+Arts,Randy,2014-05-14,F
+Opinion,Vikas,2014-05-14,M
+Technology,Natasha,2014-05-14,F
+,Mona,2014-05-14,F
+Multimedia/Photos,Mona,2014-05-14,F
+false,Brooke,2014-05-14,M
+Health,Kent,2014-05-14,M
+Arts,Patrick,2014-05-14,M
+Business Day,Sarah,2014-05-14,F
+Arts,Allan,2014-05-14,M
+U.S.,Jennifer,2014-05-14,M
+Business Day,Jeffrey,2014-05-14,F
+Opinion,Andrew,2014-05-14,M
+Arts,Rachel,2014-05-14,M
+World,Scott,2014-05-14,M
+false,Kate,2014-05-14,F
+Arts,Rachel,2014-05-14,M
+Opinion,Helen,2014-05-14,M
+Business Day,Gene,2014-05-14,F
+T Magazine,Oscar,2014-05-14,M
+U.S.,Kj,2014-05-14,M
+Business Day,Michael,2014-05-14,M
+Technology,Nick,2014-05-14,M
+Arts,Allan,2014-05-14,M
+Books,Sarah,2014-05-14,F
+,International,2014-05-14,M
+N.Y. / Region,Liz,2014-05-14,F
+false,Dan,2014-05-14,M
+Opinion,Andrew,2014-05-14,M
+Business Day,Sydney,2014-05-14,F
+Arts,Allan,2014-05-14,M
+Business Day,Michael,2014-05-14,M
+Business Day,Eilene,2014-05-14,F
+Business Day,Chad,2014-05-14,M
+World,Amy,2014-05-14,F
+World,Dilip,2014-05-14,M
+U.S.,Adeel,2014-05-14,M
+N.Y. / Region,Andy,2014-05-14,F
+World,Austin,2014-05-14,M
+U.S.,Katherine,2014-05-14,F
+Multimedia,Fred,2014-05-14,M
+U.S.,Katherine,2014-05-14,F
+Arts,Leslye,2014-05-14,F
+U.S.,Patrick,2014-05-14,M
+N.Y. / Region,Stephen,2014-05-14,M
+World,Nida,2014-05-14,F
+Arts,Carol,2014-05-14,M
+World,Mike,2014-05-14,F
+Arts,Kathryn,2014-05-14,M
+Opinion,Thomas,2014-05-14,M
+Sports,Zach,2014-05-14,M
+Arts,Holland,2014-05-14,M
+N.Y. / Region,Stephen,2014-05-14,M
+N.Y. / Region,Stephen,2014-05-14,M
+,Natalia,2014-05-14,F
+N.Y. / Region,Stephen,2014-05-14,M
+N.Y. / Region,Stephen,2014-05-14,M
+Multimedia/Photos,Natalia,2014-05-14,F
+N.Y. / Region,Stephen,2014-05-14,M
+World,Rick,2014-05-14,M
+Health,Gretchen,2014-05-14,M
+N.Y. / Region,Winnie,2014-05-14,F
+Business Day,Paul,2014-05-14,M
+World,William,2014-05-14,M
+N.Y. / Region,John,2014-05-14,M
+N.Y. / Region,Benjamin,2014-05-14,M
+Arts,Douglas,2014-05-14,M
+N.Y. / Region,Joseph,2014-05-14,M
+N.Y. / Region,Kate,2014-05-14,F
+N.Y. / Region,Javier,2014-05-14,M
+N.Y. / Region,Jim,2014-05-14,M
+Arts,Mike,2014-05-14,F
+World,Stephen,2014-05-14,M
+World,Matthew,2014-05-14,M
+World,Isabel,2014-05-14,M
+U.S.,Charlie,2014-05-14,F
+World,Rick,2014-05-14,M
+U.S.,Coral,2014-05-14,M
+Movies,Bruce,2014-05-14,M
+Sports,Tim,2014-05-14,M
+U.S.,Jonathan,2014-05-14,M
+World,Mark,2014-05-14,M
+Sports,Zach,2014-05-14,M
+U.S.,Jason,2014-05-14,M
+World,Sebnem,2014-05-14,M
+N.Y. / Region,Matt,2014-05-14,M
+Sports,Ken,2014-05-14,M
+Sports,Andrew,2014-05-14,M
+Opinion,Mira,2014-05-14,F
+Sports,Tyler,2014-05-14,M
+U.S.,Katharine,2014-05-14,F
+World,Marlise,2014-05-14,F
+Opinion,Thomas,2014-05-14,M
+Education,Richard,2014-05-14,M
+Opinion,Maureen,2014-05-14,M
+Business Day,Katie,2014-05-14,F
+Sports,Ben,2014-05-14,M
+Sports,Tom,2014-05-14,M
+Your Money,Tara,2014-05-14,F
+World,Carlotta,2014-05-14,F
+Sports,Zach,2014-05-14,M
+Opinion,Mark,2014-05-14,M
+World,Salman,2014-05-14,M
+Business Day,Eduardo,2014-05-14,M
+Business Day,Bill,2014-05-14,M
+Sports,Jack,2014-05-14,M
+U.S.,Charlie,2014-05-14,F
+Opinion,T.,2014-05-14,M
+Technology,Nick,2014-05-14,M
+The Upshot,Nate,2014-05-14,F
+Real Estate,Rosalie,2014-05-14,F
+Arts,Anthony,2014-05-14,F
+Arts,Alastair,2014-05-14,M
+Theater,Patrick,2014-05-14,M
+U.S.,Julie,2014-05-14,F
+Arts,Allan,2014-05-14,M
+The Upshot,Josh,2014-05-14,M
+Real Estate,Joe,2014-05-14,F
+Real Estate,Ronda,2014-05-14,F
+Real Estate,Vivian,2014-05-14,M
+N.Y. / Region,David,2014-05-14,M
+Books,Martin,2014-05-14,M
+Arts,Zachary,2014-05-14,F
+Arts,Gia,2014-05-14,F
+World,Adam,2014-05-14,M
+Health,Anahad,2014-05-14,M
+Theater,Alexis,2014-05-14,M
+Theater,Neil,2014-05-14,M
+Food,Florence,2014-05-14,F
+U.S.,David,2014-05-14,M
+U.S.,Erik,2014-05-14,M
+Sports,Jeff,2014-05-14,M
+World,Gaia,2014-05-14,F
+U.S.,Jonathan,2014-05-14,M
+World,Jodi,2014-05-14,F
+World,Noah,2014-05-14,F
+U.S.,Jonathan,2014-05-14,M
+Food,Pete,2014-05-14,F
+N.Y. / Region,Jesse,2014-05-14,F
+Automobiles,Benjamin,2014-05-14,M
+Food,Florence,2014-05-14,F
+N.Y. / Region,Charles,2014-05-14,M
+U.S.,Manny,2014-05-14,F
+Business Day,Annie,2014-05-14,F
+World,Rana,2014-05-14,F
+World,Somini,2014-05-14,F
+World,Somini,2014-05-14,F
+Business Day,Nicola,2014-05-14,F
+Sports,Harvey,2014-05-14,F
+U.S.,Ian,2014-05-14,M
+The Upshot,Claire,2014-05-14,F
+N.Y. / Region,Lisa,2014-05-14,F
+The Upshot,Derek,2014-05-14,M
+Business Day,Jane,2014-05-14,F
+Arts,Doreen,2014-05-14,M
+The Upshot,Justin,2014-05-14,M
+Business Day,Keith,2014-05-14,M
+Arts,George,2014-05-14,M
+U.S.,Daniel,2014-05-14,M
+Movies,Nicolas,2014-05-14,M
+Movies,Roslyn,2014-05-14,F
+Movies,Michael,2014-05-14,M
+Movies,Nicolas,2014-05-14,M
+World,Alan,2014-05-14,M
+Sports,Rob,2014-05-14,M
+Opinion,Alaa,2014-05-14,F
+Opinion,Bongani,2014-05-14,F
+Opinion,Michael,2014-05-14,M
+Opinion,Bina,2014-05-14,F
+World,David,2014-05-14,M
+Technology,David,2014-05-14,M
+Business Day,Joe,2014-05-14,F
+World,Jodi,2014-05-14,F
+Food,Florence,2014-05-14,F
+Food,Kim,2014-05-14,M
+Health,Martha,2014-05-14,F
+Food,Melissa,2014-05-14,F
+Food,David,2014-05-14,M
+Food,Eric,2014-05-14,M
+Food,Ligaya,2014-05-14,F
+Movies,Andy,2014-05-15,F
+Business Day,Michael,2014-05-15,M
+Movies,Ben,2014-05-15,M
+Movies,Ben,2014-05-15,M
+Movies,Anita,2014-05-15,F
+Movies,Stephen,2014-05-15,M
+Movies,A.,2014-05-15,M
+U.S.,Christian,2014-05-15,M
+Crosswords/Games,Deb,2014-05-15,M
+Movies,A.,2014-05-15,M
+Movies,Daniel,2014-05-15,M
+Movies,Neil,2014-05-15,M
+Movies,Stephen,2014-05-15,M
+Business Day,Quynhanh,2014-05-15,F
+Business Day,Mary,2014-05-15,F
+Opinion,Gary,2014-05-15,F
+Movies,Robin,2014-05-15,M
+World,Christian,2014-05-15,M
+Business Day,Alexandra,2014-05-15,F
+Movies,Quadratic,2014-05-15,M
+Movies,Walt,2014-05-15,M
+Opinion,Andrew,2014-05-15,M
+U.S.,Annie,2014-05-15,F
+Health,Nicholas,2014-05-15,M
+Arts,Robin,2014-05-15,M
+Arts,Rachel,2014-05-15,M
+Arts,Michael,2014-05-15,M
+Business Day,David,2014-05-15,M
+false,Kevin,2014-05-15,M
+Movies,Roadside,2014-05-15,F
+Business Day,Dan,2014-05-15,M
+Travel,Rachel,2014-05-15,M
+Arts,Randy,2014-05-15,F
+U.S.,Rick,2014-05-15,M
+Real Estate,Lady,2014-05-15,F
+Arts,Tom,2014-05-15,M
+Opinion,Juliet,2014-05-15,M
+Business Day,Michael,2014-05-15,M
+Opinion,Ross,2014-05-15,M
+Opinion,Jennifer,2014-05-15,M
+false,Gina,2014-05-15,F
+Business Day,David,2014-05-15,M
+T:Style,Felix,2014-05-15,M
+Business Day,Christopher,2014-05-15,M
+Business Day,David,2014-05-15,M
+,Christian,2014-05-15,M
+Health,Nicholas,2014-05-15,M
+Arts,Christian,2014-05-15,M
+Arts,Patrick,2014-05-15,M
+Business Day,David,2014-05-15,M
+,Robert,2014-05-15,M
+Arts,Mekado,2014-05-15,M
+Movies,Mekado,2014-05-15,M
+Arts,Allan,2014-05-15,M
+Science,Aaron,2014-05-15,M
+,Mona,2014-05-15,F
+Science,Carl,2014-05-15,M
+Business Day,Gene,2014-05-15,F
+Multimedia/Photos,Mona,2014-05-15,F
+T:Style,Kevin,2014-05-15,M
+Arts,Roslyn,2014-05-15,F
+T Magazine,Takashi,2014-05-15,F
+Opinion,Flavia,2014-05-15,F
+Arts,Jennifer,2014-05-15,M
+Travel,Charu,2014-05-15,M
+false,Andrew,2014-05-15,M
+Arts,Roslyn,2014-05-15,F
+Opinion,Margaret,2014-05-15,M
+Business Day,William,2014-05-15,M
+T:Style,Kevin,2014-05-15,M
+Movies,A.,2014-05-15,M
+Technology,Mark,2014-05-15,M
+Opinion,Jed,2014-05-15,M
+U.S.,Ron,2014-05-15,M
+World,Zahir,2014-05-15,M
+Business Day,William,2014-05-15,M
+World,Vishnu,2014-05-15,M
+Arts,Allan,2014-05-15,M
+U.S.,Shannon,2014-05-15,M
+Magazine,Jeannie,2014-05-15,F
+Business Day,Michael,2014-05-15,M
+Health,Dhruv,2014-05-15,M
+N.Y. / Region,Charlie,2014-05-15,F
+false,Tejal,2014-05-15,M
+Opinion,Brent,2014-05-15,M
+Business Day,William,2014-05-15,M
+World,Andrew,2014-05-15,M
+Business Day,Chad,2014-05-15,M
+Business Day,Dealbook,2014-05-15,M
+Business Day,Michael,2014-05-15,M
+,International,2014-05-15,M
+Technology,Natalia,2014-05-15,F
+Business Day,Sydney,2014-05-15,F
+Opinion,Paul,2014-05-15,M
+Business Day,Rebekah,2014-05-15,F
+Business Day,Chad,2014-05-15,M
+U.S.,Adeel,2014-05-15,M
+Business Day,Chad,2014-05-15,M
+N.Y. / Region,Annie,2014-05-15,F
+U.S.,Katherine,2014-05-15,F
+Multimedia,James,2014-05-15,M
+U.S.,Katherine,2014-05-15,F
+World,Ankita,2014-05-15,F
+U.S.,Shannon,2014-05-15,M
+N.Y. / Region,Carol,2014-05-15,M
+World,Didi,2014-05-15,F
+Arts,Kathryn,2014-05-15,M
+World,Nida,2014-05-15,F
+,Carrie,2014-05-15,F
+Multimedia/Photos,Carrie,2014-05-15,F
+Sports,Tim,2014-05-15,M
+World,Austin,2014-05-15,M
+The Upshot,Josh,2014-05-15,M
+T Magazine,Tejal,2014-05-15,M
+World,Choe,2014-05-15,F
+Sports,David,2014-05-15,M
+Sports,Andrew,2014-05-15,M
+N.Y. / Region,Kate,2014-05-15,F
+N.Y. / Region,Kate,2014-05-15,F
+World,Rick,2014-05-15,M
+N.Y. / Region,Nikita,2014-05-15,F
+N.Y. / Region,Benjamin,2014-05-15,M
+Business Day,Jonathan,2014-05-15,M
+N.Y. / Region,Marc,2014-05-15,M
+Sports,Jeff,2014-05-15,M
+N.Y. / Region,Stephanie,2014-05-15,F
+U.S.,Charlie,2014-05-15,F
+Sports,Tyler,2014-05-15,M
+Business Day,Michael,2014-05-15,M
+N.Y. / Region,Joseph,2014-05-15,M
+U.S.,Richard,2014-05-15,M
+Sports,David,2014-05-15,M
+World,Michael,2014-05-15,M
+U.S.,Matthew,2014-05-15,M
+U.S.,Kirk,2014-05-15,M
+World,Steven,2014-05-15,M
+Technology,Molly,2014-05-15,F
+Sports,Joe,2014-05-15,F
+U.S.,John,2014-05-15,M
+Business Day,Andrew,2014-05-15,M
+World,Rick,2014-05-15,M
+World,Ashley,2014-05-15,F
+N.Y. / Region,Michael,2014-05-15,M
+Sports,John,2014-05-15,M
+Technology,Mark,2014-05-15,M
+Business Day,Steven,2014-05-15,M
+Business Day,Steven,2014-05-15,M
+Opinion,Gail,2014-05-15,M
+Sports,Andrew,2014-05-15,M
+Technology,Gregory,2014-05-15,M
+World,Benno,2014-05-15,M
+World,Adam,2014-05-15,M
+Business Day,Bill,2014-05-15,M
+Business Day,Daniel,2014-05-15,M
+World,Maïa,2014-05-15,F
+Opinion,Lauren,2014-05-15,M
+World,Shreeya,2014-05-15,F
+Opinion,Jonathan,2014-05-15,M
+Business Day,John,2014-05-15,M
+Business Day,Hilary,2014-05-15,F
+Sports,Scott,2014-05-15,M
+Business Day,Tara,2014-05-15,F
+Business Day,John,2014-05-15,M
+Sports,Peter,2014-05-15,M
+Fashion & Style,Bee,2014-05-15,F
+Fashion & Style,Alison,2014-05-15,M
+Opinion,Charles,2014-05-15,M
+Home & Garden,Penelope,2014-05-15,F
+Business Day,John,2014-05-15,M
+Home & Garden,Michael,2014-05-15,M
+Great Homes & Destinations,Elaine,2014-05-15,F
+Home & Garden,Tim,2014-05-15,M
+Home & Garden,Rima,2014-05-15,F
+Home & Garden,Steven,2014-05-15,M
+Home & Garden,Des,2014-05-15,M
+Home & Garden,Arlene,2014-05-15,F
+Home & Garden,Eve,2014-05-15,F
+Fashion & Style,Erica,2014-05-15,F
+Business Day,Caitlin,2014-05-15,M
+Fashion & Style,Ruth,2014-05-15,M
+Fashion & Style,Matthew,2014-05-15,M
+Fashion & Style,John,2014-05-15,M
+Business Day,David,2014-05-15,M
+Fashion & Style,Kareem,2014-05-15,M
+Fashion & Style,Kevin,2014-05-15,M
+Opinion,Linda,2014-05-15,F
+Fashion & Style,Julia,2014-05-15,F
+Opinion,Nicholas,2014-05-15,M
+Business Day,Phyllis,2014-05-15,M
+Technology,Farhad,2014-05-15,M
+Fashion & Style,Jacob,2014-05-15,M
+Arts,Gia,2014-05-15,F
+Business Day,John,2014-05-15,M
+Arts,Jon,2014-05-15,M
+Fashion & Style,Bee,2014-05-15,F
+Health,Donald,2014-05-15,M
+Arts,Alison,2014-05-15,M
+Arts,Randy,2014-05-15,F
+Arts,Stephen,2014-05-15,M
+Business Day,Peter,2014-05-15,M
+Arts,Michael,2014-05-15,M
+Arts,Siobhan,2014-05-15,M
+Business Day,J.,2014-05-15,M
+Arts,Jon,2014-05-15,M
+Arts,Chris,2014-05-15,M
+Crosswords & Games,Phillip,2014-05-15,M
+Theater,Laura,2014-05-15,F
+U.S.,Norimitsu,2014-05-15,M
+Great Homes & Destinations,Marcelle,2014-05-15,F
+U.S.,Jackie,2014-05-15,F
+Arts,Neil,2014-05-15,M
+Arts,Mike,2014-05-15,F
+Arts,James,2014-05-15,M
+Books,Dwight,2014-05-15,M
+Theater,Alexis,2014-05-15,M
+World,Katrin,2014-05-15,M
+N.Y. / Region,John,2014-05-15,M
+Great Homes & Destinations,Mike,2014-05-15,F
+Sports,Ben,2014-05-15,M
+Health,Roni,2014-05-15,F
+Technology,Kit,2014-05-15,M
+Automobiles,Benjamin,2014-05-15,M
+Business Day,David,2014-05-15,M
+Automobiles,Benjamin,2014-05-15,M
+U.S.,Jackie,2014-05-15,F
+Theater,Laura,2014-05-15,F
+N.Y. / Region,Jesse,2014-05-15,F
+Business Day,Michael,2014-05-15,M
+Sports,Jack,2014-05-15,M
+The Upshot,Neil,2014-05-15,M
+World,Keith,2014-05-15,M
+World,David,2014-05-15,M
+Business Day,Elizabeth,2014-05-15,F
+N.Y. / Region,Michael,2014-05-15,M
+U.S.,Emmarie,2014-05-15,F
+N.Y. / Region,David,2014-05-15,M
+The Upshot,Derek,2014-05-15,M
+Fashion & Style,Felicia,2014-05-15,F
+Fashion & Style,Kathleen,2014-05-15,M
+Fashion & Style,Nina,2014-05-15,F
+Fashion & Style,Nazanin,2014-05-15,M
+The Upshot,Michael,2014-05-15,M
+Business Day,Jenny,2014-05-15,F
+World,Helene,2014-05-15,F
+The Upshot,Neil,2014-05-15,M
+World,Nick,2014-05-15,M
+Fashion & Style,David,2014-05-15,M
+World,Gardiner,2014-05-15,M
+Fashion & Style,Victoria,2014-05-15,F
+Business Day,Bill,2014-05-15,M
+U.S.,Robert,2014-05-15,M
+World,Chris,2014-05-15,M
+World,Manu,2014-05-15,M
+The Upshot,Allison,2014-05-15,M
+The Upshot,Josh,2014-05-15,M
+Opinion,Michael,2014-05-15,M
+Opinion,Anita,2014-05-15,F
+Opinion,Norihiro,2014-05-15,M
+Business Day,Jack,2014-05-15,M
+U.S.,Helene,2014-05-15,F
+World,Alan,2014-05-15,M
+World,Sebnem,2014-05-15,M
+Sports,Billy,2014-05-15,F
+Business Day,David,2014-05-15,M
+Business Day,Elisabeth,2014-05-15,F
+Arts,Margalit,2014-05-15,M
+Home & Garden,Jane,2014-05-15,F
+Technology,J.,2014-05-15,M
+Health,Martha,2014-05-15,F
+Technology,J.,2014-05-16,M
+Fashion & Style,Bill,2014-05-16,M
+Crosswords/Games,Deb,2014-05-16,M
+U.S.,Kj,2014-05-16,M
+,Robert,2014-05-16,M
+Technology,Nick,2014-05-16,M
+U.S.,Retroreport,2014-05-16,M
+Technology,Brian,2014-05-16,M
+Movies,Mekado,2014-05-16,M
+Your Money,Ron,2014-05-16,M
+Health,Donald,2014-05-16,M
+Health,Donald,2014-05-16,M
+Fashion & Style,Joanna,2014-05-16,F
+Business Day,Landon,2014-05-16,M
+T:Style,Benoît,2014-05-16,M
+U.S.,Kj,2014-05-16,M
+Technology,Farhad,2014-05-16,M
+U.S.,Rick,2014-05-16,M
+Arts,Sophia,2014-05-16,F
+Business Day,Rachel,2014-05-16,M
+N.Y. / Region,Marc,2014-05-16,M
+,Jessica,2014-05-16,F
+Opinion,Jennifer,2014-05-16,M
+Opinion,Paul,2014-05-16,M
+U.S.,Todd,2014-05-16,M
+Business Day,Eric,2014-05-16,M
+false,Alice,2014-05-16,F
+Health,Paula,2014-05-16,F
+Food,Jenny,2014-05-16,F
+Automobiles,Tom,2014-05-16,M
+Travel,Elaine,2014-05-16,F
+Arts,Mike,2014-05-16,F
+T:Style,Ben,2014-05-16,M
+Arts,Patrick,2014-05-16,M
+Business Day,Tony,2014-05-16,F
+N.Y. / Region,Dave,2014-05-16,F
+,Christian,2014-05-16,M
+Health,Martha,2014-05-16,F
+Multimedia/Photos,Christian,2014-05-16,M
+Business Day,William,2014-05-16,M
+T:Style,Rachel,2014-05-16,M
+Arts,Ben,2014-05-16,M
+Business Day,Matthew,2014-05-16,M
+Arts,Allan,2014-05-16,M
+Sports,Teton,2014-05-16,M
+Sports,Joe,2014-05-16,F
+Business Day,Gene,2014-05-16,F
+N.Y. / Region,Robin,2014-05-16,M
+Arts,Dana,2014-05-16,F
+Movies,Robin,2014-05-16,M
+Opinion,Francis,2014-05-16,M
+Movies,Robin,2014-05-16,M
+Opinion,Paul,2014-05-16,M
+U.S.,Emily,2014-05-16,F
+Business Day,Steven,2014-05-16,M
+Movies,Robin,2014-05-16,M
+T:Style,Maura,2014-05-16,F
+Arts,Jennifer,2014-05-16,M
+Arts,Allan,2014-05-16,M
+U.S.,Sarah,2014-05-16,F
+Business Day,Alexandra,2014-05-16,F
+Arts,Dave,2014-05-16,F
+Travel,Charu,2014-05-16,M
+,International,2014-05-16,M
+World,Grant,2014-05-16,M
+Business Day,David,2014-05-16,M
+Business Day,William,2014-05-16,M
+T:Style,David,2014-05-16,M
+N.Y. / Region,Rob,2014-05-16,M
+Business Day,Michael,2014-05-16,M
+World,Amy,2014-05-16,F
+T Magazine,Max,2014-05-16,M
+Technology,David,2014-05-16,M
+Business Day,Sydney,2014-05-16,F
+The Upshot,Brendan,2014-05-16,M
+U.S.,Adeel,2014-05-16,M
+N.Y. / Region,Andy,2014-05-16,F
+Multimedia,Maurice,2014-05-16,F
+U.S.,Michael,2014-05-16,M
+Business Day,Chad,2014-05-16,M
+World,Michael,2014-05-16,M
+U.S.,Michael,2014-05-16,M
+U.S.,Shannon,2014-05-16,M
+Arts,Kathryn,2014-05-16,M
+World,Farhod,2014-05-16,M
+World,Austin,2014-05-16,M
+Movies,Daniel,2014-05-16,M
+Movies,Andy,2014-05-16,F
+Movies,Nicolas,2014-05-16,M
+Movies,Nicolas,2014-05-16,M
+Movies,Daniel,2014-05-16,M
+,Carrie,2014-05-16,F
+Sports,Scott,2014-05-16,M
+Multimedia/Photos,Carrie,2014-05-16,F
+Movies,Jeannette,2014-05-16,F
+Health,Michael,2014-05-16,M
+Arts,Jennifer,2014-05-16,M
+Sports,Allan,2014-05-16,M
+Arts,Carol,2014-05-16,M
+Sports,Tim,2014-05-16,M
+World,Charlie,2014-05-16,F
+World,Rick,2014-05-16,M
+World,Simon,2014-05-16,M
+World,Ellen,2014-05-16,M
+Sports,Scott,2014-05-16,M
+U.S.,Alana,2014-05-16,F
+Sports,David,2014-05-16,M
+Sports,Andrew,2014-05-16,M
+N.Y. / Region,Charles,2014-05-16,M
+World,Suzanne,2014-05-16,F
+Sports,Jeff,2014-05-16,M
+Sports,Richard,2014-05-16,M
+U.S.,Abby,2014-05-16,M
+World,William,2014-05-16,M
+Sports,Juliet,2014-05-16,M
+World,Mark,2014-05-16,M
+Science,Sabrina,2014-05-16,F
+U.S.,Sheryl,2014-05-16,M
+N.Y. / Region,Michael,2014-05-16,M
+Sports,David,2014-05-16,M
+N.Y. / Region,Vivian,2014-05-16,M
+Opinion,David,2014-05-16,M
+N.Y. / Region,Matt,2014-05-16,M
+World,Martin,2014-05-16,M
+N.Y. / Region,Stephen,2014-05-16,M
+Arts,Anne,2014-05-16,F
+Arts,Laurel,2014-05-16,M
+Business Day,Leslie,2014-05-16,F
+Health,Donald,2014-05-16,M
+N.Y. / Region,Matt,2014-05-16,M
+Opinion,Paul,2014-05-16,M
+U.S.,Julie,2014-05-16,F
+Technology,Edward,2014-05-16,M
+Business Day,Liz,2014-05-16,F
+Sports,Billy,2014-05-16,F
+N.Y. / Region,Patrick,2014-05-16,M
+U.S.,Ross,2014-05-16,M
+U.S.,Jada,2014-05-16,F
+U.S.,Neena,2014-05-16,F
+Business Day,Stephanie,2014-05-16,F
+U.S.,Michael,2014-05-16,M
+Business Day,Stuart,2014-05-16,M
+Business Day,David,2014-05-16,M
+Opinion,Colum,2014-05-16,M
+Arts,Alastair,2014-05-16,M
+Movies,Manohla,2014-05-16,F
+Books,Arthur,2014-05-16,M
+Arts,Roberta,2014-05-16,F
+Arts,Ben,2014-05-16,M
+N.Y. / Region,Edward,2014-05-16,M
+Books,Dana,2014-05-16,F
+Arts,Nate,2014-05-16,F
+N.Y. / Region,Thomas,2014-05-16,M
+Arts,Roberta,2014-05-16,F
+Arts,Karen,2014-05-16,M
+Arts,Ken,2014-05-16,M
+Arts,Martha,2014-05-16,F
+Arts,Martha,2014-05-16,F
+Arts,Roberta,2014-05-16,F
+Arts,Karen,2014-05-16,M
+Arts,Zachary,2014-05-16,F
+Arts,Stephen,2014-05-16,M
+World,Jodi,2014-05-16,F
+Arts,Carol,2014-05-16,M
+World,Michael,2014-05-16,M
+World,Eric,2014-05-16,M
+N.Y. / Region,Shivani,2014-05-16,F
+N.Y. / Region,A.,2014-05-16,M
+Arts,Ken,2014-05-16,M
+World,Andrew,2014-05-16,M
+World,Alison,2014-05-16,M
+Theater,Alexis,2014-05-16,M
+U.S.,Sheri,2014-05-16,F
+Opinion,Timothy,2014-05-16,F
+Arts,Elisabetta,2014-05-16,F
+Sports,Joe,2014-05-16,F
+Arts,Eve,2014-05-16,F
+Business Day,Adam,2014-05-16,M
+Business Day,Floyd,2014-05-16,M
+Sports,Mary,2014-05-16,F
+Sports,Matt,2014-05-16,M
+Automobiles,Jerry,2014-05-16,M
+World,Andrew,2014-05-16,M
+Business Day,Leslie,2014-05-16,F
+Sports,Frank,2014-05-16,M
+Business Day,Jonathan,2014-05-16,M
+Science,John,2014-05-16,M
+The Upshot,Allison,2014-05-16,M
+U.S.,Charlie,2014-05-16,F
+World,David,2014-05-16,M
+The Upshot,Phillip,2014-05-16,M
+U.S.,Jennifer,2014-05-16,M
+Automobiles,Benjamin,2014-05-16,M
+N.Y. / Region,Thomas,2014-05-16,M
+Arts,Dwight,2014-05-16,M
+Arts,Scott,2014-05-16,M
+Arts,Joyce,2014-05-16,F
+Arts,Sonia,2014-05-16,F
+Business Day,Nelson,2014-05-16,M
+Arts,Nina,2014-05-16,F
+Arts,David,2014-05-16,M
+Arts,Roderick,2014-05-16,M
+Arts,Rachel,2014-05-16,M
+Sports,Peter,2014-05-16,M
+World,Anne,2014-05-16,F
+Automobiles,Bill,2014-05-16,M
+N.Y. / Region,Peter,2014-05-16,M
+The Upshot,Eduardo,2014-05-16,M
+U.S.,Richard,2014-05-16,M
+Arts,Matt,2014-05-16,M
+The Upshot,Neil,2014-05-16,M
+Sports,Joel,2014-05-16,M
+Sports,Harvey,2014-05-16,F
+World,Alan,2014-05-16,M
+Business Day,Elizabeth,2014-05-16,F
+Sports,Emma,2014-05-16,F
+U.S.,John,2014-05-16,M
+Technology,Edward,2014-05-16,M
+Business Day,David,2014-05-16,M
+Arts,Roslyn,2014-05-16,F
+The Upshot,Brendan,2014-05-16,M
+Opinion,Maxim,2014-05-16,M
+World,Choe,2014-05-16,F
+World,Keith,2014-05-16,M
+Opinion,Roger,2014-05-16,M
+World,Alissa,2014-05-16,F
+World,Kareem,2014-05-16,M
+Great Homes and Destinations,Jean,2014-05-16,M
+Business Day,Nicola,2014-05-16,F
+World,Chris,2014-05-16,M
+Health,Martha,2014-05-16,F
+Arts,Adam,2014-05-17,M
+World,Jonah,2014-05-17,F
+Business Day,Michael,2014-05-17,M
+Crosswords/Games,Deb,2014-05-17,M
+Sports,Melissa,2014-05-17,F
+Opinion,Gordon,2014-05-17,M
+U.S.,Elena,2014-05-17,F
+Arts,Rachel,2014-05-17,M
+Technology,Kit,2014-05-17,M
+Travel,Elaine,2014-05-17,F
+Crosswords/Games,Deb,2014-05-17,M
+Sports,Jack,2014-05-17,M
+Technology,Ozier,2014-05-17,M
+,International,2014-05-17,M
+Opinion,Paul,2014-05-17,M
+Opinion,Nicholas,2014-05-17,M
+Multimedia,Amanda,2014-05-17,F
+Opinion,Paul,2014-05-17,M
+Opinion,Paul,2014-05-17,M
+Opinion,Jennifer,2014-05-17,M
+World,Suhasini,2014-05-17,F
+Arts,Kathryn,2014-05-17,M
+Sports,Jeff,2014-05-17,M
+U.S.,Charlie,2014-05-17,F
+Sports,Tim,2014-05-17,M
+N.Y. / Region,Alison,2014-05-17,M
+Sports,Ben,2014-05-17,M
+World,Alison,2014-05-17,M
+World,Waqar,2014-05-17,M
+World,William,2014-05-17,M
+U.S.,Adam,2014-05-17,M
+Opinion,Joe,2014-05-17,F
+U.S.,Douglas,2014-05-17,M
+World,Suliman,2014-05-17,M
+U.S.,Samuel,2014-05-17,M
+Opinion,Gail,2014-05-17,M
+N.Y. / Region,Kate,2014-05-17,F
+U.S.,Alan,2014-05-17,M
+N.Y. / Region,Joseph,2014-05-17,M
+U.S.,Ian,2014-05-17,M
+N.Y. / Region,Matt,2014-05-17,M
+N.Y. / Region,David,2014-05-17,M
+U.S.,Sheryl,2014-05-17,M
+Sports,Zach,2014-05-17,M
+Sports,Jeff,2014-05-17,M
+Opinion,Arthur,2014-05-17,M
+Business Day,Ravi,2014-05-17,F
+N.Y. / Region,Alan,2014-05-17,M
+Sports,Joe,2014-05-17,F
+World,William,2014-05-17,M
+N.Y. / Region,Anemona,2014-05-17,F
+Sports,John,2014-05-17,M
+Sports,Dave,2014-05-17,F
+Business Day,Stephen,2014-05-17,M
+U.S.,Ashley,2014-05-17,F
+U.S.,Julia,2014-05-17,F
+World,Jodi,2014-05-17,F
+Arts,Brian,2014-05-17,M
+Automobiles,Benjamin,2014-05-17,M
+Business Day,Elizabeth,2014-05-17,F
+Arts,Alessandra,2014-05-17,F
+Arts,Melena,2014-05-17,F
+Arts,Felicia,2014-05-17,F
+Business Day,Melissa,2014-05-17,F
+Crosswords & Games,Phillip,2014-05-17,M
+U.S.,Richard,2014-05-17,M
+Business Day,Stephanie,2014-05-17,F
+Arts,Jon,2014-05-17,M
+Arts,Mike,2014-05-17,F
+Arts,James,2014-05-17,M
+Arts,Brian,2014-05-17,M
+Science,Robert,2014-05-17,M
+World,Steven,2014-05-17,M
+N.Y. / Region,Stephanie,2014-05-17,F
+The Upshot,Marjorie,2014-05-17,F
+Business Day,Daniel,2014-05-17,M
+Sports,Ken,2014-05-17,M
+World,Gardiner,2014-05-17,M
+Your Money,Marci,2014-05-17,F
+Your Money,Paul,2014-05-17,M
+Automobiles,Tom,2014-05-17,M
+Sports,Matt,2014-05-17,M
+Arts,Felicia,2014-05-17,F
+The Upshot,Neil,2014-05-17,M
+World,Andrew,2014-05-17,M
+Business Day,Ben,2014-05-17,M
+Business Day,James,2014-05-17,M
+The Upshot,Nate,2014-05-17,F
+Opinion,Harvey,2014-05-17,F
+Sports,Jack,2014-05-17,M
+N.Y. / Region,Jesse,2014-05-17,F
+Your Money,Alina,2014-05-17,F
+Sports,Teton,2014-05-17,M
+Sports,Joe,2014-05-17,F
+U.S.,Michael,2014-05-17,M
+World,Tim,2014-05-17,M
+The Upshot,Michael,2014-05-17,M
+Business Day,Matthew,2014-05-17,M
+U.S.,Jonathan,2014-05-17,M
+Business Day,Floyd,2014-05-17,M
+World,Isma'il,2014-05-17,M
+The Upshot,Neil,2014-05-17,M
+World,Chris,2014-05-17,M
+U.S.,Amy,2014-05-17,F
+World,Adam,2014-05-17,M
+Sports,Billy,2014-05-17,F
+Sunday Review,Kate,2014-05-17,F
+Opinion,Howard,2014-05-17,M
+World,Nick,2014-05-17,M
+World,Tim,2014-05-17,M
+Business Day,David,2014-05-17,M
+World,Ellen,2014-05-17,M
+Your Money,Ann,2014-05-17,F
+Arts,Larry,2014-05-17,M
+The Upshot,Aaron,2014-05-17,M
+Arts,Ben,2014-05-18,M
+Multimedia/Photos,Carrie,2014-05-18,F
+Arts,Cara,2014-05-18,F
+Arts,Eric,2014-05-18,M
+Opinion,Corey,2014-05-18,F
+Business Day,William,2014-05-18,M
+U.S.,Retro,2014-05-18,M
+World,Jimmy,2014-05-18,F
+Crosswords/Games,Deb,2014-05-18,M
+Business Day,David,2014-05-18,M
+Business Day,Michael,2014-05-18,M
+Arts,Jennifer,2014-05-18,M
+Business Day,Jack,2014-05-18,M
+Business Day,Robert,2014-05-18,M
+Sports,Jack,2014-05-18,M
+Business Day,David,2014-05-18,M
+Arts,Brooks,2014-05-18,M
+Business Day,Danielle,2014-05-18,F
+Arts,Kathryn,2014-05-18,M
+Arts,Rachel,2014-05-18,M
+Technology,Nick,2014-05-18,M
+Fashion & Style,Samantha,2014-05-18,F
+U.S.,Tina,2014-05-18,F
+Technology,Quentin,2014-05-18,M
+Fashion & Style,Vincent,2014-05-18,M
+Fashion & Style,Rosalie,2014-05-18,F
+Sports,Ben,2014-05-18,M
+Sports,Jorge,2014-05-18,M
+U.S.,Margalit,2014-05-18,M
+U.S.,Damien,2014-05-18,M
+World,Edward,2014-05-18,M
+Sports,Tim,2014-05-18,M
+U.S.,Edgar,2014-05-18,M
+U.S.,Ross,2014-05-18,M
+Crosswords & Games,Dylan,2014-05-18,M
+U.S.,Alexa,2014-05-18,F
+Sports,Joe,2014-05-18,F
+U.S.,Christopher,2014-05-18,M
+Sports,Dave,2014-05-18,F
+Sports,Jorge,2014-05-18,M
+Business Day,Ravi,2014-05-18,F
+World,Suliman,2014-05-18,M
+N.Y. / Region,Elizabeth,2014-05-18,F
+Sports,Sam,2014-05-18,M
+World,Elisabetta,2014-05-18,F
+Sports,Jeff,2014-05-18,M
+Sports,Jeff,2014-05-18,M
+World,Somini,2014-05-18,F
+World,Matt,2014-05-18,M
+Sports,Benjamin,2014-05-18,M
+U.S.,Jennifer,2014-05-18,M
+Sports,Benjamin,2014-05-18,M
+U.S.,Nicholas,2014-05-18,M
+U.S.,Fernanda,2014-05-18,F
+Sports,Peter,2014-05-18,M
+Sports,Ben,2014-05-18,M
+Sports,John,2014-05-18,M
+Opinion,Jennifer,2014-05-18,M
+Opinion,Frank,2014-05-18,M
+Opinion,Kate,2014-05-18,F
+Public Editor,Margaret,2014-05-18,M
+Opinion,Seth,2014-05-18,F
+Opinion,Ross,2014-05-18,M
+Opinion,Thomas,2014-05-18,M
+Opinion,Maureen,2014-05-18,M
+Opinion,Nicholas,2014-05-18,M
+Opinion,Jay,2014-05-18,M
+Opinion,Dan,2014-05-18,M
+Sunday Review,Elisabeth,2014-05-18,F
+U.S.,Robert,2014-05-18,M
+Sports,Andrew,2014-05-18,M
+Sports,Tim,2014-05-18,M
+U.S.,Trip,2014-05-18,M
+Sports,Jessica,2014-05-18,F
+U.S.,Tanzina,2014-05-18,F
+U.S.,Nicholas,2014-05-18,M
+World,Jane,2014-05-18,F
+Sports,Tyler,2014-05-18,M
+Sports,Viv,2014-05-18,M
+U.S.,Jonathan,2014-05-18,M
+Sports,Melissa,2014-05-18,F
+World,Maïa,2014-05-18,F
+World,William,2014-05-18,M
+Business Day,Bill,2014-05-18,M
+World,Gardiner,2014-05-18,M
+Sports,Melissa,2014-05-18,F
+The Upshot,Michael,2014-05-18,M
+The Upshot,Alan,2014-05-18,M
+Technology,Jeff,2014-05-18,M
+Technology,Natasha,2014-05-18,F
+Business Day,Adam,2014-05-18,M
+Business Day,Hannah,2014-05-18,F
+Job Market,Rob,2014-05-18,M
+Business Day,Gretchen,2014-05-18,M
+Business Day,Anne,2014-05-18,F
+Job Market,Patricia,2014-05-18,F
+World,David,2014-05-18,M
+World,Kareem,2014-05-18,M
+World,Thomas,2014-05-18,M
+Opinion,Serge,2014-05-18,M
+N.Y. / Region,Joanne,2014-05-18,F
+N.Y. / Region,Fran,2014-05-18,M
+N.Y. / Region,Alice,2014-05-18,F
+N.Y. / Region,Sarah,2014-05-18,F
+N.Y. / Region,Martha,2014-05-18,F
+N.Y. / Region,Phillip,2014-05-18,M
+Fashion & Style,Bill,2014-05-18,M
+N.Y. / Region,Aileen,2014-05-18,M
+Fashion & Style,Alexandra,2014-05-18,F
+N.Y. / Region,Susan,2014-05-18,M
+Fashion & Style,Jacob,2014-05-18,M
+Fashion & Style,Joanna,2014-05-18,F
+Fashion & Style,Jessica,2014-05-18,F
+Automobiles,Jim,2014-05-18,M
+Automobiles,Joseph,2014-05-18,M
+Automobiles,Marcia,2014-05-18,F
+Automobiles,Ezra,2014-05-18,F
+Automobiles,Lawrence,2014-05-18,F
+N.Y. / Region,Susan,2014-05-18,M
+Opinion,Paul,2014-05-18,M
+Fashion & Style,Sheila,2014-05-18,F
+Fashion & Style,Jesse,2014-05-18,F
+N.Y. / Region,John,2014-05-18,M
+Real Estate,Michelle,2014-05-18,F
+Travel,Elaine,2014-05-18,F
+Travel,Elaine,2014-05-18,F
+Travel,Deborah,2014-05-18,F
+Travel,Alex,2014-05-18,M
+N.Y. / Region,Sam,2014-05-18,M
+Travel,Freda,2014-05-18,F
+Movies,Interview,2014-05-18,M
+Fashion & Style,Bruce,2014-05-18,M
+Fashion & Style,Candida,2014-05-18,F
+The Upshot,Binyamin,2014-05-18,M
+Books,Erin,2014-05-18,M
+Books,Marilyn,2014-05-18,F
+Books,David,2014-05-18,M
+Books,Evgeny,2014-05-18,F
+Books,Lauren,2014-05-18,M
+Books,David,2014-05-18,M
+Books,Adam,2014-05-18,M
+Books,John,2014-05-18,M
+Books,Charles,2014-05-18,M
+Books,Frederick,2014-05-18,M
+Books,Helen,2014-05-18,M
+Books,Geraldine,2014-05-18,F
+Books,John,2014-05-18,M
+Real Estate,Alison,2014-05-18,M
+Books,Ihsan,2014-05-18,M
+N.Y. / Region,Alan,2014-05-18,M
+Arts,William,2014-05-18,M
+Arts,John,2014-05-18,M
+Arts,Alastair,2014-05-18,M
+Movies,Andy,2014-05-18,F
+Arts,Gia,2014-05-18,F
+Arts,Robin,2014-05-18,M
+Arts,Vivien,2014-05-18,M
+Arts,Jon,2014-05-18,M
+Arts,Kathryn,2014-05-18,M
+Books,James,2014-05-18,M
+Fashion & Style,Joyce,2014-05-18,F
+Real Estate,Robin,2014-05-18,M
+Opinion,David,2014-05-18,M
+Real Estate,C.,2014-05-18,M
+Magazine,Daniel,2014-05-18,M
+Magazine,Rosie,2014-05-18,F
+Magazine,Willy,2014-05-18,F
+Magazine,Saul,2014-05-18,M
+Magazine,Julia,2014-05-18,F
+Real Estate,Christopher,2014-05-18,M
+Real Estate,Ronda,2014-05-18,F
+Arts,Ben,2014-05-18,M
+Movies,Mekado,2014-05-18,M
+The Upshot,Claire,2014-05-18,F
+Arts,William,2014-05-18,M
+Books,Anita,2014-05-18,F
+N.Y. / Region,Sam,2014-05-18,M
+N.Y. / Region,Michael,2014-05-18,M
+N.Y. / Region,Jancee,2014-05-18,F
+N.Y. / Region,Corey,2014-05-18,F
+N.Y. / Region,Ginia,2014-05-18,F
+N.Y. / Region,Kara,2014-05-18,F
+Fashion & Style,Philip,2014-05-18,M
+Real Estate,Joanne,2014-05-18,F
+Real Estate,Lisa,2014-05-18,F
+Real Estate,Ronda,2014-05-18,F
+Movies,Eric,2014-05-18,M
+Books,Kevin,2014-05-18,M
+Books,Michael,2014-05-18,M
+Movies,J.,2014-05-18,M
+Travel,Jack,2014-05-18,M
+Movies,Dave,2014-05-18,F
+Movies,Erik,2014-05-18,M
+Arts,Blake,2014-05-18,M
+Theater,Sarah,2014-05-18,F
+Magazine,Paul,2014-05-18,M
+Arts,Stacey,2014-05-18,F
+Arts,Siobhan,2014-05-18,M
+Arts,Vivien,2014-05-18,M
+Theater,Steven,2014-05-18,M
+Magazine,Sam,2014-05-18,M
+Theater,Scott,2014-05-18,M
+Real Estate,Joyce,2014-05-18,F
+Theater,Charles,2014-05-18,M
+Travel,Stephanie,2014-05-18,F
+Magazine,Geoffrey,2014-05-18,F
+Magazine,Photographs,2014-05-18,M
+Travel,Kenan,2014-05-18,M
+Travel,Jeanine,2014-05-18,F
+Real Estate,Marcelle,2014-05-18,F
+Magazine,Chuck,2014-05-18,M
+Books,Francine,2014-05-18,F
+Magazine,Annie,2014-05-18,F
+Books,Gregory,2014-05-18,M
+Arts,Patrick,2014-05-19,M
+Crosswords/Games,Deb,2014-05-19,M
+Business Day,Andrew,2014-05-19,M
+,Robert,2014-05-19,M
+Business Day,Jenny,2014-05-19,F
+Technology,Nick,2014-05-19,M
+Business Day,Jessica,2014-05-19,F
+Opinion,Richard,2014-05-19,M
+Opinion,Michael,2014-05-19,M
+Business Day,Jack,2014-05-19,M
+Technology,Nicole,2014-05-19,F
+Technology,Nick,2014-05-19,M
+Arts,Marjorie,2014-05-19,F
+Business Day,Michael,2014-05-19,M
+Travel,Charu,2014-05-19,M
+Opinion,Jesse,2014-05-19,F
+Technology,Nick,2014-05-19,M
+Arts,Robin,2014-05-19,M
+false,Matt,2014-05-19,M
+Health,Benedict,2014-05-19,M
+Health,Larry,2014-05-19,M
+N.Y. / Region,Ginia,2014-05-19,F
+U.S.,Katie,2014-05-19,F
+Health,Abigail,2014-05-19,M
+Business Day,Ben,2014-05-19,M
+U.S.,Katherine,2014-05-19,F
+Opinion,Juliet,2014-05-19,M
+Arts,Erik,2014-05-19,M
+false,Andrew,2014-05-19,M
+Opinion,Ross,2014-05-19,M
+Business Day,Michael,2014-05-19,M
+T:Style,Alainna,2014-05-19,F
+Arts,Allan,2014-05-19,M
+Style,Jacob,2014-05-19,M
+Your Money,Carl,2014-05-19,M
+Health,Nicholas,2014-05-19,M
+Business Day,Stuart,2014-05-19,M
+Business Day,Gene,2014-05-19,F
+Style,Matthew,2014-05-19,M
+T:Style,Laura,2014-05-19,F
+Business Day,William,2014-05-19,M
+Opinion,Ross,2014-05-19,M
+Opinion,Vikas,2014-05-19,M
+Opinion,Jennifer,2014-05-19,M
+Business Day,Stuart,2014-05-19,M
+Style,Jacob,2014-05-19,M
+Health,Martha,2014-05-19,F
+Arts,George,2014-05-19,M
+Business Day,Steven,2014-05-19,M
+,Christian,2014-05-19,M
+Multimedia/Photos,Christian,2014-05-19,M
+false,Dan,2014-05-19,M
+Crosswords & Games,Gary,2014-05-19,F
+Business Day,Jeffrey,2014-05-19,F
+Food,Liza,2014-05-19,F
+Food,Liza,2014-05-19,F
+Arts,Roslyn,2014-05-19,F
+World,Nida,2014-05-19,F
+Arts,Logan,2014-05-19,M
+,International,2014-05-19,M
+Travel,Rachel,2014-05-19,M
+World,Saritha,2014-05-19,F
+Technology,Brian,2014-05-19,M
+,Eviana,2014-05-19,F
+Business Day,William,2014-05-19,M
+World,Didi,2014-05-19,F
+Automobiles,John,2014-05-19,M
+World,Austin,2014-05-19,M
+Business Day,Sydney,2014-05-19,F
+Business Day,Michael,2014-05-19,M
+Magazine,Rachel,2014-05-19,M
+Business Day,Deb,2014-05-19,M
+Education,Larry,2014-05-19,M
+World,Malavika,2014-05-19,F
+Opinion,Paul,2014-05-19,M
+World,Nida,2014-05-19,F
+Opinion,Paul,2014-05-19,M
+,International,2014-05-19,M
+N.Y. / Region,Annie,2014-05-19,F
+U.S.,Joseph,2014-05-19,M
+U.S.,Shannon,2014-05-19,M
+Multimedia,Andrew,2014-05-19,M
+U.S.,Shannon,2014-05-19,M
+World,Neha,2014-05-19,F
+World,Austin,2014-05-19,M
+Business Day,Chad,2014-05-19,M
+World,Jonah,2014-05-19,F
+N.Y. / Region,Daniel,2014-05-19,M
+Business Day,Michael,2014-05-19,M
+Arts,Kathryn,2014-05-19,M
+,Carrie,2014-05-19,F
+Health,Jane,2014-05-19,F
+Sports,Richard,2014-05-19,M
+N.Y. / Region,James,2014-05-19,M
+World,Anne,2014-05-19,F
+World,Rick,2014-05-19,M
+World,Mark,2014-05-19,M
+Business Day,Stuart,2014-05-19,M
+World,Rod,2014-05-19,M
+Sports,Seth,2014-05-19,F
+World,Suliman,2014-05-19,M
+Theater,Ben,2014-05-19,M
+Arts,Alessandra,2014-05-19,F
+World,Floyd,2014-05-19,M
+Business Day,Leslie,2014-05-19,F
+N.Y. / Region,Ariel,2014-05-19,M
+Business Day,David,2014-05-19,M
+World,Sebnem,2014-05-19,M
+U.S.,Jonathan,2014-05-19,M
+World,Choe,2014-05-19,F
+N.Y. / Region,Paul,2014-05-19,M
+Sports,Scott,2014-05-19,M
+World,David,2014-05-19,M
+Business Day,Michael,2014-05-19,M
+U.S.,Matthew,2014-05-19,M
+Sports,James,2014-05-19,M
+World,Adam,2014-05-19,M
+Opinion,Paul,2014-05-19,M
+Sports,Jeff,2014-05-19,M
+Opinion,Charles,2014-05-19,M
+Sports,Jeff,2014-05-19,M
+Business Day,Stuart,2014-05-19,M
+N.Y. / Region,J.,2014-05-19,M
+U.S.,Michael,2014-05-19,M
+Sports,Joe,2014-05-19,F
+Sports,William,2014-05-19,M
+U.S.,Motoko,2014-05-19,F
+Sports,Ben,2014-05-19,M
+Technology,Joe,2014-05-19,F
+World,Gardiner,2014-05-19,M
+Sports,Daniel,2014-05-19,M
+Sports,Harvey,2014-05-19,F
+U.S.,Clyde,2014-05-19,F
+World,Simon,2014-05-19,M
+Education,Tamar,2014-05-19,M
+Crosswords & Games,Phillip,2014-05-19,M
+Sports,Tim,2014-05-19,M
+Arts,Ben,2014-05-19,M
+Business Day,Elizabeth,2014-05-19,F
+Arts,James,2014-05-19,M
+Arts,Alastair,2014-05-19,M
+Movies,Manohla,2014-05-19,F
+Arts,Patricia,2014-05-19,F
+Arts,Siobhan,2014-05-19,M
+U.S.,Brian,2014-05-19,M
+Books,Ethan,2014-05-19,M
+Health,Denise,2014-05-19,F
+Books,Chris,2014-05-19,M
+Sports,Jorge,2014-05-19,M
+Arts,Anthony,2014-05-19,F
+Arts,Jon,2014-05-19,M
+Business Day,Nicola,2014-05-19,F
+U.S.,Brian,2014-05-19,M
+Business Day,Melissa,2014-05-19,F
+Opinion,Graeme,2014-05-19,F
+Opinion,Khaled,2014-05-19,M
+Opinion,Yulia,2014-05-19,F
+Opinion,Beppe,2014-05-19,M
+N.Y. / Region,James,2014-05-19,M
+Sports,Rob,2014-05-19,M
+Sports,Joe,2014-05-19,F
+Arts,Scott,2014-05-19,M
+N.Y. / Region,Rachel,2014-05-19,M
+U.S.,Albert,2014-05-19,M
+World,Elaine,2014-05-19,F
+N.Y. / Region,J.,2014-05-19,M
+World,Jane,2014-05-19,F
+Business Day,Sarah,2014-05-19,F
+World,Choe,2014-05-19,F
+Arts,Margalit,2014-05-19,M
+Theater,Bruce,2014-05-19,M
+Arts,Kate,2014-05-20,F
+Crosswords/Games,Deb,2014-05-20,M
+Business Day,Alexandra,2014-05-20,F
+Business Day,Rachel,2014-05-20,M
+,Robert,2014-05-20,M
+Your Money,Ann,2014-05-20,F
+Arts,Jennifer,2014-05-20,M
+T:Style,Marissa,2014-05-20,F
+Business Day,Steven,2014-05-20,M
+U.S.,Katie,2014-05-20,F
+Arts,Allan,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Eugene,2014-05-20,F
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Eugene,2014-05-20,F
+Food,Eugene,2014-05-20,F
+Opinion,Jennifer,2014-05-20,M
+Travel,Shivani,2014-05-20,F
+Arts,Patrick,2014-05-20,M
+U.S.,Amy,2014-05-20,F
+Opinion,Ross,2014-05-20,M
+Travel,Seth,2014-05-20,F
+Opinion,David,2014-05-20,M
+Health,Paula,2014-05-20,F
+,Eviana,2014-05-20,F
+Business Day,Adriana,2014-05-20,F
+Arts,Allan,2014-05-20,M
+U.S.,Jason,2014-05-20,M
+Magazine,Susan,2014-05-20,M
+U.S.,Tom,2014-05-20,M
+T:Style,Malina,2014-05-20,F
+Business Day,Christopher,2014-05-20,M
+Business Day,Peter,2014-05-20,M
+Business Day,David,2014-05-20,M
+Travel,Sarah,2014-05-20,F
+Opinion,Nicole,2014-05-20,F
+N.Y. / Region,William,2014-05-20,M
+Arts,Allan,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Movies,Robin,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+Food,Poh,2014-05-20,M
+,Christian,2014-05-20,M
+Multimedia/Photos,Christian,2014-05-20,M
+World,Vishnu,2014-05-20,M
+Arts,Manohla,2014-05-20,F
+false,Julie,2014-05-20,F
+World,Malavika,2014-05-20,F
+Arts,Michael,2014-05-20,M
+Technology,Edward,2014-05-20,M
+Arts,Doreen,2014-05-20,M
+Business Day,Gene,2014-05-20,F
+Blogs,Erika,2014-05-20,F
+Opinion,Andrew,2014-05-20,M
+U.S.,Devorah,2014-05-20,F
+Business Day,Chad,2014-05-20,M
+T:Style,John,2014-05-20,M
+Arts,Robin,2014-05-20,M
+N.Y. / Region,Mary,2014-05-20,F
+Food,Poh,2014-05-20,M
+Business Day,Sydney,2014-05-20,F
+,Philip,2014-05-20,M
+Business Day,Chad,2014-05-20,M
+Arts,Stephen,2014-05-20,M
+World,Amy,2014-05-20,F
+,International,2014-05-20,M
+Fashion & Style,Sofia,2014-05-20,F
+Business Day,Chad,2014-05-20,M
+Business Day,Eilene,2014-05-20,F
+World,Austin,2014-05-20,M
+U.S.,Adeel,2014-05-20,M
+N.Y. / Region,Annie,2014-05-20,F
+Business Day,Chad,2014-05-20,M
+Business Day,Jenny,2014-05-20,F
+U.S.,Michael,2014-05-20,M
+Multimedia,James,2014-05-20,M
+U.S.,Michael,2014-05-20,M
+U.S.,Michael,2014-05-20,M
+World,Austin,2014-05-20,M
+Business Day,Chad,2014-05-20,M
+Technology,Mark,2014-05-20,M
+Business Day,Neil,2014-05-20,M
+The Upshot,Nate,2014-05-20,F
+N.Y. / Region,Matt,2014-05-20,M
+Arts,Kathryn,2014-05-20,M
+,Natalia,2014-05-20,F
+Multimedia/Photos,Natalia,2014-05-20,F
+Business Day,Bruce,2014-05-20,M
+N.Y. / Region,Matt,2014-05-20,M
+N.Y. / Region,Benjamin,2014-05-20,M
+U.S.,Mark,2014-05-20,M
+Arts,Allan,2014-05-20,M
+Business Day,Brooks,2014-05-20,M
+Sports,Jeff,2014-05-20,M
+T Magazine,Julie,2014-05-20,F
+N.Y. / Region,J.,2014-05-20,M
+World,Rick,2014-05-20,M
+N.Y. / Region,James,2014-05-20,M
+N.Y. / Region,Kate,2014-05-20,F
+Sports,Melissa,2014-05-20,F
+N.Y. / Region,Michael,2014-05-20,M
+World,Isabel,2014-05-20,M
+U.S.,Jada,2014-05-20,F
+World,Isma'il,2014-05-20,M
+Business Day,John,2014-05-20,M
+World,Ellen,2014-05-20,M
+N.Y. / Region,Nikita,2014-05-20,F
+N.Y. / Region,Matt,2014-05-20,M
+Sports,Rob,2014-05-20,M
+Sports,Frank,2014-05-20,M
+World,Suliman,2014-05-20,M
+Sports,Richard,2014-05-20,M
+Opinion,Joe,2014-05-20,F
+Sports,David,2014-05-20,M
+World,Neil,2014-05-20,M
+Sports,Harvey,2014-05-20,F
+U.S.,Jonathan,2014-05-20,M
+Opinion,David,2014-05-20,M
+N.Y. / Region,Al,2014-05-20,M
+World,Thomas,2014-05-20,M
+World,Rick,2014-05-20,M
+U.S.,Jennifer,2014-05-20,M
+Sports,John,2014-05-20,M
+Business Day,Jane,2014-05-20,F
+Business Day,Edward,2014-05-20,M
+U.S.,Kirk,2014-05-20,M
+World,Tim,2014-05-20,M
+N.Y. / Region,Ariel,2014-05-20,M
+U.S.,Alan,2014-05-20,M
+Sports,Tim,2014-05-20,M
+Your Money,Tara,2014-05-20,F
+Opinion,Michael,2014-05-20,M
+Business Day,Bill,2014-05-20,M
+U.S.,Frances,2014-05-20,M
+Movies,John,2014-05-20,M
+Sports,Ben,2014-05-20,M
+Business Day,Elizabeth,2014-05-20,F
+U.S.,Alan,2014-05-20,M
+Real Estate,Julie,2014-05-20,F
+Opinion,Frank,2014-05-20,M
+Arts,Nate,2014-05-20,F
+Arts,Alessandra,2014-05-20,F
+Arts,Alastair,2014-05-20,M
+Arts,Jon,2014-05-20,M
+Arts,Siobhan,2014-05-20,M
+Science,Natalie,2014-05-20,F
+Opinion,Michelle,2014-05-20,F
+N.Y. / Region,Michael,2014-05-20,M
+Books,Charles,2014-05-20,M
+Arts,Anthony,2014-05-20,F
+Books,Michiko,2014-05-20,F
+Arts,Siobhan,2014-05-20,M
+N.Y. / Region,Joseph,2014-05-20,M
+Science,Kenneth,2014-05-20,F
+Science,Abigail,2014-05-20,M
+Arts,Zachary,2014-05-20,F
+Arts,Stephen,2014-05-20,M
+Arts,Michael,2014-05-20,M
+Science,Kenneth,2014-05-20,F
+Arts,Vivien,2014-05-20,M
+Sports,Ben,2014-05-20,M
+The Upshot,Aaron,2014-05-20,M
+Sports,Andrew,2014-05-20,M
+Business Day,Lance,2014-05-20,F
+Science,C.,2014-05-20,M
+U.S.,Katharine,2014-05-20,F
+Business Day,Joe,2014-05-20,F
+Automobiles,Benjamin,2014-05-20,M
+Automobiles,Christopher,2014-05-20,M
+Arts,Robin,2014-05-20,M
+Health,Donald,2014-05-20,M
+Science,George,2014-05-20,M
+Business Day,Adam,2014-05-20,M
+World,Stephen,2014-05-20,M
+N.Y. / Region,Benjamin,2014-05-20,M
+N.Y. / Region,Corey,2014-05-20,F
+Automobiles,Jerry,2014-05-20,M
+World,Keith,2014-05-20,M
+World,Duraid,2014-05-20,M
+Science,Sindya,2014-05-20,F
+The Upshot,Megan,2014-05-20,M
+U.S.,David,2014-05-20,M
+World,Thomas,2014-05-20,M
+Health,Martha,2014-05-20,F
+The Upshot,Jared,2014-05-20,M
+Sports,Ben,2014-05-20,M
+Sports,Jack,2014-05-20,M
+Automobiles,Christopher,2014-05-20,M
+World,Celestine,2014-05-20,F
+World,Ron,2014-05-20,M
+N.Y. / Region,Vivian,2014-05-20,M
+The Upshot,Michael,2014-05-20,M
+N.Y. / Region,James,2014-05-20,M
+Business Day,Ravi,2014-05-20,F
+Sports,Joe,2014-05-20,F
+U.S.,Adam,2014-05-20,M
+World,David,2014-05-20,M
+World,Choe,2014-05-20,F
+N.Y. / Region,J.,2014-05-20,M
+World,Anne,2014-05-20,F
+U.S.,Michael,2014-05-20,M
+Opinion,Kenan,2014-05-20,M
+The Upshot,Nate,2014-05-20,F
+Opinion,Roger,2014-05-20,M
+World,Choe,2014-05-20,F
+The Upshot,Derek,2014-05-20,M
+Business Day,Nicola,2014-05-20,F
+Arts,Ashley,2014-05-20,F
+Business Day,William,2014-05-20,M
+Science,Sindya,2014-05-20,F
+Arts,Sarah,2014-05-21,F
+World,Didi,2014-05-21,F
+Crosswords/Games,Deb,2014-05-21,M
+World,Andrew,2014-05-21,M
+Business Day,Michael,2014-05-21,M
+,Robert,2014-05-21,M
+Magazine,Mark,2014-05-21,M
+Business Day,Matthew,2014-05-21,M
+Opinion,Katie,2014-05-21,F
+Technology,Nick,2014-05-21,M
+Opinion,Dillon,2014-05-21,M
+Opinion,David,2014-05-21,M
+Technology,Rebekah,2014-05-21,F
+Business Day,Michael,2014-05-21,M
+World,Didi,2014-05-21,F
+false,Alexander,2014-05-21,M
+Arts,Allan,2014-05-21,M
+Movies,Oscilloscope,2014-05-21,F
+World,Quynhanh,2014-05-21,F
+Business Day,Michael,2014-05-21,M
+Movies,Century,2014-05-21,M
+Movies,Warner,2014-05-21,M
+Movies,Ifc,2014-05-21,M
+Travel,Shivani,2014-05-21,F
+U.S.,Rick,2014-05-21,M
+Arts,Ben,2014-05-21,M
+Arts,Rachel,2014-05-21,M
+U.S.,Patrick,2014-05-21,M
+Technology,Nick,2014-05-21,M
+T:Style,Julie,2014-05-21,F
+Opinion,Jennifer,2014-05-21,M
+Technology,Nicole,2014-05-21,F
+Arts,Patrick,2014-05-21,M
+Health,Nicholas,2014-05-21,M
+Opinion,Vikas,2014-05-21,M
+Opinion,Ross,2014-05-21,M
+Business Day,William,2014-05-21,M
+Business Day,Peter,2014-05-21,M
+Arts,Allan,2014-05-21,M
+Business Day,Chad,2014-05-21,M
+Books,Sarah,2014-05-21,F
+T:Style,Jeff,2014-05-21,M
+Technology,Dallas,2014-05-21,M
+,Mona,2014-05-21,F
+Multimedia/Photos,Mona,2014-05-21,F
+Arts,Melena,2014-05-21,F
+Arts,Allan,2014-05-21,M
+Travel,Diane,2014-05-21,F
+Opinion,Nicole,2014-05-21,F
+Arts,Allan,2014-05-21,M
+Business Day,Christopher,2014-05-21,M
+Business Day,Gene,2014-05-21,F
+Opinion,Tina,2014-05-21,F
+Business Day,Jesse,2014-05-21,F
+World,Kyle,2014-05-21,F
+T:Style,Malina,2014-05-21,F
+Opinion,Paul,2014-05-21,M
+Opinion,David,2014-05-21,M
+Arts,Erik,2014-05-21,M
+Business Day,Chad,2014-05-21,M
+Opinion,Paul,2014-05-21,M
+Business Day,Dan,2014-05-21,M
+,International,2014-05-21,M
+World,Jyoti,2014-05-21,F
+U.S.,Jill,2014-05-21,M
+T:Style,Alex,2014-05-21,M
+N.Y. / Region,Mark,2014-05-21,M
+Arts,Natalia,2014-05-21,F
+Business Day,Sydney,2014-05-21,F
+Business Day,Rebekah,2014-05-21,F
+World,Amy,2014-05-21,F
+Business Day,Chad,2014-05-21,M
+Arts,Rachel,2014-05-21,M
+N.Y. / Region,Annie,2014-05-21,F
+U.S.,Adeel,2014-05-21,M
+World,Neha,2014-05-21,F
+U.S.,Katherine,2014-05-21,F
+Multimedia,Rena,2014-05-21,F
+U.S.,Katherine,2014-05-21,F
+Opinion,Paul,2014-05-21,M
+World,Austin,2014-05-21,M
+Business Day,Neil,2014-05-21,M
+World,Gerry,2014-05-21,M
+Arts,Kathryn,2014-05-21,M
+Sports,Scott,2014-05-21,M
+Sports,David,2014-05-21,M
+Sports,David,2014-05-21,M
+Sports,Harvey,2014-05-21,F
+,Natalia,2014-05-21,F
+Multimedia/Photos,Natalia,2014-05-21,F
+Health,Gretchen,2014-05-21,M
+Technology,Vindu,2014-05-21,M
+Sports,Zach,2014-05-21,M
+Opinion,Thomas,2014-05-21,M
+Arts,Douglas,2014-05-21,M
+Sports,Scott,2014-05-21,M
+Sports,Tom,2014-05-21,M
+N.Y. / Region,Emma,2014-05-21,F
+Sports,Melissa,2014-05-21,F
+U.S.,Jess,2014-05-21,M
+Arts,Siobhan,2014-05-21,M
+Sports,Tyler,2014-05-21,M
+N.Y. / Region,Kate,2014-05-21,F
+N.Y. / Region,Charles,2014-05-21,M
+N.Y. / Region,Jim,2014-05-21,M
+Sports,Jeff,2014-05-21,M
+N.Y. / Region,Matthew,2014-05-21,M
+U.S.,Ron,2014-05-21,M
+N.Y. / Region,Patrick,2014-05-21,M
+U.S.,Ashley,2014-05-21,F
+N.Y. / Region,Thomas,2014-05-21,M
+Sports,Ben,2014-05-21,M
+World,Rick,2014-05-21,M
+U.S.,Carl,2014-05-21,M
+World,Alexandra,2014-05-21,F
+Sports,Ian,2014-05-21,M
+Opinion,Maureen,2014-05-21,M
+U.S.,Patricia,2014-05-21,F
+World,Andrew,2014-05-21,M
+U.S.,Trip,2014-05-21,M
+Sports,Raphael,2014-05-21,M
+World,David,2014-05-21,M
+Business Day,David,2014-05-21,M
+U.S.,Charlie,2014-05-21,F
+Sports,Lisa,2014-05-21,F
+World,Michael,2014-05-21,M
+Sports,Scott,2014-05-21,M
+N.Y. / Region,Mireya,2014-05-21,F
+U.S.,Matt,2014-05-21,M
+N.Y. / Region,J.,2014-05-21,M
+U.S.,Abby,2014-05-21,M
+Business Day,Stephanie,2014-05-21,F
+Opinion,Thomas,2014-05-21,M
+Business Day,Eduardo,2014-05-21,M
+U.S.,Steven,2014-05-21,M
+Real Estate,Rosalie,2014-05-21,F
+Opinion,Jacob,2014-05-21,M
+U.S.,Jennifer,2014-05-21,M
+Science,James,2014-05-21,M
+World,Adam,2014-05-21,M
+U.S.,Ron,2014-05-21,M
+Opinion,Mark,2014-05-21,M
+Arts,Melena,2014-05-21,F
+N.Y. / Region,Matt,2014-05-21,M
+Arts,Eve,2014-05-21,F
+Business Day,Andrew,2014-05-21,M
+Arts,Vivien,2014-05-21,M
+Arts,Michael,2014-05-21,M
+Arts,Zachary,2014-05-21,F
+Food,Rosie,2014-05-21,F
+The Upshot,Josh,2014-05-21,M
+Arts,Tom,2014-05-21,M
+Business Day,Sam,2014-05-21,M
+Real Estate,Vivian,2014-05-21,M
+Books,Jennifer,2014-05-21,M
+Business Day,Elizabeth,2014-05-21,F
+Real Estate,Landon,2014-05-21,M
+Food,Florence,2014-05-21,F
+World,Thomas,2014-05-21,M
+Books,Dwight,2014-05-21,M
+U.S.,Erik,2014-05-21,M
+Real Estate,Julie,2014-05-21,F
+Food,Florence,2014-05-21,F
+Sports,Walt,2014-05-21,M
+World,Andrew,2014-05-21,M
+The Upshot,Josh,2014-05-21,M
+Food,Pete,2014-05-21,F
+N.Y. / Region,Benjamin,2014-05-21,M
+Automobiles,Benjamin,2014-05-21,M
+Food,Maria,2014-05-21,F
+Sports,Juliet,2014-05-21,M
+Technology,Nick,2014-05-21,M
+Food,Robert,2014-05-21,M
+Food,Florence,2014-05-21,F
+Technology,James,2014-05-21,M
+Education,Alan,2014-05-21,M
+Sports,Ben,2014-05-21,M
+World,Ellen,2014-05-21,M
+The Upshot,Brendan,2014-05-21,M
+World,Ben,2014-05-21,M
+Business Day,Bill,2014-05-21,M
+Health,Sabrina,2014-05-21,F
+U.S.,Michael,2014-05-21,M
+Business Day,Elizabeth,2014-05-21,F
+Sports,Jack,2014-05-21,M
+World,Jodi,2014-05-21,F
+N.Y. / Region,Lisa,2014-05-21,F
+Sports,Matt,2014-05-21,M
+Food,Maria,2014-05-21,F
+U.S.,Julia,2014-05-21,F
+Arts,Carol,2014-05-21,M
+Business Day,Elizabeth,2014-05-21,F
+World,Jane,2014-05-21,F
+Arts,Stephen,2014-05-21,M
+Arts,Chen,2014-05-21,M
+World,Steven,2014-05-21,M
+Business Day,Brooks,2014-05-21,M
+World,Nicola,2014-05-21,F
+Opinion,Ali,2014-05-21,F
+U.S.,Jonathan,2014-05-21,M
+Opinion,Edward,2014-05-21,M
+Opinion,Jochen,2014-05-21,M
+Sports,Rob,2014-05-21,M
+Opinion,Ozgur,2014-05-21,M
+The Upshot,Brendan,2014-05-21,M
+World,David,2014-05-21,M
+Business Day,Keith,2014-05-21,M
+Business Day,Mark,2014-05-21,M
+World,Alan,2014-05-21,M
+World,Martin,2014-05-21,M
+World,Thomas,2014-05-21,M
+Food,Eric,2014-05-21,M
+Food,Jeff,2014-05-21,M
+World,Fares,2014-05-21,M
+Health,Martha,2014-05-21,F
+Food,David,2014-05-21,M
+Food,Melissa,2014-05-21,F
+Food,Ligaya,2014-05-21,F
+Movies,A.,2014-05-22,M
+Movies,Stephen,2014-05-22,M
+Movies,A.,2014-05-22,M
+Crosswords/Games,Deb,2014-05-22,M
+Business Day,Ben,2014-05-22,M
+Movies,Lionsgate,2014-05-22,F
+Movies,A.,2014-05-22,M
+Technology,Nick,2014-05-22,M
+Movies,Stephen,2014-05-22,M
+World,Robert,2014-05-22,M
+Movies,Stephen,2014-05-22,M
+Business Day,Danny,2014-05-22,F
+Books,Daniel,2014-05-22,M
+Movies,Stephen,2014-05-22,M
+,Robert,2014-05-22,M
+Movies,Robin,2014-05-22,M
+Arts,Byron,2014-05-22,M
+Business Day,Hiroko,2014-05-22,F
+Arts,Byron,2014-05-22,M
+Arts,Byron,2014-05-22,M
+World,Reem,2014-05-22,M
+Health,Nicholas,2014-05-22,M
+World,Emily,2014-05-22,F
+Travel,Fat,2014-05-22,M
+Arts,Robin,2014-05-22,M
+Arts,Bill,2014-05-22,M
+U.S.,Michael,2014-05-22,M
+U.S.,Rick,2014-05-22,M
+Style,Stuart,2014-05-22,M
+Arts,Michael,2014-05-22,M
+Health,Tara,2014-05-22,F
+Opinion,Andrew,2014-05-22,M
+Opinion,Ross,2014-05-22,M
+false,Gay,2014-05-22,F
+Arts,Mekado,2014-05-22,M
+Opinion,Jennifer,2014-05-22,M
+,Christian,2014-05-22,M
+Arts,Christian,2014-05-22,M
+Movies,Mekado,2014-05-22,M
+Business Day,Elizabeth,2014-05-22,F
+Movies,Film,2014-05-22,M
+U.S.,Elisabeth,2014-05-22,F
+Arts,Patrick,2014-05-22,M
+U.S.,Katherine,2014-05-22,F
+Arts,Allan,2014-05-22,M
+Opinion,Vikas,2014-05-22,M
+Arts,Allan,2014-05-22,M
+Health,Paula,2014-05-22,F
+Travel,Shivani,2014-05-22,F
+Arts,Rachel,2014-05-22,M
+,Mona,2014-05-22,F
+Multimedia/Photos,Mona,2014-05-22,F
+Opinion,Margaret,2014-05-22,M
+Multimedia/Photos,Erika,2014-05-22,F
+Business Day,Chad,2014-05-22,M
+Arts,Anthony,2014-05-22,F
+false,Jamie,2014-05-22,F
+Business Day,Gene,2014-05-22,F
+Business Day,Robyn,2014-05-22,M
+U.S.,Jessica,2014-05-22,F
+World,Suhasini,2014-05-22,F
+Business Day,Michael,2014-05-22,M
+U.S.,Shannon,2014-05-22,M
+Opinion,Francis,2014-05-22,M
+Arts,Michael,2014-05-22,M
+Business Day,Rachel,2014-05-22,M
+T:Style,Tom,2014-05-22,M
+World,Vishnu,2014-05-22,M
+World,Radhika,2014-05-22,F
+Business Day,Alexandra,2014-05-22,F
+Arts,Rachel,2014-05-22,M
+false,Andrew,2014-05-22,M
+The Upshot,Brendan,2014-05-22,M
+Business Day,William,2014-05-22,M
+Business Day,Chad,2014-05-22,M
+,International,2014-05-22,M
+World,Bree,2014-05-22,F
+Business Day,Michael,2014-05-22,M
+N.Y. / Region,Howell,2014-05-22,M
+Opinion,Ross,2014-05-22,M
+Business Day,William,2014-05-22,M
+T:Style,Charlotte,2014-05-22,F
+Business Day,Sydney,2014-05-22,F
+Magazine,Jeannie,2014-05-22,F
+Technology,David,2014-05-22,M
+Business Day,Robb,2014-05-22,M
+Business Day,Jack,2014-05-22,M
+Health,Pauline,2014-05-22,F
+U.S.,Adeel,2014-05-22,M
+N.Y. / Region,Andy,2014-05-22,F
+U.S.,Katherine,2014-05-22,F
+Multimedia,David,2014-05-22,M
+U.S.,Katherine,2014-05-22,F
+Business Day,Chad,2014-05-22,M
+U.S.,Shannon,2014-05-22,M
+The Upshot,Neil,2014-05-22,M
+Business Day,Chad,2014-05-22,M
+World,Edward,2014-05-22,M
+Arts,Kathryn,2014-05-22,M
+Sports,Carl,2014-05-22,M
+U.S.,Coral,2014-05-22,M
+,Carrie,2014-05-22,F
+Multimedia/Photos,Carrie,2014-05-22,F
+Health,Gretchen,2014-05-22,M
+Health,Donald,2014-05-22,M
+U.S.,Charlie,2014-05-22,F
+U.S.,Jonathan,2014-05-22,M
+World,Hari,2014-05-22,F
+U.S.,Jeremy,2014-05-22,F
+N.Y. / Region,Ashley,2014-05-22,F
+Sports,Tim,2014-05-22,M
+The Upshot,Neil,2014-05-22,M
+World,Suliman,2014-05-22,M
+U.S.,Margalit,2014-05-22,M
+Sports,James,2014-05-22,M
+World,Marlise,2014-05-22,F
+N.Y. / Region,Alan,2014-05-22,M
+U.S.,Robert,2014-05-22,M
+World,Somini,2014-05-22,F
+Business Day,Brooks,2014-05-22,M
+N.Y. / Region,Matt,2014-05-22,M
+N.Y. / Region,Michael,2014-05-22,M
+World,Andrew,2014-05-22,M
+U.S.,Kirk,2014-05-22,M
+N.Y. / Region,Ariel,2014-05-22,M
+N.Y. / Region,Vivian,2014-05-22,M
+World,Scott,2014-05-22,M
+U.S.,John,2014-05-22,M
+World,Mark,2014-05-22,M
+U.S.,Jennifer,2014-05-22,M
+World,Andrew,2014-05-22,M
+U.S.,Steven,2014-05-22,M
+Opinion,Nicholas,2014-05-22,M
+Sports,Jeff,2014-05-22,M
+World,Rick,2014-05-22,M
+Business Day,Clifford,2014-05-22,M
+U.S.,Lizette,2014-05-22,F
+Sports,John,2014-05-22,M
+N.Y. / Region,Michael,2014-05-22,M
+World,Katrin,2014-05-22,M
+Technology,David,2014-05-22,M
+N.Y. / Region,J.,2014-05-22,M
+Business Day,Stephanie,2014-05-22,F
+Business Day,Matthew,2014-05-22,M
+Sports,Scott,2014-05-22,M
+Business Day,Edward,2014-05-22,M
+Business Day,Andrew,2014-05-22,M
+World,Michael,2014-05-22,M
+Home & Garden,Julie,2014-05-22,F
+Business Day,Michael,2014-05-22,M
+Sports,David,2014-05-22,M
+Opinion,Madeline,2014-05-22,F
+Opinion,Gail,2014-05-22,M
+N.Y. / Region,Kate,2014-05-22,F
+U.S.,Ian,2014-05-22,M
+Opinion,Brendan,2014-05-22,M
+Home & Garden,Rima,2014-05-22,F
+Home & Garden,Rima,2014-05-22,F
+World,Jodi,2014-05-22,F
+Great Homes & Destinations,Sarah,2014-05-22,F
+Home & Garden,Tim,2014-05-22,M
+Home & Garden,Joseph,2014-05-22,M
+Home & Garden,Arlene,2014-05-22,F
+Home & Garden,Rima,2014-05-22,F
+Home & Garden,Julie,2014-05-22,F
+Opinion,Charles,2014-05-22,M
+Home & Garden,Bob,2014-05-22,M
+Technology,Molly,2014-05-22,F
+N.Y. / Region,Kate,2014-05-22,F
+World,Eric,2014-05-22,M
+Fashion & Style,Brian,2014-05-22,M
+Theater,Patrick,2014-05-22,M
+Fashion & Style,Alison,2014-05-22,M
+Arts,Randy,2014-05-22,F
+Movies,Rachel,2014-05-22,M
+Arts,Brian,2014-05-22,M
+Fashion & Style,Jessica,2014-05-22,F
+Theater,Neil,2014-05-22,M
+Arts,Alastair,2014-05-22,M
+World,Rick,2014-05-22,M
+Crosswords & Games,Phillip,2014-05-22,M
+Fashion & Style,Erica,2014-05-22,F
+Arts,Mike,2014-05-22,F
+Arts,Gia,2014-05-22,F
+Fashion & Style,Guy,2014-05-22,M
+Arts,Anthony,2014-05-22,F
+Fashion & Style,John,2014-05-22,M
+Arts,Alessandra,2014-05-22,F
+Fashion & Style,Jeremy,2014-05-22,F
+Books,Liesl,2014-05-22,F
+U.S.,Trip,2014-05-22,M
+Books,Judith,2014-05-22,M
+Sports,Tim,2014-05-22,M
+World,Steven,2014-05-22,M
+Fashion & Style,Matthew,2014-05-22,M
+Sports,Karen,2014-05-22,M
+N.Y. / Region,Benjamin,2014-05-22,M
+N.Y. / Region,Thomas,2014-05-22,M
+Great Homes & Destinations,Mike,2014-05-22,F
+N.Y. / Region,Joseph,2014-05-22,M
+Great Homes & Destinations,Virginia,2014-05-22,F
+U.S.,Jonathan,2014-05-22,M
+Business Day,Nelson,2014-05-22,M
+Arts,Brian,2014-05-22,M
+Health,Denise,2014-05-22,F
+N.Y. / Region,Stephen,2014-05-22,M
+Fashion & Style,John,2014-05-22,M
+The Upshot,Lynn,2014-05-22,F
+Technology,Nicole,2014-05-22,F
+Automobiles,Benjamin,2014-05-22,M
+Business Day,Loren,2014-05-22,M
+Business Day,Ben,2014-05-22,M
+Technology,Kit,2014-05-22,M
+Fashion & Style,Alexandra,2014-05-22,F
+Automobiles,Phil,2014-05-22,M
+Fashion & Style,Joanna,2014-05-22,F
+Technology,Farhad,2014-05-22,M
+Fashion & Style,Marisa,2014-05-22,F
+Business Day,Dionne,2014-05-22,F
+U.S.,Sheryl,2014-05-22,M
+World,Ellen,2014-05-22,M
+Technology,Farhad,2014-05-22,M
+Sports,Jack,2014-05-22,M
+N.Y. / Region,Marc,2014-05-22,M
+Sports,Jorge,2014-05-22,M
+World,Rod,2014-05-22,M
+The Upshot,Somini,2014-05-22,F
+The Upshot,Michael,2014-05-22,M
+N.Y. / Region,David,2014-05-22,M
+U.S.,Carl,2014-05-22,M
+World,Michael,2014-05-22,M
+Business Day,Elizabeth,2014-05-22,F
+U.S.,Michael,2014-05-22,M
+Sports,Emma,2014-05-22,F
+Sports,Karen,2014-05-22,M
+Business Day,Mark,2014-05-22,M
+World,David,2014-05-22,M
+The Upshot,Nate,2014-05-22,F
+The Upshot,Nate,2014-05-22,F
+Opinion,Sarah,2014-05-22,F
+Opinion,Mustafa,2014-05-22,F
+Arts,George,2014-05-22,M
+Opinion,Jonathan,2014-05-22,M
+World,Jane,2014-05-22,F
+World,Thomas,2014-05-22,M
+World,Salman,2014-05-22,M
+Arts,Steven,2014-05-22,M
+Fashion & Style,Guy,2014-05-22,M
+World,Andrew,2014-05-22,M
+Technology,J.,2014-05-22,M
+Health,Martha,2014-05-22,F
+U.S.,Benedict,2014-05-22,M
+Opinion,Nicole,2014-05-23,F
+Crosswords/Games,Deb,2014-05-23,M
+World,Grant,2014-05-23,M
+Fashion & Style,Bill,2014-05-23,M
+World,Robert,2014-05-23,M
+Sports,Vijai,2014-05-23,F
+Blogs,Pamela,2014-05-23,F
+Business Day,Elizabeth,2014-05-23,F
+Technology,Natasha,2014-05-23,F
+Magazine,Jeannie,2014-05-23,F
+Opinion,Paul,2014-05-23,M
+Sports,Quynhanh,2014-05-23,F
+Opinion,Teresa,2014-05-23,F
+Business Day,Steven,2014-05-23,M
+U.S.,Rick,2014-05-23,M
+Travel,Geraldine,2014-05-23,F
+Technology,Farhad,2014-05-23,M
+Movies,Robin,2014-05-23,M
+Movies,Robin,2014-05-23,M
+Movies,Robin,2014-05-23,M
+Opinion,David,2014-05-23,M
+Opinion,Jennifer,2014-05-23,M
+Business Day,Peter,2014-05-23,M
+N.Y. / Region,Michelle,2014-05-23,F
+U.S.,Liisa,2014-05-23,F
+World,Foreign,2014-05-23,M
+Opinion,David,2014-05-23,M
+Magazine,Stacey,2014-05-23,F
+Health,Deborah,2014-05-23,F
+Arts,Ben,2014-05-23,M
+Automobiles,Tom,2014-05-23,M
+Science,George,2014-05-23,M
+,Christian,2014-05-23,M
+Multimedia/Photos,Christian,2014-05-23,M
+Business Day,Eric,2014-05-23,M
+Movies,Nicolas,2014-05-23,M
+Arts,Roslyn,2014-05-23,F
+Fashion & Style,Joanna,2014-05-23,F
+N.Y. / Region,Sharon,2014-05-23,M
+Arts,Allan,2014-05-23,M
+Business Day,Reynolds,2014-05-23,M
+Arts,Kimiko,2014-05-23,F
+false,Kevin,2014-05-23,M
+Arts,Dana,2014-05-23,F
+Business Day,Chad,2014-05-23,M
+Food,Jenny,2014-05-23,F
+Opinion,Philip,2014-05-23,M
+Arts,Mike,2014-05-23,F
+Health,Martha,2014-05-23,F
+Travel,Charu,2014-05-23,M
+Arts,Rachel,2014-05-23,M
+Arts,Jennifer,2014-05-23,M
+T:Style,Tim,2014-05-23,M
+Arts,Allan,2014-05-23,M
+Blogs,Erika,2014-05-23,F
+Business Day,Gene,2014-05-23,F
+Business Day,Dov,2014-05-23,M
+Business Day,Chad,2014-05-23,M
+Arts,Felicia,2014-05-23,F
+World,Malavika,2014-05-23,F
+N.Y. / Region,Stephen,2014-05-23,M
+World,Neha,2014-05-23,F
+Business Day,Alexandra,2014-05-23,F
+false,Alice,2014-05-23,F
+N.Y. / Region,Ashley,2014-05-23,F
+Technology,J.,2014-05-23,M
+World,Sugita,2014-05-23,F
+U.S.,Katherine,2014-05-23,F
+Arts,Kathryn,2014-05-23,M
+Business Day,Sydney,2014-05-23,F
+Arts,Ashley,2014-05-23,F
+Opinion,Andrew,2014-05-23,M
+,International,2014-05-23,M
+Technology,David,2014-05-23,M
+World,Michael,2014-05-23,M
+Business Day,Chad,2014-05-23,M
+Business Day,Chad,2014-05-23,M
+N.Y. / Region,Annie,2014-05-23,F
+U.S.,Adeel,2014-05-23,M
+World,Austin,2014-05-23,M
+Arts,Roslyn,2014-05-23,F
+Multimedia,Eric,2014-05-23,M
+U.S.,Michael,2014-05-23,M
+Business Day,Chad,2014-05-23,M
+U.S.,Michael,2014-05-23,M
+World,Didi,2014-05-23,F
+U.S.,Shannon,2014-05-23,M
+World,Raksha,2014-05-23,F
+Business Day,Chad,2014-05-23,M
+Business Day,Mark,2014-05-23,M
+Movies,Ben,2014-05-23,M
+Movies,Ben,2014-05-23,M
+World,Michael,2014-05-23,M
+Movies,Daniel,2014-05-23,M
+Movies,Nicolas,2014-05-23,M
+Movies,Daniel,2014-05-23,M
+Movies,Nicolas,2014-05-23,M
+,Carrie,2014-05-23,F
+Multimedia/Photos,Carrie,2014-05-23,F
+Sports,Ben,2014-05-23,M
+Sports,David,2014-05-23,M
+Sports,Jeff,2014-05-23,M
+Health,Gretchen,2014-05-23,M
+Movies,Andy,2014-05-23,F
+N.Y. / Region,Marc,2014-05-23,M
+Movies,Daniel,2014-05-23,M
+Science,Bruce,2014-05-23,M
+U.S.,John,2014-05-23,M
+U.S.,Terri,2014-05-23,F
+U.S.,Ross,2014-05-23,M
+Sports,David,2014-05-23,M
+U.S.,Michael,2014-05-23,M
+Sports,Tim,2014-05-23,M
+Sports,Pat,2014-05-23,M
+N.Y. / Region,Michael,2014-05-23,M
+World,Benjamin,2014-05-23,M
+World,Duraid,2014-05-23,M
+World,Rick,2014-05-23,M
+N.Y. / Region,Vivian,2014-05-23,M
+N.Y. / Region,Anemona,2014-05-23,F
+Sports,Raphael,2014-05-23,M
+World,David,2014-05-23,M
+World,Ben,2014-05-23,M
+Theater,Charles,2014-05-23,M
+N.Y. / Region,Patrick,2014-05-23,M
+N.Y. / Region,Joseph,2014-05-23,M
+U.S.,Ian,2014-05-23,M
+World,Katrin,2014-05-23,M
+Sports,Andrew,2014-05-23,M
+Movies,Andy,2014-05-23,F
+World,Edward,2014-05-23,M
+N.Y. / Region,Jim,2014-05-23,M
+Sports,Michael,2014-05-23,M
+U.S.,Colin,2014-05-23,M
+U.S.,Nicholas,2014-05-23,M
+World,Raphael,2014-05-23,M
+N.Y. / Region,David,2014-05-23,M
+U.S.,Jennifer,2014-05-23,M
+Sports,Andrew,2014-05-23,M
+Opinion,David,2014-05-23,M
+Arts,Douglas,2014-05-23,M
+U.S.,Monica,2014-05-23,F
+Sports,Richard,2014-05-23,M
+Science,Michael,2014-05-23,M
+Business Day,Andrew,2014-05-23,M
+Business Day,Andrew,2014-05-23,M
+U.S.,Michael,2014-05-23,M
+Sports,Tyler,2014-05-23,M
+Opinion,Paul,2014-05-23,M
+World,Randal,2014-05-23,M
+Sports,Karen,2014-05-23,M
+Sports,Tom,2014-05-23,M
+Technology,Quentin,2014-05-23,M
+U.S.,Timothy,2014-05-23,F
+Arts,Laurel,2014-05-23,M
+Opinion,Donna,2014-05-23,F
+Arts,Anne,2014-05-23,F
+World,Alison,2014-05-23,M
+Sports,Sam,2014-05-23,M
+Arts,Neil,2014-05-23,M
+Arts,Stephen,2014-05-23,M
+Movies,Manohla,2014-05-23,F
+Arts,Brian,2014-05-23,M
+Arts,Mike,2014-05-23,F
+Arts,Roberta,2014-05-23,F
+Sports,Jeré,2014-05-23,M
+Opinion,Timothy,2014-05-23,F
+Arts,Carol,2014-05-23,M
+U.S.,Michael,2014-05-23,M
+Books,Edward,2014-05-23,M
+Arts,Ken,2014-05-23,M
+Business Day,Ravi,2014-05-23,F
+World,Elisabeth,2014-05-23,F
+Arts,Stacey,2014-05-23,F
+Arts,Patricia,2014-05-23,F
+U.S.,Nick,2014-05-23,M
+Arts,Roberta,2014-05-23,F
+Arts,Roberta,2014-05-23,F
+Arts,Ken,2014-05-23,M
+World,Andrew,2014-05-23,M
+Arts,Vicki,2014-05-23,F
+Arts,Karen,2014-05-23,M
+Arts,Martha,2014-05-23,F
+N.Y. / Region,Thomas,2014-05-23,M
+Arts,Eve,2014-05-23,F
+Automobiles,Benjamin,2014-05-23,M
+Business Day,Floyd,2014-05-23,M
+Business Day,Matthew,2014-05-23,M
+Business Day,Michael,2014-05-23,M
+The Upshot,Josh,2014-05-23,M
+N.Y. / Region,Russ,2014-05-23,M
+N.Y. / Region,A.,2014-05-23,M
+Sports,Matt,2014-05-23,M
+World,Ismail,2014-05-23,M
+The Upshot,Allison,2014-05-23,M
+The Upshot,Alan,2014-05-23,M
+Business Day,Bill,2014-05-23,M
+U.S.,Michael,2014-05-23,M
+Science,Carl,2014-05-23,M
+Science,Douglas,2014-05-23,M
+Food,Maria,2014-05-23,F
+U.S.,Jon,2014-05-23,M
+N.Y. / Region,Stuart,2014-05-23,M
+World,Choe,2014-05-23,F
+Sports,Jeff,2014-05-23,M
+Business Day,Adam,2014-05-23,M
+The Upshot,Neil,2014-05-23,M
+World,Malavika,2014-05-23,F
+U.S.,Jonathan,2014-05-23,M
+Sports,Jack,2014-05-23,M
+Sports,Ben,2014-05-23,M
+World,Steven,2014-05-23,M
+World,Jim,2014-05-23,M
+Arts,Neil,2014-05-23,M
+World,Somini,2014-05-23,F
+Business Day,Stuart,2014-05-23,M
+Books,Janet,2014-05-23,M
+Business Day,Elizabeth,2014-05-23,F
+Technology,Vindu,2014-05-23,M
+Sports,Christopher,2014-05-23,M
+Sports,Christopher,2014-05-23,M
+Arts,Rebecca,2014-05-23,F
+U.S.,Tanzina,2014-05-23,F
+N.Y. / Region,Jodi,2014-05-23,F
+World,Sabrina,2014-05-23,F
+World,Rod,2014-05-23,M
+Opinion,Roger,2014-05-23,M
+Opinion,Murong,2014-05-23,M
+Business Day,Hiroko,2014-05-23,F
+World,Thomas,2014-05-23,M
+Opinion,Sam,2014-05-23,M
+Opinion,Dennis,2014-05-23,M
+Business Day,David,2014-05-23,M
+World,James,2014-05-23,M
+World,Choe,2014-05-23,F
+World,Michelle,2014-05-23,F
+World,Chris,2014-05-23,M
+Great Homes and Destinations,Mike,2014-05-23,F
+Great Homes and Destinations,Nicholas,2014-05-23,M
+The Upshot,David,2014-05-23,M
+Health,Martha,2014-05-23,F
+,Jennifer,2014-05-24,M
+Arts,Adam,2014-05-24,M
+Arts,Craig,2014-05-24,M
+Fashion & Style,Samantha,2014-05-24,F
+Multimedia,John,2014-05-24,M
+World,Neil,2014-05-24,M
+Crosswords/Games,Deb,2014-05-24,M
+Opinion,Nicholas,2014-05-24,M
+World,Grant,2014-05-24,M
+U.S.,Elena,2014-05-24,F
+Opinion,Andrew,2014-05-24,M
+Opinion,Philip,2014-05-24,M
+Opinion,Jennifer,2014-05-24,M
+U.S.,Youtube,2014-05-24,F
+Business Day,Kassie,2014-05-24,F
+Crosswords/Games,Deb,2014-05-24,M
+Travel,Rebecca,2014-05-24,F
+,International,2014-05-24,M
+Opinion,Paul,2014-05-24,M
+Arts,Kathryn,2014-05-24,M
+Sports,David,2014-05-24,M
+Sports,Elena,2014-05-24,F
+World,Ceylan,2014-05-24,M
+World,Rick,2014-05-24,M
+Sports,Jorge,2014-05-24,M
+World,Jim,2014-05-24,M
+N.Y. / Region,Emma,2014-05-24,F
+Sports,Richard,2014-05-24,M
+World,William,2014-05-24,M
+World,Adam,2014-05-24,M
+Arts,Daniel,2014-05-24,M
+World,Sabrina,2014-05-24,F
+U.S.,Dan,2014-05-24,M
+Sports,Christopher,2014-05-24,M
+N.Y. / Region,Thomas,2014-05-24,M
+World,Andrew,2014-05-24,M
+U.S.,Manny,2014-05-24,F
+N.Y. / Region,David,2014-05-24,M
+U.S.,Katharine,2014-05-24,F
+Sports,David,2014-05-24,M
+U.S.,Jeremy,2014-05-24,F
+N.Y. / Region,Matt,2014-05-24,M
+Opinion,Joe,2014-05-24,F
+Business Day,Brooks,2014-05-24,M
+Opinion,Sam,2014-05-24,M
+Opinion,Gail,2014-05-24,M
+Theater,Rachel,2014-05-24,M
+N.Y. / Region,Kate,2014-05-24,F
+Business Day,Bill,2014-05-24,M
+World,David,2014-05-24,M
+N.Y. / Region,Patrick,2014-05-24,M
+U.S.,Mark,2014-05-24,M
+N.Y. / Region,Michael,2014-05-24,M
+N.Y. / Region,Kate,2014-05-24,F
+Opinion,Eben,2014-05-24,M
+Business Day,Edward,2014-05-24,M
+Crosswords & Games,Phillip,2014-05-24,M
+Arts,Brian,2014-05-24,M
+Theater,Andy,2014-05-24,F
+Arts,Stephen,2014-05-24,M
+Arts,Neil,2014-05-24,M
+Arts,Zachary,2014-05-24,F
+U.S.,Nicholas,2014-05-24,M
+U.S.,Michael,2014-05-24,M
+Fashion & Style,Joyce,2014-05-24,F
+Arts,Jon,2014-05-24,M
+N.Y. / Region,Thomas,2014-05-24,M
+Arts,Anthony,2014-05-24,F
+Automobiles,Benjamin,2014-05-24,M
+Automobiles,Benjamin,2014-05-24,M
+U.S.,Julie,2014-05-24,F
+Sports,Sam,2014-05-24,M
+The Upshot,Neil,2014-05-24,M
+World,Steven,2014-05-24,M
+Sports,Scott,2014-05-24,M
+Business Day,Ben,2014-05-24,M
+Books,Larry,2014-05-24,M
+The Upshot,Nate,2014-05-24,F
+The Upshot,Megan,2014-05-24,M
+Automobiles,Tom,2014-05-24,M
+Business Day,James,2014-05-24,M
+Sports,Allan,2014-05-24,M
+Your Money,Elizabeth,2014-05-24,F
+Sports,William,2014-05-24,M
+The Upshot,Nate,2014-05-24,F
+The Upshot,Derek,2014-05-24,M
+U.S.,Jonathan,2014-05-24,M
+Automobiles,Christopher,2014-05-24,M
+U.S.,Helene,2014-05-24,F
+Business Day,David,2014-05-24,M
+World,Somini,2014-05-24,F
+N.Y. / Region,Sharon,2014-05-24,M
+Technology,Mark,2014-05-24,M
+The Upshot,Derek,2014-05-24,M
+Sports,Ben,2014-05-24,M
+World,Nick,2014-05-24,M
+Your Money,Paul,2014-05-24,M
+Sports,Brad,2014-05-24,M
+Sports,Brad,2014-05-24,M
+Sports,Brad,2014-05-24,M
+World,Marlise,2014-05-24,F
+World,Jonathan,2014-05-24,M
+The Upshot,Michael,2014-05-24,M
+U.S.,Charlie,2014-05-24,F
+Business Day,Clifford,2014-05-24,M
+World,Andrew,2014-05-24,M
+Sports,Melissa,2014-05-24,F
+Business Day,Stanley,2014-05-24,F
+N.Y. / Region,James,2014-05-24,M
+Sports,Jack,2014-05-24,M
+Business Day,Floyd,2014-05-24,M
+World,Andrew,2014-05-24,M
+Opinion,Adrian,2014-05-24,M
+Business Day,Annie,2014-05-24,F
+Your Money,Ron,2014-05-24,M
+Opinion,Shadi,2014-05-24,F
+Opinion,Teo,2014-05-24,M
+The Upshot,Josh,2014-05-24,M
+Sports,Huw,2014-05-24,M
+Sunday Review,Donald,2014-05-24,M
+World,Thomas,2014-05-24,M
+Opinion,Vali,2014-05-24,F
+Sports,Choe,2014-05-24,F
+World,Ben,2014-05-24,M
+World,Steven,2014-05-24,M
+World,Andrew,2014-05-24,M
+Your Money,Ann,2014-05-24,F
+N.Y. / Region,Paul,2014-05-24,M
+World,Didi,2014-05-25,F
+Arts,Eric,2014-05-25,M
+N.Y. / Region,Michele,2014-05-25,F
+World,Max,2014-05-25,M
+Business Day,David,2014-05-25,M
+Opinion,Steven,2014-05-25,M
+Opinion,Susan,2014-05-25,M
+World,Joyce,2014-05-25,F
+Crosswords/Games,Deb,2014-05-25,M
+Arts,Manohla,2014-05-25,F
+Technology,Nick,2014-05-25,M
+Arts,Brooks,2014-05-25,M
+Sports,Craig,2014-05-25,M
+Arts,Kathryn,2014-05-25,M
+Arts,Lorne,2014-05-25,F
+,International,2014-05-25,M
+U.S.,Marcia,2014-05-25,F
+Sports,Andrew,2014-05-25,M
+Fashion & Style,Rachel,2014-05-25,M
+Fashion & Style,Vincent,2014-05-25,M
+Fashion & Style,Vincent,2014-05-25,M
+U.S.,Ross,2014-05-25,M
+U.S.,Alexa,2014-05-25,F
+U.S.,Morgan,2014-05-25,M
+U.S.,Rachel,2014-05-25,M
+N.Y. / Region,Colin,2014-05-25,M
+U.S.,Richard,2014-05-25,M
+N.Y. / Region,Douglas,2014-05-25,M
+Crosswords & Games,Dylan,2014-05-25,M
+N.Y. / Region,Michael,2014-05-25,M
+U.S.,Ian,2014-05-25,M
+N.Y. / Region,Nicole,2014-05-25,F
+N.Y. / Region,Benjamin,2014-05-25,M
+Sports,Tim,2014-05-25,M
+Sports,Tim,2014-05-25,M
+World,Neil,2014-05-25,M
+Business Day,Alan,2014-05-25,M
+World,David,2014-05-25,M
+Sports,Jeff,2014-05-25,M
+Sports,Michael,2014-05-25,M
+Sports,David,2014-05-25,M
+World,Manohla,2014-05-25,F
+Sports,William,2014-05-25,M
+Sports,Sam,2014-05-25,M
+Sports,Richard,2014-05-25,M
+U.S.,Michael,2014-05-25,M
+Sports,Geoff,2014-05-25,M
+Sports,Stuart,2014-05-25,M
+U.S.,Ian,2014-05-25,M
+U.S.,Helene,2014-05-25,F
+U.S.,Jack,2014-05-25,M
+U.S.,Adam,2014-05-25,M
+Sports,Zach,2014-05-25,M
+Arts,Ben,2014-05-25,M
+Arts,Brian,2014-05-25,M
+Arts,Neil,2014-05-25,M
+Arts,Jack,2014-05-25,M
+Arts,Karen,2014-05-25,M
+World,Andrew,2014-05-25,M
+Sports,Jeff,2014-05-25,M
+World,Mark,2014-05-25,M
+World,Douglas,2014-05-25,M
+Sports,Viv,2014-05-25,M
+World,Ben,2014-05-25,M
+Sports,Jerry,2014-05-25,M
+World,Thomas,2014-05-25,M
+Sports,Benjamin,2014-05-25,M
+World,David,2014-05-25,M
+Opinion,Karl,2014-05-25,M
+Opinion,Maureen,2014-05-25,M
+Sports,Zach,2014-05-25,M
+Opinion,Ross,2014-05-25,M
+Opinion,Frank,2014-05-25,M
+Opinion,Nicholas,2014-05-25,M
+Opinion,Daniel,2014-05-25,M
+Sunday Review,David,2014-05-25,M
+Opinion,Kiera,2014-05-25,F
+Opinion,Kate,2014-05-25,F
+Opinion,Thomas,2014-05-25,M
+Opinion,Anand,2014-05-25,M
+World,Jane,2014-05-25,F
+Sports,Melissa,2014-05-25,F
+World,Andrew,2014-05-25,M
+World,Sabrina,2014-05-25,F
+World,Raphael,2014-05-25,M
+Sports,Ben,2014-05-25,M
+World,Mohammed,2014-05-25,M
+Sports,Andrew,2014-05-25,M
+Sports,Jack,2014-05-25,M
+Sports,Tyler,2014-05-25,M
+Business Day,Ian,2014-05-25,M
+Business Day,Gretchen,2014-05-25,M
+U.S.,Ian,2014-05-25,M
+Business Day,Adam,2014-05-25,M
+The Upshot,Robert,2014-05-25,M
+Business Day,Jeff,2014-05-25,M
+Your Money,David,2014-05-25,M
+Business Day,Edward,2014-05-25,M
+Business Day,Phyllis,2014-05-25,M
+World,Jodi,2014-05-25,F
+Job Market,Perry,2014-05-25,M
+Job Market,Steven,2014-05-25,M
+World,Ellen,2014-05-25,M
+Sports,Daniel,2014-05-25,M
+Opinion,Serge,2014-05-25,M
+U.S.,Douglas,2014-05-25,M
+Movies,Dave,2014-05-25,F
+N.Y. / Region,Emily,2014-05-25,F
+N.Y. / Region,Joanne,2014-05-25,F
+N.Y. / Region,Tammy,2014-05-25,F
+The Upshot,Justin,2014-05-25,M
+N.Y. / Region,Christopher,2014-05-25,M
+Fashion & Style,Jacob,2014-05-25,M
+N.Y. / Region,Alex,2014-05-25,M
+N.Y. / Region,Martha,2014-05-25,F
+Fashion & Style,John,2014-05-25,M
+Fashion & Style,Philip,2014-05-25,M
+Fashion & Style,Ruth,2014-05-25,M
+N.Y. / Region,Sylviane,2014-05-25,F
+Automobiles,John,2014-05-25,M
+Automobiles,Scott,2014-05-25,M
+Automobiles,Christopher,2014-05-25,M
+Automobiles,Leo,2014-05-25,M
+Automobiles,Rob,2014-05-25,M
+Automobiles,Eric,2014-05-25,M
+Fashion & Style,Ruth,2014-05-25,M
+N.Y. / Region,Michael,2014-05-25,M
+Fashion & Style,Guy,2014-05-25,M
+N.Y. / Region,Anita,2014-05-25,F
+Opinion,Nancy,2014-05-25,F
+N.Y. / Region,Michael,2014-05-25,M
+Fashion & Style,Abby,2014-05-25,M
+N.Y. / Region,Ilise,2014-05-25,F
+Real Estate,Michelle,2014-05-25,F
+Real Estate,Michelle,2014-05-25,F
+Fashion & Style,Marianne,2014-05-25,F
+N.Y. / Region,Corey,2014-05-25,F
+N.Y. / Region,Lisa,2014-05-25,F
+Fashion & Style,Bill,2014-05-25,M
+N.Y. / Region,Ginia,2014-05-25,F
+N.Y. / Region,Kathleen,2014-05-25,M
+N.Y. / Region,Alan,2014-05-25,M
+Fashion & Style,Vincent,2014-05-25,M
+Travel,Lauren,2014-05-25,M
+Travel,Emily,2014-05-25,F
+Real Estate,Christian,2014-05-25,M
+Real Estate,Michelle,2014-05-25,F
+Movies,Rachel,2014-05-25,M
+Books,Theodore,2014-05-25,F
+Books,Pamela,2014-05-25,F
+Books,Jonathan,2014-05-25,M
+Books,Curtis,2014-05-25,M
+Books,Naomi,2014-05-25,F
+Books,Alissa,2014-05-25,F
+Books,Rivka,2014-05-25,F
+Books,Emma,2014-05-25,F
+Books,Michelle,2014-05-25,F
+Books,Nicholas,2014-05-25,M
+Fashion & Style,Peggy,2014-05-25,F
+Magazine,Lisa,2014-05-25,F
+Books,Roger,2014-05-25,M
+Books,Anne,2014-05-25,F
+Books,Lionel,2014-05-25,M
+Books,Ihsan,2014-05-25,M
+Books,Charles,2014-05-25,M
+Books,John,2014-05-25,M
+Magazine,Michael,2014-05-25,M
+Magazine,Photographs,2014-05-25,M
+Magazine,Daniel,2014-05-25,M
+Magazine,Heather,2014-05-25,M
+Magazine,Bonnie,2014-05-25,F
+Magazine,Interview,2014-05-25,M
+Magazine,Chuck,2014-05-25,M
+Theater,Michael,2014-05-25,M
+N.Y. / Region,Lisa,2014-05-25,F
+Movies,Steven,2014-05-25,M
+Movies,Marc,2014-05-25,M
+Arts,Jon,2014-05-25,M
+The Upshot,Lynn,2014-05-25,F
+N.Y. / Region,Jonah,2014-05-25,F
+N.Y. / Region,Julie,2014-05-25,F
+Real Estate,Christopher,2014-05-25,M
+Fashion & Style,Michelle,2014-05-25,F
+Travel,Jan,2014-05-25,M
+Travel,Whitney,2014-05-25,F
+Real Estate,Ronda,2014-05-25,F
+Travel,Ann,2014-05-25,F
+Fashion & Style,Philip,2014-05-25,M
+Real Estate,Lisa,2014-05-25,F
+Movies,J.,2014-05-25,M
+Arts,Jon,2014-05-25,M
+Theater,Anthony,2014-05-25,F
+Theater,Alexis,2014-05-25,M
+Arts,Edward,2014-05-25,M
+Arts,Lorne,2014-05-25,F
+Magazine,Jeneen,2014-05-25,M
+Magazine,Julia,2014-05-25,F
+Real Estate,Joyce,2014-05-25,F
+Travel,Carly,2014-05-25,F
+Travel,Shivani,2014-05-25,F
+Travel,Paola,2014-05-25,F
+Theater,Jason,2014-05-25,M
+Theater,Jason,2014-05-25,M
+Arts,Patrick,2014-05-25,M
+Real Estate,C.,2014-05-25,M
+Travel,Joe,2014-05-25,F
+Books,James,2014-05-25,M
+Magazine,Mark,2014-05-25,M
+Books,Gregory,2014-05-25,M
+Books,Michael,2014-05-25,M
+N.Y. / Region,Claire,2014-05-26,F
+Business Day,Andrew,2014-05-26,M
+Crosswords/Games,Deb,2014-05-26,M
+Business Day,Poh,2014-05-26,M
+Business Day,Randall,2014-05-26,M
+Technology,Nick,2014-05-26,M
+Magazine,Rachel,2014-05-26,M
+Health,Roni,2014-05-26,F
+Science,Zach,2014-05-26,M
+Arts,Dave,2014-05-26,F
+Health,Kate,2014-05-26,F
+Theater,Patrick,2014-05-26,M
+Health,Nicholas,2014-05-26,M
+World,Grant,2014-05-26,M
+Health,Martha,2014-05-26,F
+Arts,Roslyn,2014-05-26,F
+Crosswords/Games,Gary,2014-05-26,F
+Arts,Dave,2014-05-26,F
+Opinion,Paul,2014-05-26,M
+U.S.,A.,2014-05-26,M
+Arts,Dave,2014-05-26,F
+Arts,Dave,2014-05-26,F
+Business Day,Jenny,2014-05-26,F
+Opinion,Andrew,2014-05-26,M
+The Upshot,Austin,2014-05-26,M
+World,Nida,2014-05-26,F
+,International,2014-05-26,M
+Arts,Logan,2014-05-26,M
+T:Style,Benoît,2014-05-26,M
+World,Suhasini,2014-05-26,F
+World,Chris,2014-05-26,M
+World,Andrew,2014-05-26,M
+Arts,Kimiko,2014-05-26,F
+Arts,Craig,2014-05-26,M
+World,Austin,2014-05-26,M
+World,Bree,2014-05-26,F
+Business Day,Sonia,2014-05-26,F
+World,Wai,2014-05-26,M
+World,Austin,2014-05-26,M
+Sports,Billy,2014-05-26,F
+Arts,Kathryn,2014-05-26,M
+Sports,Jeff,2014-05-26,M
+Health,Jane,2014-05-26,F
+Sports,Ben,2014-05-26,M
+Sports,Viv,2014-05-26,M
+Sports,Craig,2014-05-26,M
+World,William,2014-05-26,M
+World,David,2014-05-26,M
+N.Y. / Region,Vivian,2014-05-26,M
+Sports,Tyler,2014-05-26,M
+World,Neil,2014-05-26,M
+U.S.,Michael,2014-05-26,M
+N.Y. / Region,Al,2014-05-26,M
+Business Day,Mary,2014-05-26,F
+Sports,Billy,2014-05-26,F
+U.S.,Ian,2014-05-26,M
+Your Money,Reed,2014-05-26,M
+U.S.,Adam,2014-05-26,M
+N.Y. / Region,Corey,2014-05-26,F
+Business Day,Ashley,2014-05-26,F
+World,Sabrina,2014-05-26,F
+Business Day,Leslie,2014-05-26,F
+Sports,Viv,2014-05-26,M
+Business Day,Brooks,2014-05-26,M
+N.Y. / Region,Stuart,2014-05-26,M
+U.S.,Jennifer,2014-05-26,M
+Business Day,David,2014-05-26,M
+Sports,Andrew,2014-05-26,M
+Sports,Andrew,2014-05-26,M
+Opinion,Charles,2014-05-26,M
+World,Anne,2014-05-26,F
+Opinion,Paul,2014-05-26,M
+U.S.,Abby,2014-05-26,M
+World,Anne,2014-05-26,F
+U.S.,David,2014-05-26,M
+Technology,Hiroko,2014-05-26,F
+World,Declan,2014-05-26,M
+N.Y. / Region,Rachel,2014-05-26,M
+Business Day,Elizabeth,2014-05-26,F
+U.S.,Kirk,2014-05-26,M
+Business Day,Michael,2014-05-26,M
+Opinion,J.,2014-05-26,M
+Sports,Zach,2014-05-26,M
+Opinion,Colby,2014-05-26,M
+Sports,Jack,2014-05-26,M
+Arts,Adam,2014-05-26,M
+Sports,Tim,2014-05-26,M
+U.S.,Robert,2014-05-26,M
+Sports,David,2014-05-26,M
+Sports,Christopher,2014-05-26,M
+Crosswords & Games,Phillip,2014-05-26,M
+Movies,Manohla,2014-05-26,F
+Opinion,Alan,2014-05-26,M
+Theater,Adam,2014-05-26,M
+Arts,Harold,2014-05-26,M
+Sports,Lynn,2014-05-26,F
+Theater,Alexis,2014-05-26,M
+Arts,Alessandra,2014-05-26,F
+Books,Judith,2014-05-26,M
+Arts,Bill,2014-05-26,M
+Arts,Zachary,2014-05-26,F
+Arts,Siobhan,2014-05-26,M
+Arts,Margalit,2014-05-26,M
+Sports,George,2014-05-26,M
+Arts,Vivien,2014-05-26,M
+Sports,Jerry,2014-05-26,M
+Arts,Vivien,2014-05-26,M
+Sports,Brad,2014-05-26,M
+Sports,Allan,2014-05-26,M
+U.S.,Emma,2014-05-26,F
+Sports,Naila-jean,2014-05-26,M
+Sports,Huw,2014-05-26,M
+World,Andrew,2014-05-26,M
+World,Michael,2014-05-26,M
+Sports,Rob,2014-05-26,M
+World,Matthew,2014-05-26,M
+N.Y. / Region,David,2014-05-26,M
+U.S.,Albert,2014-05-26,M
+Sports,Ben,2014-05-26,M
+Arts,Scott,2014-05-26,M
+World,Patrick,2014-05-26,M
+World,David,2014-05-26,M
+The Upshot,Austin,2014-05-26,M
+World,Thomas,2014-05-26,M
+World,Andrew,2014-05-26,M
+World,Jodi,2014-05-26,F
+World,Martin,2014-05-26,M
+Business Day,Nicola,2014-05-26,F
+Arts,Douglas,2014-05-26,M
+,Natalia,2014-05-27,F
+Multimedia/Photos,Natalia,2014-05-27,F
+Arts,Kate,2014-05-27,F
+U.S.,Sean,2014-05-27,M
+Technology,Google,2014-05-27,F
+Technology,John,2014-05-27,M
+Business Day,Rachel,2014-05-27,M
+Movies,Nicolas,2014-05-27,M
+Movies,A.,2014-05-27,M
+Technology,Mohit,2014-05-27,M
+Business Day,Steven,2014-05-27,M
+Crosswords/Games,Deb,2014-05-27,M
+Business Day,Amy,2014-05-27,F
+U.S.,Katherine,2014-05-27,F
+Multimedia/Photos,Jodi,2014-05-27,F
+T:Style,Holly,2014-05-27,F
+T Magazine,Richard,2014-05-27,M
+U.S.,Rick,2014-05-27,M
+Business Day,William,2014-05-27,M
+Business Day,Ben,2014-05-27,M
+Health,Toby,2014-05-27,M
+Arts,Allan,2014-05-27,M
+U.S.,Kj,2014-05-27,M
+Opinion,Jennifer,2014-05-27,M
+T:Style,Eviana,2014-05-27,F
+Your Money,Carl,2014-05-27,M
+World,Robert,2014-05-27,M
+Opinion,Vikas,2014-05-27,M
+Arts,Allan,2014-05-27,M
+Opinion,Margaret,2014-05-27,M
+T Magazine,Gay,2014-05-27,F
+Travel,Rachel,2014-05-27,M
+Arts,Dave,2014-05-27,F
+Health,Gretchen,2014-05-27,M
+Business Day,Peter,2014-05-27,M
+Business Day,Gene,2014-05-27,F
+Science,James,2014-05-27,M
+,Emily,2014-05-27,F
+Multimedia/Photos,Christian,2014-05-27,M
+Business Day,Stuart,2014-05-27,M
+Opinion,Nicole,2014-05-27,F
+false,Ken,2014-05-27,M
+Business Day,Christopher,2014-05-27,M
+Opinion,Andrew,2014-05-27,M
+Arts,Allan,2014-05-27,M
+Blogs,David,2014-05-27,M
+Arts,Allan,2014-05-27,M
+Fashion & Style,Elaisha,2014-05-27,F
+Arts,Dave,2014-05-27,F
+T:Style,Gazelle,2014-05-27,F
+Business Day,Stuart,2014-05-27,M
+U.S.,Devorah,2014-05-27,F
+,International,2014-05-27,M
+Business Day,David,2014-05-27,M
+World,Vishnu,2014-05-27,M
+T:Style,Alex,2014-05-27,M
+Business Day,Chad,2014-05-27,M
+N.Y. / Region,Avi,2014-05-27,F
+Business Day,Dealbook,2014-05-27,M
+Business Day,Sydney,2014-05-27,F
+,Philip,2014-05-27,M
+Business Day,Michael,2014-05-27,M
+Business Day,Josh,2014-05-27,M
+World,Edward,2014-05-27,M
+The Upshot,Claire,2014-05-27,F
+U.S.,Joseph,2014-05-27,M
+N.Y. / Region,Andy,2014-05-27,F
+World,Michael,2014-05-27,M
+U.S.,Shannon,2014-05-27,M
+Multimedia,Peter,2014-05-27,M
+Health,Perri,2014-05-27,F
+World,Vishnu,2014-05-27,M
+Business Day,Chad,2014-05-27,M
+U.S.,Shannon,2014-05-27,M
+U.S.,Michael,2014-05-27,M
+Business Day,Chad,2014-05-27,M
+Arts,Jeff,2014-05-27,M
+World,Didi,2014-05-27,F
+N.Y. / Region,J.,2014-05-27,M
+,Carrie,2014-05-27,F
+Multimedia/Photos,Carrie,2014-05-27,F
+Arts,Kathryn,2014-05-27,M
+Sports,Andrew,2014-05-27,M
+The Upshot,David,2014-05-27,M
+Technology,Vindu,2014-05-27,M
+U.S.,Jennifer,2014-05-27,M
+World,Jane,2014-05-27,F
+N.Y. / Region,Vivian,2014-05-27,M
+Sports,Jeff,2014-05-27,M
+Sports,David,2014-05-27,M
+U.S.,Julie,2014-05-27,F
+U.S.,Adam,2014-05-27,M
+Business Day,Tim,2014-05-27,M
+U.S.,Motoko,2014-05-27,F
+World,Raphael,2014-05-27,M
+Sports,Andrew,2014-05-27,M
+Business Day,Rebecca,2014-05-27,F
+N.Y. / Region,Colin,2014-05-27,M
+Sports,David,2014-05-27,M
+Sports,Billy,2014-05-27,F
+World,Eric,2014-05-27,M
+Sports,Michael,2014-05-27,M
+Opinion,Joe,2014-05-27,F
+U.S.,Coral,2014-05-27,M
+N.Y. / Region,Marc,2014-05-27,M
+World,Rick,2014-05-27,M
+N.Y. / Region,Michael,2014-05-27,M
+Opinion,David,2014-05-27,M
+Business Day,Stuart,2014-05-27,M
+Sports,Christopher,2014-05-27,M
+World,Seth,2014-05-27,F
+Business Day,Diane,2014-05-27,F
+N.Y. / Region,Kirk,2014-05-27,M
+World,Ellen,2014-05-27,M
+Sports,Tim,2014-05-27,M
+Opinion,Frank,2014-05-27,M
+Business Day,Joe,2014-05-27,F
+Arts,Siobhan,2014-05-27,M
+Business Day,Melissa,2014-05-27,F
+Arts,Neil,2014-05-27,M
+Theater,Ken,2014-05-27,M
+Business Day,David,2014-05-27,M
+Arts,Alastair,2014-05-27,M
+Arts,Jon,2014-05-27,M
+Arts,Jason,2014-05-27,M
+Science,James,2014-05-27,M
+Science,James,2014-05-27,M
+Science,Jascha,2014-05-27,F
+Business Day,Amy,2014-05-27,F
+N.Y. / Region,Annie,2014-05-27,F
+Business Day,Eric,2014-05-27,M
+Sports,Zach,2014-05-27,M
+Arts,Gia,2014-05-27,F
+Science,Nicholas,2014-05-27,M
+Theater,Patrick,2014-05-27,M
+Science,C.,2014-05-27,M
+World,David,2014-05-27,M
+Automobiles,Jerry,2014-05-27,M
+World,Ben,2014-05-27,M
+Sports,Tim,2014-05-27,M
+Arts,Anthony,2014-05-27,F
+Books,Steven,2014-05-27,M
+Science,John,2014-05-27,M
+Health,Abigail,2014-05-27,M
+U.S.,Jonathan,2014-05-27,M
+Science,Glenn,2014-05-27,M
+World,Waqar,2014-05-27,M
+Science,Nicholas,2014-05-27,M
+Health,Donald,2014-05-27,M
+Technology,Mark,2014-05-27,M
+U.S.,Mark,2014-05-27,M
+Science,William,2014-05-27,M
+Arts,William,2014-05-27,M
+Health,Martha,2014-05-27,F
+U.S.,Elena,2014-05-27,F
+N.Y. / Region,Matt,2014-05-27,M
+The Upshot,Austin,2014-05-27,M
+U.S.,Anand,2014-05-27,M
+Sports,Naila-jean,2014-05-27,M
+Sports,Allan,2014-05-27,M
+World,Andrew,2014-05-27,M
+World,David,2014-05-27,M
+World,Elisabetta,2014-05-27,F
+Arts,Chen,2014-05-27,M
+Opinion,Vanessa,2014-05-27,F
+Opinion,Roger,2014-05-27,M
+Opinion,Diba,2014-05-27,F
+World,Alan,2014-05-27,M
+Fashion & Style,Amy,2014-05-27,F
+World,Sabrina,2014-05-27,F
+World,Thomas,2014-05-27,M
+Business Day,Jack,2014-05-27,M
+World,Jodi,2014-05-27,F
+World,Isabel,2014-05-27,M
+Business Day,William,2014-05-27,M
+,Carrie,2014-05-28,F
+Multimedia/Photos,Carrie,2014-05-28,F
+Technology,Vindu,2014-05-28,M
+Business Day,Alexandra,2014-05-28,F
+Crosswords/Games,Deb,2014-05-28,M
+Technology,Sofia,2014-05-28,F
+Technology,John,2014-05-28,M
+Blogs,Mark,2014-05-28,M
+Business Day,Michael,2014-05-28,M
+Technology,John,2014-05-28,M
+Technology,John,2014-05-28,M
+Movies,Universal,2014-05-28,M
+Magazine,Jeannie,2014-05-28,F
+Technology,Claire,2014-05-28,F
+Technology,Nick,2014-05-28,M
+Opinion,Charles,2014-05-28,M
+false,Ben,2014-05-28,M
+Opinion,Daan,2014-05-28,M
+Opinion,Tera,2014-05-28,F
+World,Didi,2014-05-28,F
+Opinion,Margaret,2014-05-28,M
+Business Day,William,2014-05-28,M
+Opinion,Philip,2014-05-28,M
+World,Quynhanh,2014-05-28,F
+Business Day,Michael,2014-05-28,M
+U.S.,Rick,2014-05-28,M
+Travel,Shivani,2014-05-28,F
+Travel,Seth,2014-05-28,F
+Business Day,Matthew,2014-05-28,M
+Opinion,Jennifer,2014-05-28,M
+Science,Dennis,2014-05-28,M
+Science,Dennis,2014-05-28,M
+Business Day,Rachel,2014-05-28,M
+Opinion,Lawrence,2014-05-28,F
+Business Day,Jeffrey,2014-05-28,F
+Health,Nicholas,2014-05-28,M
+Arts,Patrick,2014-05-28,M
+Opinion,Paul,2014-05-28,M
+T:Style,Benoît,2014-05-28,M
+Technology,Vindu,2014-05-28,M
+Sports,Teton,2014-05-28,M
+U.S.,Katherine,2014-05-28,F
+Technology,Dallas,2014-05-28,M
+Arts,Allan,2014-05-28,M
+Magazine,Bonnie,2014-05-28,F
+T:Style,Brooke,2014-05-28,M
+U.S.,Martha,2014-05-28,F
+,Mona,2014-05-28,F
+Multimedia/Photos,Mona,2014-05-28,F
+Arts,John,2014-05-28,M
+Arts,Patrick,2014-05-28,M
+Business Day,Gene,2014-05-28,F
+Theater,Erik,2014-05-28,M
+Theater,Erik,2014-05-28,M
+Theater,Erik,2014-05-28,M
+Style,Vanessa,2014-05-28,F
+Theater,Erik,2014-05-28,M
+Theater,Erik,2014-05-28,M
+Opinion,David,2014-05-28,M
+Opinion,Teresa,2014-05-28,F
+Business Day,Dealbook,2014-05-28,M
+U.S.,Nbc,2014-05-28,M
+U.S.,Mark,2014-05-28,M
+Books,Sarah,2014-05-28,F
+Business Day,Chad,2014-05-28,M
+T:Style,Tom,2014-05-28,M
+Blogs,Insider,2014-05-28,M
+Home & Garden,Danny,2014-05-28,F
+Business Day,Matthew,2014-05-28,M
+,International,2014-05-28,M
+Science,Casey,2014-05-28,F
+Science,Pathikrit,2014-05-28,M
+Business Day,David,2014-05-28,M
+Arts,Allan,2014-05-28,M
+Arts,Allan,2014-05-28,M
+false,Alainna,2014-05-28,F
+Business Day,Michael,2014-05-28,M
+N.Y. / Region,Joan,2014-05-28,M
+Business Day,Sydney,2014-05-28,F
+U.S.,Alan,2014-05-28,M
+Business Day,Floyd,2014-05-28,M
+Business Day,Michael,2014-05-28,M
+Business Day,David,2014-05-28,M
+Business Day,Paul,2014-05-28,M
+Technology,John,2014-05-28,M
+The Upshot,Derek,2014-05-28,M
+World,Austin,2014-05-28,M
+World,Amy,2014-05-28,F
+Arts,William,2014-05-28,M
+N.Y. / Region,Annie,2014-05-28,F
+U.S.,Adeel,2014-05-28,M
+Business Day,Neil,2014-05-28,M
+Technology,Mark,2014-05-28,M
+Multimedia,James,2014-05-28,M
+U.S.,Michael,2014-05-28,M
+Business Day,Chad,2014-05-28,M
+U.S.,Michael,2014-05-28,M
+Business Day,Chad,2014-05-28,M
+U.S.,Pete,2014-05-28,F
+World,Didi,2014-05-28,F
+World,Gerry,2014-05-28,M
+World,Vaibhav,2014-05-28,M
+Arts,Kathryn,2014-05-28,M
+Sports,Melissa,2014-05-28,F
+Sports,Billy,2014-05-28,F
+Technology,David,2014-05-28,M
+Sports,David,2014-05-28,M
+Opinion,Richard,2014-05-28,M
+Sports,Zach,2014-05-28,M
+Sports,Zach,2014-05-28,M
+Sports,Ben,2014-05-28,M
+Sports,Jeff,2014-05-28,M
+U.S.,Adam,2014-05-28,M
+Sports,David,2014-05-28,M
+Sports,Bruce,2014-05-28,M
+U.S.,Michael,2014-05-28,M
+Sports,Ben,2014-05-28,M
+N.Y. / Region,Jesse,2014-05-28,F
+U.S.,Charlie,2014-05-28,F
+World,Donald,2014-05-28,M
+World,Rick,2014-05-28,M
+World,Steve,2014-05-28,F
+U.S.,Charlie,2014-05-28,F
+U.S.,Matt,2014-05-28,M
+N.Y. / Region,J.,2014-05-28,M
+N.Y. / Region,Jim,2014-05-28,M
+N.Y. / Region,Marc,2014-05-28,M
+Technology,John,2014-05-28,M
+N.Y. / Region,David,2014-05-28,M
+N.Y. / Region,Stephanie,2014-05-28,F
+Sports,Tom,2014-05-28,M
+U.S.,Manny,2014-05-28,F
+World,Steven,2014-05-28,M
+World,Liz,2014-05-28,F
+N.Y. / Region,Michael,2014-05-28,M
+Sports,Christopher,2014-05-28,M
+World,Choe,2014-05-28,F
+U.S.,Ian,2014-05-28,M
+World,Adam,2014-05-28,M
+The Upshot,David,2014-05-28,M
+Business Day,Shaila,2014-05-28,F
+World,Jodi,2014-05-28,F
+Sports,Scott,2014-05-28,M
+N.Y. / Region,Patrick,2014-05-28,M
+Business Day,Eduardo,2014-05-28,M
+Opinion,Mark,2014-05-28,M
+World,Andrew,2014-05-28,M
+Opinion,Thomas,2014-05-28,M
+Business Day,Andrew,2014-05-28,M
+World,Alissa,2014-05-28,F
+Opinion,Eric,2014-05-28,M
+World,Robert,2014-05-28,M
+Business Day,Annie,2014-05-28,F
+Business Day,Ravi,2014-05-28,F
+Business Day,Adam,2014-05-28,M
+U.S.,Sharon,2014-05-28,M
+World,Waqar,2014-05-28,M
+Business Day,Rosalie,2014-05-28,F
+Sports,Scott,2014-05-28,M
+World,Rick,2014-05-28,M
+Real Estate,Vivian,2014-05-28,M
+Business Day,Bill,2014-05-28,M
+Arts,Ben,2014-05-28,M
+World,Michael,2014-05-28,M
+Arts,Mike,2014-05-28,F
+Arts,Siobhan,2014-05-28,M
+Arts,Chris,2014-05-28,M
+Books,Leslie,2014-05-28,F
+Arts,James,2014-05-28,M
+U.S.,Emmarie,2014-05-28,F
+Food,Melissa,2014-05-28,F
+Science,Carl,2014-05-28,M
+Food,Pete,2014-05-28,F
+U.S.,Jess,2014-05-28,M
+The Upshot,Dalia,2014-05-28,F
+The Upshot,Neil,2014-05-28,M
+Arts,Anthony,2014-05-28,F
+Sports,Jay,2014-05-28,M
+Food,Julia,2014-05-28,F
+Real Estate,Christina,2014-05-28,F
+U.S.,David,2014-05-28,M
+Real Estate,Eugene,2014-05-28,F
+Food,Florence,2014-05-28,F
+Arts,Neil,2014-05-28,M
+U.S.,Monica,2014-05-28,F
+Business Day,Danny,2014-05-28,F
+Sports,Jeff,2014-05-28,M
+Books,Dwight,2014-05-28,M
+Sports,Andrew,2014-05-28,M
+U.S.,Amy,2014-05-28,F
+Food,Florence,2014-05-28,F
+Food,David,2014-05-28,M
+Sports,Jack,2014-05-28,M
+Food,Jeff,2014-05-28,M
+Sports,Andrew,2014-05-28,M
+Technology,Steve,2014-05-28,F
+World,David,2014-05-28,M
+World,Adam,2014-05-28,M
+Books,Margalit,2014-05-28,M
+Business Day,Douglas,2014-05-28,M
+U.S.,Adam,2014-05-28,M
+N.Y. / Region,Benjamin,2014-05-28,M
+U.S.,Jason,2014-05-28,M
+Food,Eric,2014-05-28,M
+World,Mark,2014-05-28,M
+N.Y. / Region,Joseph,2014-05-28,M
+World,Elisabetta,2014-05-28,F
+The Upshot,David,2014-05-28,M
+Sports,Naila-jean,2014-05-28,M
+Sports,Rob,2014-05-28,M
+Arts,Matt,2014-05-28,M
+World,Ben,2014-05-28,M
+Arts,Charles,2014-05-28,M
+World,Thomas,2014-05-28,M
+World,James,2014-05-28,M
+Business Day,Austin,2014-05-28,M
+Opinion,Julia,2014-05-28,F
+Opinion,Ethan,2014-05-28,M
+Opinion,Yoani,2014-05-28,F
+Opinion,T.,2014-05-28,M
+World,Andrew,2014-05-28,M
+World,Ellen,2014-05-28,M
+World,Keith,2014-05-28,M
+World,Jane,2014-05-28,F
+Health,Martha,2014-05-28,F
+Food,David,2014-05-28,M
+Food,Melissa,2014-05-28,F
+Food,Ligaya,2014-05-28,F
+Movies,A.,2014-05-29,M
+Business Day,Neil,2014-05-29,M
+,Carrie,2014-05-29,F
+Multimedia/Photos,Carrie,2014-05-29,F
+Arts,John,2014-05-29,M
+Crosswords/Games,Deb,2014-05-29,M
+Movies,Manohla,2014-05-29,F
+World,Jonah,2014-05-29,F
+Movies,Saboteur,2014-05-29,M
+Movies,Ifc,2014-05-29,M
+Business Day,Jenny,2014-05-29,F
+U.S.,Luisa,2014-05-29,F
+Movies,Entertainment,2014-05-29,M
+Movies,Magnolia,2014-05-29,F
+Blogs,Insider,2014-05-29,M
+Movies,Robin,2014-05-29,M
+Arts,Mekado,2014-05-29,M
+World,Jonah,2014-05-29,F
+Technology,Vindu,2014-05-29,M
+Movies,Mekado,2014-05-29,M
+Business Day,Ben,2014-05-29,M
+Movies,Walt,2014-05-29,M
+Business Day,William,2014-05-29,M
+false,Valeriya,2014-05-29,F
+Blogs,Scott,2014-05-29,M
+U.S.,Rick,2014-05-29,M
+Business Day,Elisabeth,2014-05-29,F
+Opinion,David,2014-05-29,M
+Your Money,Ann,2014-05-29,F
+Movies,A.,2014-05-29,M
+Arts,Randy,2014-05-29,F
+Technology,Molly,2014-05-29,F
+T:Style,Brooke,2014-05-29,M
+,Christian,2014-05-29,M
+Arts,Christian,2014-05-29,M
+Business Day,Robb,2014-05-29,M
+Arts,William,2014-05-29,M
+Opinion,Jennifer,2014-05-29,M
+Arts,Roslyn,2014-05-29,F
+Arts,John,2014-05-29,M
+Arts,Allan,2014-05-29,M
+,Mona,2014-05-29,F
+Multimedia/Photos,Mona,2014-05-29,F
+N.Y. / Region,Stephen,2014-05-29,M
+T:Style,Jesse,2014-05-29,F
+Arts,Erika,2014-05-29,F
+Opinion,Andrew,2014-05-29,M
+Business Day,William,2014-05-29,M
+Travel,Elaine,2014-05-29,F
+Business Day,Gene,2014-05-29,F
+Health,Nicholas,2014-05-29,M
+Movies,Stephen,2014-05-29,M
+Arts,Mike,2014-05-29,F
+Arts,Allan,2014-05-29,M
+World,Neha,2014-05-29,F
+,International,2014-05-29,M
+Arts,Patrick,2014-05-29,M
+Travel,Susanne,2014-05-29,F
+Health,Mikkael,2014-05-29,M
+Arts,Randy,2014-05-29,F
+T:Style,Malina,2014-05-29,F
+Blogs,Doug,2014-05-29,M
+Business Day,Mary,2014-05-29,F
+Arts,Alessandra,2014-05-29,F
+N.Y. / Region,Matthew,2014-05-29,M
+Business Day,Chad,2014-05-29,M
+Business Day,Rachel,2014-05-29,M
+The Upshot,Derek,2014-05-29,M
+U.S.,Michael,2014-05-29,M
+Business Day,Elizabeth,2014-05-29,F
+The Upshot,David,2014-05-29,M
+U.S.,Ron,2014-05-29,M
+Business Day,Michael,2014-05-29,M
+T:Style,Alison,2014-05-29,M
+U.S.,Alan,2014-05-29,M
+Business Day,Chad,2014-05-29,M
+Business Day,Sydney,2014-05-29,F
+Business Day,Rebekah,2014-05-29,F
+Technology,John,2014-05-29,M
+Health,Nicholas,2014-05-29,M
+N.Y. / Region,Annie,2014-05-29,F
+U.S.,Adeel,2014-05-29,M
+U.S.,Katherine,2014-05-29,F
+Multimedia,James,2014-05-29,M
+U.S.,Michael,2014-05-29,M
+World,Kiki,2014-05-29,F
+Magazine,Scott,2014-05-29,M
+Technology,Vindu,2014-05-29,M
+Business Day,Bill,2014-05-29,M
+Arts,Kathryn,2014-05-29,M
+Business Day,Douglas,2014-05-29,M
+Sports,Andrew,2014-05-29,M
+Sports,Richard,2014-05-29,M
+Technology,Molly,2014-05-29,F
+Sports,David,2014-05-29,M
+Arts,Poh,2014-05-29,M
+N.Y. / Region,James,2014-05-29,M
+N.Y. / Region,James,2014-05-29,M
+World,Rick,2014-05-29,M
+Sports,Ben,2014-05-29,M
+World,Elisabeth,2014-05-29,F
+World,Raphael,2014-05-29,M
+Health,Anahad,2014-05-29,M
+Automobiles,Cheryl,2014-05-29,M
+Technology,Nicole,2014-05-29,F
+N.Y. / Region,Kiran,2014-05-29,M
+World,Osama,2014-05-29,F
+N.Y. / Region,Michael,2014-05-29,M
+N.Y. / Region,Charles,2014-05-29,M
+N.Y. / Region,Jesse,2014-05-29,F
+N.Y. / Region,Kirk,2014-05-29,M
+N.Y. / Region,Al,2014-05-29,M
+N.Y. / Region,Michael,2014-05-29,M
+World,William,2014-05-29,M
+World,Matthew,2014-05-29,M
+Arts,Elizabeth,2014-05-29,F
+U.S.,Peter,2014-05-29,M
+Business Day,Bill,2014-05-29,M
+U.S.,Richard,2014-05-29,M
+U.S.,Monica,2014-05-29,F
+Sports,Allan,2014-05-29,M
+U.S.,Coral,2014-05-29,M
+World,Andrew,2014-05-29,M
+Sports,David,2014-05-29,M
+N.Y. / Region,Anemona,2014-05-29,F
+U.S.,Jennifer,2014-05-29,M
+World,David,2014-05-29,M
+Sports,Billy,2014-05-29,F
+Business Day,Ben,2014-05-29,M
+N.Y. / Region,Sam,2014-05-29,M
+Sports,Juliet,2014-05-29,M
+World,Eric,2014-05-29,M
+Business Day,Diane,2014-05-29,F
+U.S.,Jess,2014-05-29,M
+Business Day,Shaila,2014-05-29,F
+Sports,Ben,2014-05-29,M
+Business Day,Matthew,2014-05-29,M
+U.S.,David,2014-05-29,M
+Sports,Christopher,2014-05-29,M
+Technology,Nick,2014-05-29,M
+U.S.,Donald,2014-05-29,M
+Opinion,Michelle,2014-05-29,F
+Opinion,Nicholas,2014-05-29,M
+Technology,Farhad,2014-05-29,M
+Sports,Harvey,2014-05-29,F
+The Upshot,Nate,2014-05-29,F
+World,Robert,2014-05-29,M
+U.S.,Timothy,2014-05-29,F
+World,Neil,2014-05-29,M
+Sports,Michael,2014-05-29,M
+Opinion,Russel,2014-05-29,M
+World,David,2014-05-29,M
+Sports,Peter,2014-05-29,M
+Opinion,Morris,2014-05-29,M
+Sports,Tom,2014-05-29,M
+Business Day,Elizabeth,2014-05-29,F
+The Upshot,Claire,2014-05-29,F
+Automobiles,Robert,2014-05-29,M
+Opinion,Jennifer,2014-05-29,M
+Arts,Michael,2014-05-29,M
+Opinion,Linda,2014-05-29,F
+Great Homes & Destinations,Sandy,2014-05-29,F
+Home & Garden,Lori,2014-05-29,F
+Home & Garden,Sandy,2014-05-29,F
+Home & Garden,Tim,2014-05-29,M
+Home & Garden,Rima,2014-05-29,F
+Home & Garden,Jane,2014-05-29,F
+Home & Garden,Stephen,2014-05-29,M
+Home & Garden,Tim,2014-05-29,M
+Home & Garden,Michael,2014-05-29,M
+Business Day,Katie,2014-05-29,F
+Fashion & Style,Alison,2014-05-29,M
+Sports,Jeff,2014-05-29,M
+Arts,Anthony,2014-05-29,F
+Theater,Erik,2014-05-29,M
+N.Y. / Region,Winnie,2014-05-29,F
+Fashion & Style,Caroline,2014-05-29,F
+Arts,Siobhan,2014-05-29,M
+Business Day,Leslie,2014-05-29,F
+World,Ben,2014-05-29,M
+Fashion & Style,Susan,2014-05-29,M
+Crosswords & Games,Phillip,2014-05-29,M
+Arts,Stephen,2014-05-29,M
+Fashion & Style,Michael,2014-05-29,M
+Fashion & Style,John,2014-05-29,M
+Sports,Zach,2014-05-29,M
+Arts,Jon,2014-05-29,M
+Books,Larry,2014-05-29,M
+Arts,Brian,2014-05-29,M
+Arts,Alessandra,2014-05-29,F
+Fashion & Style,Stacey,2014-05-29,F
+U.S.,Jonathan,2014-05-29,M
+Technology,Mark,2014-05-29,M
+Great Homes & Destinations,Alison,2014-05-29,M
+Fashion & Style,Bee,2014-05-29,F
+Technology,Brian,2014-05-29,M
+Theater,Laura,2014-05-29,F
+Fashion & Style,Matthew,2014-05-29,M
+Books,Dwight,2014-05-29,M
+Sports,Jeff,2014-05-29,M
+Fashion & Style,Erica,2014-05-29,F
+World,Rick,2014-05-29,M
+U.S.,Lizette,2014-05-29,F
+Technology,Kit,2014-05-29,M
+Great Homes & Destinations,Mike,2014-05-29,F
+World,Carlotta,2014-05-29,F
+Sports,Jack,2014-05-29,M
+World,Isabel,2014-05-29,M
+U.S.,Richard,2014-05-29,M
+Business Day,Katie,2014-05-29,F
+U.S.,Charlie,2014-05-29,F
+Books,John,2014-05-29,M
+Fashion & Style,Elaisha,2014-05-29,F
+Technology,David,2014-05-29,M
+Business Day,Julie,2014-05-29,F
+Technology,J.,2014-05-29,M
+World,Ismail,2014-05-29,M
+Sports,Richard,2014-05-29,M
+World,Manu,2014-05-29,M
+The Upshot,Michael,2014-05-29,M
+Business Day,Elizabeth,2014-05-29,F
+World,David,2014-05-29,M
+Home & Garden,Julie,2014-05-29,F
+U.S.,Ashley,2014-05-29,F
+Arts,Margalit,2014-05-29,M
+U.S.,Elena,2014-05-29,F
+U.S.,Julie,2014-05-29,F
+Sports,Naila-jean,2014-05-29,M
+Arts,George,2014-05-29,M
+Arts,Celestine,2014-05-29,F
+Arts,David,2014-05-29,M
+Arts,Michael,2014-05-29,M
+Arts,Christopher,2014-05-29,M
+World,Choe,2014-05-29,F
+Business Day,Kate,2014-05-29,F
+Sports,Brian,2014-05-29,M
+Opinion,Masha,2014-05-29,F
+Opinion,Enrique,2014-05-29,F
+Opinion,Nikos,2014-05-29,M
+World,Alan,2014-05-29,M
+World,Anne,2014-05-29,F
+Business Day,Chad,2014-05-29,M
+World,Choe,2014-05-29,F
+Health,Martha,2014-05-29,F
+Blogs,Pamela,2014-05-30,F
+Crosswords/Games,Deb,2014-05-30,M
+Opinion,Tony,2014-05-30,F
+Fashion & Style,Bill,2014-05-30,M
+U.S.,Quynhanh,2014-05-30,F
+Business Day,Matthew,2014-05-30,M
+Blogs,Erika,2014-05-30,F
+Magazine,Kathy,2014-05-30,F
+false,Brooke,2014-05-30,M
+Sports,Vijai,2014-05-30,F
+Technology,David,2014-05-30,M
+Arts,Dave,2014-05-30,F
+Opinion,Paul,2014-05-30,M
+Opinion,Paul,2014-05-30,M
+Movies,Robin,2014-05-30,M
+Movies,Robin,2014-05-30,M
+Movies,Robin,2014-05-30,M
+T:Style,Ben,2014-05-30,M
+Business Day,Rachel,2014-05-30,M
+U.S.,Rick,2014-05-30,M
+Fashion & Style,Joanna,2014-05-30,F
+T:Style,Tim,2014-05-30,M
+Business Day,Jeffrey,2014-05-30,F
+Opinion,Teresa,2014-05-30,F
+Automobiles,Tom,2014-05-30,M
+Business Day,Eric,2014-05-30,M
+Opinion,Jennifer,2014-05-30,M
+Opinion,Lawrence,2014-05-30,F
+Technology,J.,2014-05-30,M
+Books,Steven,2014-05-30,M
+Books,Douglas,2014-05-30,M
+T Magazine,Alice,2014-05-30,F
+Travel,Ashley,2014-05-30,F
+Business Day,Steven,2014-05-30,M
+Business Day,Michael,2014-05-30,M
+World,Nadia,2014-05-30,F
+N.Y. / Region,Robin,2014-05-30,M
+Arts,Ben,2014-05-30,M
+,Christian,2014-05-30,M
+Food,Jenny,2014-05-30,F
+Multimedia/Photos,Christian,2014-05-30,M
+Business Day,Matthew,2014-05-30,M
+N.Y. / Region,Dave,2014-05-30,F
+Technology,Farhad,2014-05-30,M
+Arts,Allan,2014-05-30,M
+U.S.,Kj,2014-05-30,M
+T:Style,William,2014-05-30,M
+Arts,Allan,2014-05-30,M
+World,Jacob,2014-05-30,M
+Health,Martha,2014-05-30,F
+U.S.,Retro,2014-05-30,M
+Home & Garden,Joseph,2014-05-30,M
+Travel,Shivani,2014-05-30,F
+Opinion,Nicole,2014-05-30,F
+Arts,Allan,2014-05-30,M
+Arts,Gabe,2014-05-30,F
+Arts,Gabe,2014-05-30,F
+Arts,Gabe,2014-05-30,F
+Arts,Gabe,2014-05-30,F
+Arts,Gabe,2014-05-30,F
+Arts,Gabe,2014-05-30,F
+Arts,Gabe,2014-05-30,F
+Arts,Gabe,2014-05-30,F
+false,Rima,2014-05-30,F
+Blogs,Insider,2014-05-30,M
+Business Day,Dealbook,2014-05-30,M
+Business Day,Gene,2014-05-30,F
+Opinion,Paul,2014-05-30,M
+World,Neha,2014-05-30,F
+false,Natalie,2014-05-30,F
+N.Y. / Region,Lindsay,2014-05-30,F
+Opinion,Jesse,2014-05-30,F
+Business Day,Sydney,2014-05-30,F
+U.S.,Alan,2014-05-30,M
+Technology,David,2014-05-30,M
+Business Day,Cliff,2014-05-30,M
+Technology,Nick,2014-05-30,M
+Technology,Mark,2014-05-30,M
+,International,2014-05-30,M
+U.S.,Adeel,2014-05-30,M
+N.Y. / Region,Annie,2014-05-30,F
+World,Austin,2014-05-30,M
+World,Nida,2014-05-30,F
+Multimedia,Michael,2014-05-30,M
+U.S.,Michael,2014-05-30,M
+U.S.,Katherine,2014-05-30,F
+World,Didi,2014-05-30,F
+U.S.,Shannon,2014-05-30,M
+Business Day,Chad,2014-05-30,M
+Movies,Neil,2014-05-30,M
+World,Didi,2014-05-30,F
+Movies,Daniel,2014-05-30,M
+Movies,Stephen,2014-05-30,M
+World,Ceylan,2014-05-30,M
+Movies,Andy,2014-05-30,F
+Movies,Neil,2014-05-30,M
+Arts,Kathryn,2014-05-30,M
+Movies,Nicolas,2014-05-30,M
+Sports,Christopher,2014-05-30,M
+Movies,Stephen,2014-05-30,M
+Sports,Allan,2014-05-30,M
+Movies,Stephen,2014-05-30,M
+U.S.,Ross,2014-05-30,M
+U.S.,Cathaleen,2014-05-30,M
+Sports,Billy,2014-05-30,F
+Science,Justin,2014-05-30,M
+World,Steven,2014-05-30,M
+Health,Gretchen,2014-05-30,M
+World,Robert,2014-05-30,M
+Sports,Karen,2014-05-30,M
+World,Rick,2014-05-30,M
+U.S.,Lyn,2014-05-30,F
+World,Eric,2014-05-30,M
+World,Kimiko,2014-05-30,F
+Sports,Jeff,2014-05-30,M
+Sports,Tim,2014-05-30,M
+U.S.,Amy,2014-05-30,F
+U.S.,Lizette,2014-05-30,F
+Sports,Tom,2014-05-30,M
+N.Y. / Region,Susanne,2014-05-30,F
+U.S.,Julia,2014-05-30,F
+Theater,Ben,2014-05-30,M
+Theater,Alexis,2014-05-30,M
+Theater,Andy,2014-05-30,F
+U.S.,Charlie,2014-05-30,F
+N.Y. / Region,Jesse,2014-05-30,F
+Sports,Juliet,2014-05-30,M
+U.S.,Jim,2014-05-30,M
+U.S.,David,2014-05-30,M
+Movies,Rachel,2014-05-30,M
+Business Day,Danny,2014-05-30,F
+Opinion,David,2014-05-30,M
+Sports,Scott,2014-05-30,M
+N.Y. / Region,Vivian,2014-05-30,M
+Sports,Melissa,2014-05-30,F
+World,William,2014-05-30,M
+World,Suzanne,2014-05-30,F
+Education,Motoko,2014-05-30,F
+Sports,Andrew,2014-05-30,M
+World,Choe,2014-05-30,F
+N.Y. / Region,Kirk,2014-05-30,M
+N.Y. / Region,Matt,2014-05-30,M
+U.S.,Michael,2014-05-30,M
+Business Day,Stuart,2014-05-30,M
+Business Day,Floyd,2014-05-30,M
+Opinion,Melissa,2014-05-30,F
+Opinion,Jody,2014-05-30,F
+Opinion,Paul,2014-05-30,M
+Sports,James,2014-05-30,M
+N.Y. / Region,James,2014-05-30,M
+Business Day,Elizabeth,2014-05-30,F
+N.Y. / Region,Nikita,2014-05-30,F
+N.Y. / Region,William,2014-05-30,M
+Sports,Jeff,2014-05-30,M
+Arts,Anne,2014-05-30,F
+Arts,Laurel,2014-05-30,M
+Arts,Neil,2014-05-30,M
+Arts,Vivien,2014-05-30,M
+Opinion,Timothy,2014-05-30,F
+World,Ian,2014-05-30,M
+Arts,Jon,2014-05-30,M
+Arts,Anthony,2014-05-30,F
+Arts,Deborah,2014-05-30,F
+Arts,Stephen,2014-05-30,M
+Arts,Edward,2014-05-30,M
+Arts,Siobhan,2014-05-30,M
+Arts,Gregory,2014-05-30,M
+N.Y. / Region,A.,2014-05-30,M
+Food,Alex,2014-05-30,M
+Arts,Holland,2014-05-30,M
+Sports,Gary,2014-05-30,F
+Arts,Eve,2014-05-30,F
+N.Y. / Region,Charles,2014-05-30,M
+Sports,Allan,2014-05-30,M
+Arts,Karen,2014-05-30,M
+Books,William,2014-05-30,M
+Arts,Ken,2014-05-30,M
+Arts,Carol,2014-05-30,M
+Arts,Ken,2014-05-30,M
+Arts,Martha,2014-05-30,F
+Arts,Roberta,2014-05-30,F
+Arts,Roberta,2014-05-30,F
+Arts,Holland,2014-05-30,M
+Sports,Michael,2014-05-30,M
+Automobiles,Jim,2014-05-30,M
+Health,Donald,2014-05-30,M
+U.S.,Richard,2014-05-30,M
+Business Day,Bill,2014-05-30,M
+Business Day,Christopher,2014-05-30,M
+World,Scott,2014-05-30,M
+Health,Catherine,2014-05-30,F
+World,Martin,2014-05-30,M
+The Upshot,Alan,2014-05-30,M
+N.Y. / Region,Joseph,2014-05-30,M
+N.Y. / Region,Michael,2014-05-30,M
+World,Gardiner,2014-05-30,M
+Science,John,2014-05-30,M
+Sports,David,2014-05-30,M
+World,David,2014-05-30,M
+U.S.,Carl,2014-05-30,M
+The Upshot,Damon,2014-05-30,M
+Education,Richard,2014-05-30,M
+U.S.,Ron,2014-05-30,M
+Business Day,David,2014-05-30,M
+World,Robert,2014-05-30,M
+The Upshot,Neil,2014-05-30,M
+Great Homes & Destinations,Susanne,2014-05-30,F
+The Upshot,Allison,2014-05-30,M
+The Upshot,Justin,2014-05-30,M
+Great Homes & Destinations,Suchi,2014-05-30,F
+Business Day,Adam,2014-05-30,M
+Sports,Jack,2014-05-30,M
+N.Y. / Region,Matt,2014-05-30,M
+World,Isabel,2014-05-30,M
+U.S.,Jonathan,2014-05-30,M
+Science,Dennis,2014-05-30,M
+World,Andrew,2014-05-30,M
+Sports,Naila-jean,2014-05-30,M
+Business Day,Katie,2014-05-30,F
+Business Day,Nelson,2014-05-30,M
+The Upshot,John,2014-05-30,M
+World,Alan,2014-05-30,M
+Opinion,Murithi,2014-05-30,F
+Opinion,Slawomir,2014-05-30,M
+Opinion,Duncan,2014-05-30,M
+Opinion,Roger,2014-05-30,M
+World,Neil,2014-05-30,M
+World,Gerry,2014-05-30,M
+World,Michael,2014-05-30,M
+N.Y. / Region,Joseph,2014-05-30,M
+The Upshot,Marjorie,2014-05-30,F
+Health,Martha,2014-05-30,F
+Arts,Adam,2014-05-31,M
+Multimedia/Photos,Mona,2014-05-31,F
+Crosswords/Games,Deb,2014-05-31,M
+World,Grant,2014-05-31,M
+Opinion,Nicholas,2014-05-31,M
+U.S.,Jada,2014-05-31,F
+Business Day,Ben,2014-05-31,M
+Opinion,Andrew,2014-05-31,M
+Sunday Review,David,2014-05-31,M
+Opinion,Alice,2014-05-31,F
+Opinion,Jennifer,2014-05-31,M
+Arts,Brooks,2014-05-31,M
+Travel,Elaine,2014-05-31,F
+Technology,Nick,2014-05-31,M
+Crosswords/Games,Deb,2014-05-31,M
+Fashion & Style,Anne,2014-05-31,F
+Technology,Steve,2014-05-31,F
+Opinion,Paul,2014-05-31,M
+Sports,Tim,2014-05-31,M
+Arts,Kathryn,2014-05-31,M
+Sports,Andrew,2014-05-31,M
+U.S.,Fernanda,2014-05-31,F
+Sports,Seth,2014-05-31,F
+World,David,2014-05-31,M
+Sports,Tom,2014-05-31,M
+U.S.,Lizette,2014-05-31,F
+Sports,Ben,2014-05-31,M
+Sports,Allan,2014-05-31,M
+Sports,Tim,2014-05-31,M
+U.S.,Peter,2014-05-31,M
+U.S.,Samuel,2014-05-31,M
+Sports,Jeff,2014-05-31,M
+Opinion,Gail,2014-05-31,M
+Sports,Rob,2014-05-31,M
+Opinion,Joe,2014-05-31,F
+U.S.,Julia,2014-05-31,F
+Opinion,Brent,2014-05-31,M
+World,Helene,2014-05-31,F
+N.Y. / Region,James,2014-05-31,M
+N.Y. / Region,Julie,2014-05-31,F
+N.Y. / Region,Sam,2014-05-31,M
+World,Raphael,2014-05-31,M
+Sports,Billy,2014-05-31,F
+U.S.,Douglas,2014-05-31,M
+Sports,Nick,2014-05-31,M
+U.S.,Charlie,2014-05-31,F
+Business Day,Binyamin,2014-05-31,M
+Sports,Ken,2014-05-31,M
+Opinion,Bob,2014-05-31,M
+N.Y. / Region,Corey,2014-05-31,F
+U.S.,Ashley,2014-05-31,F
+World,Irit,2014-05-31,M
+N.Y. / Region,Michael,2014-05-31,M
+World,Ian,2014-05-31,M
+N.Y. / Region,Michael,2014-05-31,M
+U.S.,Roni,2014-05-31,F
+N.Y. / Region,Matt,2014-05-31,M
+World,Rick,2014-05-31,M
+N.Y. / Region,Patrick,2014-05-31,M
+World,Thomas,2014-05-31,M
+Arts,Alastair,2014-05-31,M
+Theater,Patricia,2014-05-31,F
+Business Day,Leslie,2014-05-31,F
+Automobiles,Norman,2014-05-31,M
+Arts,Anthony,2014-05-31,F
+Arts,Alessandra,2014-05-31,F
+Books,Steven,2014-05-31,M
+Theater,Andy,2014-05-31,F
+Theater,Laura,2014-05-31,F
+World,Robert,2014-05-31,M
+Arts,Zachary,2014-05-31,F
+Arts,Nate,2014-05-31,F
+Crosswords & Games,Phillip,2014-05-31,M
+N.Y. / Region,Marc,2014-05-31,M
+Arts,Stephen,2014-05-31,M
+Arts,Neil,2014-05-31,M
+World,Rana,2014-05-31,F
+Arts,Siobhan,2014-05-31,M
+The Upshot,Josh,2014-05-31,M
+U.S.,Tanzina,2014-05-31,F
+Automobiles,James,2014-05-31,M
+The Upshot,Josh,2014-05-31,M
+U.S.,Amy,2014-05-31,F
+Sports,Christopher,2014-05-31,M
+World,Simon,2014-05-31,M
+Arts,Alyson,2014-05-31,M
+Sports,Richard,2014-05-31,M
+Your Money,Alina,2014-05-31,F
+Business Day,Leslie,2014-05-31,F
+U.S.,Carl,2014-05-31,M
+The Upshot,Nate,2014-05-31,F
+World,Martin,2014-05-31,M
+U.S.,Mark,2014-05-31,M
+Business Day,Andrew,2014-05-31,M
+Your Money,Stanley,2014-05-31,F
+U.S.,Sheryl,2014-05-31,M
+Sports,Scott,2014-05-31,M
+Your Money,Paul,2014-05-31,M
+World,Randal,2014-05-31,M
+Books,Paul,2014-05-31,M
+World,Mark,2014-05-31,M
+World,Anne,2014-05-31,F
+The Upshot,Neil,2014-05-31,M
+U.S.,Michael,2014-05-31,M
+The Upshot,Michael,2014-05-31,M
+Sports,Jack,2014-05-31,M
+World,Declan,2014-05-31,M
+Sports,Yael,2014-05-31,M
+Business Day,Floyd,2014-05-31,M
+Sports,Ken,2014-05-31,M
+N.Y. / Region,Vivian,2014-05-31,M
+Sports,Scott,2014-05-31,M
+Your Money,Ron,2014-05-31,M
+U.S.,Jess,2014-05-31,M
+World,Helene,2014-05-31,F
+Business Day,Stephanie,2014-05-31,F
+U.S.,Michael,2014-05-31,M
+Opinion,Anand,2014-05-31,M
+Sports,Naila-jean,2014-05-31,M
+Opinion,Erin,2014-05-31,M
+Opinion,Matthew,2014-05-31,M
+Business Day,Alison,2014-05-31,M
+The Upshot,Brendan,2014-05-31,M
+World,Alan,2014-05-31,M
+World,Edward,2014-05-31,M
+World,Gardiner,2014-05-31,M
