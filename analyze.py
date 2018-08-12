@@ -37,17 +37,30 @@ def makeBarGraph(data):
                 color='#E56399')
     # p2 = ax.bar(ind + width, Females, width)
 
-    ax.set_title("Monthly Articles by Writer's Gender")
+    ax.set_title("Monthly Articles by Writer's Gender", fontsize=16)
     ax.set_xticks(ind + width / 2)
 
     strDates = [str(date) for date in data[:,0]]
     strDates = [date[:4] if int(date[4:]) is 1 else '' for date in strDates]
 
     ax.set_xticklabels(strDates)
-
+    plt.tick_params(
+        axis='x',          # changes apply to the x-axis
+        which='both',      # both major and minor ticks are affected
+        bottom=False,      # ticks along the bottom edge are off
+        top=False,         # ticks along the top edge are off
+        labelbottom=True)
+    plt.tick_params(
+        axis='y',          # changes apply to the x-axis
+        which='both',      # both major and minor ticks are affected
+        left=False,      # ticks along the bottom edge are off
+        right=False)         # ticks along the top edge are off
+    ax.spines['left'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+    ax.spines['top'].set_visible(False)
+    ax.spines['bottom'].set_visible(False)
     ax.legend((p1[0], p2[0]), ('Males', 'Females'))
     ax.autoscale_view()
-    ax.grid(False)
     plt.show()
 
 
@@ -209,3 +222,6 @@ def makeLineGraphs(data):
     # Just change the file extension in this call.
     # bbox_inches="tight" removes all the extra whitespace on the edges of your plot.
     plt.savefig("percent-bachelors-degrees-women-usa.png", bbox_inches="tight")
+
+if __name__ == "__main__":
+    makeBarGraph(getGenderByMonth())

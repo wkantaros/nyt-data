@@ -10,12 +10,26 @@ My study reviews *The New York Times*, widely considered the paragon of the news
 
 ## Data Collection
 
+I analyzed every New York Times article written over the last 7 years, which summed to be over 350,000 articles. From each article, I took the first name of the author and the "section_type," a self-defined topic that the New York Times attributed to the article.
+
+From there, I had to determine the gender of the articles' authors. This proved difficult, since The Times did not directly say the gender of reporters. Currently I am using an algorithm predicated on artificial intelligence that searches through the US Social Security name database to predict the gender.
+
 ## Analysis
 
-![](figures/Figure_1.png)
+![](figures/Histogram.png)
+A male dominated field
+
+Analysis on figure one (only a paragraph)
+
+> The largest gap between genders was in April, 2016, when *78% of all articles were written by men*
+
+Line graph (second figure) would go here
+
+Analysis on figure two (only a paragraph)
 
 ## Citations
 
- - All data gathered using the New York Times developer api
+ - All data gathered using the New York Times Developer API
  - Miles McCain for answering some of my questions
  - Sephen Holiday [@sholiday](https://github.com/sholiday) for the framework for the Gender Predictor
+ - Name database provided by the [US Social Security Administration](https://www.ssa.gov/oact/babynames/limits.html)
