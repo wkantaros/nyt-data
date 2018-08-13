@@ -147,5 +147,5 @@ with open('updated_stats1.csv', mode='w') as csv_file:
                 if total == 0:
                     row.append(None)
                 else:
-                    row.append(women/total)
+                    row.append(women/total*100.0)
             nyt_writer.writerow(row)
