@@ -12,7 +12,7 @@ My study reviews *The New York Times*, widely considered the paragon of the news
 
 I analyzed every New York Times article written over the last 7 years, which summed to be over 350,000 articles. From each article, I took the first name of the author and the "section_type," a self-defined topic that the New York Times attributed to the article.
 
-From there, I had to determine the gender of the articles' authors. This proved difficult, since The Times did not directly say the gender of reporters. Currently I am using an algorithm predicated on artificial intelligence that searches through the US Social Security name database to predict the gender.
+From there, I had to determine the gender of the articles' authors. This proved difficult, since The Times did not directly say the gender of reporters. Currently I am using an algorithm predicated on artificial intelligence that searches through the US Social Security name database to predict gender.
 
 ## Analysis
 

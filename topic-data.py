@@ -56,7 +56,7 @@ def load_all_data():
     """
 
     dataframes = []
-    for data_file in os.listdir("data2/"):
+    for data_file in os.listdir("data/"):
         if '.csv' in data_file:
             data = pd.read_csv("data/" + data_file)
             dataframes.append(data)
@@ -142,5 +142,3 @@ with open('updated_stats.csv', mode='w') as csv_file:
                 else:
                     row.append(women/total)
             nyt_writer.writerow(row)
-    # with open("qwerty.csv", "wb") as outfile:
-    #     writer = csv.writer(outfile)
