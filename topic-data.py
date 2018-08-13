@@ -11,7 +11,14 @@ REWRITE_CATEGORIES = {
     "Business Day": "Business",
     "nan": "Unknown",
     "New York and Region": "N.Y. / Region",
-    "false": "Unknown"
+    "false": "Unknown",
+    "Crosswords/Games":  "Crosswords & Games",
+    "Multimedia/Photos": "Multimedia",
+    "Home and Garden": "Home & Garden",
+    "Autos": "Automobiles",
+    "Great Homes and Destinations": "Great Homes, Destinations",
+    "Style": "Fashion & Style",
+    "Dining and Wine":	"Dining & Wine"
 }
 
 def _rewrite_category(category):
@@ -126,7 +133,7 @@ for index, row in data.iterrows():
             monthly_stats[year][month][category]["women"] += 1
 
 
-with open('updated_stats.csv', mode='w') as csv_file:
+with open('updated_stats1.csv', mode='w') as csv_file:
     nyt_writer = csv.writer(csv_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
     columns = ["Year", "Month"]
     columns.extend(all_unique_categories)
