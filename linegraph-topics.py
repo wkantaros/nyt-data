@@ -124,24 +124,4 @@ def makeLineGraphs(gender_category_data):
     # Make the title big enough so it spans the entire plot, but don't make it
     # so big that it requires two lines to show.
 
-    # # Note that if the title is descriptive enough, it is unnecessary to include
-    # # axis labels; they are self-evident, in this plot's case.
-    # plt.text(1995, 93, "Percentage of Bachelor's degrees conferred to women in the U.S.A."
-    #        ", by major (1970-2012)", fontsize=17, ha="center")
-
-    # # Always include your data source(s) and copyright notice! And for your
-    # # data sources, tell your viewers exactly where the data came from,
-    # # preferably with a direct link to the data. Just telling your viewers
-    # # that you used data from the "U.S. Census Bureau" is completely useless:
-    # # the U.S. Census Bureau provides all kinds of data, so how are your
-    # # viewers supposed to know which data set you used?
-    # plt.text(1966, -8, "Data source: nces.ed.gov/programs/digest/2013menu_tables.asp"
-    #        "\nAuthor: Randy Olson (randalolson.com / @randal_olson)"
-    #        "\nNote: Some majors are missing because the historical data "
-    #        "is not available for them", fontsize=10)
-
-    # Finally, save the figure as a PNG.
-    # You can also save it as a PDF, JPEG, etc.
-    # Just change the file extension in this call.
-    # bbox_inches="tight" removes all the extra whitespace on the edges of your plot.
     plt.savefig("percent-female-writer-topic.png", bbox_inches="tight")
