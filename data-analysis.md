@@ -23,8 +23,7 @@ Analysis on figure one (only a paragraph)
 
 > The largest gap between genders was in April, 2016, when *78% of all articles were written by men*
 
-Line graph (second figure) would go here
-
+![](figures/bubble-chart.png)
 Analysis on figure two (only a paragraph)
 
 ## Citations

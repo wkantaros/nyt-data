@@ -5,6 +5,7 @@ import pandas as pd
 from datetime import datetime
 import os
 import csv
+import pickle
 
 # Category deduplication
 REWRITE_CATEGORIES = {
@@ -83,6 +84,22 @@ def get_percent_by_women(dataframe, fil):
         return None
     return float(matched) / total
 
+def get_total_num_women(dataframe, fil):
+    """Counts total women in category
+
+    Returns:
+        [list] -- total number of women, total number in category
+    """
+    total = 0
+    matched = 0
+    for index, row in dataframe.iterrows():
+        if fil(row):
+            total += 1
+            if row["gender"] == "F":
+                matched += 1
+    return matched
+
+
 def _get_unique_categories(dataframe):
     """Utility method to get the unique categories in the dataframe, unpacked
     and standardized.
@@ -100,52 +117,57 @@ def _get_unique_categories(dataframe):
             categories.add(found_category)
     return categories
 
-data = load_all_data()
-# this will also dedup categories
+def load_monthly_stats(data_dict):
+    with open('monthly_stats.pickle', 'wb') as handle:
+        pickle.dump(data_dict, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
-# Example: how to get example articles for any given month
-get_percent_by_women(data, lambda k: k['pub_date'].month == 6 and k['pub_date'].year == 2013 and 'Sports' in k['section_name'])
+if __name__ == "__main__":
+    data = load_all_data()
+    # this will also dedup categories
 
-
-# Get all the unique categories
-all_unique_categories = set()
-for categories in data['section_name']:
-    for subcategory in categories:
-        all_unique_categories.add(subcategory)
-
-monthly_stats = {}
-for year in range(2011, 2017):
-    monthly_stats[str(year)] = {}
-    for month in range(1, 13):
-        monthly_stats[str(year)][str(month)] = {}
-        for category in all_unique_categories:
-            monthly_stats[str(year)][str(month)][category] = {
-                "total": 0, # total number of articles
-                "women": 0  # number of those articles by women
-            }
-
-for index, row in data.iterrows():
-    year = str(row['pub_date'].year)
-    month = str(row['pub_date'].month)
-    for category in row['section_name']:
-        monthly_stats[year][month][category]["total"] += 1
-        if row["gender"] == "F":
-            monthly_stats[year][month][category]["women"] += 1
+    # Example: how to get example articles for any given month
+    # get_percent_by_women(data, lambda k: k['pub_date'].month == 6 and k['pub_date'].year == 2013 and 'Sports' in k['section_name'])
 
 
-with open('updated_stats.csv', mode='w') as csv_file:
-    nyt_writer = csv.writer(csv_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-    columns = ["Year", "Month"]
-    columns.extend(all_unique_categories)
-    nyt_writer.writerow(columns) # this is the line in question -- a bytes-like object is required, not 'str'
+    # Get all the unique categories
+    all_unique_categories = set()
+    for categories in data['section_name']:
+        for subcategory in categories:
+            all_unique_categories.add(subcategory)
+
+    monthly_stats = {}
     for year in range(2011, 2017):
+        monthly_stats[str(year)] = {}
         for month in range(1, 13):
-            row = [str(year), str(month)]
+            monthly_stats[str(year)][str(month)] = {}
             for category in all_unique_categories:
-                women = float(monthly_stats[str(year)][str(month)][category]["women"])
-                total = float(monthly_stats[str(year)][str(month)][category]["total"])
-                if total == 0:
-                    row.append(None)
-                else:
-                    row.append(women/total*100.0)
-            nyt_writer.writerow(row)
+                monthly_stats[str(year)][str(month)][category] = {
+                    "total": 0, # total number of articles
+                    "women": 0  # number of those articles by women
+                }
+
+    for index, row in data.iterrows():
+        year = str(row['pub_date'].year)
+        month = str(row['pub_date'].month)
+        for category in row['section_name']:
+            monthly_stats[year][month][category]["total"] += 1
+            if row["gender"] == "F":
+                monthly_stats[year][month][category]["women"] += 1
+
+
+    # with open('updated_stats823.csv', mode='w') as csv_file:
+    #     nyt_writer = csv.writer(csv_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+    #     columns = ["Year", "Month"]
+    #     columns.extend(all_unique_categories)
+    #     nyt_writer.writerow(columns) # this is the line in question -- a bytes-like object is required, not 'str'
+    #     for year in range(2011, 2017):
+    #         for month in range(1, 13):
+    #             row = [str(year), str(month)]
+    #             for category in all_unique_categories:
+    #                 women = float(monthly_stats[str(year)][str(month)][category]["women"])
+    #                 total = float(monthly_stats[str(year)][str(month)][category]["total"])
+    #                 if total == 0:
+    #                     row.append(None)
+    #                 else:
+    #                     row.append(women/total*100.0)
+    #             nyt_writer.writerow(row)
