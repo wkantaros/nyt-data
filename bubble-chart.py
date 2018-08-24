@@ -42,31 +42,56 @@ df['size'] = bubble_size
 # sizeref = 2.*max(df['size'])/(100**2)
 sizeref = 2.*max(bubble_size)/(100**2)
 
-data = [
-    {
-        'x':x,
-        'y':y,
-        'mode':'markers',
-        'name':'2016',
-        'text':hover_text,
-        'marker': {
-            'color': '#66C3FF',
-            'symbol':'circle',
-            'sizemode':'area',
-            'sizeref':sizeref,
-            'size':bubble_size,
-            'line':{
-                'width':2
-            }
-        }
-    }
-]
+trace0 = go.Scatter(
+    x=x,
+    y=y,
+    mode='markers',
+    name='2016',
+    text=hover_text,
+    marker=dict(
+        color= '#66C3FF',
+        symbol='circle',
+        sizemode='area',
+        sizeref=sizeref,
+        size=bubble_size,
+        line=dict(
+            width=2
+        )
+    )
+)
+data = [trace0]
+# data = [
+#     {
+#         'x':x,
+#         'y':y,
+#         'mode':'markers',
+#         'name':'2016',
+#         'text':hover_text,
+#         'marker': {
+#             'color': '#66C3FF',
+#             'symbol':'circle',
+#             'sizemode':'area',
+#             'sizeref':sizeref,
+#             'size':bubble_size,
+#             'line':{
+#                 'width':2
+#             }
+#         }
+#     }
+# ]
 
 layout = go.Layout(
     title='Percent of Articles by Gender, by Topic, 2016',
+    titlefont=dict(
+        size=22
+    ),
     xaxis=dict(
         title='Number of Articles by Topic',
-        gridcolor='rgb(255, 255, 255)',
+        titlefont=dict(
+            size=18
+        ),
+        # gridcolor='rgb(255, 255, 255)',
+        gridcolor='rgb(243, 243, 243)',
         range=[0, 600],
         zerolinewidth=1,
         ticklen=5,
@@ -74,14 +99,34 @@ layout = go.Layout(
     ),
     yaxis=dict(
         title='Percent of Articles by Women, by Topic',
-        gridcolor='rgb(255, 255, 255)',
+        titlefont=dict(
+            size=18
+        ),
+        # gridcolor='rgb(255, 255, 255)',
+        gridcolor='rgb(243, 243, 243)',
         range=[0, 105],
         zerolinewidth=1,
         ticklen=5,
         gridwidth=2,
     ),
-    paper_bgcolor='rgb(243, 243, 243)',
-    plot_bgcolor='rgb(243, 243, 243)',
+
+    shapes=[
+        # Line Horizontal
+        dict(
+            type='line',
+            x0=0,
+            y0=50,
+            x1=600,
+            y1=50,
+            line=dict(
+                color='#E56399',
+                width=2,
+                dash='dot',
+            )
+        )
+    ],
+    paper_bgcolor='rgb(255, 255, 255)',
+    plot_bgcolor='rgb(255, 255, 255)',
 )
 
 fig = go.Figure(data=data, layout=layout)
