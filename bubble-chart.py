@@ -33,7 +33,7 @@ for key, value in t.items():
                           'Percent Women: {pwomen}').format(topic=key,
                                                 nwomen=value['women'],
                                                 total=value['total'],
-                                                pwomen=value['women']/value['total']*100))
+                                                pwomen="{:.2f}".format(value['women']/value['total']*100)))
 
 s = s.drop(labels=['Year','Month'])
 df = pd.DataFrame({'topic':s.index, 'percent':s.values})
@@ -81,7 +81,7 @@ data = [trace0]
 # ]
 
 layout = go.Layout(
-    title='Percent of Articles by Gender, by Topic, 2016',
+    title='New York Times Article Topics by Gender, Quantity',
     titlefont=dict(
         size=22
     ),
@@ -98,7 +98,7 @@ layout = go.Layout(
         gridwidth=2,
     ),
     yaxis=dict(
-        title='Percent of Articles by Women, by Topic',
+        title='Percent of Articles by Women',
         titlefont=dict(
             size=18
         ),

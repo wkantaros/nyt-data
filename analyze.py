@@ -3,6 +3,9 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 plt.style.use('seaborn-deep')
+import plotly.plotly as py
+import plotly.tools as tls
+import plotly.graph_objs as go
 
 ## data for the bar graph of total gender by month
 def getGenderByMonth():
@@ -63,5 +66,75 @@ def makeBarGraph(data):
     ax.autoscale_view()
     plt.show()
 
+def makePlotLy(data):
+    strDates = [str(date) for date in data[:,0]]
+    # years = [(date[:4] + '-' date[4:]) if int(date[4:]) is 1 else (date + 'a') for date in strDates]
+    years = [(date[:4] + '-' + date[4:]) for date in strDates]
+    hover_text=[]
+    for num in range(data[:,1].size):
+        hover_text.append(('Number Males: {men}<br>' +
+                           'Number Females: {women}<br>' +
+                           'Month-Year: {month}-{year}').format(men=data[num,1],
+                                                                women=data[num,2],
+                                                                month=strDates[num][4:],
+                                                                year=strDates[num][:4])
+        )
+    trace1 = go.Bar(
+        x=years,
+        y=data[:,1],
+        text=hover_text,
+        name='Males',
+        marker=dict(
+            color='#66C3FF'
+        )
+    )
+    trace2 = go.Bar(
+        x=years,
+        y=data[:,2],
+        text=hover_text,
+        name='Females',
+        marker=dict(
+            color='#E56399'
+        )
+    )
+    data = [trace1, trace2]
+    layout = go.Layout(
+        title='Monthly Articles by Writer\'s Gender',
+        titlefont=dict(
+            size=24
+        ),
+        xaxis=dict(
+            type='category',
+            nticks=18,
+            tickangle=-45,
+            tickfont=dict(
+                size=14,
+                color='rgb(107, 107, 107)'
+            )
+        ),
+        yaxis=dict(
+            tickfont=dict(
+                size=14,
+                color='rgb(107, 107, 107)'
+            )
+        ),
+        legend=dict(
+            x=0.9,
+            y=0.9,
+            bgcolor='rgba(255, 255, 255, 0)',
+            bordercolor='rgba(255, 255, 255, 0)'
+            # titlefont=dict(
+            #     size=18
+            # )
+        ),
+        barmode='group',
+        bargap=0,
+        bargroupgap=0
+    )
+
+    fig = go.Figure(data=data, layout=layout)
+    py.plot(fig, filename='style-bar')
+
 if __name__ == "__main__":
-    makeBarGraph(getGenderByMonth())
+    # makeBarGraph(getGenderByMonth())
+    makePlotLy(getGenderByMonth())

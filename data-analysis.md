@@ -16,7 +16,7 @@ From there, I had to determine the gender of the articles' authors. This proved 
 
 ## Analysis
 
-![](figures/Histogram.png)
+![](figures/time-histogram-plotly.png)
 A male dominated field
 
 Analysis on figure one (only a paragraph)
