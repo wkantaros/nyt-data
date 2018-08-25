@@ -1,3 +1,14 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+#wrapper {
+    min-height: 100%;
+    margin: 1rem 0;
+    padding: auto 0;
+}
+
 html {
   font-size: 12px;
 }
@@ -66,4 +77,19 @@ iframe {
 .iframe {
   margin: 0 5vw;
   padding: auto;
+}
+
+.mobileShow {display: none;}
+
+@media only screen and (max-width: 475px){
+  .mobileHide{ display: none; }
+  .mobileShow { display: inline; }
+  iframe {
+    width: 0;
+    height: 0;
+  }
+  img {
+    width: 95%;
+    padding: 0 auto;
+  }
 }
