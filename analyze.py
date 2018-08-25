@@ -74,7 +74,7 @@ def makePlotLy(data):
     for num in range(data[:,1].size):
         hover_text.append(('Number Males: {men}<br>' +
                            'Number Females: {women}<br>' +
-                           'Month-Year: {month}-{year}').format(men=data[num,1],
+                           'Month-Year: {year}-{month}').format(men=data[num,1],
                                                                 women=data[num,2],
                                                                 month=strDates[num][4:],
                                                                 year=strDates[num][:4])
@@ -109,13 +109,13 @@ def makePlotLy(data):
             tickangle=-45,
             tickfont=dict(
                 size=14,
-                color='rgb(107, 107, 107)'
+                color='#333'
             )
         ),
         yaxis=dict(
             tickfont=dict(
                 size=14,
-                color='rgb(107, 107, 107)'
+                color='#333'
             )
         ),
         legend=dict(
