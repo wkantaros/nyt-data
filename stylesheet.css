@@ -82,14 +82,38 @@ iframe {
 .mobileShow {display: none;}
 
 @media only screen and (max-width: 475px){
+
   .mobileHide{ display: none; }
+
   .mobileShow { display: inline; }
+
   iframe {
     width: 0;
     height: 0;
   }
+
   img {
     width: 95%;
+    margin: 0 1px;
     padding: 0 auto;
+  }
+
+  h1 {
+    font-size: 2rem;
+    margin: 2rem 0 .5rem;
+    line-height: 1.42;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+    margin: .5rem 0 .25rem;
+  }
+
+  body {
+    margin: 1rem;
+  }
+
+  li {
+    margin-left: 0;
   }
 }
