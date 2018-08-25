@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="stylesheet.css" />
+</head>
+
+<body>
+  <div class="notIframe">
+    <h1 id="a-newspaper-for-men">A Newspaper for Men</h1>
+    <h2 id="a-study-on-the-gender-distribution-of-writers-at-the-new-york-times">A study on the gender distribution of writers at the New York Times</h2>
+    <p>We all read news with implicit biases. From our own political views to those of the company's and reporter's, attempting to escape political, social, or other frames is futile. That is, frames dissuade us from thinking, or nudge us toward predetermined
+      thought patterns. Whether we’re watching a fifteen-second TV ad or reading a carefully laid-out newspaper, the frame imposed on the content affects how we receive it. In news, the sum of our experiences preceding <em>what</em> we read determines
+      <em>how</em> we read it. We know this, and many actively try to read works from both the left and right. This leads to my question: <strong>Why don't we recognize these same frames in gender?</strong></p>
+    <p>We each view the world through our own set of internal frames, shaped by every experience we’ve had and every word we’ve heard and uttered. Men and women have internal differences that create biological disparities, affecting their outlooks and how
+      they shape their news. More importantly, the social landscapes for men and women are vastly different: from how they're raised, how they're spoken to, and societal pressures placed on them, men and women view the world through different lenses.
+      And if only one gender reports information, we only see one side of the truth.</p>
+    <p>My study reviews <em>The New York Times</em>, widely considered the paragon of the news industry, to determine whether there an equally distributed number of men and women write their articles.</p>
+    <h2 id="data-collection">Data Collection</h2>
+    <p>I analyzed every New York Times article written over the last 7 years, which summed to be over 350,000 articles. From each article, I took the first name of the author and the "section_type," a self-defined topic that the New York Times attributed
+      to the article.</p>
+    <p>From there, I had to determine the gender of the articles' authors. This proved difficult, since The Times did not directly say the gender of reporters. Currently I am using an algorithm predicated on artificial intelligence that searches through
+      the US Social Security name database to predict gender.</p>
+    <h2 id="analysis">Analysis</h2>
+  </div>
+  <div class="iframe">
+    <iframe frameborder="0" scrolling="no" src="https://plot.ly/~wkantaros/20.embed"></iframe>
+  </div>
+  <div class="notIframe">
+    <p>A male dominated field</p>
+    <p>Analysis on figure one (only a paragraph)</p>
+    <blockquote>
+      <p>The largest gap between genders was in April, 2016, when <em>78% of all articles were written by men</em></p>
+    </blockquote>
+  </div>
+  <div class="iframe">
+    <iframe frameborder="0" scrolling="no" src="https://plot.ly/~wkantaros/16.embed"></iframe>
+  </div>
+  <div class="notIframe">
+    <p>Analysis on figure two (only a paragraph)</p>
+    <h2 id="citations">Citations</h2>
+    <ul>
+      <li>All data gathered using the New York Times Developer API</li>
+      <li>Miles McCain for answering some of my questions</li>
+      <li>Sephen Holiday <a href="https://github.com/sholiday">@sholiday</a> for the framework for the Gender Predictor</li>
+      <li>Name database provided by the <a href="https://www.ssa.gov/oact/babynames/limits.html">US Social Security Administration</a></li>
+    </ul>
+  </div>
+</body>
+
+</html>
