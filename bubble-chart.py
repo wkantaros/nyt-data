@@ -82,7 +82,7 @@ data = [trace0]
 # ]
 
 layout = go.Layout(
-    title='New York Times Article Topics by Gender, Quantity',
+    title='New York Times Article Topics by Gender, Quantity - December 2016',
     titlefont=dict(
         size=22
     ),

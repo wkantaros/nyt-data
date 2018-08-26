@@ -27,25 +27,36 @@
       Tracy and Alex, which can fall into either category, the algorithm checks which gender is more popular for that name, and places it into that group. If the name cannot be placed into a gender with a 60% certainty or higher, or if the name isn't
       in the database at all, the algorithm omits the name to insure accurate data. Roughly 5% of the data was not included in my analysis for these reasons.</p>
     <h2 id="analysis">Analysis</h2>
+    <p>In order to determine whether there is an imbalance between articles written by men and women, we need to look at the number of articles written by each gender. Seeing how this data looks over a five year span ensures reliability and eliminates the
+      possibility of an outlier month as the cause for an inbalance.</p>
   </div>
   <div class="iframe">
     <iframe class="mobileHide" frameborder="0" scrolling="no" src="https://plot.ly/~wkantaros/20.embed"></iframe>
     <img class="mobileShow" src="figures/time-histogram-plotly.png" alt="Time Histogram">
   </div>
   <div class="notIframe">
-    <p>A male dominated field</p>
-    <p>Analysis on figure one (only a paragraph)</p>
-    <blockquote>
-      <p>The largest gap between genders was in April, 2016, when <em>78% of all articles were written by men</em></p>
-    </blockquote>
+    <p>As we can see from the histogram above, writing at the New York Times is heavily male dominated. Men consistently double or nearly double women in total articles every month. Men wrote 7,290 articles - the greatest number of articles written by a
+      single gender in a month - in January 2012. For comparison, during that same month women wrote a measly 3,554 articles, or a little over 32% of the total articles. Eight years later, there doesn't appear to be any progress concerning the amelioration
+      of gender discrepancies at The Times.</p>
+    <p>It is also worth noting the heavy reduction in total articles over the last seven yers. In that time span, The Times released 12,069 articles at its peak in January, 2012. Over the ensuing years, that number has plummeted. In December, 2017, the newspaper
+      published a mere 991 articles, or 8% of what was produced nearly seven years earlier.</p>
+    <p>Within The Times, gender distributions fluctuate between topic sections. This is shown in the figure below. </p>
   </div>
   <div class="iframe">
     <iframe class="mobileHide" frameborder="0" scrolling="no" src="https://plot.ly/~wkantaros/16.embed"></iframe>
     <img class="mobileShow" src="figures/bubble-chart-topics1.png" alt="Bubble Chart">
   </div>
   <div class="notIframe">
-    <p>Analysis on figure two (only a paragraph)</p>
-    <h2 id="data-collection">Conclusion</h2>
+    <p>Although some topic sections have a relatively equal gender distribution, a far greater number do not. Several sections contain more female writers, including Real Estate, Travel, and Fashion, but these sections publish fewer articles per month in
+      comparison to the other Times' sections. In fact, primarily men write the top seven topic sections, which include US, World, Arts, Business, and Opinion.</p>
+    <p>In December, 2016, women wrote only 24.9% of the articles in the Opinion Section. The Opinion section covers authors views on a variety of topics, from politics, to food, to life decisions. Simply put, readers hear the voices and views of the authors
+      in this section. Why, then, does The Times mainly present the voices of only 50% of the population?</p>
+    <h2 id="conclusion">Conclusion</h2>
+    <p>Over the last seven years, The New York Times has diminished the amount of news spread to the American people, and continues to select voices from a skewed demographic. A dearth of diversity within a company leads to blindspots: missed ideas, lack
+      of growth, and unforseen mistakes. When people consume information from a homogeneous source, they are deprived of fresh ideas, new cultures, and diverging opinions as a consequence. As the New York Times continues to release fewer articles, the
+      potency of each becomes greater. Much like the rise of suburban America in the 1950s, where provincial ideas resonated off one other like a soundboard for white America, the concentrated male-dominated news perpetrated by the New York Times leaves
+      Americans in uniform thought, and leaves women without representation. And when the distributors of information are only a few, homogeneous voices, democracy and the progress of this nation halts. Although the absence of free news can cripple a
+      nation, a trusted but distorted news, like The New York Times, can trigger pernicious and equally damaging consequences.</p>
     <h2 id="citations">Citations</h2>
     <ul>
       <li>All data gathered using the New York Times Developer API</li>
