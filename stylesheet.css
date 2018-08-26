@@ -39,7 +39,7 @@ h2 {
 }
 
 h4 {
-  font-size: 1.2rem;
+  font-size: 18px;
 }
 
 @import url(http://fonts.googleapis.com/css?family=Merriweather:300italic,300);
@@ -65,6 +65,21 @@ p {
   color: #555;
   height: auto;
   line-height: 1.45;
+}
+
+a {
+  font-weight: 100;
+  text-decoration: none;
+  color: #0498e0;
+  -webkit-transition: .25s;
+  transition: .25s;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #00699d;
+  -webkit-transition: .25s;
+  transition: .25s;
 }
 
 .notIframe {

@@ -1,0 +1,992 @@
+section_name,firstname,pub_date,gender
+DealBook,Michael,2017-12-02,M
+Sunday Review,R.,2017-12-02,U
+Sunday Review,Steve,2017-12-02,M
+Europe,Katrin,2017-12-02,F
+Sunday Review,Sallie,2017-12-02,F
+Olympics,Rebecca,2017-12-02,F
+Sunday Review,Thomas,2017-12-02,M
+Politics,Peter,2017-12-02,M
+Politics,Jim,2017-12-02,M
+Sunday Review,Bärí,2017-12-02,U
+Sunday Review,Martín,2017-12-02,U
+Sunday Review,Jacques,2017-12-02,M
+Sunday Review,Ross,2017-12-02,M
+Sunday Review,Nicholas,2017-12-02,M
+Politics,Erica,2017-12-02,F
+Politics,Maggie,2017-12-02,F
+Europe,Benjamin,2017-12-02,M
+Politics,Kate,2017-12-02,F
+Politics,Carl,2017-12-02,M
+Politics,Ron,2017-12-02,M
+Middle East,David,2017-12-02,M
+Sunday Review,Sierra,2017-12-02,F
+Middle East,Nour,2017-12-02,F
+Politics,Michael,2017-12-02,M
+Americas,Kirk,2017-12-02,M
+Europe,Liam,2017-12-02,M
+Europe,Yonette,2017-12-02,U
+Europe,Kimiko,2017-12-02,F
+Asia Pacific,Hannah,2017-12-02,F
+Americas,Elisabeth,2017-12-02,F
+Americas,Azam,2017-12-02,M
+Television,Gabe,2017-12-02,M
+Politics,Jim,2017-12-02,M
+Politics,Jasmine,2017-12-02,F
+Politics,Robin,2017-12-02,F
+Pro Basketball,John,2017-12-02,M
+Politics,Peter,2017-12-02,M
+Politics,Mark,2017-12-02,M
+Media,Michael,2017-12-02,M
+Politics,Binyamin,2017-12-02,M
+Media,John,2017-12-02,M
+Politics,Carl,2017-12-02,M
+Canada,Dan,2017-12-01,M
+Europe,Benjamin,2017-12-01,M
+Middle East,Nour,2017-12-01,F
+Sunday Review,Richard,2017-12-01,M
+Politics,Anna,2017-12-01,F
+The Daily,Michael,2017-12-01,M
+Canada,Ian,2017-12-01,M
+Baseball,Tyler,2017-12-01,M
+Europe,Melissa,2017-12-01,F
+Economy,Patricia,2017-12-01,F
+Golf,Karen,2017-12-01,F
+Europe,Amanda,2017-12-01,F
+Middle East,Rick,2017-12-01,M
+Pro Basketball,Marc,2017-12-01,M
+Insider Events,Insider,2017-12-01,U
+Music,Jon,2017-12-01,M
+Politics,Daniel,2017-12-01,M
+Soccer,Rory,2017-12-01,M
+Politics,Scott,2017-12-01,M
+Politics,Charlie,2017-12-01,M
+Politics,Yamiche,2017-12-01,U
+Politics,Niraj,2017-12-01,M
+Sunday Review,Edward,2017-12-01,M
+Media,Tiffany,2017-12-01,F
+Music,Anthony,2017-12-01,M
+Music,James,2017-12-01,M
+Politics,Michael,2017-12-01,M
+Book Review,Nancy,2017-12-01,F
+Book Review,Gregory,2017-12-01,M
+Book Review,Maria,2017-12-01,F
+Book Review,Joumana,2017-12-01,U
+Europe,Adam,2017-12-01,M
+Book Review,Nell,2017-12-01,F
+Politics,Jim,2017-12-01,M
+Book Review,Rachel,2017-12-01,F
+Book Review,Daniel,2017-12-01,M
+Book Review,Jillian,2017-12-01,F
+Music,Zachary,2017-12-01,M
+Music,Jon,2017-12-01,M
+Asia Pacific,Jason,2017-12-01,M
+Politics,Gardiner,2017-12-01,M
+Europe,Yonette,2017-12-01,U
+Personal Tech,J.,2017-12-01,U
+Book Review,James,2017-12-01,M
+Book Review,Alan,2017-12-01,M
+Book Review,Deborah,2017-12-01,F
+Book Review,J.,2017-12-01,U
+Book Review,Amy,2017-12-01,F
+Book Review,J.,2017-12-01,U
+Book Review,Daisy,2017-12-01,F
+Europe,Marlise,2017-12-01,F
+Middle East,David,2017-12-01,M
+Economy,Conor,2017-12-01,M
+Book Review,Charles,2017-12-01,M
+Music,,2017-12-01,U
+Dance,Gia,2017-12-01,F
+Television,Kathryn,2017-12-01,F
+Politics,Michael,2017-12-01,M
+Asia Pacific,Felipe,2017-12-01,M
+Music,Giovanni,2017-12-01,M
+Asia Pacific,Muktita,2017-12-01,U
+Europe,Alan,2017-12-01,M
+Weddings,Wyatt,2017-12-01,M
+Live,Toby,2017-12-01,M
+Soccer,Rory,2017-12-01,M
+The Daily,Michael,2017-12-01,M
+Live,Roni,2017-12-01,F
+Family,Roy,2017-12-01,M
+Sunday Review,Frank,2017-12-01,M
+Lesson Plans,Shannon,2017-12-01,F
+Television,Giovanni,2017-12-01,M
+Art & Design,Arthur,2017-12-01,M
+Book Review,Jody,2017-12-01,F
+Baseball,Seth,2017-12-01,M
+Book Review,Mark,2017-12-01,M
+Politics,Jim,2017-12-01,M
+Book Review,David,2017-12-01,M
+Book Review,Noah,2017-12-01,M
+Book Review,Leopoldine,2017-12-01,U
+Book Review,Alex,2017-12-01,M
+Book Review,Kamila,2017-12-01,F
+Book Review,David,2017-12-01,M
+Book Review,David,2017-12-01,M
+Book Review,Christine,2017-12-01,F
+Book Review,Tobi,2017-12-01,F
+Art & Design,Colin,2017-12-01,M
+Book Review,Alexandra,2017-12-01,F
+Book Review,Judith,2017-12-01,F
+Book Review,Holland,2017-12-01,GN
+Book Review,Rick,2017-12-01,M
+Book Review,Steven,2017-12-01,M
+Asia Pacific,Ismail,2017-12-01,M
+Asia Pacific,Motoko,2017-12-01,U
+Australia,Jacqueline,2017-12-01,F
+Television,Andrew,2017-12-01,M
+Africa,David,2017-12-01,M
+Asia Pacific,Austin,2017-12-01,M
+Politics,Jonathan,2017-12-01,M
+Politics,Katie,2017-12-01,F
+Politics,Mark,2017-12-01,M
+Politics,Nilo,2017-12-01,M
+Europe,Andrew,2017-12-01,M
+Sunday Review,Alanna,2017-12-01,F
+Asia Pacific,Robin,2017-12-01,F
+Art & Design,Blake,2017-12-01,M
+Politics,Adam,2017-12-04,M
+Music,Anthony,2017-12-04,M
+Media,Niraj,2017-12-04,M
+Politics,Erica,2017-12-04,F
+Europe,Stephen,2017-12-04,M
+College Basketball,Benjamin,2017-12-04,M
+Politics,Michael,2017-12-04,M
+Dance,Robin,2017-12-04,F
+DealBook,Gina,2017-12-04,F
+Men’s Style,John,2017-12-04,M
+Politics,Adam,2017-12-04,M
+Pro Football,Victor,2017-12-04,M
+Music,Joshua,2017-12-04,M
+Politics,Adam,2017-12-04,M
+Television,Jason,2017-12-04,M
+Politics,Adam,2017-12-04,M
+Middle East,Rick,2017-12-04,M
+Men’s Style,Alex,2017-12-04,M
+Dance,Alastair,2017-12-04,M
+Politics,Jim,2017-12-04,M
+Dance,Brian,2017-12-04,M
+Europe,Ivan,2017-12-04,M
+Politics,Chris,2017-12-04,M
+Music,Ben,2017-12-04,M
+Politics,Richard,2017-12-04,M
+Men’s Style,Alex,2017-12-04,M
+DealBook,Richard,2017-12-04,M
+Europe,Alan,2017-12-04,M
+Media,Emily,2017-12-04,F
+Politics,Charlie,2017-12-04,M
+Pro Football,Bill,2017-12-04,M
+Television,James,2017-12-04,M
+Asia Pacific,Kai,2017-12-04,M
+Olympics,Christopher,2017-12-04,M
+Europe,Sally,2017-12-04,F
+Personal Tech,J.,2017-12-04,U
+Olympics,Juliet,2017-12-04,F
+Middle East,Shuaib,2017-12-04,M
+Politics,Eileen,2017-12-04,F
+Europe,Raphael,2017-12-04,M
+Family,Perri,2017-12-04,F
+Live,Jane,2017-12-04,F
+Europe,Andrew,2017-12-04,M
+Middle East,Max,2017-12-04,M
+The Daily,Michael,2017-12-04,M
+Book Review,Nicole,2017-12-04,F
+Book Review,Clay,2017-12-04,M
+Politics,Michael,2017-12-04,M
+Politics,Adam,2017-12-04,M
+Television,Gabe,2017-12-04,M
+Australia,Isabella,2017-12-04,F
+Asia Pacific,Gerry,2017-12-04,M
+Politics,Emily,2017-12-04,F
+Pro Football,Benjamin,2017-12-04,M
+Middle East,Anne,2017-12-04,F
+Television,Charles,2017-12-04,M
+Americas,Elisabeth,2017-12-04,F
+Television,Genevieve,2017-12-04,F
+Politics,Thomas,2017-12-04,M
+Music,Michael,2017-12-04,M
+Media,Alina,2017-12-04,F
+Americas,Rick,2017-12-03,M
+Middle East,Somini,2017-12-03,U
+Politics,Carl,2017-12-03,M
+Music,James,2017-12-03,M
+Pro Football,Geoff,2017-12-03,M
+Media,Sapna,2017-12-03,F
+Europe,Steven,2017-12-03,M
+Politics,Peter,2017-12-03,M
+Europe,Text,2017-12-03,U
+Economy,Natalie,2017-12-03,F
+DealBook,Michael,2017-12-03,M
+Canada,Ian,2017-12-03,M
+Australia,Jane,2017-12-03,F
+Asia Pacific,Rod,2017-12-03,M
+Middle East,Mona,2017-12-03,F
+Politics,Yamiche,2017-12-03,U
+Art & Design,Colin,2017-12-03,M
+Politics,Michael,2017-12-03,M
+Middle East,Shuaib,2017-12-03,M
+Politics,Nicholas,2017-12-03,M
+Television,Sopan,2017-12-03,U
+Asia Pacific,Paul,2017-12-03,M
+Television,Andrew,2017-12-03,M
+Music,Michael,2017-12-03,M
+Asia Pacific,Jason,2017-12-03,M
+Middle East,John,2017-12-06,M
+Politics,Alan,2017-12-06,M
+Middle East,Michael,2017-12-06,M
+Politics,Robert,2017-12-06,M
+Middle East,David,2017-12-06,M
+Politics,Yamiche,2017-12-06,U
+Europe,Richard,2017-12-06,M
+Fashion & Beauty,Isabel,2017-12-06,F
+Politics,Nicholas,2017-12-06,M
+Media,Sydney,2017-12-06,F
+DealBook,Robert,2017-12-06,M
+Music,James,2017-12-06,M
+Middle East,Anne,2017-12-06,F
+Men’s Style,Steven,2017-12-06,M
+Art & Design,Roberta,2017-12-06,F
+Television,Sopan,2017-12-06,U
+Politics,Charlie,2017-12-06,M
+Live,Nicholas,2017-12-06,M
+Middle East,Somini,2017-12-06,U
+Music,Jon,2017-12-06,M
+Olympics,Rebecca,2017-12-06,F
+Television,Vivian,2017-12-06,F
+Art & Design,Roberta,2017-12-06,F
+Music,Giovanni,2017-12-06,M
+Music,Jon,2017-12-06,M
+Music,Jon,2017-12-06,M
+Weddings,Marianne,2017-12-06,F
+Media,Tiffany,2017-12-06,F
+Politics,Mark,2017-12-06,M
+Men’s Style,Alex,2017-12-06,M
+Music,Agnès,2017-12-06,U
+Personal Tech,Lucas,2017-12-06,M
+Art & Design,Roberta,2017-12-06,F
+Canada,Ian,2017-12-06,M
+Europe,Neil,2017-12-06,M
+Politics,Yamiche,2017-12-06,U
+Asia Pacific,Keith,2017-12-06,M
+Television,Mike,2017-12-06,M
+Dance,Gia,2017-12-06,F
+Men’s Style,Max,2017-12-06,M
+Europe,Neil,2017-12-06,M
+Middle East,Mark,2017-12-06,M
+Personal Tech,J.,2017-12-06,U
+Politics,Gardiner,2017-12-06,M
+Europe,Jason,2017-12-06,M
+Politics,Katie,2017-12-06,F
+Music,Elisabeth,2017-12-06,F
+Politics,Gardiner,2017-12-06,M
+Europe,Andrew,2017-12-06,M
+Middle East,David,2017-12-06,M
+Media,Jonah,2017-12-06,M
+Europe,Alan,2017-12-06,M
+The Daily,Michael,2017-12-06,M
+Move,Gretchen,2017-12-06,F
+Family,Paula,2017-12-06,F
+Australia,Damien,2017-12-06,M
+Television,Palko,2017-12-06,U
+Asia Pacific,Julia,2017-12-06,F
+Politics,Jeremy,2017-12-06,M
+Book Review,J.,2017-12-06,U
+Television,Giovanni,2017-12-06,M
+Television,Andrew,2017-12-06,M
+Politics,Jeremy,2017-12-06,M
+Europe,Benjamin,2017-12-06,M
+DealBook,Michael,2017-12-06,M
+Olympics,Andrew,2017-12-06,M
+Politics,Jonathan,2017-12-06,M
+Politics,Alan,2017-12-06,M
+Economy,Patricia,2017-12-06,F
+Hockey,Mike,2017-12-05,M
+Olympics,Jeré,2017-12-05,U
+Art & Design,Warren,2017-12-05,M
+Art & Design,Joseph,2017-12-05,M
+Europe,Neil,2017-12-05,M
+Family,Nicholas,2017-12-05,M
+Art & Design,Anna,2017-12-05,F
+Fashion & Beauty,Merrell,2017-12-05,M
+Politics,Ron,2017-12-05,M
+Asia Pacific,Nick,2017-12-05,M
+Politics,Binyamin,2017-12-05,M
+Politics,Binyamin,2017-12-05,M
+Politics,Binyamin,2017-12-05,M
+Book Review,Nicole,2017-12-05,F
+Television,Mike,2017-12-05,M
+Art & Design,Andrew,2017-12-05,M
+Media,John,2017-12-05,M
+Commercial Real Estate,Rosalie,2017-12-05,F
+Men’s Style,Bee,2017-12-05,M
+Middle East,Camilla,2017-12-05,F
+Middle East,Mona,2017-12-05,F
+Middle East,Anne,2017-12-05,F
+Politics,Nicholas,2017-12-05,M
+Europe,Melissa,2017-12-05,F
+Media,Niraj,2017-12-05,M
+Olympics,Rebecca,2017-12-05,F
+Dance,Siobhan,2017-12-05,F
+Music,Zachary,2017-12-05,M
+Art & Design,Hilarie,2017-12-05,F
+Politics,Ron,2017-12-05,M
+Europe,Melissa,2017-12-05,F
+Dance,Gia,2017-12-05,F
+Middle East,Mark,2017-12-05,M
+Europe,Andrew,2017-12-05,M
+Canada,Dan,2017-12-05,M
+Politics,Maggie,2017-12-05,F
+Europe,Alan,2017-12-05,M
+Europe,Gardiner,2017-12-05,M
+Men’s Style,Max,2017-12-05,M
+Family,Steven,2017-12-05,M
+Soccer,Victor,2017-12-05,M
+Music,Seth,2017-12-05,M
+Economy,Eduardo,2017-12-05,M
+DealBook,Chad,2017-12-05,M
+Personal Tech,J.,2017-12-05,U
+Europe,Ivan,2017-12-05,M
+Politics,Sarah,2017-12-05,F
+Soccer,Andrew,2017-12-05,M
+Music,Philip,2017-12-05,M
+Middle East,Shuaib,2017-12-05,M
+Family,Andrew,2017-12-05,M
+Europe,Raphael,2017-12-05,M
+The Daily,Michael,2017-12-05,M
+Asia Pacific,Austin,2017-12-05,M
+Book Review,Denis,2017-12-05,M
+Politics,Sheryl,2017-12-05,F
+Politics,Adam,2017-12-05,M
+Book Review,Gregory,2017-12-05,M
+Music,Anthony,2017-12-05,M
+Politics,Alicia,2017-12-05,F
+Television,Giovanni,2017-12-05,M
+Politics,Anna,2017-12-05,F
+Olympics,Jeré,2017-12-05,U
+Politics,Yamiche,2017-12-05,U
+Television,Gabe,2017-12-05,M
+Pro Football,Benjamin,2017-12-05,M
+Australia,Adam,2017-12-05,M
+Politics,Matthew,2017-12-05,M
+Americas,Elisabeth,2017-12-05,F
+DealBook,Andrew,2017-12-05,M
+Australia,Diana,2017-12-05,F
+Television,Maggie,2017-12-05,F
+Politics,Kenneth,2017-12-05,M
+Politics,Mark,2017-12-05,M
+Economy,Ben,2017-12-05,M
+Baseball,David,2017-12-05,M
+Music,Michael,2017-12-05,M
+Europe,Benjamin,2017-12-05,M
+Politics,Alan,2017-12-05,M
+Music,Michael,2017-12-08,M
+Media,Michael,2017-12-08,M
+Politics,Adam,2017-12-08,M
+DealBook,Gina,2017-12-08,F
+Europe,Gardiner,2017-12-08,M
+Media,Ben,2017-12-08,M
+Soccer,Graham,2017-12-08,M
+Canada,Ian,2017-12-08,M
+Pro Football,Ken,2017-12-08,M
+Soccer,Tariq,2017-12-08,M
+Politics,Chris,2017-12-08,M
+Politics,Adam,2017-12-08,M
+Media,Ben,2017-12-08,M
+Middle East,Eric,2017-12-08,M
+Politics,Nicholas,2017-12-08,M
+Sunday Review,Lucinda,2017-12-08,F
+Middle East,Rick,2017-12-08,M
+Dance,Alastair,2017-12-08,M
+Middle East,Camilla,2017-12-08,F
+Television,John,2017-12-08,M
+Music,Jon,2017-12-08,M
+College Football,Marc,2017-12-08,M
+Olympics,Rebecca,2017-12-08,F
+Politics,Mark,2017-12-08,M
+Politics,Michael,2017-12-08,M
+Hockey,Dave,2017-12-08,M
+Africa,Rick,2017-12-08,M
+Book Review,Leon,2017-12-08,M
+Asia Pacific,Jeffrey,2017-12-08,M
+Music,,2017-12-08,U
+Europe,Melissa,2017-12-08,F
+Europe,Rick,2017-12-08,M
+Family,Nicholas,2017-12-08,M
+Politics,Alan,2017-12-08,M
+Canada,Dan,2017-12-08,M
+Europe,Elisabetta,2017-12-08,F
+Music,Zachary,2017-12-08,M
+Music,Palko,2017-12-08,U
+Television,James,2017-12-08,M
+Television,Kathryn,2017-12-08,F
+Asia Pacific,Christine,2017-12-08,F
+Economy,Prashant,2017-12-08,M
+Middle East,Isabel,2017-12-08,F
+The Daily,Michael,2017-12-08,M
+Weddings,Linda,2017-12-08,F
+Live,Toby,2017-12-08,M
+Family,Ylonda,2017-12-08,F
+Sunday Review,Moises,2017-12-08,M
+Asia Pacific,Jeffrey,2017-12-08,M
+Television,Giovanni,2017-12-08,M
+Europe,Iliana,2017-12-08,F
+Book Review,Gilbert,2017-12-08,M
+Economy,Ben,2017-12-08,M
+Book Review,Gregory,2017-12-08,M
+Politics,Wilson,2017-12-08,M
+Book Review,Stanislao,2017-12-08,U
+Book Review,Lisa,2017-12-08,F
+Book Review,Jim,2017-12-08,M
+Book Review,Deb,2017-12-08,F
+Book Review,David,2017-12-08,M
+Book Review,Jacob,2017-12-08,M
+Book Review,Alex,2017-12-08,M
+Book Review,Liesl,2017-12-08,F
+Book Review,Nancy,2017-12-08,F
+Book Review,Joumana,2017-12-08,U
+Africa,Dionne,2017-12-08,F
+Politics,Anna,2017-12-08,F
+Europe,Steven,2017-12-08,M
+Soccer,Rory,2017-12-08,M
+Television,Andrew,2017-12-08,M
+Baseball,Benjamin,2017-12-08,M
+Europe,Rick,2017-12-08,M
+Politics,Julie,2017-12-08,F
+Politics,Carl,2017-12-08,M
+Lesson Plans,Marjorie,2017-12-08,F
+Politics,Mark,2017-12-08,M
+Politics,Michael,2017-12-08,M
+Politics,Kenneth,2017-12-08,M
+Dance,Robin,2017-12-08,F
+DealBook,Michael,2017-12-08,M
+Politics,Jonathan,2017-12-08,M
+Middle East,David,2017-12-08,M
+Olympics,Kevin,2017-12-07,M
+Pro Football,Victor,2017-12-07,M
+DealBook,Antony,2017-12-07,M
+Middle East,Sewell,2017-12-07,M
+Politics,Nicholas,2017-12-07,M
+Americas,Daniel,2017-12-07,M
+Politics,Linda,2017-12-07,F
+Music,Michael,2017-12-07,M
+Australia,Damien,2017-12-07,M
+Soccer,Tariq,2017-12-07,M
+Middle East,Rick,2017-12-07,M
+Politics,Thomas,2017-12-07,M
+Politics,Adam,2017-12-07,M
+Music,David,2017-12-07,M
+Men’s Style,Thomas,2017-12-07,M
+Africa,Jaime,2017-12-07,GN
+Men’s Style,Produced,2017-12-07,U
+Dance,Brian,2017-12-07,M
+Cricket,Tim,2017-12-07,M
+Art & Design,Sandra,2017-12-07,F
+Mind,Tara,2017-12-07,F
+Television,Jennifer,2017-12-07,F
+Europe,Gardiner,2017-12-07,M
+DealBook,Kate,2017-12-07,F
+Sunday Review,Ben,2017-12-07,M
+Art & Design,Jason,2017-12-07,M
+Pro Basketball,Marc,2017-12-07,M
+Europe,Stephen,2017-12-07,M
+Europe,Benjamin,2017-12-07,M
+Music,Anthony,2017-12-07,M
+Book Review,Maria,2017-12-07,F
+Television,George,2017-12-07,M
+Weddings,Marianne,2017-12-07,F
+Television,Mike,2017-12-07,M
+Men’s Style,Matthew,2017-12-07,M
+Politics,Robin,2017-12-07,F
+Canada,Dan,2017-12-07,M
+Personal Tech,J.,2017-12-07,U
+Asia Pacific,Muktita,2017-12-07,U
+"Wine, Beer & Cocktails",Eric,2017-12-07,M
+Media,Jonah,2017-12-07,M
+Politics,Matthew,2017-12-07,M
+Sunday Review,Robert,2017-12-07,M
+Politics,Sheryl,2017-12-07,F
+Europe,Gaia,2017-12-07,F
+Australia,Parliament,2017-12-07,U
+Europe,Niki,2017-12-07,F
+Middle East,Isabel,2017-12-07,F
+Music,Dana,2017-12-07,F
+Lesson Plans,Katherine,2017-12-07,F
+Asia Pacific,Motoko,2017-12-07,U
+Asia Pacific,Michael,2017-12-07,M
+The Daily,Michael,2017-12-07,M
+Live,Douglas,2017-12-07,M
+Eat,Roni,2017-12-07,F
+Book Review,Jaroslav,2017-12-07,M
+Art & Design,Holland,2017-12-07,GN
+Book Review,John,2017-12-07,M
+Move,Gretchen,2017-12-07,F
+Television,Giovanni,2017-12-07,M
+Asia Pacific,Motoko,2017-12-07,U
+Australia,Damien,2017-12-07,M
+Television,Andrew,2017-12-07,M
+Television,Jeremy,2017-12-07,M
+Politics,Nilo,2017-12-07,M
+Media,Brooks,2017-12-07,M
+Television,Vivian,2017-12-07,F
+Baseball,Tyler,2017-12-07,M
+Politics,Mark,2017-12-07,M
+Europe,Henrik,2017-12-07,M
+Media,John,2017-12-10,M
+Politics,Karen,2017-12-10,F
+Middle East,John,2017-12-10,M
+Dance,Gia,2017-12-10,F
+Americas,Kirk,2017-12-10,M
+Soccer,Rory,2017-12-10,M
+Music,Seth,2017-12-10,M
+Contributors,Heng,2017-12-10,M
+Middle East,Margaret,2017-12-10,F
+Dance,Roslyn,2017-12-10,F
+Politics,Michael,2017-12-10,M
+Australia,Diana,2017-12-10,F
+Middle East,Thomas,2017-12-10,M
+Asia Pacific,Rod,2017-12-10,M
+Art & Design,Michael,2017-12-10,M
+Europe,Christina,2017-12-10,F
+Politics,Jonathan,2017-12-10,M
+Politics,Zach,2017-12-10,M
+Middle East,Isabel,2017-12-10,F
+Africa,Charlie,2017-12-10,M
+Music,Jon,2017-12-10,M
+Politics,Eric,2017-12-10,M
+Europe,Peter,2017-12-10,M
+Middle East,Nada,2017-12-10,F
+Weddings,Ligaiya,2017-12-10,U
+Television,Dave,2017-12-10,M
+Television,Andrew,2017-12-10,M
+Baseball,Ben,2017-12-10,M
+Baseball,Tyler,2017-12-10,M
+Soccer,Joel,2017-12-09,M
+Asia Pacific,Joe,2017-12-09,M
+Sunday Review,Howell,2017-12-09,M
+Sunday Review,Faith,2017-12-09,F
+Politics,Michael,2017-12-09,M
+Politics,Campbell,2017-12-09,GN
+Sunday Review,Jim,2017-12-09,M
+Sunday Review,Peter,2017-12-09,M
+Sunday Review,Frank,2017-12-09,M
+Sunday Review,Euny,2017-12-09,U
+Europe,Alissa,2017-12-09,F
+Politics,Carl,2017-12-09,M
+Sunday Review,Aaron,2017-12-09,M
+Sunday Review,Ross,2017-12-09,M
+Sunday Review,Raja,2017-12-09,M
+Sunday Review,Maureen,2017-12-09,F
+Middle East,Max,2017-12-09,M
+Middle East,David,2017-12-09,M
+Politics,Linda,2017-12-09,F
+Politics,Emily,2017-12-09,F
+Dance,Robin,2017-12-09,F
+Economy,Patricia,2017-12-09,F
+Middle East,Margaret,2017-12-09,F
+Politics,Maggie,2017-12-09,F
+Europe,Benjamin,2017-12-09,M
+Weddings,Vincent,2017-12-09,M
+Baseball,David,2017-12-09,M
+Asia Pacific,Choe,2017-12-09,U
+Europe,Aurelien,2017-12-09,U
+Americas,Kirk,2017-12-09,M
+Middle East,Thomas,2017-12-09,M
+Asia Pacific,Amy,2017-12-09,F
+Television,Gabe,2017-12-09,M
+Middle East,Rukmini,2017-12-09,F
+Sunday Review,Héctor,2017-12-09,U
+Baseball,Tyler,2017-12-09,M
+Europe,Andrew,2017-12-09,M
+Baseball,David,2017-12-09,M
+Politics,Yamiche,2017-12-09,U
+Politics,Katie,2017-12-09,F
+Baseball,Tyler,2017-12-09,M
+Politics,Adam,2017-12-09,M
+Middle East,David,2017-12-09,M
+Art & Design,Will,2017-12-12,M
+Politics,Gardiner,2017-12-12,M
+DealBook,Lauren,2017-12-12,F
+Music,Michael,2017-12-12,M
+Europe,Steven,2017-12-12,M
+Music,Giovanni,2017-12-12,M
+DealBook,Rob,2017-12-12,M
+Art & Design,John,2017-12-12,M
+Tennis,Christopher,2017-12-12,M
+Europe,Aurelien,2017-12-12,U
+Baseball,David,2017-12-12,M
+Television,James,2017-12-12,M
+Dance,Robin,2017-12-12,F
+Politics,Alexander,2017-12-12,M
+Commercial Real Estate,Rosalie,2017-12-12,F
+Weddings,Alyson,2017-12-12,F
+Politics,Alan,2017-12-12,M
+Book Review,Brendan,2017-12-12,M
+Personal Tech,J.,2017-12-12,U
+Canada,Matthew,2017-12-12,M
+Dance,Gia,2017-12-12,F
+Music,Michael,2017-12-12,M
+Europe,Raphael,2017-12-12,M
+Energy & Environment ,Keith,2017-12-12,M
+Africa,Alan,2017-12-12,M
+Politics,Michael,2017-12-12,M
+Asia Pacific,Jeffrey,2017-12-12,M
+Europe,Melissa,2017-12-12,F
+Europe,Alan,2017-12-12,M
+Live,Marian,2017-12-12,F
+Family,Abby,2017-12-12,F
+The Daily,Michael,2017-12-12,M
+Asia Pacific,Kai,2017-12-12,M
+Economy,Eduardo,2017-12-12,M
+Politics,Erica,2017-12-12,F
+Politics,Linda,2017-12-12,F
+Book Review,Claire,2017-12-12,F
+Book Review,Jeffrey,2017-12-12,M
+Americas,Shasta,2017-12-12,F
+Book Review,Nicole,2017-12-12,F
+DealBook,Julie,2017-12-12,F
+Television,Giovanni,2017-12-12,M
+Asia Pacific,Mujib,2017-12-12,U
+Politics,Anna,2017-12-12,F
+Australia,Jacqueline,2017-12-12,F
+Television,Gabe,2017-12-12,M
+Australia,Damien,2017-12-12,M
+Baseball,Tyler,2017-12-12,M
+Europe,Benjamin,2017-12-12,M
+DealBook,Andrew,2017-12-12,M
+Elections,Chris,2017-12-12,M
+Politics,Sheryl,2017-12-12,F
+Politics,Maggie,2017-12-12,F
+Middle East,Nada,2017-12-12,F
+Politics,Michael,2017-12-11,M
+DealBook,Michael,2017-12-11,M
+Pro Football,Kevin,2017-12-11,M
+Politics,Robert,2017-12-11,M
+Media,Liam,2017-12-11,M
+DealBook,Richard,2017-12-11,M
+DealBook,Gina,2017-12-11,F
+Europe,David,2017-12-11,M
+Music,Joe,2017-12-11,M
+Europe,Stephen,2017-12-11,M
+Insider Events,Insider,2017-12-11,U
+Politics,Alan,2017-12-11,M
+Politics,Helene,2017-12-11,F
+Music,,2017-12-11,U
+"Wine, Beer & Cocktails",Florence,2017-12-11,F
+Canada,Matt,2017-12-11,M
+Baseball,Billy,2017-12-11,M
+Live,Roni,2017-12-11,F
+Politics,Adam,2017-12-11,M
+Asia Pacific,Chris,2017-12-11,M
+Television,Margaret,2017-12-11,F
+Asia Pacific,Eric,2017-12-11,M
+DealBook,Chad,2017-12-11,M
+Personal Tech,J.,2017-12-11,U
+Pro Football,Ken,2017-12-11,M
+Middle East,Alan,2017-12-11,M
+Politics,Peter,2017-12-11,M
+Europe,Neil,2017-12-11,M
+Television,Charles,2017-12-11,M
+Asia Pacific,Jane,2017-12-11,F
+Asia Pacific,Javier,2017-12-11,M
+The Daily,Michael,2017-12-11,M
+Middle East,Alan,2017-12-11,M
+Mind,Jane,2017-12-11,F
+Family,Perri,2017-12-11,F
+Europe,Text,2017-12-11,U
+Book Review,Garry,2017-12-11,M
+Book Review,Manohla,2017-12-11,U
+Europe,Neil,2017-12-11,M
+Olympics,Andrew,2017-12-11,M
+Europe,Tim,2017-12-11,M
+Television,Gabe,2017-12-11,M
+Asia Pacific,Gerry,2017-12-11,M
+Pro Football,Benjamin,2017-12-11,M
+Baseball,James,2017-12-11,M
+Television,Genevieve,2017-12-11,F
+Media,Zach,2017-12-11,M
+Europe,Ellen,2017-12-14,F
+Politics,Carl,2017-12-14,M
+Media,John,2017-12-14,M
+Art & Design,Holland,2017-12-14,GN
+Pro Football,Justin,2017-12-14,M
+Middle East,Nick,2017-12-14,M
+Baseball,Tyler,2017-12-14,M
+DealBook,Liam,2017-12-14,M
+Music,David,2017-12-14,M
+Europe,Elisabetta,2017-12-14,F
+Media,James,2017-12-14,M
+Dance,Gia,2017-12-14,F
+Television,Andrew,2017-12-14,M
+Europe,Megan,2017-12-14,F
+Art & Design,,2017-12-14,U
+DealBook,Alexandra,2017-12-14,F
+Politics,Eric,2017-12-14,M
+DealBook,Jennifer,2017-12-14,F
+Art & Design,Nina,2017-12-14,F
+Dance,Brian,2017-12-14,M
+Europe,Neil,2017-12-14,M
+Move,Nicholas,2017-12-14,M
+Dance,Siobhan,2017-12-14,F
+Asia Pacific,Hannah,2017-12-14,F
+Television,Mike,2017-12-14,M
+Family,Richard,2017-12-14,M
+Europe,Ceylan,2017-12-14,F
+Europe,Kimiko,2017-12-14,F
+Art & Design,Roberta,2017-12-14,F
+Economy,Clifford,2017-12-14,M
+Asia Pacific,Christine,2017-12-14,F
+Politics,Alan,2017-12-14,M
+Politics,Sheryl,2017-12-14,F
+Media,Sydney,2017-12-14,F
+Politics,Emily,2017-12-14,F
+Music,Jon,2017-12-14,M
+Personal Tech,J.,2017-12-14,U
+DealBook,Chad,2017-12-14,M
+Europe,Alan,2017-12-14,M
+Art & Design,Daniel,2017-12-14,M
+Media,Amy,2017-12-14,F
+Asia Pacific,Jane,2017-12-14,F
+Media,Brooks,2017-12-14,M
+Sunday Review,David,2017-12-14,M
+DealBook,Brooks,2017-12-14,M
+Dance,Gia,2017-12-14,F
+Americas,Alan,2017-12-14,M
+The Daily,Michael,2017-12-14,M
+Television,Giovanni,2017-12-14,M
+Television,Jeremy,2017-12-14,M
+Politics,Alan,2017-12-14,M
+Asia Pacific,Jeffrey,2017-12-14,M
+Television,Andrew,2017-12-14,M
+Middle East,Rick,2017-12-14,M
+Economy,Jack,2017-12-14,M
+Television,Jeremy,2017-12-14,M
+Media,Matthew,2017-12-14,M
+Baseball,Tyler,2017-12-14,M
+Politics,Nilo,2017-12-14,M
+Media,Jacey,2017-12-14,F
+Politics,Maya,2017-12-14,F
+Politics,Linda,2017-12-14,F
+Music,Joshua,2017-12-14,M
+Europe,Stephen,2017-12-14,M
+Australia,Damien,2017-12-13,M
+Europe,Ed,2017-12-13,M
+Soccer,Kevin,2017-12-13,M
+Live,Nicholas,2017-12-13,M
+Politics,Ford,2017-12-13,M
+Politics,Robert,2017-12-13,M
+Music,Joe,2017-12-13,M
+DealBook,Jennifer,2017-12-13,F
+Europe,David,2017-12-13,M
+Canada,Dan,2017-12-13,M
+Art & Design,Daniel,2017-12-13,M
+Music,Anthony,2017-12-13,M
+Asia Pacific,Nick,2017-12-13,M
+Personal Tech,Brian,2017-12-13,M
+Americas,Elisabeth,2017-12-13,F
+Politics,Mark,2017-12-13,M
+Middle East,Carlotta,2017-12-13,F
+Asia Pacific,Mark,2017-12-13,M
+Music,James,2017-12-13,M
+Dance,Brian,2017-12-13,M
+Politics,Eileen,2017-12-13,F
+Media,Maya,2017-12-13,F
+Cycling,Juliet,2017-12-13,F
+Music,Giovanni,2017-12-13,M
+Politics,Anna,2017-12-13,F
+Pro Football,Victor,2017-12-13,M
+Politics,Jim,2017-12-13,M
+Sunday Review,Salma,2017-12-13,F
+Politics,Sheryl,2017-12-13,F
+Europe,David,2017-12-13,M
+Africa,Jina,2017-12-13,F
+Personal Tech,Cade,2017-12-13,M
+Politics,Maggie,2017-12-13,F
+Africa,Alan,2017-12-13,M
+Politics,Jonah,2017-12-13,M
+Personal Tech,J.,2017-12-13,U
+Europe,Jason,2017-12-13,M
+Dance,Joshua,2017-12-13,M
+Asia Pacific,Richard,2017-12-13,M
+Personal Tech,J.,2017-12-13,U
+Cycling,Victor,2017-12-13,M
+Music,Joe,2017-12-13,M
+Television,James,2017-12-13,M
+Europe,Alan,2017-12-13,M
+The Daily,Michael,2017-12-13,M
+Move,Gretchen,2017-12-13,F
+Television,Giovanni,2017-12-13,M
+Music,Michael,2017-12-13,M
+Economy,Binyamin,2017-12-13,M
+Book Review,Gal,2017-12-13,GN
+Book Review,David,2017-12-13,M
+Energy & Environment ,Clifford,2017-12-13,M
+Politics,Nicholas,2017-12-13,M
+Asia Pacific,Hiroko,2017-12-13,F
+Asia Pacific,Felipe,2017-12-13,M
+Politics,Jonathan,2017-12-13,M
+Australia,Adam,2017-12-13,M
+DealBook,Jonathan,2017-12-13,M
+Television,Andrew,2017-12-13,M
+Americas,Catherine,2017-12-13,F
+Europe,Sewell,2017-12-13,M
+Soccer,Rory,2017-12-13,M
+Europe,Milan,2017-12-13,M
+Politics,Alexander,2017-12-13,M
+Asia Pacific,Austin,2017-12-13,M
+Europe,Christina,2017-12-13,F
+Art & Design,John,2017-12-13,M
+Media,Brooks,2017-12-13,M
+Pro Basketball,Harvey,2017-12-13,M
+Music,Michael,2017-12-16,M
+Politics,Christina,2017-12-16,F
+Soccer,Rory,2017-12-16,M
+Politics,Sheryl,2017-12-16,F
+Baseball,Billy,2017-12-16,M
+Politics,Jim,2017-12-16,M
+Europe,Philip,2017-12-16,M
+Sunday Review,Maureen,2017-12-16,F
+Sunday Review,Ross,2017-12-16,M
+Sunday Review,Joanne,2017-12-16,F
+Sunday Review,Javier,2017-12-16,M
+Sunday Review,Frank,2017-12-16,M
+Sunday Review,Tim,2017-12-16,M
+Sunday Review,Mark,2017-12-16,M
+Politics,Shane,2017-12-16,M
+Politics,Helene,2017-12-16,F
+Politics,Helene,2017-12-16,F
+Economy,Conor,2017-12-16,M
+Sunday Review,Angela,2017-12-16,F
+Europe,Benjamin,2017-12-16,M
+Africa,Norimitsu,2017-12-16,U
+Canada,Ian,2017-12-16,M
+Europe,Raphael,2017-12-16,M
+Weddings,Vincent,2017-12-16,M
+Middle East,Nicholas,2017-12-16,M
+Europe,Kimiko,2017-12-16,F
+Europe,Jason,2017-12-16,M
+Africa,Dionne,2017-12-16,F
+Television,Gabe,2017-12-16,M
+Politics,Wilson,2017-12-16,M
+Politics,Robin,2017-12-16,F
+Sunday Review,Arthur,2017-12-16,M
+Pro Basketball,Mike,2017-12-16,M
+Politics,Wilson,2017-12-16,M
+Pro Football,Ken,2017-12-16,M
+Politics,Katie,2017-12-16,F
+Politics,Eric,2017-12-16,M
+Europe,Benjamin,2017-12-16,M
+Media,Brooks,2017-12-16,M
+Baseball,James,2017-12-16,M
+Live,Steven,2017-12-16,M
+Americas,Elisabeth,2017-12-16,F
+Politics,Sheryl,2017-12-16,F
+Politics,Nilo,2017-12-16,M
+Hockey,Allan,2017-12-16,M
+Americas,Andrea,2017-12-16,F
+Americas,Daniel,2017-12-15,M
+Economy,Ben,2017-12-15,M
+DealBook,Tiffany,2017-12-15,F
+Soccer,Tariq,2017-12-15,M
+Middle East,Nick,2017-12-15,M
+Politics,Chris,2017-12-15,M
+Canada,Ian,2017-12-15,M
+Politics,Linda,2017-12-15,F
+Politics,Ana,2017-12-15,F
+Africa,Norimitsu,2017-12-15,U
+Hockey,Eric,2017-12-15,M
+Sunday Review,Amy,2017-12-15,F
+DealBook,Keith,2017-12-15,M
+Sunday Review,Ann,2017-12-15,F
+Politics,Robert,2017-12-15,M
+Media,John,2017-12-15,M
+Music,Jon,2017-12-15,M
+Asia Pacific,Somini,2017-12-15,U
+Dance,Alastair,2017-12-15,M
+Art & Design,Bob,2017-12-15,M
+Politics,Jonah,2017-12-15,M
+Politics,Ron,2017-12-15,M
+Politics,Nicholas,2017-12-15,M
+Book Review,Matt,2017-12-15,M
+Politics,Jeremy,2017-12-15,M
+Europe,Steven,2017-12-15,M
+Europe,Kimiko,2017-12-15,F
+Music,Zachary,2017-12-15,M
+Americas,Rick,2017-12-15,M
+Book Review,Joumana,2017-12-15,U
+Politics,Jim,2017-12-15,M
+Sunday Review,Jenny,2017-12-15,F
+Politics,Erica,2017-12-15,F
+Europe,Alan,2017-12-15,M
+Politics,Michael,2017-12-15,M
+Personal Tech,J.,2017-12-15,U
+Europe,Alan,2017-12-15,M
+Energy & Environment ,Stanley,2017-12-15,M
+Dance,Marina,2017-12-15,F
+Music,Joe,2017-12-15,M
+Europe,Stephen,2017-12-15,M
+Soccer,Rebecca,2017-12-15,F
+Europe,Andrew,2017-12-15,M
+Asia Pacific,Bhadra,2017-12-15,U
+Art & Design,Kimberly,2017-12-15,F
+The Daily,Michael,2017-12-15,M
+Live,Toby,2017-12-15,M
+Weddings,Vincent,2017-12-15,M
+Family,Melissa,2017-12-15,F
+Eat,Roni,2017-12-15,F
+Asia Pacific,Choe,2017-12-15,U
+Sunday Review,Nicholas,2017-12-15,M
+Politics,Kenneth,2017-12-15,M
+Music,Ellen,2017-12-15,F
+Book Review,Janine,2017-12-15,F
+Book Review,Carl,2017-12-15,M
+Book Review,Suzanne,2017-12-15,F
+Book Review,Alan,2017-12-15,M
+Book Review,Mara,2017-12-15,F
+Book Review,Gregory,2017-12-15,M
+Book Review,Kwame,2017-12-15,M
+Book Review,Frank,2017-12-15,M
+Book Review,Adam,2017-12-15,M
+Family,Maureen,2017-12-15,F
+Television,Giovanni,2017-12-15,M
+Soccer,Victor,2017-12-15,M
+Television,Andrew,2017-12-15,M
+Soccer,Andrew,2017-12-15,M
+Family,Nicholas,2017-12-15,M
+Pro Basketball,Marc,2017-12-15,M
+Soccer,Rebecca,2017-12-15,F
+Australia,Jacqueline,2017-12-15,F
+Middle East,John,2017-12-15,M
+Music,Sameen,2017-12-15,F
+Economy,Noam,2017-12-15,M
+Tennis,Ben,2017-12-15,M
+Asia Pacific,Jeffrey,2017-12-18,M
+Television,Gabe,2017-12-18,M
+Asia Pacific,Austin,2017-12-18,M
+Americas,Elisabeth,2017-12-18,F
+Politics,David,2017-12-18,M
+Canada,Catherine,2017-12-18,F
+Politics,Eric,2017-12-18,M
+Politics,Thomas,2017-12-18,M
+DealBook,Michael,2017-12-18,M
+Pro Football,Benjamin,2017-12-17,M
+Politics,Michael,2017-12-17,M
+Europe,Stephen,2017-12-17,M
+Europe,Andrew,2017-12-17,M
+Pro Football,Ken,2017-12-17,M
+Africa,Norimitsu,2017-12-17,U
+Middle East,Nada,2017-12-17,F
+Asia Pacific,Taimoor,2017-12-17,M
+Media,Sapna,2017-12-17,F
+Television,Mike,2017-12-17,M
+Australia,Diana,2017-12-17,F
+Politics,Michael,2017-12-17,M
+Europe,Milan,2017-12-17,M
+Americas,Pascale,2017-12-17,F
+Europe,Nicholas,2017-12-17,M
+Asia Pacific,Salman,2017-12-17,M
+Australia,Jacqueline,2017-12-17,F
+Television,Andrew,2017-12-17,M
+Americas,Meridith,2017-12-17,F
+Americas,Meredith,2017-12-17,F
+Pro Basketball,Mike,2017-12-17,M

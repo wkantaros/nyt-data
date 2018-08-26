@@ -40,17 +40,3 @@ def scrapeYears(year, month, startYear=2011):
             year,month = year-1, 12
         else:
             month -= 1
-
-if __name__ == "__main__":
-    # scrape(getArticlesMonth(2011, 12))
-    # scrape(getArticlesMonth(2011, 11))
-    # scrape(getArticlesMonth(2011, 10))
-    # scrape(getArticlesMonth(2011, 9))
-    # scrape(getArticlesMonth(2011, 8))
-    # scrape(getArticlesMonth(2011, 7))
-    # scrape(getArticlesMonth(2011, 6))
-    # scrape(getArticlesMonth(2011, 5))
-    # scrape(getArticlesMonth(2011, 4))
-    # scrape(getArticlesMonth(2011, 3))
-    # scrape(getArticlesMonth(2011, 2))
-    # scrape(getArticlesMonth(2011, 1))

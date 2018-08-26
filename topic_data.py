@@ -118,7 +118,7 @@ def _get_unique_categories(dataframe):
     return categories
 
 def load_monthly_stats(data_dict):
-    with open('monthly_stats_conserv.pickle', 'wb') as handle:
+    with open('monthly_stats2018.pickle', 'wb') as handle:
         pickle.dump(data_dict, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
 if __name__ == "__main__":
@@ -156,7 +156,7 @@ if __name__ == "__main__":
 
     load_monthly_stats(monthly_stats)
 
-    # with open('monthly_stats_conserv.csv', mode='w') as csv_file:
+    # with open('monthly_stats_to_date.csv', mode='w') as csv_file:
     #     nyt_writer = csv.writer(csv_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
     #     columns = ["Year", "Month"]
     #     columns.extend(all_unique_categories)

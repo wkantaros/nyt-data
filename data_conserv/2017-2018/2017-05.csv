@@ -1,0 +1,4455 @@
+section_name,firstname,pub_date,gender
+World,Dan,2017-05-02,M
+Arts,Sam,2017-05-02,M
+Business Day,Landon,2017-05-02,M
+Opinion,Emily,2017-05-02,F
+Sports,Ken,2017-05-02,M
+Climate,John,2017-05-02,M
+Business Day,Brooks,2017-05-02,M
+Sports,Richard,2017-05-02,M
+Briefing,Karen,2017-05-02,F
+N.Y. / Region,Michael,2017-05-02,M
+U.S.,Mark,2017-05-02,M
+U.S.,Rebecca,2017-05-02,F
+Arts,Thurston,2017-05-02,M
+N.Y. / Region,Charles,2017-05-02,M
+Fashion & Style,Matthew,2017-05-02,M
+U.S.,William,2017-05-02,M
+Watching,Noel,2017-05-02,M
+Food,Florence,2017-05-02,F
+Health,Gina,2017-05-02,F
+Sports,Daniel,2017-05-02,M
+Movies,Daniel,2017-05-02,M
+Times Insider,Rick,2017-05-02,M
+Movies,Glenn,2017-05-02,M
+Briefing,Charles,2017-05-02,M
+Food,Julia,2017-05-02,F
+Food,Jason,2017-05-02,M
+Theater,Michael,2017-05-02,M
+Arts,Catherine,2017-05-02,F
+Theater,Alexis,2017-05-02,F
+Movies,Nida,2017-05-02,F
+Arts,Brian,2017-05-02,M
+Business Day,Niraj,2017-05-02,M
+Arts,Marina,2017-05-02,F
+Opinion,Andrea,2017-05-02,F
+Theater,Joshua,2017-05-02,M
+World,Anne,2017-05-02,F
+World,Sewell,2017-05-02,M
+Opinion,Andrea,2017-05-02,F
+World,Jacqueline,2017-05-02,F
+Style,Steven,2017-05-02,M
+World,Andrew,2017-05-02,M
+Arts,Angelica,2017-05-02,F
+World,Simon,2017-05-02,M
+Health,Reed,2017-05-02,M
+Fashion & Style,Guy,2017-05-02,M
+Watching,Monica,2017-05-02,F
+Arts,Margaret,2017-05-02,F
+Food,Arthur,2017-05-02,M
+U.S.,Mitch,2017-05-02,M
+Business Day,John,2017-05-02,M
+Arts,Mike,2017-05-02,M
+U.S.,Alexander,2017-05-02,M
+U.S.,John,2017-05-02,M
+U.S.,Manny,2017-05-02,M
+Food,Kim,2017-05-02,F
+World,Henrik,2017-05-02,M
+Health,Abby,2017-05-02,F
+Real Estate,Rosalie,2017-05-02,F
+Real Estate,Miranda,2017-05-02,F
+World,Neil,2017-05-02,M
+U.S.,Charlie,2017-05-02,M
+Opinion,Jason,2017-05-02,M
+N.Y. / Region,Patrick,2017-05-02,M
+Climate,Hiroko,2017-05-02,F
+Business Day,Liz,2017-05-02,F
+T Magazine,Malina,2017-05-02,F
+Technology,Pui-wing,2017-05-02,U
+Arts,Andrew,2017-05-02,M
+World,Rajneesh,2017-05-02,M
+World,Ben,2017-05-02,M
+Arts,Sopan,2017-05-02,U
+Technology,J.,2017-05-02,U
+T Magazine,Aaron,2017-05-02,M
+N.Y. / Region,Arielle,2017-05-02,F
+Arts,Michael,2017-05-02,M
+Fashion & Style,Max,2017-05-02,M
+Opinion,Jane,2017-05-02,F
+Food,Pete,2017-05-02,M
+Crosswords & Games,Will,2017-05-02,M
+Opinion,Patrick,2017-05-02,M
+U.S.,Jennifer,2017-05-02,F
+World,Hana,2017-05-02,F
+Theater,Ben,2017-05-02,M
+Technology,Nick,2017-05-02,M
+World,Peter,2017-05-02,M
+Fashion & Style,Joanna,2017-05-02,F
+Sports,David,2017-05-02,M
+U.S.,Julie,2017-05-02,F
+U.S.,Alan,2017-05-02,M
+World,Sally,2017-05-02,F
+Opinion,David,2017-05-02,M
+World,Aurelien,2017-05-02,U
+Theater,Erik,2017-05-02,M
+Fashion & Style,Vanessa,2017-05-02,F
+U.S.,Mike,2017-05-02,M
+Sports,Victor,2017-05-02,M
+The Learning Network,Katherine,2017-05-02,F
+Business Day,Liam,2017-05-02,M
+World,Katrin,2017-05-02,F
+Well,Karen,2017-05-02,F
+Business Day,Vindu,2017-05-02,U
+N.Y. / Region,Lisa,2017-05-02,F
+Well,Christopher,2017-05-02,M
+Podcasts,Michael,2017-05-02,M
+Well,Lesley,2017-05-02,F
+N.Y. / Region,Jonathan,2017-05-02,M
+Business Day,Amie,2017-05-02,F
+Briefing,Des,2017-05-02,GN
+U.S.,Jodi,2017-05-02,F
+The Upshot,Brendan,2017-05-02,M
+Arts,Giovanni,2017-05-02,M
+Books,Nicole,2017-05-02,F
+Climate,Nadja,2017-05-02,F
+Theater,Michael,2017-05-02,M
+N.Y. / Region,Winnie,2017-05-02,F
+U.S.,Sheryl,2017-05-02,F
+Travel,Elaine,2017-05-02,F
+Style,Guglielmo,2017-05-02,U
+Travel,Shivani,2017-05-02,F
+Magazine,Brook,2017-05-02,F
+Magazine,Jamie,2017-05-02,F
+The Learning Network,Caroline,2017-05-02,F
+The Learning Network,Caroline,2017-05-02,F
+Multimedia/Photos,Maurice,2017-05-02,M
+U.S.,Peter,2017-05-02,M
+Opinion,Tina,2017-05-02,F
+Opinion,Viet,2017-05-02,M
+Opinion,David,2017-05-02,M
+Opinion,Katelyn,2017-05-02,F
+Opinion,Robert,2017-05-02,M
+World,Choe,2017-05-02,U
+Sports,Danny,2017-05-02,M
+U.S.,Anna,2017-05-02,F
+The Learning Network,Katherine,2017-05-02,F
+Arts,Kathryn,2017-05-02,F
+Business Day,Niki,2017-05-02,F
+Briefing,Patrick,2017-05-02,M
+Books,Jennifer,2017-05-02,F
+Travel,Lucas,2017-05-02,M
+Style,Jacob,2017-05-02,M
+Arts,David,2017-05-02,M
+Food,Florence,2017-05-02,F
+Times Insider,Pam,2017-05-02,F
+Crosswords & Games,Deb,2017-05-02,F
+World,Nicholas,2017-05-02,M
+Sports,Billy,2017-05-02,M
+U.S.,Dave,2017-05-02,M
+Business Day,Andrew,2017-05-02,M
+Times Insider,David,2017-05-02,M
+World,Mark,2017-05-02,M
+Business Day,Michael,2017-05-02,M
+Sports,Tyler,2017-05-02,M
+U.S.,Carl,2017-05-02,M
+World,Max,2017-05-02,M
+Business Day,Brooks,2017-05-02,M
+The Upshot,Josh,2017-05-02,M
+Business Day,Ben,2017-05-02,M
+Sports,Tim,2017-05-02,M
+Sports,Allan,2017-05-02,M
+Technology,Katie,2017-05-02,F
+World,Andrew,2017-05-02,M
+U.S.,Niraj,2017-05-02,M
+U.S.,Matt,2017-05-02,M
+U.S.,Alicia,2017-05-02,F
+N.Y. / Region,Kara,2017-05-02,F
+Sports,Jeff,2017-05-01,M
+Opinion,Bret,2017-05-01,M
+Theater,Sam,2017-05-01,M
+U.S.,Dave,2017-05-01,M
+U.S.,Alan,2017-05-01,M
+World,Joe,2017-05-01,M
+N.Y. / Region,Corey,2017-05-01,M
+U.S.,Eric,2017-05-01,M
+Opinion,Michael,2017-05-01,M
+World,Rick,2017-05-01,M
+U.S.,Daniel,2017-05-01,M
+U.S.,Dave,2017-05-01,M
+Briefing,Karen,2017-05-01,F
+Fashion & Style,Matthew,2017-05-01,M
+Arts,Jon,2017-05-01,M
+Arts,Anthony,2017-05-01,M
+U.S.,Vivian,2017-05-01,F
+Books,Michiko,2017-05-01,F
+Fashion & Style,Sridhar,2017-05-01,M
+Food,Florence,2017-05-01,F
+U.S.,Erica,2017-05-01,F
+Arts,Jon,2017-05-01,M
+U.S.,Adam,2017-05-01,M
+U.S.,Chris,2017-05-01,M
+Style,Blake,2017-05-01,M
+Food,Stephanie,2017-05-01,F
+World,Damien,2017-05-01,M
+Fashion & Style,Denny,2017-05-01,M
+Briefing,Charles,2017-05-01,M
+World,Damien,2017-05-01,M
+U.S.,Nicholas,2017-05-01,M
+N.Y. / Region,Anna,2017-05-01,F
+Theater,Ben,2017-05-01,M
+Business Day,Amy,2017-05-01,F
+World,Richard,2017-05-01,M
+U.S.,Liam,2017-05-01,M
+World,Anne,2017-05-01,F
+Opinion,Lisa,2017-05-01,F
+U.S.,Thomas,2017-05-01,M
+Business Day,Michael,2017-05-01,M
+Your Money,Carl,2017-05-01,M
+Fashion & Style,Bee,2017-05-01,M
+N.Y. / Region,Corey,2017-05-01,M
+Science,Jim,2017-05-01,M
+Business Day,Jennifer,2017-05-01,F
+Watching,Monica,2017-05-01,F
+Arts,Ben,2017-05-01,M
+World,Steven,2017-05-01,M
+Food,Florence,2017-05-01,F
+Food,Florence,2017-05-01,F
+Theater,Jesse,2017-05-01,M
+Science,Nicholas,2017-05-01,M
+Food,Florence,2017-05-01,F
+Food,Florence,2017-05-01,F
+Theater,Joshua,2017-05-01,M
+Times Insider,Malachy,2017-05-01,M
+U.S.,Jonah,2017-05-01,M
+Business Day,Jonah,2017-05-01,M
+World,Damien,2017-05-01,M
+Sports,Marc,2017-05-01,M
+Technology,Pui-wing,2017-05-01,U
+Arts,Michael,2017-05-01,M
+Technology,J.,2017-05-01,U
+Well,Catherine,2017-05-01,F
+Food,Florence,2017-05-01,F
+U.S.,Adam,2017-05-01,M
+Business Day,Peter,2017-05-01,M
+Business Day,Landon,2017-05-01,M
+Health,Kate,2017-05-01,F
+Fashion & Style,Penelope,2017-05-01,F
+Health,Pam,2017-05-01,F
+World,Aurelien,2017-05-01,U
+Food,Margaux,2017-05-01,F
+Arts,Nina,2017-05-01,F
+Sports,James,2017-05-01,M
+Business Day,Jonathan,2017-05-01,M
+Science,Steph,2017-05-01,F
+Arts,Joshua,2017-05-01,M
+Times Insider,Emma,2017-05-01,F
+Theater,Michael,2017-05-01,M
+Food,Kim,2017-05-01,F
+World,Choe,2017-05-01,U
+World,Hari,2017-05-01,M
+N.Y. / Region,J.,2017-05-01,U
+T Magazine,Hattie,2017-05-01,F
+World,Motoko,2017-05-01,U
+World,Ian,2017-05-01,M
+World,Felipe,2017-05-01,M
+U.S.,Jennifer,2017-05-01,F
+U.S.,Glenn,2017-05-01,M
+Business Day,Alexandra,2017-05-01,F
+Fashion & Style,Vanessa,2017-05-01,F
+World,Stephen,2017-05-01,M
+Business Day,Brooks,2017-05-01,M
+U.S.,Mike,2017-05-01,M
+Opinion,David,2017-05-01,M
+U.S.,Eric,2017-05-01,M
+U.S.,Julie,2017-05-01,F
+World,Chris,2017-05-01,M
+Business Day,Michael,2017-05-01,M
+Opinion,Gilad,2017-05-01,M
+The Upshot,Lynn,2017-05-01,F
+Well,Perri,2017-05-01,F
+N.Y. / Region,Alexandra,2017-05-01,F
+Podcasts,Michael,2017-05-01,M
+Well,Jane,2017-05-01,F
+T Magazine,Rachel,2017-05-01,F
+U.S.,Gerry,2017-05-01,M
+Briefing,Des,2017-05-01,GN
+The Upshot,Aaron,2017-05-01,M
+Business Day,Amie,2017-05-01,F
+N.Y. / Region,Patrick,2017-05-01,M
+Theater,Dave,2017-05-01,M
+U.S.,Michael,2017-05-01,M
+Business Day,Clifford,2017-05-01,M
+U.S.,Robert,2017-05-01,M
+Technology,Mark,2017-05-01,M
+U.S.,Adam,2017-05-01,M
+Books,Cheryl,2017-05-01,F
+U.S.,Jess,2017-05-01,M
+Fashion & Style,Sarah,2017-05-01,F
+World,Tahria,2017-05-01,U
+Multimedia/Photos,James,2017-05-01,M
+Opinion,Steven,2017-05-01,M
+Opinion,Paul,2017-05-01,M
+Opinion,Charles,2017-05-01,M
+Opinion,Charlotte,2017-05-01,F
+Opinion,Jason,2017-05-01,M
+The Learning Network,Shannon,2017-05-01,F
+The Learning Network,Shannon,2017-05-01,F
+Sports,Marc,2017-05-01,M
+Arts,Kathryn,2017-05-01,F
+N.Y. / Region,Emma,2017-05-01,F
+Travel,Ian,2017-05-01,M
+Travel,Ian,2017-05-01,M
+Briefing,Patrick,2017-05-01,M
+Theater,Andrew,2017-05-01,M
+Business Day,Michael,2017-05-01,M
+Arts,Scott,2017-05-01,M
+U.S.,Thomas,2017-05-01,M
+Arts,Noel,2017-05-01,M
+U.S.,Maggie,2017-05-01,F
+Sports,Billy,2017-05-01,M
+Sports,Mike,2017-05-01,M
+Well,Bettina,2017-05-01,F
+Business Day,Jim,2017-05-01,M
+U.S.,Alexander,2017-05-01,M
+N.Y. / Region,J.,2017-05-01,U
+N.Y. / Region,Julia,2017-05-01,F
+U.S.,Matthew,2017-05-04,M
+Business Day,Matt,2017-05-04,M
+U.S.,Elsa,2017-05-04,F
+Theater,Jesse,2017-05-04,M
+Books,Charles,2017-05-04,M
+Theater,Michael,2017-05-04,M
+N.Y. / Region,Keith,2017-05-04,M
+Business Day,Sydney,2017-05-04,F
+N.Y. / Region,Ginia,2017-05-04,F
+Arts,Laurel,2017-05-04,F
+N.Y. / Region,Alan,2017-05-04,M
+Science,Sam,2017-05-04,M
+Movies,Kathryn,2017-05-04,F
+World,Choe,2017-05-04,U
+Briefing,Karen,2017-05-04,F
+Opinion,Édouard,2017-05-04,U
+Movies,Ben,2017-05-04,M
+Opinion,Theresa,2017-05-04,F
+N.Y. / Region,Joyce,2017-05-04,F
+Arts,Gia,2017-05-04,F
+Opinion,David,2017-05-04,M
+Books,John,2017-05-04,M
+Arts,Jason,2017-05-04,M
+U.S.,Richard,2017-05-04,M
+Books,Joumana,2017-05-04,U
+Arts,Elise,2017-05-04,F
+U.S.,Stephanie,2017-05-04,F
+Arts,David,2017-05-04,M
+T Magazine,Kin,2017-05-04,M
+Movies,Mekado,2017-05-04,U
+Arts,Joshua,2017-05-04,M
+World,Susan,2017-05-04,F
+Books,James,2017-05-04,M
+Movies,Ben,2017-05-04,M
+Theater,Alexis,2017-05-04,F
+Movies,Manohla,2017-05-04,U
+Movies,Glenn,2017-05-04,M
+Movies,Ken,2017-05-04,M
+Movies,Neil,2017-05-04,M
+U.S.,Jacey,2017-05-04,F
+Movies,Jeannette,2017-05-04,F
+Sports,Jim,2017-05-04,M
+Movies,Ken,2017-05-04,M
+Movies,Jeannette,2017-05-04,F
+Movies,A.,2017-05-04,U
+Watching,Margaret,2017-05-04,F
+Arts,Gia,2017-05-04,F
+World,Alison,2017-05-04,F
+Movies,A.,2017-05-04,U
+Arts,Joshua,2017-05-04,M
+Arts,Jason,2017-05-04,M
+Books,Dwight,2017-05-04,M
+World,Mujib,2017-05-04,U
+Movies,Andy,2017-05-04,M
+Opinion,Steven,2017-05-04,M
+Briefing,Charles,2017-05-04,M
+Arts,Roberta,2017-05-04,F
+U.S.,Mitch,2017-05-04,M
+Arts,Martha,2017-05-04,F
+Food,Ligaya,2017-05-04,F
+Sports,Daniel,2017-05-04,M
+Fashion & Style,Charanna,2017-05-04,U
+World,Adam,2017-05-04,M
+Arts,Anthony,2017-05-04,M
+World,Kit,2017-05-04,M
+Arts,Michael,2017-05-04,M
+U.S.,Christopher,2017-05-04,M
+World,Hussein,2017-05-04,M
+N.Y. / Region,Sam,2017-05-04,M
+U.S.,Matthew,2017-05-04,M
+N.Y. / Region,Nikole,2017-05-04,F
+Arts,John,2017-05-04,M
+World,Benoît,2017-05-04,U
+N.Y. / Region,William,2017-05-04,M
+Arts,Roslyn,2017-05-04,F
+Fashion & Style,John,2017-05-04,M
+U.S.,Matt,2017-05-04,M
+U.S.,Jennifer,2017-05-04,F
+U.S.,Thomas,2017-05-04,M
+Movies,Stephanie,2017-05-04,F
+N.Y. / Region,Alan,2017-05-04,M
+Business Day,James,2017-05-04,M
+Fashion & Style,Philip,2017-05-04,M
+Movies,Mekado,2017-05-04,U
+World,Anne,2017-05-04,F
+Technology,Pui-wing,2017-05-04,U
+U.S.,Jacey,2017-05-04,F
+Technology,J.,2017-05-04,U
+Arts,Michael,2017-05-04,M
+Watching,Scott,2017-05-04,M
+U.S.,Laurie,2017-05-04,F
+Sports,Joe,2017-05-04,M
+Movies,Chris,2017-05-04,M
+Watching,Noel,2017-05-04,M
+Business Day,Daniel,2017-05-04,M
+Fashion & Style,Alex,2017-05-04,M
+Well,Nicholas,2017-05-04,M
+Opinion,Carmel,2017-05-04,F
+Movies,Roslyn,2017-05-04,F
+U.S.,Gregor,2017-05-04,M
+Theater,Andrew,2017-05-04,M
+The Upshot,Margot,2017-05-04,F
+Movies,Mekado,2017-05-04,U
+Movies,Mekado,2017-05-04,U
+Automobiles,John,2017-05-04,M
+Style,Steven,2017-05-04,M
+Automobiles,Tom,2017-05-04,M
+Automobiles,Tom,2017-05-04,M
+World,Stephen,2017-05-04,M
+Sports,Victor,2017-05-04,M
+N.Y. / Region,Michael,2017-05-04,M
+World,Mark,2017-05-04,M
+Times Insider,David,2017-05-04,M
+Movies,Jeannette,2017-05-04,F
+Technology,Mark,2017-05-04,M
+Opinion,Deborah,2017-05-04,F
+U.S.,Robert,2017-05-04,M
+Business Day,Chad,2017-05-04,M
+Arts,Christopher,2017-05-04,M
+World,Maggie,2017-05-04,F
+The Learning Network,Michael,2017-05-04,M
+World,Liz,2017-05-04,F
+U.S.,Mike,2017-05-04,M
+Fashion & Style,Julie,2017-05-04,F
+Times Insider,Manny,2017-05-04,M
+Opinion,Mohammed,2017-05-04,M
+N.Y. / Region,Jonathan,2017-05-04,M
+Business Day,Amie,2017-05-04,F
+Magazine,Wesley,2017-05-04,M
+Well,Judi,2017-05-04,F
+Podcasts,Michael,2017-05-04,M
+Briefing,Chris,2017-05-04,M
+Arts,Giovanni,2017-05-04,M
+Arts,Randy,2017-05-04,M
+Travel,Donald,2017-05-04,M
+Business Day,Gretchen,2017-05-04,F
+World,Dan,2017-05-04,M
+Real Estate,Joyce,2017-05-04,F
+U.S.,Manny,2017-05-04,M
+U.S.,Por,2017-05-04,U
+Travel,Tom,2017-05-04,M
+Magazine,Bill,2017-05-04,M
+Magazine,Jeff,2017-05-04,M
+U.S.,Thomas,2017-05-04,M
+Magazine,Mallory,2017-05-04,F
+The Learning Network,Caroline,2017-05-04,F
+Opinion,Thomas,2017-05-04,M
+World,Dan,2017-05-04,M
+The Learning Network,Caroline,2017-05-04,F
+World,Michael,2017-05-04,M
+World,Jacqueline,2017-05-04,F
+Multimedia/Photos,Gareth,2017-05-04,M
+Opinion,Nicholas,2017-05-04,M
+Opinion,Orly,2017-05-04,F
+Opinion,Bret,2017-05-04,M
+Opinion,Gail,2017-05-04,F
+Opinion,Charles,2017-05-04,M
+Opinion,Christopher,2017-05-04,M
+Business Day,Neil,2017-05-04,M
+Sports,Rory,2017-05-04,M
+The Learning Network,Katherine,2017-05-04,F
+Arts,Kathryn,2017-05-04,F
+World,Choe,2017-05-04,U
+Sports,James,2017-05-04,M
+Briefing,Patrick,2017-05-04,M
+Travel,Shivani,2017-05-04,F
+Sports,Tal,2017-05-04,M
+Technology,Mark,2017-05-04,M
+Sports,David,2017-05-04,M
+Arts,Scott,2017-05-04,M
+U.S.,Matthew,2017-05-04,M
+Theater,Laura,2017-05-04,F
+Crosswords & Games,Deb,2017-05-04,F
+Opinion,David,2017-05-04,M
+Technology,Katie,2017-05-04,F
+Health,Gina,2017-05-04,F
+Technology,Daniel,2017-05-04,M
+U.S.,Manny,2017-05-04,M
+Sports,James,2017-05-04,M
+Technology,Mike,2017-05-04,M
+Sports,Allan,2017-05-04,M
+Travel,Elaine,2017-05-04,F
+Sports,Rory,2017-05-04,M
+Sports,Wallace,2017-05-04,M
+Technology,Nicole,2017-05-04,F
+U.S.,Linda,2017-05-04,F
+N.Y. / Region,Marcie,2017-05-04,F
+Arts,Richard,2017-05-03,M
+Movies,Andy,2017-05-03,M
+Books,William,2017-05-03,M
+Times Insider,Pete,2017-05-03,M
+Opinion,Steven,2017-05-03,M
+Movies,Neil,2017-05-03,M
+U.S.,Erica,2017-05-03,F
+Movies,Glenn,2017-05-03,M
+U.S.,Michael,2017-05-03,M
+N.Y. / Region,Noah,2017-05-03,M
+World,Damien,2017-05-03,M
+Business Day,Elizabeth,2017-05-03,F
+The Upshot,Reed,2017-05-03,M
+U.S.,Richard,2017-05-03,M
+Business Day,Michael,2017-05-03,M
+U.S.,Haeyoun,2017-05-03,U
+World,Damien,2017-05-03,M
+Sports,Richard,2017-05-03,M
+World,Salman,2017-05-03,M
+Briefing,Karen,2017-05-03,F
+World,Anne,2017-05-03,F
+Business Day,Ann,2017-05-03,F
+Opinion,Andrew,2017-05-03,M
+World,Jonah,2017-05-03,M
+Fashion & Style,Vanessa,2017-05-03,F
+Business Day,Bill,2017-05-03,M
+Times Insider,David,2017-05-03,M
+Arts,Jon,2017-05-03,M
+Fashion & Style,Taylor,2017-05-03,F
+U.S.,Julie,2017-05-03,F
+Arts,Hilarie,2017-05-03,F
+Theater,Rob,2017-05-03,M
+Fashion & Style,Hayley,2017-05-03,F
+Fashion & Style,David,2017-05-03,M
+Magazine,Lydia,2017-05-03,F
+Theater,Andy,2017-05-03,M
+U.S.,Michael,2017-05-03,M
+U.S.,Ron,2017-05-03,M
+Fashion & Style,Alison,2017-05-03,F
+Arts,Gia,2017-05-03,F
+U.S.,Matt,2017-05-03,M
+Arts,Alan,2017-05-03,M
+Science,Joanna,2017-05-03,F
+Books,Dwight,2017-05-03,M
+Briefing,Charles,2017-05-03,M
+Arts,James,2017-05-03,M
+Fashion & Style,Jon,2017-05-03,M
+Science,Kenneth,2017-05-03,M
+T Magazine,Alexander,2017-05-03,M
+T Magazine,Alexander,2017-05-03,M
+Science,Nick,2017-05-03,M
+World,Steven,2017-05-03,M
+World,Adam,2017-05-03,M
+Fashion & Style,Lily,2017-05-03,F
+Business Day,Swaha,2017-05-03,U
+Business Day,Liz,2017-05-03,F
+Sports,Damien,2017-05-03,M
+U.S.,Caitlin,2017-05-03,F
+U.S.,Richard,2017-05-03,M
+Books,Concepción,2017-05-03,U
+U.S.,Gardiner,2017-05-03,M
+World,Neil,2017-05-03,M
+T Magazine,Jeralyn,2017-05-03,F
+Fashion & Style,Alex,2017-05-03,M
+T Magazine,Malina,2017-05-03,F
+Watching,Watching,2017-05-03,U
+World,Peter,2017-05-03,M
+Watching,Noel,2017-05-03,M
+Business Day,Binyamin,2017-05-03,M
+Science,Steph,2017-05-03,F
+Science,Mbari,2017-05-03,U
+Arts,Michael,2017-05-03,M
+Technology,Damon,2017-05-03,M
+Technology,Pui-wing,2017-05-03,U
+Arts,Hilarie,2017-05-03,F
+Technology,J.,2017-05-03,U
+U.S.,Ford,2017-05-03,M
+Technology,Brian,2017-05-03,M
+N.Y. / Region,J.,2017-05-03,U
+Well,Nicholas,2017-05-03,M
+Well,Nicholas,2017-05-03,M
+Technology,Vindu,2017-05-03,U
+Movies,Gilbert,2017-05-03,M
+World,International,2017-05-03,U
+Fashion & Style,Alex,2017-05-03,M
+World,Javier,2017-05-03,M
+Business Day,Mary,2017-05-03,F
+Food,Melissa,2017-05-03,F
+U.S.,Christopher,2017-05-03,M
+Style,Tim,2017-05-03,M
+U.S.,Thomas,2017-05-03,M
+Arts,Jennifer,2017-05-03,F
+Arts,Jon,2017-05-03,M
+Opinion,Tressie,2017-05-03,F
+Movies,Glenn,2017-05-03,M
+Theater,Steven,2017-05-03,M
+Books,Mary,2017-05-03,F
+Arts,Kathryn,2017-05-03,F
+The Upshot,Claire,2017-05-03,F
+Arts,Siobhan,2017-05-03,F
+Arts,Daniel,2017-05-03,M
+Arts,Anthony,2017-05-03,M
+Arts,Jon,2017-05-03,M
+World,Makiko,2017-05-03,F
+World,Mike,2017-05-03,M
+World,Jane,2017-05-03,F
+Real Estate,Alison,2017-05-03,F
+Sports,Victor,2017-05-03,M
+U.S.,Jacey,2017-05-03,F
+Arts,James,2017-05-03,M
+Opinion,David,2017-05-03,M
+Sports,Andrew,2017-05-03,M
+Real Estate,Tim,2017-05-03,M
+N.Y. / Region,Jesse,2017-05-03,M
+World,Motoko,2017-05-03,U
+U.S.,Mike,2017-05-03,M
+World,Alison,2017-05-03,F
+World,Aurora,2017-05-03,F
+World,Thomas,2017-05-03,M
+Business Day,Sydney,2017-05-03,F
+World,Adam,2017-05-03,M
+Business Day,Jennifer,2017-05-03,F
+World,Choe,2017-05-03,U
+N.Y. / Region,Nick,2017-05-03,M
+Books,Walter,2017-05-03,M
+U.S.,Daniel,2017-05-03,M
+N.Y. / Region,Jonathan,2017-05-03,M
+Travel,Ann,2017-05-03,F
+Travel,Jessica,2017-05-03,F
+Well,Gretchen,2017-05-03,F
+Well,David,2017-05-03,M
+Podcasts,Michael,2017-05-03,M
+Business Day,Amie,2017-05-03,F
+Briefing,Des,2017-05-03,GN
+Travel,Ann,2017-05-03,F
+Arts,Giovanni,2017-05-03,M
+Real Estate,Susan,2017-05-03,F
+Movies,Robert,2017-05-03,M
+U.S.,Carl,2017-05-03,M
+U.S.,Richard,2017-05-03,M
+Magazine,Photographs,2017-05-03,U
+Technology,Farhad,2017-05-03,M
+N.Y. / Region,Jim,2017-05-03,M
+U.S.,Yamiche,2017-05-03,U
+U.S.,Adam,2017-05-03,M
+Public Editor,Liz,2017-05-03,F
+Books,Ian,2017-05-03,M
+World,Ceylan,2017-05-03,F
+Climate,Jugal,2017-05-03,U
+Magazine,Ruth,2017-05-03,F
+Sports,Victor,2017-05-03,M
+Magazine,John,2017-05-03,M
+The Learning Network,Caroline,2017-05-03,F
+World,Choe,2017-05-03,U
+Magazine,Chris,2017-05-03,M
+The Learning Network,Caroline,2017-05-03,F
+Multimedia/Photos,David,2017-05-03,M
+Arts,Farah,2017-05-03,F
+Opinion,Ross,2017-05-03,M
+Opinion,Thomas,2017-05-03,M
+Opinion,Hugo,2017-05-03,M
+Opinion,Alice,2017-05-03,F
+World,Mujib,2017-05-03,U
+World,Jacqueline,2017-05-03,F
+The Learning Network,Katherine,2017-05-03,F
+Arts,Kathryn,2017-05-03,F
+The Upshot,Quoctrung,2017-05-03,U
+Briefing,Patrick,2017-05-03,M
+Theater,Matt,2017-05-03,M
+Travel,John,2017-05-03,M
+Fashion & Style,Bee,2017-05-03,M
+Sports,Tim,2017-05-03,M
+Sports,James,2017-05-03,M
+Arts,Mike,2017-05-03,M
+Arts,Christopher,2017-05-03,M
+Sports,Ben,2017-05-03,M
+N.Y. / Region,Alan,2017-05-03,M
+Opinion,Richard,2017-05-03,M
+Crosswords & Games,Deb,2017-05-03,F
+World,Helene,2017-05-03,F
+World,Peter,2017-05-03,M
+Books,Richard,2017-05-03,M
+Technology,Vindu,2017-05-03,U
+N.Y. / Region,James,2017-05-03,M
+World,Declan,2017-05-03,M
+N.Y. / Region,Elizabeth,2017-05-03,F
+Sports,Wallace,2017-05-03,M
+Business Day,Neal,2017-05-03,M
+N.Y. / Region,Peter,2017-05-03,M
+U.S.,Patrick,2017-05-06,M
+Sports,Joe,2017-05-06,M
+Sports,Lisa,2017-05-06,F
+Sports,Niko,2017-05-06,M
+World,Dionne,2017-05-06,F
+Crosswords & Games,Deb,2017-05-06,F
+N.Y. / Region,Eli,2017-05-06,M
+Sports,Neal,2017-05-06,M
+U.S.,Frances,2017-05-06,F
+Sports,Seth,2017-05-06,M
+Sports,Tyler,2017-05-06,M
+Sports,Dave,2017-05-06,M
+N.Y. / Region,Sam,2017-05-06,M
+Public Editor,Liz,2017-05-06,F
+Opinion,John,2017-05-06,M
+Opinion,Seth,2017-05-06,M
+Opinion,Ai,2017-05-06,F
+Opinion,Peter,2017-05-06,M
+Opinion,Ruchir,2017-05-06,M
+Opinion,Maureen,2017-05-06,F
+Opinion,Frank,2017-05-06,M
+Opinion,Zahra,2017-05-06,F
+Opinion,Carol,2017-05-06,F
+Opinion,Michael,2017-05-06,M
+Opinion,Ross,2017-05-06,M
+Opinion,Terry,2017-05-06,M
+Opinion,Nicholas,2017-05-06,M
+Opinion,Roger,2017-05-06,M
+Sports,James,2017-05-06,M
+Sports,Harvey,2017-05-06,M
+World,Richard,2017-05-06,M
+World,Karoline,2017-05-06,F
+U.S.,Charlie,2017-05-06,M
+World,Kirk,2017-05-06,M
+World,Javier,2017-05-06,M
+World,Alissa,2017-05-06,F
+Business Day,Nelson,2017-05-06,M
+U.S.,Jonathan,2017-05-06,M
+World,Rajneesh,2017-05-06,M
+World,Andrew,2017-05-06,M
+World,Isabel,2017-05-06,F
+Crosswords & Games,Deb,2017-05-06,F
+Times Insider,Joe,2017-05-06,M
+World,Amanda,2017-05-06,F
+Fashion & Style,Rosalie,2017-05-06,F
+Fashion & Style,Vincent,2017-05-06,M
+Real Estate,Ronda,2017-05-06,F
+World,Benoît,2017-05-06,U
+Technology,Farhad,2017-05-06,M
+U.S.,Michael,2017-05-06,M
+The Upshot,Susan,2017-05-06,F
+Style,Mark,2017-05-06,M
+Style,Casey,2017-05-06,GN
+Fashion & Style,Matthew,2017-05-06,M
+Style,Alex,2017-05-06,M
+Fashion & Style,Marisa,2017-05-06,F
+World,Mark,2017-05-06,M
+Style,Katie,2017-05-06,F
+Business Day,Jack,2017-05-06,M
+Times Insider,Lela,2017-05-06,F
+World,Palko,2017-05-06,U
+Sports,Jeré,2017-05-06,U
+Arts,Kathryn,2017-05-06,F
+Sports,Seth,2017-05-06,M
+Opinion,Jessa,2017-05-06,F
+Sports,Wallace,2017-05-06,M
+U.S.,John,2017-05-06,M
+Crosswords & Games,Deb,2017-05-06,F
+U.S.,Sheryl,2017-05-06,F
+Opinion,Bret,2017-05-06,M
+Sports,Seth,2017-05-06,M
+Opinion,Gail,2017-05-06,F
+Books,Richard,2017-05-06,M
+U.S.,Alexander,2017-05-06,M
+Business Day,Mary,2017-05-06,F
+World,Mark,2017-05-06,M
+Business Day,Rachel,2017-05-06,F
+N.Y. / Region,Benjamin,2017-05-06,M
+Arts,William,2017-05-06,M
+Business Day,Noah,2017-05-06,M
+U.S.,Linda,2017-05-06,F
+Business Day,Matthew,2017-05-06,M
+Sports,Ben,2017-05-06,M
+Health,Denise,2017-05-06,F
+Arts,Robin,2017-05-06,F
+Opinion,Doug,2017-05-05,M
+Technology,Mike,2017-05-05,M
+Sports,Frank,2017-05-05,M
+Opinion,Eric,2017-05-05,M
+World,Alissa,2017-05-05,F
+U.S.,Matt,2017-05-05,M
+Sports,Melissa,2017-05-05,F
+World,Aurelien,2017-05-05,U
+U.S.,Manny,2017-05-05,M
+World,Ian,2017-05-05,M
+Arts,Dave,2017-05-05,M
+Technology,Stephanie,2017-05-05,F
+Opinion,Walter,2017-05-05,M
+Fashion & Style,Bonnie,2017-05-05,F
+Sports,Billy,2017-05-05,M
+Health,Pam,2017-05-05,F
+Briefing,Karen,2017-05-05,F
+N.Y. / Region,James,2017-05-05,M
+U.S.,Jonathan,2017-05-05,M
+Books,John,2017-05-05,M
+Books,Concepción,2017-05-05,U
+U.S.,Jeremy,2017-05-05,M
+Fashion & Style,Vanessa,2017-05-05,F
+Books,Brooks,2017-05-05,M
+Arts,Rachel,2017-05-05,F
+Business Day,Matthew,2017-05-05,M
+Smarter Living,Tim,2017-05-05,M
+U.S.,Binyamin,2017-05-05,M
+Real Estate,Michelle,2017-05-05,F
+World,Azam,2017-05-05,M
+Arts,Alastair,2017-05-05,M
+Your Money,Jeff,2017-05-05,M
+Real Estate,Reported,2017-05-05,U
+Movies,Daniel,2017-05-05,M
+U.S.,Helene,2017-05-05,F
+N.Y. / Region,Alan,2017-05-05,M
+World,Russell,2017-05-05,M
+Fashion & Style,Ruth,2017-05-05,F
+U.S.,Vivian,2017-05-05,F
+Real Estate,Vivian,2017-05-05,F
+Your Money,Mark,2017-05-05,M
+Style,Valeriya,2017-05-05,F
+Business Day,Antony,2017-05-05,M
+Movies,Ben,2017-05-05,M
+Real Estate,Tim,2017-05-05,M
+Times Insider,Anna,2017-05-05,F
+U.S.,Christine,2017-05-05,F
+Opinion,Marc,2017-05-05,M
+Public Editor,Liz,2017-05-05,F
+Opinion,Richard,2017-05-05,M
+N.Y. / Region,Eli,2017-05-05,M
+Fashion & Style,Denny,2017-05-05,M
+Fashion & Style,Denny,2017-05-05,M
+Arts,James,2017-05-05,M
+Briefing,Anna,2017-05-05,F
+Opinion,Robert,2017-05-05,M
+Real Estate,Michael,2017-05-05,M
+World,Camilla,2017-05-05,F
+U.S.,Maggie,2017-05-05,F
+Theater,Elisabeth,2017-05-05,F
+Business Day,Rachel,2017-05-05,F
+Business Day,Gretchen,2017-05-05,F
+Science,James,2017-05-05,M
+Your Money,David,2017-05-05,M
+Science,Robin,2017-05-05,F
+U.S.,Christopher,2017-05-05,M
+U.S.,Daniel,2017-05-05,M
+World,Ian,2017-05-05,M
+U.S.,Alan,2017-05-05,M
+U.S.,Troy,2017-05-05,M
+U.S.,Christine,2017-05-05,F
+Arts,Jon,2017-05-05,M
+Technology,Pui-wing,2017-05-05,U
+Arts,Sopan,2017-05-05,U
+Sports,Marc,2017-05-05,M
+Business Day,Ben,2017-05-05,M
+Arts,James,2017-05-05,M
+Real Estate,Ronda,2017-05-05,F
+Books,Gregory,2017-05-05,M
+Arts,Gia,2017-05-05,F
+Technology,J.,2017-05-05,U
+Arts,Jack,2017-05-05,M
+Arts,Angelica,2017-05-05,F
+Arts,Michael,2017-05-05,M
+Arts,Anthony,2017-05-05,M
+Well,Catherine,2017-05-05,F
+World,Taimoor,2017-05-05,M
+Arts,Patrick,2017-05-05,M
+Arts,Louis,2017-05-05,M
+World,Ellen,2017-05-05,F
+The Upshot,Margot,2017-05-05,F
+Movies,Kathryn,2017-05-05,F
+U.S.,Matthew,2017-05-05,M
+Movies,Manohla,2017-05-05,U
+Food,Melissa,2017-05-05,F
+Food,Alec,2017-05-05,M
+Job Market,Ada,2017-05-05,F
+U.S.,Julie,2017-05-05,F
+Books,Marilyn,2017-05-05,F
+Movies,Cara,2017-05-05,F
+Your Money,Ann,2017-05-05,F
+Your Money,Paul,2017-05-05,M
+U.S.,Alan,2017-05-05,M
+Food,Melissa,2017-05-05,F
+Books,Wai,2017-05-05,M
+Arts,Joshua,2017-05-05,M
+N.Y. / Region,Michael,2017-05-05,M
+Real Estate,Kim,2017-05-05,F
+N.Y. / Region,Shivani,2017-05-05,F
+Books,Harold,2017-05-05,M
+Food,David,2017-05-05,M
+Times Insider,Alissa,2017-05-05,F
+N.Y. / Region,Corey,2017-05-05,M
+Books,Robin,2017-05-05,F
+World,Anne,2017-05-05,F
+Sunday Review,Daniel,2017-05-05,M
+Sports,Victor,2017-05-05,M
+Opinion,Patrick,2017-05-05,M
+Books,Leopoldine,2017-05-05,U
+Arts,Amanda,2017-05-05,F
+Movies,Julie,2017-05-05,F
+Business Day,Keith,2017-05-05,M
+The Upshot,Neil,2017-05-05,M
+World,Ellen,2017-05-05,F
+World,James,2017-05-05,M
+Sports,Joe,2017-05-05,M
+Sports,Scott,2017-05-05,M
+U.S.,Jonah,2017-05-05,M
+Arts,Scott,2017-05-05,M
+World,Steven,2017-05-05,M
+Books,Alexandra,2017-05-05,F
+World,Helene,2017-05-05,F
+Theater,Ben,2017-05-05,M
+Real Estate,C.,2017-05-05,U
+N.Y. / Region,Corey,2017-05-05,M
+Fashion & Style,Vanessa,2017-05-05,F
+World,Damien,2017-05-05,M
+U.S.,Mike,2017-05-05,M
+Opinion,Ching,2017-05-05,M
+World,Boryana,2017-05-05,U
+World,Choe,2017-05-05,U
+World,Felipe,2017-05-05,M
+N.Y. / Region,Nathaniel,2017-05-05,M
+Business Day,Adam,2017-05-05,M
+Well,Toby,2017-05-05,M
+Business Day,Amie,2017-05-05,F
+N.Y. / Region,Jonathan,2017-05-05,M
+Fashion & Style,Louise,2017-05-05,F
+Podcasts,Michael,2017-05-05,M
+Travel,Steve,2017-05-05,M
+Books,Marlene,2017-05-05,F
+Books,Marc,2017-05-05,M
+Well,Denene,2017-05-05,F
+Travel,Nicholas,2017-05-05,M
+Opinion,Serge,2017-05-05,M
+Opinion,Serge,2017-05-05,M
+Briefing,Sean,2017-05-05,M
+The Upshot,Nate,2017-05-05,M
+The Learning Network,Michael,2017-05-05,M
+Arts,Giovanni,2017-05-05,M
+The Learning Network,Shannon,2017-05-05,F
+U.S.,Glenn,2017-05-05,M
+Science,Joanna,2017-05-05,F
+Business Day,Patricia,2017-05-05,F
+Books,Alan,2017-05-05,M
+Public Editor,Liz,2017-05-05,F
+N.Y. / Region,Elizabeth,2017-05-05,F
+Arts,Sopan,2017-05-05,U
+Real Estate,Kenneth,2017-05-05,M
+U.S.,Carl,2017-05-05,M
+Books,Emily,2017-05-05,F
+N.Y. / Region,Helene,2017-05-05,F
+Books,Jonathan,2017-05-05,M
+Books,Noah,2017-05-05,M
+Books,Marina,2017-05-05,F
+Books,Alana,2017-05-05,F
+Your Money,Ron,2017-05-05,M
+Magazine,Jaime,2017-05-05,GN
+The Learning Network,Caroline,2017-05-05,F
+Travel,Chang,2017-05-05,M
+The Learning Network,Caroline,2017-05-05,F
+The Learning Network,Katherine,2017-05-05,F
+Opinion,Ioan,2017-05-05,M
+Opinion,Paul,2017-05-05,M
+Opinion,Amy,2017-05-05,F
+Opinion,Steve,2017-05-05,M
+Opinion,Timothy,2017-05-05,M
+World,Gerry,2017-05-05,M
+U.S.,Anna,2017-05-05,F
+Business Day,Keith,2017-05-05,M
+Arts,Kathryn,2017-05-05,F
+Sports,James,2017-05-05,M
+U.S.,Neeti,2017-05-05,F
+Briefing,Patrick,2017-05-05,M
+Fashion & Style,Jacob,2017-05-05,M
+Style,Teddy,2017-05-05,M
+Style,Clara,2017-05-05,F
+Sports,Ben,2017-05-05,M
+Technology,Mike,2017-05-05,M
+U.S.,Linda,2017-05-05,F
+World,Damien,2017-05-05,M
+Crosswords & Games,Deb,2017-05-05,F
+World,Rick,2017-05-05,M
+Business Day,Michael,2017-05-05,M
+Theater,Ben,2017-05-05,M
+Health,Reed,2017-05-05,M
+U.S.,Emmarie,2017-05-05,F
+World,Kimiko,2017-05-05,F
+Business Day,Emily,2017-05-05,F
+Arts,Neil,2017-05-05,M
+U.S.,Rebecca,2017-05-05,F
+Sports,Billy,2017-05-05,M
+Opinion,Susan,2017-05-05,F
+N.Y. / Region,Jim,2017-05-05,M
+N.Y. / Region,James,2017-05-05,M
+Theater,Jesse,2017-05-05,M
+N.Y. / Region,Gary,2017-05-05,M
+Sports,Allan,2017-05-08,M
+N.Y. / Region,Michael,2017-05-08,M
+Times Insider,Ed,2017-05-08,M
+N.Y. / Region,Katharine,2017-05-08,F
+N.Y. / Region,Nick,2017-05-08,M
+Arts,Jennifer,2017-05-08,F
+Briefing,Karen,2017-05-08,F
+Food,Florence,2017-05-08,F
+Arts,David,2017-05-08,M
+Books,Janet,2017-05-08,F
+Sports,Rory,2017-05-08,M
+Arts,Anthony,2017-05-08,M
+N.Y. / Region,Michael,2017-05-08,M
+Style,Guy,2017-05-08,M
+Business Day,Matthew,2017-05-08,M
+Science,Nicholas,2017-05-08,M
+Theater,Alexis,2017-05-08,F
+T Magazine,Alex,2017-05-08,M
+World,Rick,2017-05-08,M
+Briefing,Charles,2017-05-08,M
+Business Day,Jennifer,2017-05-08,F
+Movies,Michael,2017-05-08,M
+U.S.,Katie,2017-05-08,F
+U.S.,Jacey,2017-05-08,F
+Business Day,Andrew,2017-05-08,M
+World,Craig,2017-05-08,M
+World,Nick,2017-05-08,M
+Health,Kate,2017-05-08,F
+Books,Alexandra,2017-05-08,F
+Climate,Henry,2017-05-08,M
+World,Alison,2017-05-08,F
+Business Day,Jeremy,2017-05-08,M
+Business Day,Kate,2017-05-08,F
+Theater,Anita,2017-05-08,F
+Your Money,Carl,2017-05-08,M
+U.S.,Jonah,2017-05-08,M
+U.S.,Adam,2017-05-08,M
+Watching,Mike,2017-05-08,M
+Watching,Margaret,2017-05-08,F
+Theater,Joshua,2017-05-08,M
+Business Day,Peter,2017-05-08,M
+U.S.,Robert,2017-05-08,M
+Arts,Albinson,2017-05-08,U
+World,Neil,2017-05-08,M
+Science,Dennis,2017-05-08,M
+World,Chris,2017-05-08,M
+World,Peter,2017-05-08,M
+Arts,Christopher,2017-05-08,M
+Food,Robert,2017-05-08,M
+Opinion,Michael,2017-05-08,M
+Arts,Joe,2017-05-08,M
+Health,Elizabeth,2017-05-08,F
+Technology,J.,2017-05-08,U
+Technology,Pui-wing,2017-05-08,U
+Health,Gina,2017-05-08,F
+World,Dan,2017-05-08,M
+Arts,Sopan,2017-05-08,U
+World,Chris,2017-05-08,M
+U.S.,Christopher,2017-05-08,M
+World,Thomas,2017-05-08,M
+World,Charlie,2017-05-08,M
+Business Day,Julie,2017-05-08,F
+Times Insider,Rachel,2017-05-08,F
+U.S.,Michael,2017-05-08,M
+Climate,Justin,2017-05-08,M
+N.Y. / Region,Michael,2017-05-08,M
+World,Seth,2017-05-08,M
+Business Day,Jonathan,2017-05-08,M
+Food,Florence,2017-05-08,F
+Health,C.,2017-05-08,U
+Food,Florence,2017-05-08,F
+Food,Melissa,2017-05-08,F
+Food,Florence,2017-05-08,F
+Science,Jacey,2017-05-08,F
+Food,Florence,2017-05-08,F
+Food,Florence,2017-05-08,F
+Travel,Lucas,2017-05-08,M
+Food,Florence,2017-05-08,F
+Sports,Victor,2017-05-08,M
+N.Y. / Region,Lisa,2017-05-08,F
+Arts,Michael,2017-05-08,M
+Fashion & Style,Vanessa,2017-05-08,F
+Business Day,Elizabeth,2017-05-08,F
+Opinion,David,2017-05-08,M
+World,Steven,2017-05-08,M
+Movies,Christopher,2017-05-08,M
+World,Rachel,2017-05-08,F
+Opinion,Elizabeth,2017-05-08,F
+U.S.,Mike,2017-05-08,M
+Magazine,Greg,2017-05-08,M
+Business Day,Chad,2017-05-08,M
+World,Sewell,2017-05-08,M
+Opinion,Patrick,2017-05-08,M
+Opinion,Boualem,2017-05-08,U
+Books,Damon,2017-05-08,M
+Books,Lara,2017-05-08,F
+The Upshot,Austin,2017-05-08,M
+The Learning Network,Shannon,2017-05-08,F
+The Learning Network,Shannon,2017-05-08,F
+Technology,Mark,2017-05-08,M
+Business Day,Amie,2017-05-08,F
+N.Y. / Region,Alexandra,2017-05-08,F
+Well,Alexandra,2017-05-08,F
+Well,Jane,2017-05-08,F
+Health,Paula,2017-05-08,F
+Podcasts,Michael,2017-05-08,M
+T Magazine,Taiye,2017-05-08,U
+Sports,Billy,2017-05-08,M
+The Upshot,Nate,2017-05-08,M
+Briefing,Chris,2017-05-08,M
+World,Gerry,2017-05-08,M
+U.S.,Sabrina,2017-05-08,F
+U.S.,Alan,2017-05-08,M
+Arts,Robin,2017-05-08,F
+Books,Joe,2017-05-08,M
+U.S.,Matthew,2017-05-08,M
+Smarter Living,Kristin,2017-05-08,F
+World,Andrew,2017-05-08,M
+Business Day,Chad,2017-05-08,M
+Theater,Matt,2017-05-08,M
+Multimedia/Photos,Finbarr,2017-05-08,U
+Opinion,Sarah,2017-05-08,F
+Opinion,Charles,2017-05-08,M
+Opinion,Francis,2017-05-08,M
+Opinion,Paul,2017-05-08,M
+Opinion,John,2017-05-08,M
+Opinion,Trevor,2017-05-08,M
+Fashion & Style,Elizabeth,2017-05-08,F
+N.Y. / Region,William,2017-05-08,M
+Sports,Tyler,2017-05-08,M
+U.S.,Thomas,2017-05-08,M
+Arts,Kathryn,2017-05-08,F
+Briefing,Patrick,2017-05-08,M
+U.S.,Michael,2017-05-08,M
+Business Day,Amie,2017-05-08,F
+Arts,Scott,2017-05-08,M
+U.S.,Niraj,2017-05-08,M
+Business Day,Jim,2017-05-08,M
+Arts,Noel,2017-05-08,M
+World,Dionne,2017-05-08,F
+U.S.,Coral,2017-05-08,F
+U.S.,Jeremy,2017-05-08,M
+U.S.,Adam,2017-05-08,M
+Sports,Tyler,2017-05-08,M
+World,Camilla,2017-05-08,F
+Sports,Billy,2017-05-08,M
+N.Y. / Region,Isabel,2017-05-08,F
+World,Mujib,2017-05-07,U
+World,Victor,2017-05-07,M
+World,Ian,2017-05-07,M
+Technology,Katie,2017-05-07,F
+World,Adam,2017-05-07,M
+Business Day,Sapna,2017-05-07,F
+Sports,Scott,2017-05-07,M
+Arts,Andrew,2017-05-07,M
+U.S.,Ron,2017-05-07,M
+Crosswords & Games,Deb,2017-05-07,F
+Technology,Nicole,2017-05-07,F
+Sports,Matthew,2017-05-07,M
+U.S.,Noah,2017-05-07,M
+Arts,Anthony,2017-05-07,M
+Books,John,2017-05-07,M
+Business Day,Elizabeth,2017-05-07,F
+Movies,Maya,2017-05-07,F
+Arts,Zachary,2017-05-07,M
+Arts,Jon,2017-05-07,M
+Arts,Rachel,2017-05-07,F
+Briefing,Charles,2017-05-07,M
+N.Y. / Region,Rick,2017-05-07,M
+Sports,Joe,2017-05-07,M
+U.S.,Jonah,2017-05-07,M
+Theater,Andrew,2017-05-07,M
+World,Choe,2017-05-07,U
+Movies,Brooks,2017-05-07,M
+Business Day,Michael,2017-05-07,M
+World,Alissa,2017-05-07,F
+Business Day,Patricia,2017-05-07,F
+World,Camilla,2017-05-07,F
+World,Gregor,2017-05-07,M
+N.Y. / Region,James,2017-05-07,M
+Sports,Seth,2017-05-07,M
+World,Liz,2017-05-07,F
+World,Aida,2017-05-07,F
+Food,Melissa,2017-05-07,F
+N.Y. / Region,Emma,2017-05-07,F
+U.S.,Miriam,2017-05-07,F
+World,Didi,2017-05-07,F
+Business Day,Keith,2017-05-07,M
+World,Choe,2017-05-07,U
+N.Y. / Region,Sharon,2017-05-07,F
+World,Melissa,2017-05-07,F
+U.S.,Richard,2017-05-07,M
+Briefing,Karen,2017-05-07,F
+Real Estate,C.,2017-05-07,U
+Arts,Dave,2017-05-07,M
+Arts,Kathryn,2017-05-07,F
+Sports,Billy,2017-05-07,M
+Times Insider,Stephen,2017-05-07,M
+Business Day,Michael,2017-05-07,M
+World,Dan,2017-05-10,M
+Times Insider,Stephen,2017-05-10,M
+U.S.,Erica,2017-05-10,F
+U.S.,Lucia,2017-05-10,F
+N.Y. / Region,Charles,2017-05-10,M
+Theater,Sopan,2017-05-10,U
+Theater,Jesse,2017-05-10,M
+Opinion,Bret,2017-05-10,M
+Business Day,Michael,2017-05-10,M
+N.Y. / Region,Alan,2017-05-10,M
+U.S.,Shane,2017-05-10,M
+Briefing,Karen,2017-05-10,F
+U.S.,Alicia,2017-05-10,F
+Movies,Jeannette,2017-05-10,F
+Fashion & Style,Alison,2017-05-10,F
+Movies,Neil,2017-05-10,M
+Books,Jennifer,2017-05-10,F
+Movies,Neil,2017-05-10,M
+Movies,Glenn,2017-05-10,M
+U.S.,Matt,2017-05-10,M
+Sports,James,2017-05-10,M
+Theater,Michael,2017-05-10,M
+Technology,Katie,2017-05-10,F
+Arts,William,2017-05-10,M
+Theater,Clyde,2017-05-10,M
+Fashion & Style,Vanessa,2017-05-10,F
+U.S.,Elsa,2017-05-10,F
+World,Javier,2017-05-10,M
+Business Day,Landon,2017-05-10,M
+World,Isabel,2017-05-10,F
+Sports,Raphael,2017-05-10,M
+Arts,Jon,2017-05-10,M
+Fashion & Style,Hayley,2017-05-10,F
+U.S.,Maggie,2017-05-10,F
+Times Insider,Kerri,2017-05-10,F
+Opinion,Beverly,2017-05-10,F
+U.S.,Jacey,2017-05-10,F
+Books,Alan,2017-05-10,M
+U.S.,Trip,2017-05-10,M
+Arts,Anthony,2017-05-10,M
+Arts,Angelica,2017-05-10,F
+Fashion & Style,Jacob,2017-05-10,M
+Your Money,Ann,2017-05-10,F
+Opinion,Edan,2017-05-10,M
+World,Thomas,2017-05-10,M
+Briefing,Charles,2017-05-10,M
+Business Day,Jeffrey,2017-05-10,M
+Opinion,Praveen,2017-05-10,M
+U.S.,Miriam,2017-05-10,F
+Arts,Graham,2017-05-10,M
+U.S.,Jonah,2017-05-10,M
+Arts,Alastair,2017-05-10,M
+Business Day,Alexandra,2017-05-10,F
+U.S.,Audrey,2017-05-10,F
+Movies,Rachel,2017-05-10,F
+Fashion & Style,Brian,2017-05-10,M
+Business Day,John,2017-05-10,M
+The Upshot,Quoctrung,2017-05-10,U
+U.S.,Adam,2017-05-10,M
+Sports,Scott,2017-05-10,M
+Fashion & Style,Valeriya,2017-05-10,F
+Fashion & Style,Katherine,2017-05-10,F
+U.S.,Anna,2017-05-10,F
+Business Day,Christopher,2017-05-10,M
+Health,Gina,2017-05-10,F
+World,Najim,2017-05-10,U
+U.S.,Carl,2017-05-10,M
+Technology,Emily,2017-05-10,F
+Technology,Laura,2017-05-10,F
+Arts,Jon,2017-05-10,M
+Sports,Victor,2017-05-10,M
+Technology,J.,2017-05-10,U
+Business Day,Michael,2017-05-10,M
+N.Y. / Region,Kate,2017-05-10,F
+Technology,Pui-wing,2017-05-10,U
+U.S.,Coral,2017-05-10,F
+Movies,Andy,2017-05-10,M
+Theater,Laura,2017-05-10,F
+Arts,Michael,2017-05-10,M
+Business Day,Sapna,2017-05-10,F
+Arts,Jeremy,2017-05-10,M
+Sports,Filip,2017-05-10,M
+Arts,Jon,2017-05-10,M
+Arts,Neil,2017-05-10,M
+Arts,Gia,2017-05-10,F
+Arts,Roberta,2017-05-10,F
+Fashion & Style,Elizabeth,2017-05-10,F
+World,Melissa,2017-05-10,F
+Business Day,Chad,2017-05-10,M
+Fashion & Style,Elizabeth,2017-05-10,F
+N.Y. / Region,Tammy,2017-05-10,F
+U.S.,Matthew,2017-05-10,M
+N.Y. / Region,Joyce,2017-05-10,F
+Business Day,Caitlin,2017-05-10,F
+Food,Sam,2017-05-10,M
+N.Y. / Region,Liz,2017-05-10,F
+Style,Sophia,2017-05-10,F
+Technology,Farhad,2017-05-10,M
+Technology,Farhad,2017-05-10,M
+U.S.,Jennifer,2017-05-10,F
+Arts,Leslie,2017-05-10,F
+World,David,2017-05-10,M
+Public Editor,Liz,2017-05-10,F
+Real Estate,Kevin,2017-05-10,M
+U.S.,Matt,2017-05-10,M
+World,Didi,2017-05-10,F
+Sports,Victor,2017-05-10,M
+World,Mike,2017-05-10,M
+Real Estate,Tim,2017-05-10,M
+Science,Kenneth,2017-05-10,M
+Books,Will,2017-05-10,M
+The Learning Network,Caroline,2017-05-10,F
+U.S.,Mike,2017-05-10,M
+Theater,Joshua,2017-05-10,M
+Times Insider,Stephen,2017-05-10,M
+Times Insider,David,2017-05-10,M
+World,Stephen,2017-05-10,M
+T Magazine,Nikil,2017-05-10,M
+World,Nina,2017-05-10,F
+U.S.,Michael,2017-05-10,M
+Opinion,Peter,2017-05-10,M
+World,Anne,2017-05-10,F
+Books,William,2017-05-10,M
+World,Gardiner,2017-05-10,M
+The Learning Network,Caroline,2017-05-10,F
+World,International,2017-05-10,U
+Business Day,Amie,2017-05-10,F
+N.Y. / Region,Alexandra,2017-05-10,F
+Movies,A.,2017-05-10,U
+Travel,Tony,2017-05-10,M
+N.Y. / Region,Nick,2017-05-10,M
+Well,David,2017-05-10,M
+Well,Gretchen,2017-05-10,F
+Well,Lisa,2017-05-10,F
+Podcasts,Michael,2017-05-10,M
+Your Money,Tim,2017-05-10,M
+Briefing,Chris,2017-05-10,M
+The Upshot,Dhruv,2017-05-10,M
+Arts,Giovanni,2017-05-10,M
+Real Estate,Marcelle,2017-05-10,F
+Theater,Joel,2017-05-10,M
+Movies,Cara,2017-05-10,F
+Business Day,Michael,2017-05-10,M
+U.S.,Frances,2017-05-10,F
+Travel,Shivani,2017-05-10,F
+Magazine,Dave,2017-05-10,M
+Magazine,Interview,2017-05-10,U
+Magazine,Kwame,2017-05-10,M
+The Learning Network,Caroline,2017-05-10,F
+The Learning Network,Caroline,2017-05-10,F
+Multimedia/Photos,Nina,2017-05-10,F
+Opinion,Frank,2017-05-10,M
+Opinion,Ross,2017-05-10,M
+Opinion,Jill,2017-05-10,F
+Opinion,Bob,2017-05-10,M
+Opinion,Thomas,2017-05-10,M
+Opinion,Jennifer,2017-05-10,F
+World,Choe,2017-05-10,U
+The Learning Network,Katherine,2017-05-10,F
+Sports,Photographs,2017-05-10,U
+Arts,Kathryn,2017-05-10,F
+U.S.,Mikayla,2017-05-10,F
+U.S.,Susan,2017-05-10,F
+Travel,Sanjay,2017-05-10,M
+Briefing,Patrick,2017-05-10,M
+Technology,Nick,2017-05-10,M
+World,Max,2017-05-10,M
+Theater,Tim,2017-05-10,M
+Fashion & Style,Vanessa,2017-05-10,F
+Opinion,David,2017-05-10,M
+Arts,Mike,2017-05-10,M
+U.S.,David,2017-05-10,M
+Sports,Billy,2017-05-10,M
+Arts,Richard,2017-05-10,M
+U.S.,Charlie,2017-05-10,M
+Sports,Ben,2017-05-10,M
+Sports,James,2017-05-10,M
+U.S.,Jennifer,2017-05-10,F
+Crosswords & Games,Deb,2017-05-10,F
+World,Somini,2017-05-10,U
+N.Y. / Region,Patrick,2017-05-10,M
+U.S.,Coral,2017-05-10,F
+U.S.,Charlie,2017-05-10,M
+U.S.,Julie,2017-05-10,F
+Sports,Billy,2017-05-10,M
+U.S.,Rebecca,2017-05-10,F
+World,Adam,2017-05-10,M
+N.Y. / Region,Jim,2017-05-10,M
+U.S.,Matthew,2017-05-10,M
+N.Y. / Region,Jesse,2017-05-10,M
+Sports,Andrew,2017-05-10,M
+Education,Anemona,2017-05-10,U
+World,Rick,2017-05-10,M
+U.S.,Carl,2017-05-10,M
+Sports,Andrew,2017-05-10,M
+Business Day,Brooks,2017-05-10,M
+Business Day,Sam,2017-05-10,M
+N.Y. / Region,Henry,2017-05-10,M
+World,Dionne,2017-05-09,F
+U.S.,Peter,2017-05-09,M
+Business Day,Sam,2017-05-09,M
+Times Insider,Katharine,2017-05-09,F
+Business Day,Liz,2017-05-09,F
+Business Day,Kate,2017-05-09,F
+U.S.,Manny,2017-05-09,M
+Science,Nicholas,2017-05-09,M
+U.S.,Liam,2017-05-09,M
+Well,Nicholas,2017-05-09,M
+Books,Amy,2017-05-09,F
+Theater,Laura,2017-05-09,F
+U.S.,Michael,2017-05-09,M
+Briefing,Karen,2017-05-09,F
+U.S.,Michael,2017-05-09,M
+Business Day,Alexandra,2017-05-09,F
+World,Natalie,2017-05-09,F
+Books,Concepción,2017-05-09,U
+Books,Dwight,2017-05-09,M
+Health,Katie,2017-05-09,F
+Food,Adam,2017-05-09,M
+Arts,Michael,2017-05-09,M
+N.Y. / Region,Alan,2017-05-09,M
+Well,Nicholas,2017-05-09,M
+Business Day,Liz,2017-05-09,F
+U.S.,Jacey,2017-05-09,F
+Movies,Glenn,2017-05-09,M
+Sports,Rory,2017-05-09,M
+T Magazine,Kelly,2017-05-09,F
+Opinion,Kyla,2017-05-09,F
+Climate,Henry,2017-05-09,M
+Movies,Glenn,2017-05-09,M
+Books,Brent,2017-05-09,M
+Sports,James,2017-05-09,M
+World,Ian,2017-05-09,M
+World,Jason,2017-05-09,M
+Climate,Brad,2017-05-09,M
+Food,Florence,2017-05-09,F
+Fashion & Style,Valeriya,2017-05-09,F
+Briefing,Charles,2017-05-09,M
+Arts,David,2017-05-09,M
+N.Y. / Region,Eli,2017-05-09,M
+Times Insider,Anna,2017-05-09,F
+Food,Kim,2017-05-09,F
+Fashion & Style,Marisa,2017-05-09,F
+Arts,Gia,2017-05-09,F
+Movies,Ben,2017-05-09,M
+Business Day,Jennifer,2017-05-09,F
+Fashion & Style,Brooke,2017-05-09,F
+Theater,Andrew,2017-05-09,M
+Fashion & Style,Ben,2017-05-09,M
+Arts,Ben,2017-05-09,M
+World,Michael,2017-05-09,M
+Theater,Joshua,2017-05-09,M
+Technology,Steve,2017-05-09,M
+World,Austin,2017-05-09,M
+Food,Florence,2017-05-09,F
+Watching,Margaret,2017-05-09,F
+Food,Yotam,2017-05-09,M
+World,Liam,2017-05-09,M
+T Magazine,Mary,2017-05-09,F
+Food,Stephanie,2017-05-09,F
+Technology,Pui-wing,2017-05-09,U
+World,David,2017-05-09,M
+Sports,Michael,2017-05-09,M
+U.S.,Michael,2017-05-09,M
+Technology,J.,2017-05-09,U
+Theater,Sopan,2017-05-09,U
+Sports,Victor,2017-05-09,M
+Real Estate,Aili,2017-05-09,F
+Food,Pete,2017-05-09,M
+Books,Jay,2017-05-09,M
+Real Estate,Rosalie,2017-05-09,F
+Arts,Michael,2017-05-09,M
+Technology,Christopher,2017-05-09,M
+World,Benoît,2017-05-09,U
+Arts,Jason,2017-05-09,M
+Business Day,Jonah,2017-05-09,M
+World,Choe,2017-05-09,U
+Opinion,Jennifer,2017-05-09,F
+Well,Karen,2017-05-09,F
+World,Neil,2017-05-09,M
+Watching,Mike,2017-05-09,M
+N.Y. / Region,Benjamin,2017-05-09,M
+The Upshot,Neil,2017-05-09,M
+N.Y. / Region,Winnie,2017-05-09,F
+Business Day,Stephen,2017-05-09,M
+Opinion,Rafael,2017-05-09,M
+World,Carolyn,2017-05-09,F
+Technology,Brian,2017-05-09,M
+Sports,Karen,2017-05-09,F
+Technology,Daniel,2017-05-09,M
+World,Mujib,2017-05-09,U
+World,Dan,2017-05-09,M
+Fashion & Style,Vanessa,2017-05-09,F
+Business Day,Ben,2017-05-09,M
+N.Y. / Region,Sam,2017-05-09,M
+Opinion,Borhan,2017-05-09,U
+U.S.,Mike,2017-05-09,M
+U.S.,Michael,2017-05-09,M
+Times Insider,Binyamin,2017-05-09,M
+Business Day,Michael,2017-05-09,M
+Business Day,John,2017-05-09,M
+The Learning Network,Katherine,2017-05-09,F
+World,Helene,2017-05-09,F
+World,Sewell,2017-05-09,M
+N.Y. / Region,Angela,2017-05-09,F
+Opinion,Sylvie,2017-05-09,F
+Business Day,Carlos,2017-05-09,M
+Universal,Rodrigo,2017-05-09,M
+U.S.,Katharine,2017-05-09,F
+Travel,Jennifer,2017-05-09,F
+Travel,Amy,2017-05-09,F
+Business Day,Amie,2017-05-09,F
+N.Y. / Region,Alexandra,2017-05-09,F
+Books,Nicole,2017-05-09,F
+Podcasts,Michael,2017-05-09,M
+Briefing,Chris,2017-05-09,M
+Arts,Giovanni,2017-05-09,M
+Travel,Francine,2017-05-09,F
+U.S.,Dave,2017-05-09,M
+Arts,Gia,2017-05-09,F
+Business Day,David,2017-05-09,M
+Books,Stephen,2017-05-09,M
+U.S.,Alexander,2017-05-09,M
+Magazine,Matthew,2017-05-09,M
+Magazine,Sam,2017-05-09,M
+Magazine,Amanda,2017-05-09,F
+Magazine,Geoff,2017-05-09,M
+The Learning Network,Caroline,2017-05-09,F
+The Upshot,Margot,2017-05-09,F
+The Learning Network,Caroline,2017-05-09,F
+Multimedia/Photos,James,2017-05-09,M
+Opinion,Tina,2017-05-09,F
+Opinion,David,2017-05-09,M
+Opinion,Lori,2017-05-09,F
+Opinion,George,2017-05-09,M
+Opinion,Gregory,2017-05-09,M
+U.S.,Anna,2017-05-09,F
+The Learning Network,Katherine,2017-05-09,F
+Sports,Rory,2017-05-09,M
+World,Joe,2017-05-09,M
+Arts,Kathryn,2017-05-09,F
+World,Choe,2017-05-09,U
+U.S.,Niraj,2017-05-09,M
+Sports,Wallace,2017-05-09,M
+Briefing,Patrick,2017-05-09,M
+Sports,Billy,2017-05-09,M
+Business Day,Niraj,2017-05-09,M
+Arts,David,2017-05-09,M
+U.S.,Michael,2017-05-09,M
+Sports,Wallace,2017-05-09,M
+Crosswords & Games,Deb,2017-05-09,F
+U.S.,Eric,2017-05-09,M
+U.S.,Niraj,2017-05-09,M
+U.S.,Matt,2017-05-09,M
+U.S.,Richard,2017-05-09,M
+Sports,Billy,2017-05-09,M
+Business Day,Sydney,2017-05-09,F
+Sports,Tyler,2017-05-09,M
+Watching,Noel,2017-05-09,M
+Health,Katie,2017-05-09,F
+Sports,Raphael,2017-05-09,M
+N.Y. / Region,Al,2017-05-09,M
+Theater,William,2017-05-09,M
+World,Dionne,2017-05-09,F
+U.S.,Yamiche,2017-05-09,U
+N.Y. / Region,Virginia,2017-05-09,F
+Technology,Vindu,2017-05-12,U
+World,Jeremy,2017-05-12,M
+N.Y. / Region,Michael,2017-05-12,M
+World,Steven,2017-05-12,M
+Arts,Colin,2017-05-12,M
+N.Y. / Region,Kate,2017-05-12,F
+Science,Kenneth,2017-05-12,M
+N.Y. / Region,Elizabeth,2017-05-12,F
+World,Ian,2017-05-12,M
+Business Day,Elizabeth,2017-05-12,F
+U.S.,Sam,2017-05-12,M
+Watching,Monica,2017-05-12,F
+Briefing,Charles,2017-05-12,M
+Health,Gina,2017-05-12,F
+Business Day,William,2017-05-12,M
+World,Ibrahim,2017-05-12,M
+Fashion & Style,Vanessa,2017-05-12,F
+Arts,Matthew,2017-05-12,M
+Sports,Seth,2017-05-12,M
+Arts,James,2017-05-12,M
+Opinion,David,2017-05-12,M
+Arts,Michael,2017-05-12,M
+Sports,Rory,2017-05-12,M
+Opinion,Anna,2017-05-12,F
+Well,Lillian,2017-05-12,F
+World,Rick,2017-05-12,M
+Arts,Nina,2017-05-12,F
+U.S.,William,2017-05-12,M
+Climate,Tatiana,2017-05-12,F
+Business Day,Michael,2017-05-12,M
+Opinion,Antony,2017-05-12,M
+Times Insider,Bruce,2017-05-12,M
+N.Y. / Region,Sharon,2017-05-12,F
+Business Day,Gretchen,2017-05-12,F
+N.Y. / Region,James,2017-05-12,M
+N.Y. / Region,Dan,2017-05-12,M
+Opinion,Ashley,2017-05-12,F
+Books,Sam,2017-05-12,M
+N.Y. / Region,Jesse,2017-05-12,M
+Times Insider,Anna,2017-05-12,F
+Briefing,Anna,2017-05-12,F
+Business Day,Gina,2017-05-12,F
+Sports,Adam,2017-05-12,M
+Opinion,Susan,2017-05-12,F
+Travel,Shivani,2017-05-12,F
+Science,Jim,2017-05-12,M
+U.S.,Alicia,2017-05-12,F
+Opinion,Max,2017-05-12,M
+World,Megan,2017-05-12,F
+Books,Gregory,2017-05-12,M
+N.Y. / Region,Annie,2017-05-12,F
+Business Day,Brooks,2017-05-12,M
+Arts,Alastair,2017-05-12,M
+Arts,Jacey,2017-05-12,F
+World,Kimiko,2017-05-12,F
+Real Estate,Ronda,2017-05-12,F
+Food,Melissa,2017-05-12,F
+Watching,Jennifer,2017-05-12,F
+Your Money,Jeff,2017-05-12,M
+Sports,Andrew,2017-05-12,M
+Theater,Joshua,2017-05-12,M
+Business Day,Julie,2017-05-12,F
+Real Estate,Michael,2017-05-12,M
+Magazine,Michelle,2017-05-12,F
+Arts,Gianni,2017-05-12,M
+Science,Steph,2017-05-12,F
+World,Russell,2017-05-12,M
+Theater,Alexis,2017-05-12,F
+Sports,Scott,2017-05-12,M
+Fashion & Style,Steven,2017-05-12,M
+Arts,Louis,2017-05-12,M
+Business Day,Jim,2017-05-12,M
+Real Estate,Vivian,2017-05-12,F
+Business Day,Tammy,2017-05-12,F
+Watching,Monica,2017-05-12,F
+Business Day,Robert,2017-05-12,M
+Food,David,2017-05-12,M
+U.S.,Maggie,2017-05-12,F
+Arts,Gilbert,2017-05-12,M
+Books,James,2017-05-12,M
+Books,Maria,2017-05-12,F
+World,Kimiko,2017-05-12,F
+Technology,J.,2017-05-12,U
+World,Christopher,2017-05-12,M
+Technology,Pui-wing,2017-05-12,U
+Business Day,Jack,2017-05-12,M
+Books,Maria,2017-05-12,F
+Books,Christopher,2017-05-12,M
+Job Market,Patricia,2017-05-12,F
+Real Estate,Alyson,2017-05-12,F
+Books,Meg,2017-05-12,F
+U.S.,Mark,2017-05-12,M
+Your Money,Ann,2017-05-12,F
+U.S.,Alan,2017-05-12,M
+World,Nicole,2017-05-12,F
+N.Y. / Region,Emma,2017-05-12,F
+Health,Abby,2017-05-12,F
+Real Estate,Michelle,2017-05-12,F
+Arts,Jon,2017-05-12,M
+Food,Sam,2017-05-12,M
+Business Day,Binyamin,2017-05-12,M
+Books,Julia,2017-05-12,F
+Your Money,Paul,2017-05-12,M
+Opinion,Charles,2017-05-12,M
+Business Day,Noam,2017-05-12,M
+Business Day,Bill,2017-05-12,M
+T Magazine,Alexa,2017-05-12,F
+T Magazine,Gabé,2017-05-12,U
+World,Salman,2017-05-12,M
+Opinion,Patrick,2017-05-12,M
+World,Jane,2017-05-12,F
+World,Rick,2017-05-12,M
+World,Nicholas,2017-05-12,M
+U.S.,Peter,2017-05-12,M
+Real Estate,Kim,2017-05-12,F
+Sports,Victor,2017-05-12,M
+N.Y. / Region,Nick,2017-05-12,M
+Opinion,David,2017-05-12,M
+Arts,Scott,2017-05-12,M
+U.S.,Mike,2017-05-12,M
+Books,Christopher,2017-05-12,M
+Job Market,Rob,2017-05-12,M
+U.S.,Liam,2017-05-12,M
+N.Y. / Region,John,2017-05-12,M
+Books,Kate,2017-05-12,F
+Business Day,Adam,2017-05-12,M
+The Upshot,Neil,2017-05-12,M
+Well,Karen,2017-05-12,F
+N.Y. / Region,Alexandra,2017-05-12,F
+Fashion & Style,Laura,2017-05-12,F
+Well,Toby,2017-05-12,M
+Travel,Sarah,2017-05-12,F
+Books,Ruta,2017-05-12,F
+Books,Lisa,2017-05-12,F
+Books,Jennifer,2017-05-12,F
+Books,J.,2017-05-12,U
+Travel,Shivani,2017-05-12,F
+Well,Elizabeth,2017-05-12,F
+Books,Andrea,2017-05-12,F
+World,Choe,2017-05-12,U
+Podcasts,Michael,2017-05-12,M
+U.S.,Deborah,2017-05-12,F
+Business Day,Sei,2017-05-12,M
+Briefing,Chris,2017-05-12,M
+The Learning Network,Michael,2017-05-12,M
+The Upshot,Amanda,2017-05-12,F
+World,International,2017-05-12,U
+U.S.,Rebecca,2017-05-12,F
+Real Estate,Ronnie,2017-05-12,M
+Your Money,Ron,2017-05-12,M
+World,Motoko,2017-05-12,U
+World,Eric,2017-05-12,M
+N.Y. / Region,Andy,2017-05-12,M
+Business Day,Keith,2017-05-12,M
+U.S.,Adam,2017-05-12,M
+Public Editor,Liz,2017-05-12,F
+Arts,Melena,2017-05-12,F
+Books,Jade,2017-05-12,F
+Books,Thomas,2017-05-12,M
+Magazine,Ferris,2017-05-12,M
+Real Estate,Ronnie,2017-05-12,M
+Magazine,John,2017-05-12,M
+Magazine,Kim,2017-05-12,F
+Books,Jerald,2017-05-12,M
+Travel,Steve,2017-05-12,M
+Magazine,Malia,2017-05-12,F
+World,Sarah,2017-05-12,F
+World,Gerry,2017-05-12,M
+N.Y. / Region,Ainara,2017-05-12,F
+Arts,Giovanni,2017-05-12,M
+The Learning Network,Caroline,2017-05-12,F
+Fashion & Style,Vanessa,2017-05-12,F
+Opinion,Joan,2017-05-12,F
+Business Day,Javier,2017-05-12,M
+Opinion,Paul,2017-05-12,M
+Opinion,Liana,2017-05-12,F
+Opinion,Stephen,2017-05-12,M
+Opinion,Henry,2017-05-12,M
+Opinion,Natalie,2017-05-12,F
+The Learning Network,Caroline,2017-05-12,F
+U.S.,Anna,2017-05-12,F
+The Learning Network,Katherine,2017-05-12,F
+Books,Felix,2017-05-12,M
+Arts,Kathryn,2017-05-12,F
+Technology,Mike,2017-05-12,M
+Briefing,Patrick,2017-05-12,M
+World,Paulina,2017-05-12,F
+Business Day,Neil,2017-05-12,M
+World,James,2017-05-12,M
+U.S.,John,2017-05-12,M
+Style,Ellis,2017-05-12,M
+Sports,Wallace,2017-05-12,M
+Business Day,Amisha,2017-05-12,F
+Business Day,Keith,2017-05-12,M
+N.Y. / Region,Jesse,2017-05-12,M
+Sports,Scott,2017-05-12,M
+Times Insider,Will,2017-05-12,M
+Crosswords & Games,Deb,2017-05-12,F
+Sports,Jeff,2017-05-12,M
+Opinion,Jesse,2017-05-12,M
+Business Day,James,2017-05-12,M
+Sports,Allan,2017-05-12,M
+Business Day,Ben,2017-05-12,M
+U.S.,Adam,2017-05-12,M
+Sports,Karen,2017-05-12,F
+U.S.,Mark,2017-05-12,M
+U.S.,David,2017-05-12,M
+Sports,Raphael,2017-05-12,M
+N.Y. / Region,Michael,2017-05-12,M
+Business Day,Ian,2017-05-12,M
+Arts,Laurel,2017-05-12,F
+N.Y. / Region,Noah,2017-05-12,M
+U.S.,Michael,2017-05-12,M
+Movies,Ben,2017-05-12,M
+Climate,Henry,2017-05-12,M
+Business Day,Richard,2017-05-12,M
+Technology,Katie,2017-05-12,F
+Arts,Sopan,2017-05-12,U
+Opinion,Timothy,2017-05-12,M
+U.S.,Charlie,2017-05-12,M
+Arts,Siobhan,2017-05-12,F
+N.Y. / Region,Jim,2017-05-12,M
+Business Day,Michael,2017-05-12,M
+N.Y. / Region,Cassie,2017-05-12,F
+N.Y. / Region,Patrick,2017-05-11,M
+N.Y. / Region,Kate,2017-05-11,F
+World,Milan,2017-05-11,M
+U.S.,Matt,2017-05-11,M
+U.S.,Stuart,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Admin,Greg,2017-05-11,M
+Business Day,Michael,2017-05-11,M
+Business Day,Bill,2017-05-11,M
+Theater,Ben,2017-05-11,M
+Business Day,Alexandra,2017-05-11,F
+Arts,Sopan,2017-05-11,U
+Science,Joanna,2017-05-11,F
+U.S.,Matthew,2017-05-11,M
+U.S.,Jacey,2017-05-11,F
+World,Chris,2017-05-11,M
+Briefing,Karen,2017-05-11,F
+Arts,Joe,2017-05-11,M
+Watching,Margaret,2017-05-11,F
+Arts,Elise,2017-05-11,F
+U.S.,Mitch,2017-05-11,M
+Arts,David,2017-05-11,M
+Movies,Charles,2017-05-11,M
+Movies,Glenn,2017-05-11,M
+N.Y. / Region,Alex,2017-05-11,M
+Theater,Erik,2017-05-11,M
+Theater,Erik,2017-05-11,M
+World,Maher,2017-05-11,M
+Sports,Andrew,2017-05-11,M
+Fashion & Style,Denny,2017-05-11,M
+N.Y. / Region,Ginia,2017-05-11,F
+U.S.,Charlie,2017-05-11,M
+Theater,Alexis,2017-05-11,F
+Fashion & Style,Denny,2017-05-11,M
+Books,John,2017-05-11,M
+Theater,Jesse,2017-05-11,M
+T Magazine,Lesley,2017-05-11,F
+Movies,J.,2017-05-11,U
+Movies,Manohla,2017-05-11,U
+Movies,Jeannette,2017-05-11,F
+Movies,Ben,2017-05-11,M
+Opinion,Jessica,2017-05-11,F
+Movies,Neil,2017-05-11,M
+World,Jonah,2017-05-11,M
+Movies,Andy,2017-05-11,M
+Arts,William,2017-05-11,M
+Movies,Jeannette,2017-05-11,F
+Movies,Ben,2017-05-11,M
+Movies,Ben,2017-05-11,M
+Books,Concepción,2017-05-11,U
+Arts,Deborah,2017-05-11,F
+Automobiles,Tom,2017-05-11,M
+Automobiles,Tom,2017-05-11,M
+U.S.,Adam,2017-05-11,M
+World,Susan,2017-05-11,F
+Arts,Neil,2017-05-11,M
+Arts,Jennifer,2017-05-11,F
+Arts,Nicole,2017-05-11,F
+Business Day,Jennifer,2017-05-11,F
+Briefing,Charles,2017-05-11,M
+Opinion,Andrew,2017-05-11,M
+T Magazine,Alexander,2017-05-11,M
+Books,Judith,2017-05-11,F
+Opinion,Herbert,2017-05-11,M
+Opinion,Elizabeth,2017-05-11,F
+Movies,Mekado,2017-05-11,U
+Movies,Mekado,2017-05-11,U
+Sports,Juliet,2017-05-11,F
+Books,Joumana,2017-05-11,U
+Books,Elizabeth,2017-05-11,F
+U.S.,Elsa,2017-05-11,F
+U.S.,Christine,2017-05-11,F
+Fashion & Style,Valeriya,2017-05-11,F
+Times Insider,Max,2017-05-11,M
+Sports,James,2017-05-11,M
+The Learning Network,Kate,2017-05-11,F
+Sports,Rory,2017-05-11,M
+Arts,Roberta,2017-05-11,F
+Theater,Alexis,2017-05-11,F
+Science,Carl,2017-05-11,M
+World,Photographs,2017-05-11,U
+Sports,Victor,2017-05-11,M
+Watching,Noel,2017-05-11,M
+Arts,Karen,2017-05-11,F
+Business Day,Daniel,2017-05-11,M
+N.Y. / Region,James,2017-05-11,M
+U.S.,Peter,2017-05-11,M
+U.S.,Jack,2017-05-11,M
+Books,Maile,2017-05-11,F
+Automobiles,Neal,2017-05-11,M
+Business Day,Michael,2017-05-11,M
+Style,Philip,2017-05-11,M
+Food,Ligaya,2017-05-11,F
+Fashion & Style,John,2017-05-11,M
+Business Day,Brooks,2017-05-11,M
+Books,Ibi,2017-05-11,U
+World,Dan,2017-05-11,M
+Times Insider,David,2017-05-11,M
+Well,Roni,2017-05-11,F
+Technology,Pui-wing,2017-05-11,U
+The Upshot,Neil,2017-05-11,M
+U.S.,Lela,2017-05-11,F
+N.Y. / Region,Jonah,2017-05-11,M
+Technology,J.,2017-05-11,U
+Books,John,2017-05-11,M
+Movies,Manohla,2017-05-11,U
+U.S.,Julie,2017-05-11,F
+U.S.,Matthew,2017-05-11,M
+Movies,Brooks,2017-05-11,M
+Theater,Ben,2017-05-11,M
+Books,Natalie,2017-05-11,F
+World,Stephen,2017-05-11,M
+World,Joe,2017-05-11,M
+U.S.,Matt,2017-05-11,M
+Arts,Christopher,2017-05-11,M
+N.Y. / Region,Dave,2017-05-11,M
+World,Choe,2017-05-11,U
+U.S.,Christopher,2017-05-11,M
+U.S.,Mike,2017-05-11,M
+World,International,2017-05-11,U
+U.S.,Liam,2017-05-11,M
+Books,Mary,2017-05-11,F
+Business Day,Amie,2017-05-11,F
+Podcasts,Wesley,2017-05-11,M
+Well,Stacey,2017-05-11,F
+Books,Francine,2017-05-11,F
+N.Y. / Region,Alexandra,2017-05-11,F
+Opinion,Shmuel,2017-05-11,M
+Podcasts,Michael,2017-05-11,M
+World,Andrew,2017-05-11,M
+Smarter Living,Christopher,2017-05-11,M
+Briefing,Chris,2017-05-11,M
+Arts,Giovanni,2017-05-11,M
+World,Suhasini,2017-05-11,U
+U.S.,David,2017-05-11,M
+Arts,James,2017-05-11,M
+U.S.,Jonathan,2017-05-11,M
+U.S.,Jeremy,2017-05-11,M
+Arts,Jason,2017-05-11,M
+Science,Joanna,2017-05-11,F
+World,Mike,2017-05-11,M
+U.S.,A.,2017-05-11,U
+Travel,John,2017-05-11,M
+Magazine,Sam,2017-05-11,M
+Magazine,Susan,2017-05-11,F
+Well,Jessica,2017-05-11,F
+Real Estate,Joyce,2017-05-11,F
+Magazine,Ryan,2017-05-11,M
+Magazine,Lisa,2017-05-11,F
+The Learning Network,Caroline,2017-05-11,F
+World,Mike,2017-05-11,M
+World,Damien,2017-05-11,M
+Technology,Mark,2017-05-11,M
+Opinion,Thomas,2017-05-11,M
+Multimedia/Photos,Eric,2017-05-11,M
+Opinion,Carolyn,2017-05-11,F
+Business Day,Patricia,2017-05-11,F
+The Learning Network,Katherine,2017-05-11,F
+Sports,Raphael,2017-05-11,M
+Arts,Kathryn,2017-05-11,F
+Theater,Christopher,2017-05-11,M
+Briefing,Patrick,2017-05-11,M
+Business Day,Peter,2017-05-11,M
+Business Day,Karl,2017-05-11,M
+Arts,Jon,2017-05-11,M
+Travel,Daniela,2017-05-11,F
+Fashion & Style,Laura,2017-05-11,F
+Style,Bonnie,2017-05-11,F
+Business Day,Patricia,2017-05-11,F
+Arts,Scott,2017-05-11,M
+U.S.,Nicholas,2017-05-11,M
+Times Insider,Michael,2017-05-11,M
+Theater,Ben,2017-05-11,M
+Crosswords & Games,Deb,2017-05-11,F
+Opinion,Charles,2017-05-11,M
+Business Day,Brooks,2017-05-11,M
+U.S.,Mark,2017-05-11,M
+Business Day,Sam,2017-05-11,M
+World,Anne,2017-05-11,F
+Sports,Tyler,2017-05-11,M
+U.S.,Rebecca,2017-05-11,F
+Opinion,Linda,2017-05-11,F
+U.S.,Emmarie,2017-05-11,F
+U.S.,Julie,2017-05-11,F
+Arts,Maya,2017-05-11,F
+World,Alison,2017-05-11,F
+U.S.,Linda,2017-05-11,F
+World,Damien,2017-05-11,M
+Opinion,David,2017-05-11,M
+U.S.,Alan,2017-05-11,M
+N.Y. / Region,Nick,2017-05-11,M
+Business Day,Ron,2017-05-11,M
+N.Y. / Region,J.,2017-05-11,U
+N.Y. / Region,Benjamin,2017-05-11,M
+N.Y. / Region,Mark,2017-05-11,M
+Business Day,Jim,2017-05-14,M
+Sports,Richard,2017-05-14,M
+World,Sean,2017-05-14,M
+Sports,James,2017-05-14,M
+U.S.,Michael,2017-05-14,M
+Technology,Jonathan,2017-05-14,M
+U.S.,Clyde,2017-05-14,M
+Arts,Sopan,2017-05-14,U
+Sports,Salim,2017-05-14,M
+U.S.,Julie,2017-05-14,F
+Arts,Jason,2017-05-14,M
+World,Max,2017-05-14,M
+U.S.,Jennifer,2017-05-14,F
+U.S.,Retro,2017-05-14,U
+U.S.,Jonah,2017-05-14,M
+N.Y. / Region,Karen,2017-05-14,F
+Business Day,Mike,2017-05-14,M
+Crosswords & Games,Deb,2017-05-14,F
+Arts,Alastair,2017-05-14,M
+Arts,Neil,2017-05-14,M
+Arts,Jon,2017-05-14,M
+Arts,Anthony,2017-05-14,M
+Books,John,2017-05-14,M
+N.Y. / Region,David,2017-05-14,M
+Movies,Brooks,2017-05-14,M
+Theater,Andrew,2017-05-14,M
+Briefing,Charles,2017-05-14,M
+World,Zack,2017-05-14,M
+N.Y. / Region,Andy,2017-05-14,M
+World,Andrew,2017-05-14,M
+Business Day,John,2017-05-14,M
+Business Day,Sapna,2017-05-14,F
+Business Day,John,2017-05-14,M
+Business Day,John,2017-05-14,M
+Sports,Wallace,2017-05-14,M
+U.S.,Jonah,2017-05-14,M
+Business Day,Keith,2017-05-14,M
+Sports,Scott,2017-05-14,M
+N.Y. / Region,David,2017-05-14,M
+Health,Denise,2017-05-14,F
+U.S.,Carl,2017-05-14,M
+Health,Denise,2017-05-14,F
+Food,Sam,2017-05-14,M
+World,Alissa,2017-05-14,F
+World,Lindsay,2017-05-14,F
+World,Ivan,2017-05-14,M
+Smarter Living,Anna,2017-05-14,F
+World,David,2017-05-14,M
+World,Jane,2017-05-14,F
+N.Y. / Region,Emma,2017-05-14,F
+World,Stephen,2017-05-14,M
+Briefing,Maya,2017-05-14,F
+Business Day,Conor,2017-05-14,M
+Real Estate,C.,2017-05-14,U
+Style,Logan,2017-05-14,M
+World,Alison,2017-05-14,F
+Arts,Dave,2017-05-14,M
+Sports,David,2017-05-14,M
+Arts,Kathryn,2017-05-14,F
+Theater,Michael,2017-05-14,M
+Sports,James,2017-05-14,M
+Arts,Christopher,2017-05-14,M
+Sports,Karen,2017-05-14,F
+Opinion,Zeynep,2017-05-14,F
+U.S.,Gardiner,2017-05-14,M
+World,Choe,2017-05-13,U
+Arts,Michael,2017-05-13,M
+Health,Donald,2017-05-13,M
+World,Eli,2017-05-13,M
+Crosswords & Games,Deb,2017-05-13,F
+Opinion,Peter,2017-05-13,M
+Opinion,Lesley,2017-05-13,F
+U.S.,Katharine,2017-05-13,F
+World,Daniel,2017-05-13,M
+Sunday Review,Jeffrey,2017-05-13,M
+Opinion,Wajahat,2017-05-13,U
+Sports,Jeff,2017-05-13,M
+World,Dionne,2017-05-13,F
+Business Day,Matthew,2017-05-13,M
+Opinion,Lee,2017-05-13,M
+Opinion,Molly,2017-05-13,F
+Sports,Pat,2017-05-13,F
+Technology,Nicole,2017-05-13,F
+Opinion,Sofija,2017-05-13,F
+Opinion,Michael,2017-05-13,M
+Opinion,Steven,2017-05-13,M
+Opinion,Ross,2017-05-13,M
+Opinion,Carol,2017-05-13,F
+Opinion,Frank,2017-05-13,M
+Opinion,Benjamin,2017-05-13,M
+Opinion,Maureen,2017-05-13,F
+Sports,Karen,2017-05-13,F
+Opinion,Nicholas,2017-05-13,M
+Sports,Tyler,2017-05-13,M
+World,Raphael,2017-05-13,M
+Sports,Wallace,2017-05-13,M
+Opinion,Jake,2017-05-13,M
+U.S.,Peter,2017-05-13,M
+Sports,Benjamin,2017-05-13,M
+World,Dan,2017-05-13,M
+Times Insider,Remy,2017-05-13,GN
+Business Day,Jane,2017-05-13,F
+Crosswords & Games,Deb,2017-05-13,F
+U.S.,Glenn,2017-05-13,M
+U.S.,Matt,2017-05-13,M
+Arts,Jason,2017-05-13,M
+Real Estate,Ronda,2017-05-13,F
+Fashion & Style,Vincent,2017-05-13,M
+Technology,Farhad,2017-05-13,M
+The Upshot,Claire,2017-05-13,F
+World,Raphael,2017-05-13,M
+Business Day,Conor,2017-05-13,M
+Fashion & Style,Philip,2017-05-13,M
+Style,Hayley,2017-05-13,F
+Style,Amy,2017-05-13,F
+Technology,Natasha,2017-05-13,F
+Arts,Shane,2017-05-13,M
+Times Insider,Lela,2017-05-13,F
+U.S.,Kirk,2017-05-13,M
+World,Mark,2017-05-13,M
+U.S.,Richard,2017-05-13,M
+Arts,Kathryn,2017-05-13,F
+N.Y. / Region,Legal,2017-05-13,U
+U.S.,Neeti,2017-05-13,F
+Sports,James,2017-05-13,M
+World,Alissa,2017-05-13,F
+World,Andrew,2017-05-13,M
+Sports,Seth,2017-05-13,M
+Smarter Living,Tim,2017-05-13,M
+Crosswords & Games,Deb,2017-05-13,F
+U.S.,Matt,2017-05-13,M
+U.S.,Glenn,2017-05-13,M
+Business Day,Sydney,2017-05-13,F
+Opinion,Gail,2017-05-13,F
+Business Day,Patricia,2017-05-13,F
+Business Day,Michael,2017-05-13,M
+Opinion,Bret,2017-05-13,M
+U.S.,Matthew,2017-05-13,M
+Sports,Jeff,2017-05-13,M
+Opinion,Erick-woods,2017-05-13,U
+Business Day,Zach,2017-05-13,M
+Sports,Adam,2017-05-13,M
+World,Craig,2017-05-13,M
+Sports,James,2017-05-13,M
+Business Day,Vinod,2017-05-13,M
+Opinion,Erik,2017-05-13,M
+Opinion,Michael,2017-05-13,M
+Opinion,Thomas,2017-05-16,M
+World,Somini,2017-05-16,U
+U.S.,A.,2017-05-16,U
+Times Insider,Robin,2017-05-16,F
+U.S.,Charlie,2017-05-16,M
+World,Neil,2017-05-16,M
+Theater,Christopher,2017-05-16,M
+N.Y. / Region,Patrick,2017-05-16,M
+Briefing,Karen,2017-05-16,F
+Opinion,Sara,2017-05-16,F
+Climate,Hiroko,2017-05-16,F
+Health,Tamar,2017-05-16,F
+Arts,Giovanni,2017-05-16,M
+Books,Dwight,2017-05-16,M
+U.S.,Nicholas,2017-05-16,M
+U.S.,Michael,2017-05-16,M
+Food,Florence,2017-05-16,F
+U.S.,Jacey,2017-05-16,F
+Business Day,Mary,2017-05-16,F
+Arts,Siobhan,2017-05-16,F
+Arts,Tituss,2017-05-16,U
+Times Insider,Andrea,2017-05-16,F
+Opinion,Susan,2017-05-16,F
+Books,Ben,2017-05-16,M
+U.S.,Jennifer,2017-05-16,F
+Opinion,Michelle,2017-05-16,F
+Briefing,Charles,2017-05-16,M
+Opinion,Gina,2017-05-16,F
+Arts,Gia,2017-05-16,F
+Opinion,Gina,2017-05-16,F
+World,Austin,2017-05-16,M
+Food,Florence,2017-05-16,F
+World,Choe,2017-05-16,U
+Food,Julia,2017-05-16,F
+World,Stephen,2017-05-16,M
+Arts,Neil,2017-05-16,M
+World,Craig,2017-05-16,M
+Real Estate,Rosalie,2017-05-16,F
+Business Day,Melissa,2017-05-16,F
+U.S.,Glenn,2017-05-16,M
+Business Day,Tom,2017-05-16,M
+World,Alan,2017-05-16,M
+Movies,Rachel,2017-05-16,F
+Business Day,Jonah,2017-05-16,M
+Arts,Eve,2017-05-16,F
+Sports,Christopher,2017-05-16,M
+Arts,Margaret,2017-05-16,F
+World,Adam,2017-05-16,M
+Sports,Chris,2017-05-16,M
+Food,Pete,2017-05-16,M
+Fashion & Style,Elizabeth,2017-05-16,F
+Movies,Brooks,2017-05-16,M
+Arts,Neil,2017-05-16,M
+Opinion,Frank,2017-05-16,M
+Food,Stephanie,2017-05-16,F
+T Magazine,Annalena,2017-05-16,F
+Fashion & Style,Jeremy,2017-05-16,M
+T Magazine,Kat,2017-05-16,F
+Technology,Jim,2017-05-16,M
+U.S.,Christopher,2017-05-16,M
+Technology,J.,2017-05-16,U
+N.Y. / Region,Emma,2017-05-16,F
+World,Julie,2017-05-16,F
+Well,Nicholas,2017-05-16,M
+Arts,Dave,2017-05-16,M
+World,Hari,2017-05-16,M
+N.Y. / Region,Rick,2017-05-16,M
+Watching,Noel,2017-05-16,M
+Travel,Shivani,2017-05-16,F
+Well,Nicholas,2017-05-16,M
+U.S.,Jennifer,2017-05-16,F
+Arts,Graham,2017-05-16,M
+T Magazine,Kat,2017-05-16,F
+Fashion & Style,Vanessa,2017-05-16,F
+Well,Karen,2017-05-16,F
+Business Day,Michael,2017-05-16,M
+Books,Nicole,2017-05-16,F
+N.Y. / Region,Vincent,2017-05-16,M
+World,Mike,2017-05-16,M
+World,Anne,2017-05-16,F
+Books,Anya,2017-05-16,F
+Business Day,John,2017-05-16,M
+World,Somini,2017-05-16,U
+Theater,Michael,2017-05-16,M
+World,Mike,2017-05-16,M
+U.S.,Mike,2017-05-16,M
+Sports,Peter,2017-05-16,M
+The Learning Network,Katherine,2017-05-16,F
+World,International,2017-05-16,U
+Technology,Mark,2017-05-16,M
+U.S.,Peter,2017-05-16,M
+Books,Gish,2017-05-16,U
+Business Day,Prashant,2017-05-16,M
+U.S.,Liam,2017-05-16,M
+N.Y. / Region,Jonathan,2017-05-16,M
+Podcasts,Michael,2017-05-16,M
+Briefing,Chris,2017-05-16,M
+Business Day,Sei,2017-05-16,M
+The Learning Network,Caroline,2017-05-16,F
+Arts,Giovanni,2017-05-16,M
+Travel,Elaine,2017-05-16,F
+Travel,James,2017-05-16,M
+U.S.,Richard,2017-05-16,M
+Travel,Robert,2017-05-16,M
+World,Thomas,2017-05-16,M
+Books,Heather,2017-05-16,F
+Magazine,Emily,2017-05-16,F
+World,Patrick,2017-05-16,M
+Magazine,Helen,2017-05-16,F
+Magazine,Carina,2017-05-16,F
+Magazine,Nitsuh,2017-05-16,U
+Magazine,Roxanne,2017-05-16,F
+Magazine,Gary,2017-05-16,M
+World,Henrietta,2017-05-16,F
+Business Day,Jeyup,2017-05-16,U
+Sports,James,2017-05-16,M
+The Learning Network,Caroline,2017-05-16,F
+Multimedia/Photos,Susan,2017-05-16,F
+Opinion,David,2017-05-16,M
+Opinion,Andrew,2017-05-16,M
+Opinion,David,2017-05-16,M
+U.S.,Anna,2017-05-16,F
+World,Jacqueline,2017-05-16,F
+The Learning Network,Katherine,2017-05-16,F
+Arts,Kathryn,2017-05-16,F
+Briefing,Patrick,2017-05-16,M
+World,Ben,2017-05-16,M
+Business Day,Alexandra,2017-05-16,F
+Fashion & Style,Tim,2017-05-16,M
+Arts,David,2017-05-16,M
+Sports,James,2017-05-16,M
+N.Y. / Region,J.,2017-05-16,U
+World,Natalie,2017-05-16,F
+U.S.,Charlie,2017-05-16,M
+Arts,Scott,2017-05-16,M
+Health,Abby,2017-05-16,F
+Theater,Ben,2017-05-16,M
+Crosswords & Games,Deb,2017-05-16,F
+Business Day,Brooks,2017-05-16,M
+World,Paulina,2017-05-16,F
+World,Mark,2017-05-16,M
+N.Y. / Region,Jesse,2017-05-16,M
+U.S.,Nicole,2017-05-16,F
+Sports,Scott,2017-05-16,M
+U.S.,Niraj,2017-05-16,M
+Opinion,David,2017-05-16,M
+U.S.,Alan,2017-05-16,M
+N.Y. / Region,Kate,2017-05-16,F
+World,William,2017-05-16,M
+Business Day,Andrew,2017-05-16,M
+Sports,Andrew,2017-05-16,M
+U.S.,Jess,2017-05-16,M
+Business Day,Linda,2017-05-16,F
+N.Y. / Region,Nicholas,2017-05-16,M
+Technology,Nick,2017-05-16,M
+N.Y. / Region,Sam,2017-05-16,M
+U.S.,Lucia,2017-05-16,F
+N.Y. / Region,Jennifer,2017-05-16,F
+Sports,Richard,2017-05-15,M
+U.S.,Neeti,2017-05-15,F
+World,Hari,2017-05-15,M
+Books,Michiko,2017-05-15,F
+U.S.,Gardiner,2017-05-15,M
+U.S.,Matthew,2017-05-15,M
+Fashion & Style,Valeriya,2017-05-15,F
+World,Nick,2017-05-15,M
+Briefing,Karen,2017-05-15,F
+Business Day,Mary,2017-05-15,F
+Theater,Joshua,2017-05-15,M
+Science,John,2017-05-15,M
+Arts,Siobhan,2017-05-15,F
+Theater,Alexis,2017-05-15,F
+Arts,Anthony,2017-05-15,M
+World,Melissa,2017-05-15,F
+T Magazine,Merrell,2017-05-15,M
+U.S.,Adam,2017-05-15,M
+N.Y. / Region,Marc,2017-05-15,M
+Business Day,John,2017-05-15,M
+N.Y. / Region,Rick,2017-05-15,M
+World,Hari,2017-05-15,M
+Technology,Brian,2017-05-15,M
+Health,Roni,2017-05-15,F
+Well,Nicholas,2017-05-15,M
+Opinion,Steven,2017-05-15,M
+Business Day,Robert,2017-05-15,M
+Briefing,Charles,2017-05-15,M
+Food,Florence,2017-05-15,F
+World,Helene,2017-05-15,F
+World,Stephen,2017-05-15,M
+Food,Eric,2017-05-15,M
+World,Mujib,2017-05-15,U
+World,Christopher,2017-05-15,M
+Arts,Sopan,2017-05-15,U
+Opinion,Bret,2017-05-15,M
+Sports,Christopher,2017-05-15,M
+U.S.,Richard,2017-05-15,M
+Arts,Ben,2017-05-15,M
+Business Day,Peter,2017-05-15,M
+Fashion & Style,Katherine,2017-05-15,F
+Technology,Nicole,2017-05-15,F
+Watching,Margaret,2017-05-15,F
+Watching,Margaret,2017-05-15,F
+Business Day,Vinod,2017-05-15,M
+U.S.,Christopher,2017-05-15,M
+Business Day,Martha,2017-05-15,F
+Business Day,Martha,2017-05-15,F
+U.S.,Robert,2017-05-15,M
+Business Day,Nathaniel,2017-05-15,M
+Food,Sara,2017-05-15,F
+Your Money,Carl,2017-05-15,M
+World,Gardiner,2017-05-15,M
+Arts,Joshua,2017-05-15,M
+Arts,Daniel,2017-05-15,M
+Watching,Judy,2017-05-15,F
+World,Hana,2017-05-15,F
+Sports,Ben,2017-05-15,M
+Health,Gina,2017-05-15,F
+U.S.,Adam,2017-05-15,M
+Technology,Jim,2017-05-15,M
+Food,Robert,2017-05-15,M
+Technology,J.,2017-05-15,U
+Food,Florence,2017-05-15,F
+Arts,Margalit,2017-05-15,F
+Well,Jolie,2017-05-15,F
+Sports,Victor,2017-05-15,M
+Business Day,Jonah,2017-05-15,M
+Food,Florence,2017-05-15,F
+Sports,Jack,2017-05-15,M
+Food,Florence,2017-05-15,F
+Health,Donald,2017-05-15,M
+Food,Florence,2017-05-15,F
+Movies,Cara,2017-05-15,F
+Travel,Patrick,2017-05-15,M
+Books,Jennifer,2017-05-15,F
+Arts,Michael,2017-05-15,M
+Food,Florence,2017-05-15,F
+Technology,Mike,2017-05-15,M
+Food,Sam,2017-05-15,M
+U.S.,Erica,2017-05-15,F
+Science,Benedict,2017-05-15,M
+Business Day,Chad,2017-05-15,M
+World,Aurora,2017-05-15,F
+World,Thomas,2017-05-15,M
+World,Sewell,2017-05-15,M
+Science,James,2017-05-15,M
+Science,Robin,2017-05-15,F
+Science,C.,2017-05-15,U
+U.S.,Adam,2017-05-15,M
+Arts,Jon,2017-05-15,M
+Opinion,David,2017-05-15,M
+Business Day,Paul,2017-05-15,M
+Business Day,Clifford,2017-05-15,M
+Fashion & Style,Vanessa,2017-05-15,F
+World,Alison,2017-05-15,F
+Fashion & Style,Matthew,2017-05-15,M
+World,Felipe,2017-05-15,M
+U.S.,Mike,2017-05-15,M
+Business Day,Stanley,2017-05-15,M
+Times Insider,Javier,2017-05-15,M
+Books,Lidia,2017-05-15,F
+N.Y. / Region,Jonathan,2017-05-15,M
+Well,Jane,2017-05-15,F
+Well,Perri,2017-05-15,F
+T Magazine,William,2017-05-15,M
+Podcasts,Michael,2017-05-15,M
+Business Day,Sei,2017-05-15,M
+Briefing,Chris,2017-05-15,M
+The Upshot,Aaron,2017-05-15,M
+N.Y. / Region,Jake,2017-05-15,M
+N.Y. / Region,Benjamin,2017-05-15,M
+Travel,Elaine,2017-05-15,F
+N.Y. / Region,Emma,2017-05-15,F
+U.S.,Alexander,2017-05-15,M
+U.S.,Adam,2017-05-15,M
+Multimedia/Photos,Randy,2017-05-15,M
+Opinion,Charles,2017-05-15,M
+Opinion,Paul,2017-05-15,M
+Opinion,Marc,2017-05-15,M
+Opinion,Hal,2017-05-15,M
+Opinion,Leah,2017-05-15,F
+Opinion,Gary,2017-05-15,M
+The Learning Network,Shannon,2017-05-15,F
+World,Steve,2017-05-15,M
+The Learning Network,Shannon,2017-05-15,F
+Sports,James,2017-05-15,M
+Sports,Ken,2017-05-15,M
+Arts,Kathryn,2017-05-15,F
+Sports,Wallace,2017-05-15,M
+Briefing,Patrick,2017-05-15,M
+World,Thomas,2017-05-15,M
+Sports,Wallace,2017-05-15,M
+N.Y. / Region,Jesse,2017-05-15,M
+N.Y. / Region,Niraj,2017-05-15,M
+World,Jason,2017-05-15,M
+Theater,Jesse,2017-05-15,M
+Arts,Noel,2017-05-15,M
+Sports,Karen,2017-05-15,F
+Sports,Tyler,2017-05-15,M
+Business Day,Michael,2017-05-15,M
+World,Choe,2017-05-15,U
+Technology,Mike,2017-05-15,M
+World,Katrin,2017-05-15,F
+N.Y. / Region,Ashley,2017-05-15,F
+The Upshot,Kevin,2017-05-15,M
+World,Neil,2017-05-15,M
+N.Y. / Region,Annie,2017-05-15,F
+N.Y. / Region,Jim,2017-05-18,M
+Movies,Sam,2017-05-18,M
+N.Y. / Region,Corey,2017-05-18,M
+U.S.,Michael,2017-05-18,M
+Opinion,Juan,2017-05-18,M
+Times Insider,Michael,2017-05-18,M
+U.S.,Alan,2017-05-18,M
+Sports,William,2017-05-18,M
+Arts,Laurel,2017-05-18,F
+N.Y. / Region,Marc,2017-05-18,M
+World,Nicholas,2017-05-18,M
+Movies,Ben,2017-05-18,M
+Arts,Gia,2017-05-18,F
+Books,Dwight,2017-05-18,M
+Arts,Elise,2017-05-18,F
+Books,Jennifer,2017-05-18,F
+U.S.,Niraj,2017-05-18,M
+Briefing,Inyoung,2017-05-18,U
+Business Day,Peter,2017-05-18,M
+Arts,David,2017-05-18,M
+World,Christopher,2017-05-18,M
+Theater,Laura,2017-05-18,F
+Theater,Alexis,2017-05-18,F
+Arts,Holland,2017-05-18,GN
+Arts,Brian,2017-05-18,M
+Arts,Mike,2017-05-18,M
+Business Day,Robin,2017-05-18,F
+N.Y. / Region,Keith,2017-05-18,M
+Theater,Sam,2017-05-18,M
+Movies,Manohla,2017-05-18,U
+Automobiles,Tom,2017-05-18,M
+Automobiles,Tom,2017-05-18,M
+Arts,Jon,2017-05-18,M
+N.Y. / Region,Ginia,2017-05-18,F
+N.Y. / Region,Helene,2017-05-18,F
+Movies,Ben,2017-05-18,M
+Arts,Roberta,2017-05-18,F
+Movies,Neil,2017-05-18,M
+Movies,A.,2017-05-18,U
+Movies,Jeannette,2017-05-18,F
+Movies,Glenn,2017-05-18,M
+U.S.,Amisha,2017-05-18,F
+Movies,Neil,2017-05-18,M
+Sports,Howard,2017-05-18,M
+Watching,Margaret,2017-05-18,F
+Arts,David,2017-05-18,M
+U.S.,Steve,2017-05-18,M
+Arts,Jon,2017-05-18,M
+U.S.,Katie,2017-05-18,F
+Arts,Siobhan,2017-05-18,F
+Arts,Will,2017-05-18,M
+U.S.,Emmarie,2017-05-18,F
+Science,Joanna,2017-05-18,F
+Movies,Roslyn,2017-05-18,F
+Movies,Neil,2017-05-18,M
+Opinion,Nicole,2017-05-18,F
+T Magazine,Hannah,2017-05-18,F
+Briefing,Charles,2017-05-18,M
+Theater,Steven,2017-05-18,M
+World,Ian,2017-05-18,M
+Opinion,Andrew,2017-05-18,M
+Opinion,Greg,2017-05-18,M
+Business Day,Ben,2017-05-18,M
+World,Eric,2017-05-18,M
+Food,Eric,2017-05-18,M
+Business Day,Jack,2017-05-18,M
+Books,Joumana,2017-05-18,U
+Automobiles,Neal,2017-05-18,M
+Arts,Joshua,2017-05-18,M
+Science,Nicholas,2017-05-18,M
+Arts,Colin,2017-05-18,M
+Business Day,Jim,2017-05-18,M
+Business Day,Jeffrey,2017-05-18,M
+Watching,Noel,2017-05-18,M
+Theater,Aileen,2017-05-18,F
+World,Simon,2017-05-18,M
+World,Chris,2017-05-18,M
+Arts,Nick,2017-05-18,M
+U.S.,Sam,2017-05-18,M
+World,Hari,2017-05-18,M
+World,Felipe,2017-05-18,M
+Business Day,Neal,2017-05-18,M
+T Magazine,Alice,2017-05-18,F
+T Magazine,Marcus,2017-05-18,M
+Arts,Hilarie,2017-05-18,F
+N.Y. / Region,Malachy,2017-05-18,M
+Fashion & Style,Philip,2017-05-18,M
+Theater,Elisabeth,2017-05-18,F
+Theater,Jason,2017-05-18,M
+Business Day,Rachel,2017-05-18,F
+U.S.,Julie,2017-05-18,F
+Food,Ligaya,2017-05-18,F
+Technology,J.,2017-05-18,U
+Arts,Noel,2017-05-18,M
+Technology,Jim,2017-05-18,M
+World,Steven,2017-05-18,M
+N.Y. / Region,Eli,2017-05-18,M
+U.S.,Maggie,2017-05-18,F
+Arts,Jori,2017-05-18,F
+U.S.,Jonathan,2017-05-18,M
+Times Insider,Graham,2017-05-18,M
+T Magazine,Julia,2017-05-18,F
+Business Day,Kelly,2017-05-18,F
+Business Day,Jonah,2017-05-18,M
+Times Insider,David,2017-05-18,M
+World,Dan,2017-05-18,M
+Fashion & Style,Eric,2017-05-18,M
+The Learning Network,Steven,2017-05-18,M
+World,International,2017-05-18,U
+Sports,Victor,2017-05-18,M
+Business Day,Clyde,2017-05-18,M
+World,Denise,2017-05-18,F
+Books,Russell,2017-05-18,M
+Fashion & Style,Vanessa,2017-05-18,F
+World,Ben,2017-05-18,M
+U.S.,Mike,2017-05-18,M
+Opinion,David,2017-05-18,M
+Well,Gretchen,2017-05-18,F
+U.S.,Mark,2017-05-18,M
+World,Amy,2017-05-18,F
+Business Day,Diane,2017-05-18,F
+World,Alison,2017-05-18,F
+Business Day,Paul,2017-05-18,M
+Opinion,Rogers,2017-05-18,M
+Magazine,Sadie,2017-05-18,F
+The Upshot,Robert,2017-05-18,M
+Magazine,Jeannie,2017-05-18,F
+U.S.,Liam,2017-05-18,M
+Well,Susan,2017-05-18,F
+Podcasts,Wesley,2017-05-18,M
+N.Y. / Region,Jonathan,2017-05-18,M
+Podcasts,Michael,2017-05-18,M
+Business Day,John,2017-05-18,M
+U.S.,Niraj,2017-05-18,M
+Briefing,Chris,2017-05-18,M
+Business Day,Sei,2017-05-18,M
+Arts,Giovanni,2017-05-18,M
+World,Jason,2017-05-18,M
+Magazine,Photographs,2017-05-18,U
+U.S.,Richard,2017-05-18,M
+U.S.,Shaila,2017-05-18,F
+Magazine,Moises,2017-05-18,M
+Magazine,Gabrielle,2017-05-18,F
+U.S.,Will,2017-05-18,M
+Travel,Ingrid,2017-05-18,F
+Real Estate,Joyce,2017-05-18,F
+Well,Nicholas,2017-05-18,M
+The Learning Network,Caroline,2017-05-18,F
+Arts,Caryn,2017-05-18,F
+Multimedia/Photos,Emily,2017-05-18,F
+Opinion,Thomas,2017-05-18,M
+Technology,Mark,2017-05-18,M
+Opinion,Ronen,2017-05-18,M
+Opinion,John,2017-05-18,M
+Opinion,Michael,2017-05-18,M
+U.S.,Anna,2017-05-18,F
+World,Thomas,2017-05-18,M
+The Learning Network,Katherine,2017-05-18,F
+Arts,Kathryn,2017-05-18,F
+U.S.,Matt,2017-05-18,M
+Briefing,Patrick,2017-05-18,M
+Sports,Pat,2017-05-18,F
+Sports,Rory,2017-05-18,M
+Fashion & Style,Vanessa,2017-05-18,F
+Arts,Scott,2017-05-18,M
+Arts,Sopan,2017-05-18,U
+Technology,Damon,2017-05-18,M
+Arts,Scott,2017-05-18,M
+U.S.,Jasmine,2017-05-18,F
+U.S.,Niraj,2017-05-18,M
+Fashion & Style,Jacob,2017-05-18,M
+World,Dom,2017-05-18,M
+U.S.,Lucia,2017-05-18,F
+World,Rick,2017-05-18,M
+Opinion,Bret,2017-05-18,M
+Crosswords & Games,Deb,2017-05-18,F
+Opinion,Nicholas,2017-05-18,M
+Business Day,Mary,2017-05-18,F
+U.S.,Charlie,2017-05-18,M
+U.S.,Peter,2017-05-18,M
+N.Y. / Region,William,2017-05-18,M
+U.S.,Michael,2017-05-18,M
+U.S.,Matthew,2017-05-18,M
+U.S.,Jennifer,2017-05-18,F
+U.S.,Michael,2017-05-18,M
+U.S.,Matt,2017-05-18,M
+Technology,David,2017-05-18,M
+N.Y. / Region,Marc,2017-05-18,M
+Sports,James,2017-05-18,M
+Sports,Wallace,2017-05-18,M
+Business Day,Richard,2017-05-18,M
+U.S.,Caitlin,2017-05-18,F
+Sports,Ben,2017-05-18,M
+Sports,Christopher,2017-05-18,M
+Arts,Angelica,2017-05-18,F
+World,James,2017-05-18,M
+Business Day,Jonathan,2017-05-18,M
+Movies,Ken,2017-05-18,M
+U.S.,Mitch,2017-05-18,M
+N.Y. / Region,David,2017-05-18,M
+Sports,Scott,2017-05-17,M
+Movies,Glenn,2017-05-17,M
+World,Damien,2017-05-17,M
+Books,Margalit,2017-05-17,F
+Sports,Harvey,2017-05-17,M
+N.Y. / Region,Ashley,2017-05-17,F
+World,Alissa,2017-05-17,F
+U.S.,Glenn,2017-05-17,M
+U.S.,Charlie,2017-05-17,M
+Business Day,Christopher,2017-05-17,M
+U.S.,Ron,2017-05-17,M
+Science,Steph,2017-05-17,F
+Movies,Neil,2017-05-17,M
+Arts,Jason,2017-05-17,M
+Briefing,Karen,2017-05-17,F
+Opinion,Gail,2017-05-17,F
+U.S.,Rebecca,2017-05-17,F
+Theater,Alexis,2017-05-17,F
+Arts,Robin,2017-05-17,F
+T Magazine,Nancy,2017-05-17,F
+Fashion & Style,Alison,2017-05-17,F
+Arts,Amanda,2017-05-17,F
+Business Day,Jacey,2017-05-17,F
+U.S.,Charlie,2017-05-17,M
+Books,Alexandra,2017-05-17,F
+Movies,Nicolas,2017-05-17,M
+Technology,Mark,2017-05-17,M
+Arts,Jon,2017-05-17,M
+U.S.,Christine,2017-05-17,F
+Theater,Ben,2017-05-17,M
+Opinion,Gregorio,2017-05-17,M
+Arts,Anthony,2017-05-17,M
+Fashion & Style,Steven,2017-05-17,M
+Business Day,Michael,2017-05-17,M
+Books,Jennifer,2017-05-17,F
+N.Y. / Region,Rick,2017-05-17,M
+Arts,Jon,2017-05-17,M
+Movies,Jeannette,2017-05-17,F
+Movies,A.,2017-05-17,U
+N.Y. / Region,Elizabeth,2017-05-17,F
+Fashion & Style,Matthew,2017-05-17,M
+Briefing,Charles,2017-05-17,M
+World,Austin,2017-05-17,M
+U.S.,Jonah,2017-05-17,M
+Theater,Laura,2017-05-17,F
+Your Money,Ann,2017-05-17,F
+Opinion,Yossi,2017-05-17,M
+Opinion,Anna,2017-05-17,F
+Business Day,Joanne,2017-05-17,F
+Arts,Graham,2017-05-17,M
+T Magazine,Alexa,2017-05-17,F
+Fashion & Style,Hayley,2017-05-17,F
+Well,Roni,2017-05-17,F
+Arts,George,2017-05-17,M
+U.S.,Rebecca,2017-05-17,F
+World,Gardiner,2017-05-17,M
+U.S.,Linda,2017-05-17,F
+World,Patricia,2017-05-17,F
+World,Ian,2017-05-17,M
+U.S.,Alan,2017-05-17,M
+U.S.,Maggie,2017-05-17,F
+Fashion & Style,Valeriya,2017-05-17,F
+World,Dan,2017-05-17,M
+Fashion & Style,Brooke,2017-05-17,F
+U.S.,Jeremy,2017-05-17,M
+Arts,Daniel,2017-05-17,M
+U.S.,Anna,2017-05-17,F
+U.S.,Carl,2017-05-17,M
+World,Ed,2017-05-17,M
+World,Rajneesh,2017-05-17,M
+Movies,Stephanie,2017-05-17,F
+Sports,Victor,2017-05-17,M
+Technology,Jim,2017-05-17,M
+Sports,Jon,2017-05-17,M
+U.S.,Charlie,2017-05-17,M
+Food,Sam,2017-05-17,M
+Theater,Michael,2017-05-17,M
+Business Day,Michael,2017-05-17,M
+Opinion,Elizabeth,2017-05-17,F
+The Upshot,Kevin,2017-05-17,M
+U.S.,Daniel,2017-05-17,M
+Business Day,Kate,2017-05-17,F
+Times Insider,David,2017-05-17,M
+U.S.,Christine,2017-05-17,F
+U.S.,Erica,2017-05-17,F
+Arts,Christopher,2017-05-17,M
+Real Estate,Lisa,2017-05-17,F
+World,Paul,2017-05-17,M
+Arts,Finn,2017-05-17,M
+Arts,James,2017-05-17,M
+Arts,Margaret,2017-05-17,F
+Real Estate,Tim,2017-05-17,M
+Travel,Christine,2017-05-17,F
+Arts,Jeremy,2017-05-17,M
+World,Andrew,2017-05-17,M
+U.S.,Voa,2017-05-17,U
+U.S.,Mike,2017-05-17,M
+The Learning Network,Caroline,2017-05-17,F
+Opinion,David,2017-05-17,M
+Business Day,Bill,2017-05-17,M
+World,Ariel,2017-05-17,F
+World,Jon,2017-05-17,M
+Opinion,Richard,2017-05-17,M
+U.S.,Nicholas,2017-05-17,M
+Well,David,2017-05-17,M
+World,Thomas,2017-05-17,M
+World,Motoko,2017-05-17,U
+World,Chris,2017-05-17,M
+Business Day,Jack,2017-05-17,M
+N.Y. / Region,Nancy,2017-05-17,F
+Business Day,Michael,2017-05-17,M
+Books,Simon,2017-05-17,M
+World,Niki,2017-05-17,F
+U.S.,Campbell,2017-05-17,GN
+Podcasts,Michael,2017-05-17,M
+N.Y. / Region,Jonathan,2017-05-17,M
+Well,Scott,2017-05-17,M
+Well,Gretchen,2017-05-17,F
+Well,Lesley,2017-05-17,F
+Business Day,Sei,2017-05-17,M
+Business Day,John,2017-05-17,M
+Smarter Living,Maya,2017-05-17,F
+Briefing,Chris,2017-05-17,M
+Arts,Giovanni,2017-05-17,M
+Business Day,Chad,2017-05-17,M
+Real Estate,C.,2017-05-17,U
+World,Max,2017-05-17,M
+Arts,Dave,2017-05-17,M
+Technology,Mike,2017-05-17,M
+U.S.,Monica,2017-05-17,F
+N.Y. / Region,Nikita,2017-05-17,F
+Technology,Farhad,2017-05-17,M
+Books,Jim,2017-05-17,M
+Magazine,Daniel,2017-05-17,M
+Magazine,Hanya,2017-05-17,F
+Magazine,Junot,2017-05-17,U
+Magazine,Karen,2017-05-17,F
+Magazine,Mohsin,2017-05-17,M
+Magazine,Joyce,2017-05-17,F
+Movies,A.,2017-05-17,U
+Magazine,Interview,2017-05-17,U
+Magazine,Lisa,2017-05-17,F
+Magazine,Kwame,2017-05-17,M
+Travel,Nell,2017-05-17,F
+Travel,Shivani,2017-05-17,F
+World,Nilo,2017-05-17,M
+U.S.,Brittany,2017-05-17,F
+World,Khalid,2017-05-17,M
+Opinion,Patrick,2017-05-17,M
+The Learning Network,Caroline,2017-05-17,F
+Multimedia/Photos,Jonathan,2017-05-17,M
+Sports,James,2017-05-17,M
+Opinion,Peter,2017-05-17,M
+Opinion,Luticha,2017-05-17,U
+The Learning Network,Caroline,2017-05-17,F
+The Learning Network,Katherine,2017-05-17,F
+Fashion & Style,Rachel,2017-05-17,F
+Sports,Scott,2017-05-17,M
+Arts,Kathryn,2017-05-17,F
+World,Text,2017-05-17,U
+Sports,Pat,2017-05-17,F
+World,Amisha,2017-05-17,F
+Briefing,Patrick,2017-05-17,M
+Fashion & Style,Jennifer,2017-05-17,F
+Arts,Mike,2017-05-17,M
+Opinion,Ross,2017-05-17,M
+Business Day,Michael,2017-05-17,M
+Theater,Jesse,2017-05-17,M
+Crosswords & Games,Deb,2017-05-17,F
+Theater,Ben,2017-05-17,M
+Arts,William,2017-05-17,M
+N.Y. / Region,William,2017-05-17,M
+U.S.,Mark,2017-05-17,M
+N.Y. / Region,Sam,2017-05-17,M
+N.Y. / Region,Jesse,2017-05-17,M
+U.S.,Dave,2017-05-17,M
+U.S.,Michael,2017-05-17,M
+Sports,Mike,2017-05-17,M
+Sports,James,2017-05-17,M
+U.S.,Scott,2017-05-17,M
+U.S.,Marie,2017-05-17,F
+N.Y. / Region,Eli,2017-05-17,M
+Business Day,Sydney,2017-05-17,F
+U.S.,Charlie,2017-05-17,M
+U.S.,Sam,2017-05-17,M
+U.S.,Liam,2017-05-17,M
+N.Y. / Region,Liz,2017-05-17,F
+N.Y. / Region,James,2017-05-17,M
+Business Day,John,2017-05-17,M
+N.Y. / Region,Amanda,2017-05-17,F
+World,Elisabeth,2017-05-20,F
+Sports,Joe,2017-05-20,M
+World,Norimitsu,2017-05-20,U
+U.S.,Maggie,2017-05-20,F
+Crosswords & Games,Deb,2017-05-20,F
+Sports,Dave,2017-05-20,M
+U.S.,Ron,2017-05-20,M
+Fashion & Style,Vincent,2017-05-20,M
+World,Simon,2017-05-20,M
+U.S.,Robert,2017-05-20,M
+Business Day,Michael,2017-05-20,M
+U.S.,Jonathan,2017-05-20,M
+World,Kimiko,2017-05-20,F
+World,Amy,2017-05-20,F
+U.S.,Sheryl,2017-05-20,F
+Sunday Review,Eric,2017-05-20,M
+Opinion,Raja,2017-05-20,M
+Opinion,Ross,2017-05-20,M
+Opinion,Samantha,2017-05-20,F
+Opinion,Alison,2017-05-20,F
+Sunday Review,Amy,2017-05-20,F
+Public Editor,Liz,2017-05-20,F
+Opinion,Scott,2017-05-20,M
+Opinion,Renee,2017-05-20,F
+Opinion,Chika,2017-05-20,F
+Opinion,Nicholas,2017-05-20,M
+Fashion & Style,Nina,2017-05-20,F
+Sports,Benjamin,2017-05-20,M
+Business Day,Hiroko,2017-05-20,F
+Sports,Harvey,2017-05-20,M
+Fashion & Style,Vincent,2017-05-20,M
+Sports,Tyler,2017-05-20,M
+World,Mark,2017-05-20,M
+U.S.,Lizette,2017-05-20,F
+Crosswords & Games,Deb,2017-05-20,F
+World,Ben,2017-05-20,M
+U.S.,Glenn,2017-05-20,M
+Sports,Seth,2017-05-20,M
+Real Estate,Ronda,2017-05-20,F
+World,International,2017-05-20,U
+Technology,Farhad,2017-05-20,M
+Style,Guy,2017-05-20,M
+Style,Penelope,2017-05-20,F
+Style,Jake,2017-05-20,M
+Technology,David,2017-05-20,M
+U.S.,Stephanie,2017-05-20,F
+Times Insider,Marie,2017-05-20,F
+World,Michael,2017-05-20,M
+World,Thomas,2017-05-20,M
+Sports,Wallace,2017-05-20,M
+Arts,Kathryn,2017-05-20,F
+U.S.,Edmund,2017-05-20,M
+Arts,Daniel,2017-05-20,M
+Arts,Guglielmo,2017-05-20,U
+Sports,Seth,2017-05-20,M
+Opinion,Mark,2017-05-20,M
+U.S.,Matt,2017-05-20,M
+Opinion,Bruce,2017-05-20,M
+Opinion,Michael,2017-05-20,M
+Crosswords & Games,Deb,2017-05-20,F
+Opinion,Gail,2017-05-20,F
+Business Day,James,2017-05-20,M
+U.S.,Anna,2017-05-20,F
+World,Eric,2017-05-20,M
+U.S.,Campbell,2017-05-20,GN
+Opinion,Bret,2017-05-20,M
+World,Simon,2017-05-20,M
+Sports,Billy,2017-05-20,M
+Business Day,Mary,2017-05-20,F
+Sports,Seth,2017-05-20,M
+Business Day,John,2017-05-20,M
+Business Day,Stacy,2017-05-20,F
+Theater,Richard,2017-05-20,M
+Opinion,Rachel,2017-05-19,F
+Sports,Scott,2017-05-19,M
+Business Day,Kate,2017-05-19,F
+Sports,Ben,2017-05-19,M
+World,Natalie,2017-05-19,F
+Podcasts,Michael,2017-05-19,M
+Sports,Adam,2017-05-19,M
+Science,Joanna,2017-05-19,F
+Opinion,David,2017-05-19,M
+Briefing,Karen,2017-05-19,F
+Arts,Jennifer,2017-05-19,F
+World,Mercy,2017-05-19,F
+Style,Vanessa,2017-05-19,F
+Business Day,Antony,2017-05-19,M
+N.Y. / Region,Sarah,2017-05-19,F
+Smarter Living,Tim,2017-05-19,M
+U.S.,Jacey,2017-05-19,F
+Times Insider,Andrea,2017-05-19,F
+The Upshot,Kevin,2017-05-19,M
+Arts,Siobhan,2017-05-19,F
+Arts,Gia,2017-05-19,F
+Arts,Mary,2017-05-19,F
+Science,Nicholas,2017-05-19,M
+Real Estate,Michelle,2017-05-19,F
+Sports,Joe,2017-05-19,M
+Watching,Monica,2017-05-19,F
+U.S.,Peter,2017-05-19,M
+Style,Una,2017-05-19,F
+Climate,Coral,2017-05-19,F
+Business Day,Liz,2017-05-19,F
+Arts,Jon,2017-05-19,M
+Arts,Jeremy,2017-05-19,M
+Business Day,Gretchen,2017-05-19,F
+Arts,Mike,2017-05-19,M
+Business Day,Noam,2017-05-19,M
+Real Estate,Tim,2017-05-19,M
+World,Hari,2017-05-19,M
+Fashion & Style,Ruth,2017-05-19,F
+Business Day,Michael,2017-05-19,M
+World,Ian,2017-05-19,M
+Movies,Rachel,2017-05-19,F
+Opinion,Daniel,2017-05-19,M
+Arts,Seth,2017-05-19,M
+Opinion,James,2017-05-19,M
+World,Elisabetta,2017-05-19,F
+Opinion,Heather,2017-05-19,F
+U.S.,Matt,2017-05-19,M
+Arts,Jason,2017-05-19,M
+Fashion & Style,Denny,2017-05-19,M
+Real Estate,Michelle,2017-05-19,F
+Fashion & Style,Denny,2017-05-19,M
+Real Estate,Ronda,2017-05-19,F
+U.S.,Jacey,2017-05-19,F
+World,Mujib,2017-05-19,U
+World,Kimiko,2017-05-19,F
+N.Y. / Region,J.,2017-05-19,U
+Business Day,Alexandra,2017-05-19,F
+Books,David,2017-05-19,M
+Health,Paula,2017-05-19,F
+Sports,Ben,2017-05-19,M
+Food,Melissa,2017-05-19,F
+Food,Alec,2017-05-19,M
+U.S.,Christopher,2017-05-19,M
+Arts,Michael,2017-05-19,M
+Your Money,Jeff,2017-05-19,M
+Watching,Monica,2017-05-19,F
+Arts,Joshua,2017-05-19,M
+Job Market,Perry,2017-05-19,M
+Books,John,2017-05-19,M
+Sports,Victor,2017-05-19,M
+Job Market,Matthew,2017-05-19,M
+Books,Gregory,2017-05-19,M
+U.S.,Yamiche,2017-05-19,U
+Style,Michael,2017-05-19,M
+Your Money,Paul,2017-05-19,M
+Your Money,Ann,2017-05-19,F
+Arts,Michael,2017-05-19,M
+U.S.,Emmarie,2017-05-19,F
+Arts,Louis,2017-05-19,M
+Times Insider,Jonathan,2017-05-19,M
+World,Peter,2017-05-19,M
+Real Estate,Michael,2017-05-19,M
+Opinion,Patrick,2017-05-19,M
+Technology,Jim,2017-05-19,M
+Food,David,2017-05-19,M
+World,Felipe,2017-05-19,M
+Business Day,Jack,2017-05-19,M
+World,Anne,2017-05-19,F
+Multimedia/Photos,James,2017-05-19,M
+Technology,J.,2017-05-19,U
+Books,A.,2017-05-19,U
+Books,Niela,2017-05-19,F
+Arts,Jon,2017-05-19,M
+Arts,Jack,2017-05-19,M
+Movies,Daniel,2017-05-19,M
+Arts,Alastair,2017-05-19,M
+Times Insider,Philip,2017-05-19,M
+Sports,Tyler,2017-05-19,M
+Food,Sam,2017-05-19,M
+Arts,Joe,2017-05-19,M
+Arts,Robin,2017-05-19,F
+Arts,Kathryn,2017-05-19,F
+Times Insider,Nilo,2017-05-19,M
+The Upshot,Kevin,2017-05-19,M
+Arts,Joshua,2017-05-19,M
+Sports,Victor,2017-05-19,M
+World,Motoko,2017-05-19,U
+Universal,Joe,2017-05-19,M
+Arts,Sopan,2017-05-19,U
+U.S.,Matt,2017-05-19,M
+Theater,Christopher,2017-05-19,M
+N.Y. / Region,Maggie,2017-05-19,F
+Books,Marilyn,2017-05-19,F
+Real Estate,Joanne,2017-05-19,F
+World,International,2017-05-19,U
+Opinion,David,2017-05-19,M
+U.S.,Mike,2017-05-19,M
+N.Y. / Region,Benjamin,2017-05-19,M
+N.Y. / Region,Nick,2017-05-19,M
+World,Sewell,2017-05-19,M
+World,Thomas,2017-05-19,M
+Sports,Joe,2017-05-19,M
+Opinion,Martin,2017-05-19,M
+World,Jane,2017-05-19,F
+The Learning Network,Katherine,2017-05-19,F
+N.Y. / Region,Benjamin,2017-05-19,M
+Business Day,James,2017-05-19,M
+N.Y. / Region,Julie,2017-05-19,F
+Books,Francine,2017-05-19,F
+Books,James,2017-05-19,M
+Books,Jane,2017-05-19,F
+Books,Lincoln,2017-05-19,M
+Business Day,Adam,2017-05-19,M
+N.Y. / Region,Jonathan,2017-05-19,M
+Fashion & Style,Tammy,2017-05-19,F
+Well,Toby,2017-05-19,M
+Well,Roni,2017-05-19,F
+Well,Jen,2017-05-19,F
+Travel,Shivani,2017-05-19,F
+Podcasts,Michael,2017-05-19,M
+Briefing,Chris,2017-05-19,M
+Business Day,Sei,2017-05-19,M
+The Learning Network,Michael,2017-05-19,M
+World,Steven,2017-05-19,M
+Arts,Giovanni,2017-05-19,M
+U.S.,Yamiche,2017-05-19,U
+Business Day,Paul,2017-05-19,M
+Real Estate,Kim,2017-05-19,F
+Sports,Matt,2017-05-19,M
+Well,Marie,2017-05-19,F
+N.Y. / Region,John,2017-05-19,M
+Business Day,Javier,2017-05-19,M
+U.S.,Kirk,2017-05-19,M
+U.S.,Matt,2017-05-19,M
+World,Craig,2017-05-19,M
+U.S.,Jennifer,2017-05-19,F
+Your Money,Ron,2017-05-19,M
+Books,Alexander,2017-05-19,M
+U.S.,Matt,2017-05-19,M
+Public Editor,Liz,2017-05-19,F
+Books,Timothy,2017-05-19,M
+Magazine,Marie,2017-05-19,F
+Magazine,Malia,2017-05-19,F
+Travel,Alexander,2017-05-19,M
+Magazine,John,2017-05-19,M
+Well,Liz,2017-05-19,F
+Business Day,Mike,2017-05-19,M
+Opinion,Frank,2017-05-19,M
+Theater,Matt,2017-05-19,M
+Opinion,Timothy,2017-05-19,M
+Opinion,Mimi,2017-05-19,F
+Opinion,David,2017-05-19,M
+Opinion,Paul,2017-05-19,M
+Opinion,Molly,2017-05-19,F
+Opinion,Michael,2017-05-19,M
+World,Motoko,2017-05-19,U
+The Learning Network,Caroline,2017-05-19,F
+The Learning Network,Caroline,2017-05-19,F
+Arts,Kathryn,2017-05-19,F
+World,Thomas,2017-05-19,M
+Briefing,Patrick,2017-05-19,M
+U.S.,Julia,2017-05-19,F
+Style,Emily,2017-05-19,F
+Sports,Pat,2017-05-19,F
+N.Y. / Region,Sharon,2017-05-19,F
+Crosswords & Games,Deb,2017-05-19,F
+Sports,Lisa,2017-05-19,F
+World,Peter,2017-05-19,M
+Business Day,Alexandra,2017-05-19,F
+Opinion,Steven,2017-05-19,M
+U.S.,Linda,2017-05-19,F
+Business Day,Emily,2017-05-19,F
+Opinion,David,2017-05-19,M
+U.S.,Julie,2017-05-19,F
+Sports,Wallace,2017-05-19,M
+U.S.,Alan,2017-05-19,M
+U.S.,Carl,2017-05-19,M
+U.S.,Glenn,2017-05-19,M
+U.S.,Maya,2017-05-19,F
+N.Y. / Region,Nikita,2017-05-19,F
+Arts,Robin,2017-05-19,F
+N.Y. / Region,Jesse,2017-05-19,M
+World,Nicholas,2017-05-19,M
+World,Mark,2017-05-19,M
+Business Day,Matthew,2017-05-19,M
+N.Y. / Region,Paul,2017-05-19,M
+N.Y. / Region,Charles,2017-05-22,M
+World,Michael,2017-05-22,M
+Movies,Rachel,2017-05-22,F
+N.Y. / Region,Lisa,2017-05-22,F
+Opinion,Kj,2017-05-22,M
+Sports,Ben,2017-05-22,M
+World,Rory,2017-05-22,M
+Business Day,Richard,2017-05-22,M
+Arts,Sopan,2017-05-22,U
+Briefing,Karen,2017-05-22,F
+N.Y. / Region,Winnie,2017-05-22,F
+Books,Sarah,2017-05-22,F
+Arts,Alastair,2017-05-22,M
+Arts,Holland,2017-05-22,GN
+Opinion,Laura,2017-05-22,F
+Arts,Katherine,2017-05-22,F
+Arts,Noel,2017-05-22,M
+Theater,Ben,2017-05-22,M
+Arts,Jon,2017-05-22,M
+Health,Donald,2017-05-22,M
+World,Kimiko,2017-05-22,F
+Business Day,Tammy,2017-05-22,F
+World,Austin,2017-05-22,M
+Fashion & Style,Elisabetta,2017-05-22,F
+Briefing,Charles,2017-05-22,M
+Business Day,Daniel,2017-05-22,M
+Opinion,Monica,2017-05-22,F
+World,Craig,2017-05-22,M
+Arts,Elisabetta,2017-05-22,F
+Times Insider,Trip,2017-05-22,M
+Science,Denise,2017-05-22,F
+Arts,Michael,2017-05-22,M
+U.S.,Lizette,2017-05-22,F
+U.S.,Mark,2017-05-22,M
+Food,Melissa,2017-05-22,F
+World,Jacey,2017-05-22,F
+Theater,Neil,2017-05-22,M
+World,Stephen,2017-05-22,M
+Business Day,Peter,2017-05-22,M
+Business Day,Adam,2017-05-22,M
+World,Patrick,2017-05-22,M
+Your Money,Carl,2017-05-22,M
+Sports,Victor,2017-05-22,M
+Food,Pete,2017-05-22,M
+Arts,Roslyn,2017-05-22,F
+Business Day,Rob,2017-05-22,M
+Sports,Billy,2017-05-22,M
+Science,William,2017-05-22,M
+Sports,Mike,2017-05-22,M
+Business Day,Michael,2017-05-22,M
+N.Y. / Region,J.,2017-05-22,U
+Science,C.,2017-05-22,U
+N.Y. / Region,Elizabeth,2017-05-22,F
+Business Day,Neal,2017-05-22,M
+U.S.,Jess,2017-05-22,M
+Fashion & Style,Bee,2017-05-22,M
+Food,Florence,2017-05-22,F
+U.S.,Robert,2017-05-22,M
+U.S.,Jonah,2017-05-22,M
+Arts,Ben,2017-05-22,M
+Technology,Pui-wing,2017-05-22,U
+Food,Florence,2017-05-22,F
+Food,Florence,2017-05-22,F
+Technology,J.,2017-05-22,U
+Food,Florence,2017-05-22,F
+U.S.,Ron,2017-05-22,M
+Watching,Judy,2017-05-22,F
+Arts,Jane,2017-05-22,F
+Food,Florence,2017-05-22,F
+Food,Florence,2017-05-22,F
+T Magazine,Hattie,2017-05-22,F
+World,Thomas,2017-05-22,M
+Business Day,Michael,2017-05-22,M
+U.S.,Adam,2017-05-22,M
+N.Y. / Region,Michael,2017-05-22,M
+Food,Sam,2017-05-22,M
+Science,Carl,2017-05-22,M
+Science,Kate,2017-05-22,F
+Sports,Victor,2017-05-22,M
+Health,Nicholas,2017-05-22,M
+Arts,Joshua,2017-05-22,M
+Sports,Julie,2017-05-22,F
+World,Photographs,2017-05-22,U
+U.S.,Richard,2017-05-22,M
+Opinion,David,2017-05-22,M
+U.S.,Julie,2017-05-22,F
+Business Day,Bill,2017-05-22,M
+U.S.,Mike,2017-05-22,M
+World,Choe,2017-05-22,U
+Fashion & Style,Vanessa,2017-05-22,F
+The Upshot,Jed,2017-05-22,M
+World,Peter,2017-05-22,M
+N.Y. / Region,Jaclyn,2017-05-22,F
+Well,Jane,2017-05-22,F
+Well,Perri,2017-05-22,F
+T Magazine,Hattie,2017-05-22,F
+Business Day,Amie,2017-05-22,F
+World,International,2017-05-22,U
+Podcasts,Michael,2017-05-22,M
+Smarter Living,Kristin,2017-05-22,F
+Briefing,Chris,2017-05-22,M
+The Upshot,Austin,2017-05-22,M
+World,Camilla,2017-05-22,F
+Business Day,Brooks,2017-05-22,M
+U.S.,Trip,2017-05-22,M
+Arts,Graham,2017-05-22,M
+U.S.,Eric,2017-05-22,M
+Books,Helen,2017-05-22,F
+Books,Gal,2017-05-22,GN
+Science,Chang,2017-05-22,M
+Travel,Elaine,2017-05-22,F
+The Learning Network,Shannon,2017-05-22,F
+World,Jon,2017-05-22,M
+Business Day,Chad,2017-05-22,M
+Opinion,Jonathan,2017-05-22,M
+The Learning Network,Shannon,2017-05-22,F
+World,Ryn,2017-05-22,GN
+Multimedia/Photos,Jordan,2017-05-22,M
+Opinion,Paul,2017-05-22,M
+Opinion,Charles,2017-05-22,M
+Opinion,Nick,2017-05-22,M
+Opinion,Brent,2017-05-22,M
+Opinion,Robert,2017-05-22,M
+Sports,Ben,2017-05-22,M
+Arts,Kathryn,2017-05-22,F
+Briefing,Patrick,2017-05-22,M
+World,Niki,2017-05-22,F
+Well,Catherine,2017-05-22,F
+Business Day,Bill,2017-05-22,M
+Business Day,Michael,2017-05-22,M
+Arts,James,2017-05-22,M
+Opinion,Balli,2017-05-22,U
+Theater,Ben,2017-05-22,M
+Arts,Noel,2017-05-22,M
+U.S.,Julie,2017-05-22,F
+Technology,Vindu,2017-05-22,U
+N.Y. / Region,Noah,2017-05-22,M
+N.Y. / Region,Sarah,2017-05-22,F
+U.S.,Maggie,2017-05-22,F
+World,Ben,2017-05-22,M
+Business Day,Jim,2017-05-22,M
+World,Isabel,2017-05-22,F
+N.Y. / Region,Kate,2017-05-22,F
+Health,Katie,2017-05-22,F
+U.S.,Sam,2017-05-22,M
+World,Raphael,2017-05-22,M
+N.Y. / Region,Bruce,2017-05-22,M
+Sports,Rory,2017-05-21,M
+U.S.,Binyamin,2017-05-21,M
+Arts,Joe,2017-05-21,M
+U.S.,Anemona,2017-05-21,U
+U.S.,Dana,2017-05-21,F
+World,Didi,2017-05-21,F
+Sports,Seth,2017-05-21,M
+Sports,Billy,2017-05-21,M
+Crosswords & Games,Deb,2017-05-21,F
+N.Y. / Region,Nick,2017-05-21,M
+N.Y. / Region,Nick,2017-05-21,M
+Times Insider,Elizabeth,2017-05-21,F
+Books,John,2017-05-21,M
+Arts,Jon,2017-05-21,M
+Business Day,Diane,2017-05-21,F
+Theater,Michael,2017-05-21,M
+Movies,Andrew,2017-05-21,M
+U.S.,Liam,2017-05-21,M
+Technology,Cecilia,2017-05-21,F
+Briefing,Charles,2017-05-21,M
+World,Ellen,2017-05-21,F
+U.S.,Emmarie,2017-05-21,F
+Business Day,Sapna,2017-05-21,F
+Sports,Ben,2017-05-21,M
+Opinion,Mustafa,2017-05-21,M
+Sports,Ben,2017-05-21,M
+Movies,Brooks,2017-05-21,M
+World,Thomas,2017-05-21,M
+World,Rajneesh,2017-05-21,M
+N.Y. / Region,Sarah,2017-05-21,F
+World,Photographs,2017-05-21,U
+Arts,Dave,2017-05-21,M
+World,Patrick,2017-05-21,M
+N.Y. / Region,Nick,2017-05-21,M
+Food,Sam,2017-05-21,M
+N.Y. / Region,James,2017-05-21,M
+Sports,Joe,2017-05-21,M
+Sports,Scott,2017-05-21,M
+Smarter Living,Anna,2017-05-21,F
+Arts,Samantha,2017-05-21,F
+N.Y. / Region,Samantha,2017-05-21,F
+Briefing,Maya,2017-05-21,F
+U.S.,Susan,2017-05-21,F
+World,Peter,2017-05-21,M
+World,Mujib,2017-05-21,U
+World,Choe,2017-05-21,U
+Real Estate,C.,2017-05-21,U
+U.S.,Anna,2017-05-21,F
+Arts,Dave,2017-05-21,M
+Arts,Kathryn,2017-05-21,F
+Sports,Scott,2017-05-21,M
+Sports,Wallace,2017-05-21,M
+World,Peter,2017-05-21,M
+Sports,Billy,2017-05-21,M
+U.S.,Anemona,2017-05-24,U
+Business Day,Allen,2017-05-24,M
+U.S.,Stephanie,2017-05-24,F
+Style,Katherine,2017-05-24,F
+Opinion,Jeanne,2017-05-24,F
+N.Y. / Region,Emma,2017-05-24,F
+Arts,William,2017-05-24,M
+World,Simon,2017-05-24,M
+Books,Jennifer,2017-05-24,F
+Business Day,Niraj,2017-05-24,M
+Business Day,John,2017-05-24,M
+Movies,Andy,2017-05-24,M
+Briefing,Karen,2017-05-24,F
+World,Linda,2017-05-24,F
+Movies,Glenn,2017-05-24,M
+U.S.,Ron,2017-05-24,M
+Business Day,Steve,2017-05-24,M
+Opinion,David,2017-05-24,M
+U.S.,Matthew,2017-05-24,M
+Science,Joanna,2017-05-24,F
+Theater,Laura,2017-05-24,F
+Sports,Marc,2017-05-24,M
+U.S.,Haeyoun,2017-05-24,U
+Movies,Manohla,2017-05-24,U
+U.S.,Peter,2017-05-24,M
+Health,Benedict,2017-05-24,M
+Health,Gina,2017-05-24,F
+Fashion & Style,Alison,2017-05-24,F
+Arts,Graham,2017-05-24,M
+Opinion,Bari,2017-05-24,F
+Arts,Jon,2017-05-24,M
+U.S.,Robert,2017-05-24,M
+U.S.,Robin,2017-05-24,F
+Business Day,Keith,2017-05-24,M
+Fashion & Style,Jon,2017-05-24,M
+Briefing,Charles,2017-05-24,M
+N.Y. / Region,Joyce,2017-05-24,F
+N.Y. / Region,Eli,2017-05-24,M
+N.Y. / Region,J.,2017-05-24,U
+Fashion & Style,Guy,2017-05-24,M
+Opinion,Colin,2017-05-24,M
+Arts,Michael,2017-05-24,M
+World,Rick,2017-05-24,M
+Business Day,Ben,2017-05-24,M
+Fashion & Style,Hayley,2017-05-24,F
+Business Day,Neil,2017-05-24,M
+World,Ivan,2017-05-24,M
+Watching,Watching,2017-05-24,U
+Opinion,Tanya,2017-05-24,F
+U.S.,Jacey,2017-05-24,F
+World,Steven,2017-05-24,M
+Opinion,Steven,2017-05-24,M
+U.S.,Jonah,2017-05-24,M
+Arts,Joe,2017-05-24,M
+Well,Nicholas,2017-05-24,M
+Arts,Ben,2017-05-24,M
+N.Y. / Region,Jesse,2017-05-24,M
+Business Day,Binyamin,2017-05-24,M
+World,Chris,2017-05-24,M
+Science,Robin,2017-05-24,F
+Books,Concepción,2017-05-24,U
+U.S.,Christopher,2017-05-24,M
+Science,James,2017-05-24,M
+T Magazine,Hettie,2017-05-24,F
+Watching,Gilbert,2017-05-24,M
+World,C.,2017-05-24,U
+Movies,A.,2017-05-24,U
+U.S.,Charlie,2017-05-24,M
+U.S.,Emmarie,2017-05-24,F
+World,Ian,2017-05-24,M
+The Learning Network,Sara,2017-05-24,F
+U.S.,Haeyoun,2017-05-24,U
+Technology,Pui-wing,2017-05-24,U
+Business Day,Jim,2017-05-24,M
+Technology,J.,2017-05-24,U
+N.Y. / Region,Eli,2017-05-24,M
+Business Day,Alexandra,2017-05-24,F
+Well,Rachel,2017-05-24,F
+N.Y. / Region,James,2017-05-24,M
+Technology,Brian,2017-05-24,M
+Technology,J.,2017-05-24,U
+Movies,Will,2017-05-24,M
+U.S.,Christine,2017-05-24,F
+Arts,Angelica,2017-05-24,F
+T Magazine,Kelly,2017-05-24,F
+International Home,Rukmini,2017-05-24,F
+Arts,Joshua,2017-05-24,M
+Food,Sam,2017-05-24,M
+Opinion,Kathleen,2017-05-24,F
+Arts,Judy,2017-05-24,F
+Real Estate,Marcelle,2017-05-24,F
+Theater,Joshua,2017-05-24,M
+Business Day,Keith,2017-05-24,M
+Business Day,Vinod,2017-05-24,M
+World,Michael,2017-05-24,M
+Movies,Neil,2017-05-24,M
+Theater,Ben,2017-05-24,M
+Well,Roni,2017-05-24,F
+World,Amy,2017-05-24,F
+Arts,Neil,2017-05-24,M
+Arts,Zachary,2017-05-24,M
+Arts,Brian,2017-05-24,M
+Arts,Holland,2017-05-24,GN
+Arts,Giovanni,2017-05-24,M
+U.S.,Alan,2017-05-24,M
+Opinion,David,2017-05-24,M
+Science,Nicholas,2017-05-24,M
+World,Dan,2017-05-24,M
+Real Estate,Tim,2017-05-24,M
+Arts,James,2017-05-24,M
+Arts,Dave,2017-05-24,M
+Theater,Erik,2017-05-24,M
+U.S.,Mike,2017-05-24,M
+Movies,Christopher,2017-05-24,M
+The Upshot,Quoctrung,2017-05-24,U
+World,Dan,2017-05-24,M
+Business Day,Amie,2017-05-24,F
+N.Y. / Region,Jonathan,2017-05-24,M
+Travel,Marissa,2017-05-24,F
+Well,David,2017-05-24,M
+Well,Gretchen,2017-05-24,F
+Podcasts,Michael,2017-05-24,M
+World,Chris,2017-05-24,M
+Briefing,Chris,2017-05-24,M
+World,Felipe,2017-05-24,M
+World,Katrin,2017-05-24,F
+Climate,Tatiana,2017-05-24,F
+The Upshot,Margot,2017-05-24,F
+Arts,Giovanni,2017-05-24,M
+Real Estate,Julie,2017-05-24,F
+U.S.,Campbell,2017-05-24,GN
+Technology,Farhad,2017-05-24,M
+Magazine,Robert,2017-05-24,M
+Books,David,2017-05-24,M
+Books,Meghan,2017-05-24,F
+Science,Spencer,2017-05-24,M
+Climate,Nadja,2017-05-24,F
+Travel,Nina,2017-05-24,F
+Magazine,Kwame,2017-05-24,M
+Magazine,Interview,2017-05-24,U
+The Learning Network,Caroline,2017-05-24,F
+Times Insider,David,2017-05-24,M
+The Learning Network,Caroline,2017-05-24,F
+Multimedia/Photos,Evelyn,2017-05-24,F
+World,Choe,2017-05-24,U
+Business Day,Alexandra,2017-05-24,F
+The Upshot,Emily,2017-05-24,F
+Opinion,Ross,2017-05-24,M
+Opinion,Thomas,2017-05-24,M
+Opinion,Catherine,2017-05-24,F
+Arts,Robin,2017-05-24,F
+World,Mark,2017-05-24,M
+Travel,Anja,2017-05-24,F
+The Learning Network,Katherine,2017-05-24,F
+Business Day,Michael,2017-05-24,M
+Sports,Rory,2017-05-24,M
+Arts,Kathryn,2017-05-24,F
+Sports,Lisa,2017-05-24,F
+The Upshot,Nick,2017-05-24,M
+Your Money,Ron,2017-05-24,M
+Briefing,Patrick,2017-05-24,M
+World,Steven,2017-05-24,M
+Travel,Robert,2017-05-24,M
+Fashion & Style,Vanessa,2017-05-24,F
+U.S.,Gregor,2017-05-24,M
+Sports,Seth,2017-05-24,M
+Sports,Billy,2017-05-24,M
+N.Y. / Region,James,2017-05-24,M
+Arts,Mike,2017-05-24,M
+Business Day,Keith,2017-05-24,M
+World,Anjali,2017-05-24,F
+U.S.,David,2017-05-24,M
+Crosswords & Games,Deb,2017-05-24,F
+Theater,Jesse,2017-05-24,M
+Business Day,John,2017-05-24,M
+World,Neeti,2017-05-24,F
+U.S.,Thomas,2017-05-24,M
+Business Day,Noam,2017-05-24,M
+World,Gardiner,2017-05-24,M
+U.S.,Binyamin,2017-05-24,M
+N.Y. / Region,Benjamin,2017-05-24,M
+Arts,Jon,2017-05-24,M
+Arts,Ben,2017-05-24,M
+N.Y. / Region,William,2017-05-24,M
+U.S.,Charlie,2017-05-24,M
+N.Y. / Region,Jim,2017-05-24,M
+N.Y. / Region,Valerie,2017-05-24,F
+Opinion,Maya,2017-05-23,F
+N.Y. / Region,Jesse,2017-05-23,M
+Arts,Graham,2017-05-23,M
+Business Day,Rachel,2017-05-23,F
+Opinion,Frank,2017-05-23,M
+Times Insider,Terence,2017-05-23,M
+Business Day,Chad,2017-05-23,M
+N.Y. / Region,Jacey,2017-05-23,F
+U.S.,Charlie,2017-05-23,M
+U.S.,Carl,2017-05-23,M
+Arts,Gia,2017-05-23,F
+Times Insider,Insider,2017-05-23,U
+Business Day,Patricia,2017-05-23,F
+Well,Nicholas,2017-05-23,M
+U.S.,Katharine,2017-05-23,F
+Business Day,Tara,2017-05-23,F
+Business Day,Sui-lee,2017-05-23,U
+Briefing,Karen,2017-05-23,F
+Business Day,Matthew,2017-05-23,M
+U.S.,Michael,2017-05-23,M
+Real Estate,Rosalie,2017-05-23,F
+Arts,Anthony,2017-05-23,M
+Opinion,Natalie,2017-05-23,F
+Theater,Michael,2017-05-23,M
+N.Y. / Region,Corey,2017-05-23,M
+Arts,Alastair,2017-05-23,M
+U.S.,Alan,2017-05-23,M
+Movies,Brian,2017-05-23,M
+Arts,Zachary,2017-05-23,M
+Arts,Zachary,2017-05-23,M
+Arts,Neil,2017-05-23,M
+Opinion,Denise,2017-05-23,F
+Times Insider,Andrea,2017-05-23,F
+Business Day,Neal,2017-05-23,M
+T Magazine,Allison,2017-05-23,F
+Arts,Marina,2017-05-23,F
+Arts,Wendy,2017-05-23,F
+Fashion & Style,Rachel,2017-05-23,F
+Climate,Brad,2017-05-23,M
+World,Eric,2017-05-23,M
+Briefing,Charles,2017-05-23,M
+Business Day,Michael,2017-05-23,M
+N.Y. / Region,Emma,2017-05-23,F
+Style,Julie,2017-05-23,F
+Books,Dwight,2017-05-23,M
+Arts,William,2017-05-23,M
+Arts,Dave,2017-05-23,M
+U.S.,Jonah,2017-05-23,M
+Food,Florence,2017-05-23,F
+N.Y. / Region,Patrick,2017-05-23,M
+Opinion,Zoe,2017-05-23,F
+Movies,A.,2017-05-23,U
+World,Felipe,2017-05-23,M
+World,Kimiko,2017-05-23,F
+Food,Sam,2017-05-23,M
+Arts,James,2017-05-23,M
+Sports,Richard,2017-05-23,M
+World,Rick,2017-05-23,M
+Sports,Victor,2017-05-23,M
+U.S.,Matt,2017-05-23,M
+Sports,Raphael,2017-05-23,M
+U.S.,Fernanda,2017-05-23,F
+Sports,Tyler,2017-05-23,M
+Food,Pete,2017-05-23,M
+World,Mark,2017-05-23,M
+Style,Ben,2017-05-23,M
+Food,Rochelle,2017-05-23,F
+Well,Nicholas,2017-05-23,M
+Health,Donald,2017-05-23,M
+Technology,Pui-wing,2017-05-23,U
+Sports,Scott,2017-05-23,M
+World,Ben,2017-05-23,M
+Arts,Jon,2017-05-23,M
+Technology,J.,2017-05-23,U
+Arts,Joshua,2017-05-23,M
+Arts,John,2017-05-23,M
+Business Day,Joe,2017-05-23,M
+Opinion,Patrick,2017-05-23,M
+Business Day,Peter,2017-05-23,M
+Travel,Shivani,2017-05-23,F
+Opinion,Patrick,2017-05-23,M
+World,Andrew,2017-05-23,M
+Business Day,Melissa,2017-05-23,F
+Well,Penina,2017-05-23,F
+Movies,Anita,2017-05-23,F
+World,Mike,2017-05-23,M
+World,International,2017-05-23,U
+World,Dan,2017-05-23,M
+The Learning Network,Katherine,2017-05-23,F
+Opinion,Howard,2017-05-23,M
+U.S.,Mike,2017-05-23,M
+World,Joe,2017-05-23,M
+World,Motoko,2017-05-23,U
+World,Ceylan,2017-05-23,F
+The Learning Network,Katherine,2017-05-23,F
+N.Y. / Region,Ilise,2017-05-23,F
+World,Ian,2017-05-23,M
+N.Y. / Region,Nancy,2017-05-23,F
+Travel,Jason,2017-05-23,M
+Travel,Concepción,2017-05-23,U
+Podcasts,Michael,2017-05-23,M
+Business Day,Amie,2017-05-23,F
+Briefing,Chris,2017-05-23,M
+Arts,Giovanni,2017-05-23,M
+Business Day,Mark,2017-05-23,M
+U.S.,Coral,2017-05-23,F
+N.Y. / Region,Charles,2017-05-23,M
+Business Day,Neil,2017-05-23,M
+Books,Robert,2017-05-23,M
+Magazine,Marcela,2017-05-23,F
+Books,Richard,2017-05-23,M
+Magazine,Alec,2017-05-23,M
+Magazine,Sam,2017-05-23,M
+Books,Nicole,2017-05-23,F
+Magazine,Beverly,2017-05-23,F
+Magazine,Jay,2017-05-23,M
+The Learning Network,Caroline,2017-05-23,F
+World,Michael,2017-05-23,M
+World,Alexia,2017-05-23,F
+The Learning Network,Caroline,2017-05-23,F
+World,Katrin,2017-05-23,F
+Well,Karen,2017-05-23,F
+Multimedia/Photos,Marvin,2017-05-23,M
+Business Day,Paul,2017-05-23,M
+Opinion,David,2017-05-23,M
+Opinion,Dylan,2017-05-23,M
+Opinion,David,2017-05-23,M
+Opinion,Andrew,2017-05-23,M
+Opinion,Bruce,2017-05-23,M
+World,Karen,2017-05-23,F
+U.S.,Anna,2017-05-23,F
+Sports,Jeré,2017-05-23,U
+World,Choe,2017-05-23,U
+Technology,Nick,2017-05-23,M
+Arts,Kathryn,2017-05-23,F
+Sports,Scott,2017-05-23,M
+U.S.,Eric,2017-05-23,M
+Briefing,Patrick,2017-05-23,M
+World,Gaia,2017-05-23,F
+Fashion & Style,Ruth,2017-05-23,F
+Arts,David,2017-05-23,M
+Sports,Wallace,2017-05-23,M
+Technology,Nicole,2017-05-23,F
+Crosswords & Games,Deb,2017-05-23,F
+N.Y. / Region,Sam,2017-05-23,M
+World,Robin,2017-05-23,F
+U.S.,Yamiche,2017-05-23,U
+U.S.,Vivian,2017-05-23,F
+U.S.,Binyamin,2017-05-23,M
+Movies,Aljean,2017-05-23,F
+Theater,Michael,2017-05-23,M
+U.S.,Julie,2017-05-23,F
+World,Rick,2017-05-23,M
+Movies,Brooks,2017-05-23,M
+Opinion,Gail,2017-05-23,F
+N.Y. / Region,Charlie,2017-05-23,M
+N.Y. / Region,William,2017-05-26,M
+World,Austin,2017-05-26,M
+U.S.,Linda,2017-05-26,F
+U.S.,Barry,2017-05-26,M
+Sports,Chris,2017-05-26,M
+Opinion,David,2017-05-26,M
+Sports,David,2017-05-26,M
+N.Y. / Region,Michael,2017-05-26,M
+Business Day,Diane,2017-05-26,F
+N.Y. / Region,William,2017-05-26,M
+U.S.,Sheryl,2017-05-26,F
+Briefing,Charles,2017-05-26,M
+Food,Ligaya,2017-05-26,F
+Books,Michiko,2017-05-26,F
+Books,Jason,2017-05-26,M
+Business Day,Andrew,2017-05-26,M
+Opinion,Bruce,2017-05-26,M
+Opinion,Bruce,2017-05-26,M
+Opinion,Bruce,2017-05-26,M
+Fashion & Style,Vanessa,2017-05-26,F
+Arts,Motoko,2017-05-26,U
+Arts,Alastair,2017-05-26,M
+Business Day,Nelson,2017-05-26,M
+Your Money,Ann,2017-05-26,F
+U.S.,Christine,2017-05-26,F
+U.S.,Jonathan,2017-05-26,M
+Movies,Manohla,2017-05-26,U
+Science,Nicholas,2017-05-26,M
+Business Day,Stephanie,2017-05-26,F
+Business Day,Quentin,2017-05-26,M
+Sports,Dave,2017-05-26,M
+N.Y. / Region,Jesse,2017-05-26,M
+Smarter Living,Tim,2017-05-26,M
+U.S.,Sheryl,2017-05-26,F
+Food,Robert,2017-05-26,M
+N.Y. / Region,Kate,2017-05-26,F
+Opinion,Stephen,2017-05-26,M
+Arts,Ben,2017-05-26,M
+World,Catherine,2017-05-26,F
+Fashion & Style,Denny,2017-05-26,M
+Fashion & Style,Denny,2017-05-26,M
+World,Michael,2017-05-26,M
+Fashion & Style,Vanessa,2017-05-26,F
+Business Day,Eric,2017-05-26,M
+Business Day,Gretchen,2017-05-26,F
+Opinion,Maile,2017-05-26,F
+Food,Tejal,2017-05-26,F
+Arts,Anthony,2017-05-26,M
+Opinion,Neil,2017-05-26,M
+Arts,Jon,2017-05-26,M
+Opinion,Samuel,2017-05-26,M
+World,Amy,2017-05-26,F
+Theater,Alexis,2017-05-26,F
+Books,John,2017-05-26,M
+Real Estate,Joanne,2017-05-26,F
+World,Peter,2017-05-26,M
+Food,Melissa,2017-05-26,F
+Food,Alec,2017-05-26,M
+Climate,Justin,2017-05-26,M
+N.Y. / Region,Lisa,2017-05-26,F
+World,Craig,2017-05-26,M
+Arts,Sopan,2017-05-26,U
+Opinion,Frank,2017-05-26,M
+Arts,Matt,2017-05-26,M
+Real Estate,Michael,2017-05-26,M
+Technology,Pui-wing,2017-05-26,U
+Real Estate,Michelle,2017-05-26,F
+Arts,Joshua,2017-05-26,M
+Technology,J.,2017-05-26,U
+Arts,Louis,2017-05-26,M
+Real Estate,Reported,2017-05-26,U
+Books,Gregory,2017-05-26,M
+U.S.,Jess,2017-05-26,M
+Real Estate,Tim,2017-05-26,M
+Real Estate,Kaya,2017-05-26,F
+World,Liam,2017-05-26,M
+Arts,Noel,2017-05-26,M
+Arts,Jon,2017-05-26,M
+Arts,Colin,2017-05-26,M
+World,Taimoor,2017-05-26,M
+Business Day,Amie,2017-05-26,F
+Real Estate,Tim,2017-05-26,M
+Movies,J.,2017-05-26,U
+Food,Sam,2017-05-26,M
+Movies,Mekado,2017-05-26,U
+Style,Stuart,2017-05-26,M
+Business Day,Keith,2017-05-26,M
+World,Rod,2017-05-26,M
+Business Day,Jonathan,2017-05-26,M
+Opinion,Patrick,2017-05-26,M
+Your Money,Liz,2017-05-26,F
+U.S.,Matt,2017-05-26,M
+Watching,Monica,2017-05-26,F
+The Upshot,Neil,2017-05-26,M
+Opinion,Nicholas,2017-05-26,M
+Arts,Kathryn,2017-05-26,F
+World,Katrin,2017-05-26,F
+Science,Steph,2017-05-26,F
+Opinion,Raffaello,2017-05-26,U
+World,Mike,2017-05-26,M
+N.Y. / Region,Hilary,2017-05-26,F
+Climate,Brad,2017-05-26,M
+Sports,Ben,2017-05-26,M
+U.S.,Mike,2017-05-26,M
+World,Tacey,2017-05-26,F
+World,International,2017-05-26,U
+World,Richard,2017-05-26,M
+World,Felipe,2017-05-26,M
+Opinion,Diana,2017-05-26,F
+Arts,Jonah,2017-05-26,M
+Arts,Scott,2017-05-26,M
+The Learning Network,Katherine,2017-05-26,F
+Real Estate,Ronda,2017-05-26,F
+Sports,Victor,2017-05-26,M
+Sports,Christopher,2017-05-26,M
+Business Day,Adam,2017-05-26,M
+Arts,Scott,2017-05-26,M
+World,Declan,2017-05-26,M
+Business Day,Amie,2017-05-26,F
+N.Y. / Region,Alexandra,2017-05-26,F
+Opinion,Roger,2017-05-26,M
+Fashion & Style,Tammy,2017-05-26,F
+N.Y. / Region,N.,2017-05-26,U
+Arts,Anthony,2017-05-26,M
+Travel,Rebecca,2017-05-26,F
+Well,Sophie,2017-05-26,F
+Well,Elizabeth,2017-05-26,F
+Well,Toby,2017-05-26,M
+Podcasts,Michael,2017-05-26,M
+Briefing,Chris,2017-05-26,M
+Arts,Giovanni,2017-05-26,M
+U.S.,Dave,2017-05-26,M
+Sports,Bill,2017-05-26,M
+Business Day,Matthew,2017-05-26,M
+Real Estate,C.,2017-05-26,U
+N.Y. / Region,Nick,2017-05-26,M
+U.S.,Jennifer,2017-05-26,F
+Public Editor,Liz,2017-05-26,F
+Arts,Hilarie,2017-05-26,F
+U.S.,Julie,2017-05-26,F
+N.Y. / Region,Nick,2017-05-26,M
+Books,Thomas,2017-05-26,M
+Books,Jenny,2017-05-26,F
+Books,Philip,2017-05-26,M
+Books,Emma,2017-05-26,F
+Magazine,Dorie,2017-05-26,F
+Books,Chelsea,2017-05-26,F
+Books,Gaiutra,2017-05-26,U
+Books,Hermione,2017-05-26,F
+Real Estate,Kim,2017-05-26,F
+Magazine,Selected,2017-05-26,U
+The Learning Network,Caroline,2017-05-26,F
+Magazine,Malia,2017-05-26,F
+Magazine,John,2017-05-26,M
+Books,Suzanne,2017-05-26,F
+Business Day,Jon,2017-05-26,M
+The Learning Network,Caroline,2017-05-26,F
+World,Julfikar,2017-05-26,U
+Opinion,Ricardo,2017-05-26,M
+Opinion,Mohammad,2017-05-26,M
+Opinion,David,2017-05-26,M
+Opinion,Paul,2017-05-26,M
+Opinion,Anna,2017-05-26,F
+Opinion,Timothy,2017-05-26,M
+The Learning Network,Katherine,2017-05-26,F
+Arts,Kathryn,2017-05-26,F
+Briefing,Patrick,2017-05-26,M
+U.S.,Malachy,2017-05-26,M
+Travel,Neil,2017-05-26,M
+Style,Lauren,2017-05-26,F
+Sports,Seth,2017-05-26,M
+N.Y. / Region,Matthew,2017-05-26,M
+Sports,Adam,2017-05-26,M
+Business Day,Richard,2017-05-26,M
+Crosswords & Games,Deb,2017-05-26,F
+World,Scott,2017-05-26,M
+Sports,James,2017-05-26,M
+Sports,Christopher,2017-05-26,M
+Business Day,Sapna,2017-05-26,F
+U.S.,Michael,2017-05-26,M
+Sports,Wallace,2017-05-26,M
+Business Day,Neal,2017-05-26,M
+Theater,Jesse,2017-05-26,M
+Business Day,Kate,2017-05-26,F
+World,Kimiko,2017-05-26,F
+Business Day,Jessica,2017-05-26,F
+N.Y. / Region,Joseph,2017-05-26,M
+Science,Ian,2017-05-26,M
+U.S.,Charlie,2017-05-26,M
+N.Y. / Region,Allen,2017-05-26,M
+U.S.,Alan,2017-05-25,M
+U.S.,Erica,2017-05-25,F
+U.S.,Dave,2017-05-25,M
+Sports,Brian,2017-05-25,M
+Arts,Laurel,2017-05-25,F
+Opinion,Sarah,2017-05-25,F
+World,Geeta,2017-05-25,F
+World,Jason,2017-05-25,M
+Public Editor,Liz,2017-05-25,F
+N.Y. / Region,Matthew,2017-05-25,M
+Movies,Ben,2017-05-25,M
+Theater,Sam,2017-05-25,M
+Arts,Siobhan,2017-05-25,F
+Arts,Elise,2017-05-25,F
+U.S.,Frances,2017-05-25,F
+Arts,David,2017-05-25,M
+Briefing,Karen,2017-05-25,F
+U.S.,Jonathan,2017-05-25,M
+N.Y. / Region,Ginia,2017-05-25,F
+Business Day,David,2017-05-25,M
+Arts,Alex,2017-05-25,M
+Books,Alexandra,2017-05-25,F
+N.Y. / Region,John,2017-05-25,M
+Watching,Margaret,2017-05-25,F
+Theater,Alexis,2017-05-25,F
+Books,Janet,2017-05-25,F
+World,Majd,2017-05-25,M
+Opinion,Michelle,2017-05-25,F
+Arts,Roberta,2017-05-25,F
+Movies,Glenn,2017-05-25,M
+Arts,Jason,2017-05-25,M
+Movies,Ken,2017-05-25,M
+N.Y. / Region,Sam,2017-05-25,M
+Theater,Elisabeth,2017-05-25,F
+World,Alison,2017-05-25,F
+World,Sarah,2017-05-25,F
+Movies,Glenn,2017-05-25,M
+Movies,Nicole,2017-05-25,F
+World,Rory,2017-05-25,M
+Sports,Ben,2017-05-25,M
+Movies,Daniel,2017-05-25,M
+Books,John,2017-05-25,M
+Books,John,2017-05-25,M
+Books,Alexandra,2017-05-25,F
+Books,Alexandra,2017-05-25,F
+Movies,J.,2017-05-25,U
+Technology,Mike,2017-05-25,M
+Arts,Roberta,2017-05-25,F
+Climate,John,2017-05-25,M
+World,Russell,2017-05-25,M
+Business Day,Abby,2017-05-25,F
+Job Market,Elizabeth,2017-05-25,F
+Job Market,Rob,2017-05-25,M
+World,Stephen,2017-05-25,M
+Fashion & Style,Dana,2017-05-25,F
+World,Matt,2017-05-25,M
+Briefing,Charles,2017-05-25,M
+Times Insider,Stephen,2017-05-25,M
+Movies,A.,2017-05-25,U
+N.Y. / Region,Alan,2017-05-25,M
+Opinion,Tom,2017-05-25,M
+U.S.,Christine,2017-05-25,F
+N.Y. / Region,Ashley,2017-05-25,F
+The Upshot,Claire,2017-05-25,F
+World,Niki,2017-05-25,F
+Movies,Justin,2017-05-25,M
+Business Day,Jacey,2017-05-25,F
+U.S.,Christopher,2017-05-25,M
+Business Day,Jennifer,2017-05-25,F
+Sports,Geoff,2017-05-25,M
+Sports,Christopher,2017-05-25,M
+U.S.,Niraj,2017-05-25,M
+Business Day,William,2017-05-25,M
+Theater,Alexis,2017-05-25,F
+Opinion,David,2017-05-25,M
+U.S.,Adam,2017-05-25,M
+U.S.,Glenn,2017-05-25,M
+Movies,A.,2017-05-25,U
+Science,Kenneth,2017-05-25,M
+N.Y. / Region,Nick,2017-05-25,M
+Food,Eric,2017-05-25,M
+N.Y. / Region,Marc,2017-05-25,M
+U.S.,Monica,2017-05-25,F
+Technology,Pui-wing,2017-05-25,U
+Arts,Laura,2017-05-25,F
+Food,David,2017-05-25,M
+U.S.,Matthew,2017-05-25,M
+U.S.,Neeti,2017-05-25,F
+N.Y. / Region,Elizabeth,2017-05-25,F
+Fashion & Style,Philip,2017-05-25,M
+Sports,Stuart,2017-05-25,M
+World,Somini,2017-05-25,U
+Movies,Glenn,2017-05-25,M
+Watching,Judy,2017-05-25,F
+Books,Joumana,2017-05-25,U
+Times Insider,Rachel,2017-05-25,F
+Arts,Roslyn,2017-05-25,F
+Climate,Brad,2017-05-25,M
+Technology,J.,2017-05-25,U
+T Magazine,Angela,2017-05-25,F
+U.S.,Michael,2017-05-25,M
+Opinion,Bret,2017-05-25,M
+Business Day,James,2017-05-25,M
+World,Michael,2017-05-25,M
+World,Michael,2017-05-25,M
+N.Y. / Region,Dave,2017-05-25,M
+N.Y. / Region,Julie,2017-05-25,F
+Automobiles,John,2017-05-25,M
+Automobiles,Tom,2017-05-25,M
+Automobiles,Tom,2017-05-25,M
+U.S.,Maya,2017-05-25,F
+World,Camilla,2017-05-25,F
+U.S.,Mike,2017-05-25,M
+U.S.,Alexander,2017-05-25,M
+Arts,Margaret,2017-05-25,F
+Arts,Mike,2017-05-25,M
+Opinion,Charles,2017-05-25,M
+Smarter Living,Matt,2017-05-25,M
+Fashion & Style,Elizabeth,2017-05-25,F
+World,Felipe,2017-05-25,M
+Business Day,Paul,2017-05-25,M
+N.Y. / Region,Alexandra,2017-05-25,F
+Travel,Nora,2017-05-25,F
+Arts,Brian,2017-05-25,M
+Travel,Jessica,2017-05-25,F
+Well,Elisabeth,2017-05-25,F
+Podcasts,Wesley,2017-05-25,M
+Podcasts,Michael,2017-05-25,M
+Business Day,Amie,2017-05-25,F
+Briefing,Chris,2017-05-25,M
+World,Dan,2017-05-25,M
+World,Catherine,2017-05-25,F
+Sports,Billy,2017-05-25,M
+U.S.,Jonathan,2017-05-25,M
+U.S.,Julie,2017-05-25,F
+Public Editor,Liz,2017-05-25,F
+Books,Elaine,2017-05-25,F
+Books,Benjamin,2017-05-25,M
+Real Estate,Joyce,2017-05-25,F
+World,Leslye,2017-05-25,F
+Magazine,Tejal,2017-05-25,F
+Travel,Ratha,2017-05-25,M
+Magazine,Molly,2017-05-25,F
+Magazine,Andrew,2017-05-25,M
+The Learning Network,Caroline,2017-05-25,F
+Travel,Elaine,2017-05-25,F
+Arts,Giovanni,2017-05-25,M
+World,Sarah,2017-05-25,F
+The Learning Network,Caroline,2017-05-25,F
+Opinion,Thomas,2017-05-25,M
+Multimedia/Photos,Jonathan,2017-05-25,M
+Opinion,Nicholas,2017-05-25,M
+Opinion,Linda,2017-05-25,F
+Opinion,Abbe,2017-05-25,F
+Opinion,Bella,2017-05-25,F
+Opinion,Gail,2017-05-25,F
+Opinion,Caleb,2017-05-25,M
+U.S.,Yamiche,2017-05-25,U
+Arts,Gilbert,2017-05-25,M
+The Learning Network,Katherine,2017-05-25,F
+Sports,Christopher,2017-05-25,M
+Arts,Kathryn,2017-05-25,F
+World,Jeffrey,2017-05-25,M
+World,Camilla,2017-05-25,F
+Sports,Seth,2017-05-25,M
+Briefing,Patrick,2017-05-25,M
+Style,Caitlin,2017-05-25,F
+Business Day,Stanley,2017-05-25,M
+World,Jane,2017-05-25,F
+Arts,Scott,2017-05-25,M
+U.S.,Rebecca,2017-05-25,F
+Crosswords & Games,Deb,2017-05-25,F
+Theater,Jesse,2017-05-25,M
+U.S.,Jonathan,2017-05-25,M
+N.Y. / Region,Lisa,2017-05-25,F
+U.S.,Denise,2017-05-25,F
+U.S.,Michael,2017-05-25,M
+U.S.,Erica,2017-05-25,F
+Sports,Wallace,2017-05-25,M
+World,Damien,2017-05-25,M
+Sports,Tyler,2017-05-25,M
+Business Day,Michael,2017-05-25,M
+U.S.,Richard,2017-05-25,M
+The Upshot,Margot,2017-05-25,F
+N.Y. / Region,Robert,2017-05-25,M
+U.S.,Emily,2017-05-28,F
+World,Thomas,2017-05-28,M
+N.Y. / Region,Sarah,2017-05-28,F
+World,Mujib,2017-05-28,U
+World,Choe,2017-05-28,U
+Times Insider,Joseph,2017-05-28,M
+Business Day,Janet,2017-05-28,F
+Crosswords & Games,Deb,2017-05-28,F
+Sports,Mike,2017-05-28,M
+Technology,Mark,2017-05-28,M
+Movies,Manohla,2017-05-28,U
+Movies,Manohla,2017-05-28,U
+Sports,Andrew,2017-05-28,M
+Movies,Andrew,2017-05-28,M
+Arts,Brian,2017-05-28,M
+Arts,Neil,2017-05-28,M
+Books,John,2017-05-28,M
+Theater,Elisabeth,2017-05-28,F
+Sports,Jerry,2017-05-28,M
+N.Y. / Region,Rick,2017-05-28,M
+World,Mark,2017-05-28,M
+Movies,Brooks,2017-05-28,M
+World,Geeta,2017-05-28,F
+Technology,Sheera,2017-05-28,F
+U.S.,Daniel,2017-05-28,M
+World,Julfikar,2017-05-28,U
+U.S.,Daniel,2017-05-28,M
+U.S.,Dave,2017-05-28,M
+N.Y. / Region,Joseph,2017-05-28,M
+World,Dharisha,2017-05-28,U
+Business Day,Danny,2017-05-28,M
+Sports,Harvey,2017-05-28,M
+World,Alison,2017-05-28,F
+Food,Sam,2017-05-28,M
+World,Yonette,2017-05-28,U
+N.Y. / Region,Jeffery,2017-05-28,M
+U.S.,Matt,2017-05-28,M
+Sports,David,2017-05-28,M
+World,Doug,2017-05-28,M
+Smarter Living,Ron,2017-05-28,M
+World,Felipe,2017-05-28,M
+World,Andrew,2017-05-28,M
+World,International,2017-05-28,U
+N.Y. / Region,Johnny,2017-05-28,M
+Real Estate,C.,2017-05-28,U
+U.S.,Anna,2017-05-28,F
+Business Day,Nelson,2017-05-28,M
+U.S.,Julie,2017-05-28,F
+Arts,Kathryn,2017-05-28,F
+World,Ian,2017-05-28,M
+Arts,Jon,2017-05-28,M
+Arts,Nina,2017-05-28,F
+Sports,James,2017-05-28,M
+World,Amanda,2017-05-28,F
+Fashion & Style,Alix,2017-05-28,F
+Fashion & Style,Vincent,2017-05-27,M
+Fashion & Style,Vincent,2017-05-27,M
+Crosswords & Games,Deb,2017-05-27,F
+Business Day,Mike,2017-05-27,M
+Sports,Wallace,2017-05-27,M
+World,Damien,2017-05-27,M
+Opinion,Jake,2017-05-27,M
+World,Carlotta,2017-05-27,F
+Arts,Bill,2017-05-27,M
+Sports,Rory,2017-05-27,M
+World,Rukmini,2017-05-27,F
+Opinion,Michael,2017-05-27,M
+Opinion,Ben,2017-05-27,M
+Opinion,Will,2017-05-27,M
+U.S.,David,2017-05-27,M
+Sports,Richard,2017-05-27,M
+Opinion,Joan,2017-05-27,F
+World,Jacey,2017-05-27,F
+Opinion,Patrick,2017-05-27,M
+Opinion,Scaachi,2017-05-27,U
+Opinion,Maureen,2017-05-27,F
+Opinion,Ross,2017-05-27,M
+Opinion,Francis,2017-05-27,M
+Opinion,Delia,2017-05-27,F
+Times Insider,Dave,2017-05-27,M
+U.S.,Maggie,2017-05-27,F
+U.S.,Michael,2017-05-27,M
+U.S.,Richard,2017-05-27,M
+Sports,Tyler,2017-05-27,M
+World,Javier,2017-05-27,M
+World,Tim,2017-05-27,M
+World,Katrin,2017-05-27,F
+Crosswords & Games,Deb,2017-05-27,F
+Sports,Dave,2017-05-27,M
+Times Insider,Vanessa,2017-05-27,F
+World,Sameer,2017-05-27,M
+Real Estate,Ronda,2017-05-27,F
+Technology,Farhad,2017-05-27,M
+World,Michael,2017-05-27,M
+World,Ian,2017-05-27,M
+Style,Andre,2017-05-27,M
+Style,Valeriya,2017-05-27,F
+Fashion & Style,Valeriya,2017-05-27,F
+Arts,Lisette,2017-05-27,F
+Times Insider,Lela,2017-05-27,F
+Technology,Paul,2017-05-27,M
+World,Mujib,2017-05-27,U
+U.S.,Matthew,2017-05-27,M
+Arts,Kathryn,2017-05-27,F
+Sports,Kate,2017-05-27,F
+U.S.,Matt,2017-05-27,M
+Business Day,Matthew,2017-05-27,M
+Sports,Tyler,2017-05-27,M
+Sports,Wallace,2017-05-27,M
+Sports,James,2017-05-27,M
+U.S.,Daniel,2017-05-27,M
+Crosswords & Games,Deb,2017-05-27,F
+Opinion,Michael,2017-05-27,M
+U.S.,Maggie,2017-05-27,F
+Opinion,Bret,2017-05-27,M
+Sports,Christopher,2017-05-27,M
+Opinion,Gail,2017-05-27,F
+World,Mark,2017-05-27,M
+World,Simon,2017-05-27,M
+Books,Richard,2017-05-27,M
+Opinion,Marc,2017-05-27,M
+U.S.,Gardiner,2017-05-27,M
+Opinion,Jeff,2017-05-27,M
+N.Y. / Region,Eli,2017-05-27,M
+U.S.,Eric,2017-05-27,M
+Business Day,Landon,2017-05-30,M
+World,Michael,2017-05-30,M
+N.Y. / Region,Rick,2017-05-30,M
+Business Day,John,2017-05-30,M
+U.S.,Emmarie,2017-05-30,F
+Sports,Tal,2017-05-30,M
+Opinion,Joel,2017-05-30,M
+N.Y. / Region,Benjamin,2017-05-30,M
+Business Day,Diane,2017-05-30,F
+Times Insider,Dana,2017-05-30,F
+Style,John,2017-05-30,M
+Briefing,Karen,2017-05-30,F
+Business Day,Keith,2017-05-30,M
+T Magazine,Alexander,2017-05-30,M
+Arts,Jon,2017-05-30,M
+U.S.,Helene,2017-05-30,F
+Times Insider,Andrea,2017-05-30,F
+Business Day,Binyamin,2017-05-30,M
+Books,Dwight,2017-05-30,M
+N.Y. / Region,Patrick,2017-05-30,M
+World,Adam,2017-05-30,M
+World,Fahim,2017-05-30,M
+Technology,Nick,2017-05-30,M
+Theater,Anita,2017-05-30,F
+Arts,Siobhan,2017-05-30,F
+Arts,Zachary,2017-05-30,M
+Opinion,Cabell,2017-05-30,M
+Books,Alan,2017-05-30,M
+Sports,Rory,2017-05-30,M
+N.Y. / Region,Al,2017-05-30,M
+T Magazine,Rachel,2017-05-30,F
+Opinion,Cabell,2017-05-30,M
+T Magazine,Alex,2017-05-30,M
+Briefing,Charles,2017-05-30,M
+Opinion,Jonathan,2017-05-30,M
+Opinion,Nicholas,2017-05-30,M
+Arts,Elisabetta,2017-05-30,F
+Arts,Gia,2017-05-30,F
+World,Patrick,2017-05-30,M
+Theater,Dave,2017-05-30,M
+Food,Kim,2017-05-30,F
+Arts,Mike,2017-05-30,M
+Business Day,Adam,2017-05-30,M
+Times Insider,Insider,2017-05-30,U
+U.S.,Peter,2017-05-30,M
+Business Day,Tom,2017-05-30,M
+Food,Pete,2017-05-30,M
+Business Day,Vinod,2017-05-30,M
+U.S.,Nicholas,2017-05-30,M
+World,James,2017-05-30,M
+Technology,Mike,2017-05-30,M
+U.S.,Jonah,2017-05-30,M
+U.S.,Adam,2017-05-30,M
+World,Russell,2017-05-30,M
+Arts,Andrew,2017-05-30,M
+Food,Florence,2017-05-30,F
+World,Dan,2017-05-30,M
+U.S.,Matt,2017-05-30,M
+Real Estate,C.,2017-05-30,U
+Food,Stephanie,2017-05-30,F
+Theater,Joshua,2017-05-30,M
+Arts,Caryn,2017-05-30,F
+Arts,Caryn,2017-05-30,F
+Sports,Victor,2017-05-30,M
+Sports,Ben,2017-05-30,M
+Science,James,2017-05-30,M
+U.S.,Jacey,2017-05-30,F
+Books,Peter,2017-05-30,M
+World,Nida,2017-05-30,F
+Books,Liesl,2017-05-30,F
+Technology,Jim,2017-05-30,M
+Arts,Robin,2017-05-30,F
+World,Jon,2017-05-30,M
+Food,Florence,2017-05-30,F
+Technology,J.,2017-05-30,U
+World,Ben,2017-05-30,M
+Food,Florence,2017-05-30,F
+Books,Blake,2017-05-30,M
+Opinion,Patrick,2017-05-30,M
+Food,Florence,2017-05-30,F
+Food,Florence,2017-05-30,F
+Books,Nicole,2017-05-30,F
+Food,Florence,2017-05-30,F
+Food,Florence,2017-05-30,F
+U.S.,Monica,2017-05-30,F
+Theater,Joshua,2017-05-30,M
+The Upshot,Emily,2017-05-30,F
+World,Richard,2017-05-30,M
+U.S.,Peter,2017-05-30,M
+U.S.,Mike,2017-05-30,M
+Opinion,David,2017-05-30,M
+N.Y. / Region,Eli,2017-05-30,M
+World,Didi,2017-05-30,F
+U.S.,Jonathan,2017-05-30,M
+World,Felipe,2017-05-30,M
+N.Y. / Region,Alexandra,2017-05-30,F
+Business Day,Daniel,2017-05-30,M
+U.S.,Elizabeth,2017-05-30,F
+Travel,Shivani,2017-05-30,F
+Well,Beth,2017-05-30,F
+World,Choe,2017-05-30,U
+Smarter Living,Ac,2017-05-30,M
+Podcasts,Michael,2017-05-30,M
+Business Day,Amie,2017-05-30,F
+Briefing,Chris,2017-05-30,M
+N.Y. / Region,Benjamin,2017-05-30,M
+Travel,Karen,2017-05-30,F
+U.S.,Dana,2017-05-30,F
+U.S.,Carl,2017-05-30,M
+N.Y. / Region,Nick,2017-05-30,M
+Travel,Brooks,2017-05-30,M
+Watching,Judy,2017-05-30,F
+Fashion & Style,Elizabeth,2017-05-30,F
+Multimedia/Photos,David,2017-05-30,M
+World,Sarah,2017-05-30,F
+Opinion,David,2017-05-30,M
+Opinion,David,2017-05-30,M
+Opinion,Ruchir,2017-05-30,M
+Opinion,Chester,2017-05-30,M
+Opinion,Melissa,2017-05-30,F
+Opinion,Lily,2017-05-30,F
+Business Day,Michael,2017-05-30,M
+The Learning Network,Katherine,2017-05-30,F
+The Learning Network,Shannon,2017-05-30,F
+The Learning Network,Katherine,2017-05-30,F
+Sports,Ben,2017-05-30,M
+Business Day,Jacqueline,2017-05-30,F
+World,Randal,2017-05-30,M
+Arts,Joshua,2017-05-30,M
+Arts,Robin,2017-05-30,F
+Sports,Ben,2017-05-30,M
+Briefing,Patrick,2017-05-30,M
+Arts,Andrew,2017-05-30,M
+Fashion & Style,Bee,2017-05-30,M
+Crosswords & Games,Deb,2017-05-30,F
+World,Stephen,2017-05-30,M
+Sports,Ben,2017-05-30,M
+U.S.,Matthew,2017-05-30,M
+U.S.,Matthew,2017-05-30,M
+World,Jason,2017-05-30,M
+Sports,Daniel,2017-05-30,M
+World,Declan,2017-05-30,M
+Health,Katie,2017-05-30,F
+N.Y. / Region,Clive,2017-05-30,M
+U.S.,Jess,2017-05-29,M
+Books,Sam,2017-05-29,M
+N.Y. / Region,Liz,2017-05-29,F
+Business Day,Michael,2017-05-29,M
+N.Y. / Region,Corey,2017-05-29,M
+Health,Eric,2017-05-29,M
+U.S.,Robert,2017-05-29,M
+Sports,Wallace,2017-05-29,M
+N.Y. / Region,Winnie,2017-05-29,F
+U.S.,Fernanda,2017-05-29,F
+U.S.,Jeremy,2017-05-29,M
+Business Day,Patricia,2017-05-29,F
+Sports,Billy,2017-05-29,M
+Business Day,Peter,2017-05-29,M
+Business Day,Anita,2017-05-29,F
+Business Day,Randall,2017-05-29,M
+U.S.,Kirk,2017-05-29,M
+N.Y. / Region,Jesse,2017-05-29,M
+Science,James,2017-05-29,M
+Arts,Giovanni,2017-05-29,M
+Health,Nicholas,2017-05-29,M
+Books,Michiko,2017-05-29,F
+World,Andrew,2017-05-29,M
+Theater,Erik,2017-05-29,M
+Science,Photographs,2017-05-29,U
+Health,Jan,2017-05-29,F
+Health,Donald,2017-05-29,M
+Health,Lawrence,2017-05-29,M
+Theater,Michael,2017-05-29,M
+N.Y. / Region,Nancy,2017-05-29,F
+Briefing,Charles,2017-05-29,M
+Sports,Michael,2017-05-29,M
+Sports,David,2017-05-29,M
+Travel,Liz,2017-05-29,F
+Arts,Joshua,2017-05-29,M
+Business Day,Matthew,2017-05-29,M
+World,Alissa,2017-05-29,F
+U.S.,Peter,2017-05-29,M
+World,Austin,2017-05-29,M
+Well,Perri,2017-05-29,F
+Business Day,Sui-lee,2017-05-29,U
+Theater,Sopan,2017-05-29,U
+Sports,Daniel,2017-05-29,M
+World,Dan,2017-05-29,M
+Business Day,Palko,2017-05-29,U
+N.Y. / Region,William,2017-05-29,M
+Arts,Ben,2017-05-29,M
+Food,Sam,2017-05-29,M
+World,Ceylan,2017-05-29,F
+Technology,J.,2017-05-29,U
+World,Jason,2017-05-29,M
+World,Chris,2017-05-29,M
+Opinion,Simon,2017-05-29,M
+Well,Jane,2017-05-29,F
+The Upshot,Aaron,2017-05-29,M
+World,Felipe,2017-05-29,M
+Business Day,Diane,2017-05-29,F
+Fashion & Style,Elizabeth,2017-05-29,F
+World,Choe,2017-05-29,U
+U.S.,Adam,2017-05-29,M
+Science,C.,2017-05-29,U
+Travel,Elaine,2017-05-29,F
+Books,Patton,2017-05-29,M
+Books,Molly,2017-05-29,F
+Books,Jenny,2017-05-29,F
+Travel,Sam,2017-05-29,M
+Books,Dominique,2017-05-29,F
+Opinion,Paul,2017-05-29,M
+Opinion,Charles,2017-05-29,M
+Opinion,Ken,2017-05-29,M
+Opinion,Jeff,2017-05-29,M
+Opinion,Elisabeth,2017-05-29,F
+Opinion,Mariana,2017-05-29,F
+Sports,Jason,2017-05-29,M
+Arts,Kathryn,2017-05-29,F
+Sports,James,2017-05-29,M
+U.S.,David,2017-05-29,M
+U.S.,Dave,2017-05-29,M
+Arts,Noel,2017-05-29,M
+World,Andrew,2017-05-29,M
+Opinion,Jacob,2017-05-29,M
+U.S.,Glenn,2017-05-29,M
+World,Ian,2017-05-29,M
+Sports,Richard,2017-05-29,M
+U.S.,Noah,2017-05-29,M
+Sports,Ben,2017-05-29,M
+Sports,James,2017-05-29,M
+N.Y. / Region,Jesse,2017-05-29,M
+Business Day,Amy,2017-05-29,F
+N.Y. / Region,James,2017-05-29,M
+U.S.,Matt,2017-05-31,M
+The Learning Network,Katherine,2017-05-31,F
+Travel,Nick,2017-05-31,M
+World,Mujib,2017-05-31,U
+Arts,Kathryn,2017-05-31,F
+Sports,Wallace,2017-05-31,M
+Briefing,Patrick,2017-05-31,M
+Science,Niko,2017-05-31,M
+Science,Nick,2017-05-31,M
+N.Y. / Region,Sam,2017-05-31,M
+Sports,Billy,2017-05-31,M
+Arts,Mike,2017-05-31,M
+U.S.,Phoebe,2017-05-31,F
+N.Y. / Region,J.,2017-05-31,U
+Sports,Karen,2017-05-31,F
+Crosswords & Games,Deb,2017-05-31,F
+World,Matthew,2017-05-31,M
+Theater,Sopan,2017-05-31,U
+N.Y. / Region,David,2017-05-31,M
+Sports,Victor,2017-05-31,M
+Books,William,2017-05-31,M
+World,Mark,2017-05-31,M
+U.S.,Michael,2017-05-31,M
+Business Day,John,2017-05-31,M
+Sports,Tyler,2017-05-31,M
+World,Rick,2017-05-31,M
+N.Y. / Region,Daniela,2017-05-31,F
