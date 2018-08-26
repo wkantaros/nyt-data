@@ -8,9 +8,9 @@ import pandas as pd
 import numpy as np
 import pickle
 
-data = pd.read_csv("updated_stats.csv")
+data = pd.read_csv("monthly_stats_conserv.csv")
 s = data.iloc[data.index.size - 1].dropna()
-with open('monthly_stats_dict.pickle', 'rb') as handle:
+with open('monthly_stats_conserv.pickle', 'rb') as handle:
         counts_dict = pickle.load(handle)
 
 
@@ -26,7 +26,8 @@ for key, value in t.items():
     else:
         x.append(value['total'])
         y.append(value['women']/value['total'] * 100)
-        bubble_size.append(value['women'] + 2)
+        # bubble_size.append(value['women'] + 2)
+        bubble_size.append(value['total'] + 2)
         hover_text.append(('Topic: {topic}<br>'+
                           'Number of Women: {nwomen}<br>' +
                           'Total Articles: {total}<br>' +
@@ -40,7 +41,7 @@ df = pd.DataFrame({'topic':s.index, 'percent':s.values})
 df['text'] = hover_text
 df['size'] = bubble_size
 # sizeref = 2.*max(df['size'])/(100**2)
-sizeref = 2.*max(bubble_size)/(100**2)
+sizeref = 1.5*max(bubble_size)/(100**2)
 
 trace0 = go.Scatter(
     x=x,

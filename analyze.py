@@ -9,11 +9,12 @@ import plotly.graph_objs as go
 
 ## data for the bar graph of total gender by month
 def getGenderByMonth():
-    data = np.ones(((len(os.listdir('data'))-1), 3), dtype=int)
+    data = np.ones(((len(os.listdir('data_conserv'))), 3), dtype=int)
+    # data = np.ones(((len(os.listdir('data_conserv'))-1), 3), dtype=int)
     index = 0
-    for filename in os.listdir('data'):
+    for filename in os.listdir('data_conserv'):
         if('.csv' in filename):
-            df = pd.read_csv('data/{}'.format(filename))
+            df = pd.read_csv('data_conserv/{}'.format(filename))
             data[index, 0] = filename[:7].replace('-','')
             data[index, 1] = df[df.gender=='M'].gender.size
             data[index, 2] = df[df.gender=='F'].gender.size

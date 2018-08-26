@@ -23,8 +23,9 @@
     <h2 id="data-collection">Data Collection</h2>
     <p>I cumulated every New York Times article written over the last 7 years, which totaled to be over 350,000 articles. From each article, I extracted the first name of the main author and the "section_type," a topic name that the New York Times attributed
       to the article.</p>
-    <p>Although I had a list of the authors' first names, the New York Times did not explicitly state their genders. To resolve this issue, I'm using an algorithm predicated on artificial intelligence that searches through the US Social Security name database
-      to predict gender. For names like Tracy and Alex, which can fall into either category, the algorithm sees which gender is more popular for that name, and places it into that group. Currently, it appears to be about 82% accurate. </p>
+    <p>Although I had a list of the authors' first names, the New York Times did not explicitly state their genders. To resolve this issue, I created an algorithm that searches through the US Social Security name database to predict gender. For names like
+      Tracy and Alex, which can fall into either category, the algorithm checks which gender is more popular for that name, and places it into that group. If the name cannot be placed into a gender with a 60% certainty or higher, or if the name isn't
+      in the database at all, the algorithm omits the name to insure accurate data. Roughly 5% of the data was not included in my analysis for these reasons.</p>
     <h2 id="analysis">Analysis</h2>
   </div>
   <div class="iframe">

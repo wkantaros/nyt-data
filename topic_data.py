@@ -64,9 +64,9 @@ def load_all_data():
     """
 
     dataframes = []
-    for data_file in os.listdir("data/"):
+    for data_file in os.listdir("data_conserv/"):
         if '.csv' in data_file:
-            data = pd.read_csv("data/" + data_file)
+            data = pd.read_csv("data_conserv/" + data_file)
             dataframes.append(data)
     dataframe = pd.concat(dataframes)
     dataframe.apply(lambda k: _process_row(k), axis=1)
@@ -118,7 +118,7 @@ def _get_unique_categories(dataframe):
     return categories
 
 def load_monthly_stats(data_dict):
-    with open('monthly_stats.pickle', 'wb') as handle:
+    with open('monthly_stats_conserv.pickle', 'wb') as handle:
         pickle.dump(data_dict, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
 if __name__ == "__main__":
@@ -154,8 +154,9 @@ if __name__ == "__main__":
             if row["gender"] == "F":
                 monthly_stats[year][month][category]["women"] += 1
 
+    load_monthly_stats(monthly_stats)
 
-    # with open('updated_stats823.csv', mode='w') as csv_file:
+    # with open('monthly_stats_conserv.csv', mode='w') as csv_file:
     #     nyt_writer = csv.writer(csv_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
     #     columns = ["Year", "Month"]
     #     columns.extend(all_unique_categories)
