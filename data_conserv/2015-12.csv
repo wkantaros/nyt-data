@@ -1,0 +1,5264 @@
+section_name,firstname,pub_date,gender
+Universal,Por,2015-12-01,U
+T Magazine,Alexa,2015-12-01,F
+Movies,Ken,2015-12-01,M
+Movies,Jeannette,2015-12-01,F
+Books,Maria,2015-12-01,F
+Arts,Neil,2015-12-01,M
+Crosswords & Games,Deb,2015-12-01,F
+Movies,Stephanie,2015-12-01,F
+Health,Nicholas,2015-12-01,M
+NYT Now,Andrea,2015-12-01,F
+U.S.,Michael,2015-12-01,M
+U.S.,Trip,2015-12-01,M
+Health,Anahad,2015-12-01,U
+T Magazine,Kat,2015-12-01,F
+Arts,Michael,2015-12-01,M
+Opinion,Ross,2015-12-01,M
+T Magazine,Mimi,2015-12-01,F
+U.S.,Alan,2015-12-01,M
+Opinion,Paul,2015-12-01,M
+Opinion,Andrew,2015-12-01,M
+Opinion,Paul,2015-12-01,M
+Arts,Andrew,2015-12-01,M
+Arts,Jon,2015-12-01,M
+T Magazine,Tom,2015-12-01,M
+Arts,Jeremy,2015-12-01,M
+Opinion,Cale,2015-12-01,M
+U.S.,Alan,2015-12-01,M
+World,International,2015-12-01,U
+Technology,Pui-wing,2015-12-01,U
+Education,Michael,2015-12-01,M
+World,International,2015-12-01,U
+Opinion,Joe,2015-12-01,M
+Opinion,Michèle,2015-12-01,U
+NYT Now,Victoria,2015-12-01,F
+Opinion,Paul,2015-12-01,M
+N.Y. / Region,Sanford,2015-12-01,M
+Times Topics,Philip,2015-12-01,M
+Arts,Alastair,2015-12-01,M
+U.S.,Maggie,2015-12-01,F
+Education,Katherine,2015-12-01,F
+Travel,Emily,2015-12-01,F
+U.S.,Amy,2015-12-01,F
+U.S.,Jeremy,2015-12-01,M
+U.S.,Kj,2015-12-01,M
+N.Y. / Region,Daniel,2015-12-01,M
+U.S.,Carl,2015-12-01,M
+Blogs,Amie,2015-12-01,F
+U.S.,Alan,2015-12-01,M
+N.Y. / Region,Tatiana,2015-12-01,F
+NYT Now,Adeel,2015-12-01,M
+Health,Roni,2015-12-01,F
+Education,Michael,2015-12-01,M
+Opinion,David,2015-12-01,M
+Opinion,Julie,2015-12-01,F
+Opinion,Emma,2015-12-01,F
+Opinion,David,2015-12-01,M
+Opinion,Oliver,2015-12-01,M
+Multimedia/Photos,David,2015-12-01,M
+Arts,Kathryn,2015-12-01,F
+Business Day,Andrew,2015-12-01,M
+Arts,Nina,2015-12-01,F
+Health,Sabrina,2015-12-01,F
+Science,Sindya,2015-12-01,U
+Science,Justin,2015-12-01,M
+Arts,Andrew,2015-12-01,M
+World,Hervé,2015-12-01,U
+N.Y. / Region,Ashley,2015-12-01,F
+World,Neil,2015-12-01,M
+N.Y. / Region,Vivian,2015-12-01,F
+N.Y. / Region,Rick,2015-12-01,M
+World,Neil,2015-12-01,M
+World,Austin,2015-12-01,M
+U.S.,Michael,2015-12-01,M
+Arts,William,2015-12-01,M
+Sports,Christopher,2015-12-01,M
+U.S.,Carl,2015-12-01,M
+Sports,Ray,2015-12-01,M
+World,Sam,2015-12-01,M
+U.S.,Michael,2015-12-01,M
+Sports,Tyler,2015-12-01,M
+World,Rukmini,2015-12-01,F
+U.S.,Michael,2015-12-01,M
+Business Day,Andrew,2015-12-01,M
+World,Somini,2015-12-01,U
+Sports,Billy,2015-12-01,M
+Sports,Ben,2015-12-01,M
+N.Y. / Region,Alexander,2015-12-01,M
+U.S.,Matt,2015-12-01,M
+N.Y. / Region,Matt,2015-12-01,M
+Business Day,Emily,2015-12-01,F
+U.S.,Gardiner,2015-12-01,M
+Business Day,Kevin,2015-12-01,M
+U.S.,Ron,2015-12-01,M
+N.Y. / Region,Liz,2015-12-01,F
+N.Y. / Region,Michael,2015-12-01,M
+Sports,Bill,2015-12-01,M
+World,Coral,2015-12-01,F
+U.S.,Colin,2015-12-01,M
+N.Y. / Region,John,2015-12-01,M
+Theater,Laura,2015-12-01,F
+Arts,Alastair,2015-12-01,M
+U.S.,Sheryl,2015-12-01,F
+Movies,Mark,2015-12-01,M
+U.S.,Julie,2015-12-01,F
+Arts,Melena,2015-12-01,F
+World,Jane,2015-12-01,F
+Business Day,Peter,2015-12-01,M
+Business Day,Ben,2015-12-01,M
+Movies,Rachel,2015-12-01,F
+Business Day,Liz,2015-12-01,F
+Books,Michiko,2015-12-01,F
+Science,Claudia,2015-12-01,F
+World,Diaa,2015-12-01,U
+Technology,Daniel,2015-12-01,M
+Business Day,Diane,2015-12-01,F
+Business Day,Leslie,2015-12-01,F
+Science,Nicholas,2015-12-01,M
+Science,Sindya,2015-12-01,U
+Theater,Ben,2015-12-01,M
+U.S.,Monica,2015-12-01,F
+Business Day,Liz,2015-12-01,F
+Technology,Christine,2015-12-01,F
+Business Day,Alexandra,2015-12-01,F
+Business Day,Ravi,2015-12-01,M
+Technology,Nicole,2015-12-01,F
+The Upshot,Neil,2015-12-01,M
+World,Liz,2015-12-01,F
+Theater,Ben,2015-12-01,M
+Business Day,Vinod,2015-12-01,M
+Sports,Tim,2015-12-01,M
+Technology,J.,2015-12-01,U
+Sports,Benjamin,2015-12-01,M
+N.Y. / Region,Charles,2015-12-01,M
+World,Steven,2015-12-01,M
+U.S.,Christine,2015-12-01,F
+Sports,Victor,2015-12-01,M
+Science,Sindya,2015-12-01,U
+Health,Gina,2015-12-01,F
+Business Day,Dan,2015-12-01,M
+World,Celestine,2015-12-01,F
+Science,C.,2015-12-01,U
+Business Day,Antony,2015-12-01,M
+Science,Abigail,2015-12-01,F
+Business Day,Keith,2015-12-01,M
+Business Day,Peter,2015-12-01,M
+T Magazine,Photographs,2015-12-01,U
+Opinion,Andrew,2015-12-01,M
+Business Day,Chad,2015-12-01,M
+Sports,Victor,2015-12-01,M
+Sports,Victor,2015-12-01,M
+U.S.,Frances,2015-12-01,F
+N.Y. / Region,Benjamin,2015-12-01,M
+Sports,Dhiren,2015-12-01,M
+World,Choe,2015-12-01,U
+World,Didi,2015-12-01,F
+U.S.,David,2015-12-01,M
+The Upshot,Nate,2015-12-01,M
+Business Day,Carl,2015-12-01,M
+Business Day,Chad,2015-12-01,M
+World,Douglas,2015-12-01,M
+World,Choe,2015-12-01,U
+U.S.,Giovanni,2015-12-01,M
+The Upshot,Aaron,2015-12-01,M
+Opinion,Roger,2015-12-01,M
+World,Isabel,2015-12-01,F
+World,Coral,2015-12-01,F
+N.Y. / Region,Kate,2015-12-01,F
+Business Day,Jad,2015-12-01,M
+World,Austin,2015-12-01,M
+World,Chris,2015-12-01,M
+Fashion & Style,David,2015-12-01,M
+Fashion & Style,Victoria,2015-12-01,F
+Fashion & Style,Christine,2015-12-01,F
+Fashion & Style,Ginanne,2015-12-01,U
+Fashion & Style,Kevin,2015-12-01,M
+Fashion & Style,Jane,2015-12-01,F
+Fashion & Style,Victoria,2015-12-01,F
+Fashion & Style,Sandra,2015-12-01,F
+Fashion & Style,Ginanne,2015-12-01,U
+Fashion & Style,Abigail,2015-12-01,F
+Fashion & Style,Kathleen,2015-12-01,F
+Fashion & Style,Ginanne,2015-12-01,U
+Fashion & Style,Mike,2015-12-01,M
+Fashion & Style,Victoria,2015-12-01,F
+Fashion & Style,Kelly,2015-12-01,F
+Science,Matt,2015-12-01,M
+Arts,Jen,2015-12-01,F
+Universal,Por,2015-12-02,U
+Universal,Por,2015-12-02,U
+Universal,Por,2015-12-02,U
+T Magazine,Charlotte,2015-12-02,F
+U.S.,Amy,2015-12-02,F
+U.S.,First,2015-12-02,U
+Movies,Ben,2015-12-02,M
+Fashion & Style,Alex,2015-12-02,M
+U.S.,Maggie,2015-12-02,F
+Crosswords & Games,Deb,2015-12-02,F
+World,Karin,2015-12-02,F
+Style,Valeriya,2015-12-02,F
+Fashion & Style,Erica,2015-12-02,F
+NYT Now,Andrea,2015-12-02,F
+T Magazine,Isabel,2015-12-02,F
+T Magazine,Kat,2015-12-02,F
+Technology,Brian,2015-12-02,M
+T Magazine,Kevin,2015-12-02,M
+Opinion,Andrew,2015-12-02,M
+T Magazine,Aimee,2015-12-02,F
+T Magazine,Photographs,2015-12-02,U
+T Magazine,Jody,2015-12-02,F
+Travel,Seth,2015-12-02,M
+Arts,Doreen,2015-12-02,F
+U.S.,First,2015-12-02,U
+Times Insider,Susan,2015-12-02,F
+Opinion,Anna,2015-12-02,F
+Technology,Kit,2015-12-02,M
+Arts,Simon,2015-12-02,M
+U.S.,Jessica,2015-12-02,F
+Arts,Joe,2015-12-02,M
+Arts,Christopher,2015-12-02,M
+Arts,Michael,2015-12-02,M
+T Magazine,Nancy,2015-12-02,F
+T Magazine,Photographs,2015-12-02,U
+Education,Kristin,2015-12-02,F
+U.S.,Maggie,2015-12-02,F
+T Magazine,Malina,2015-12-02,F
+Food,Sam,2015-12-02,M
+Opinion,Ernesto,2015-12-02,M
+Arts,Hilarie,2015-12-02,F
+Health,Gretchen,2015-12-02,F
+Arts,Twyla,2015-12-02,F
+World,International,2015-12-02,U
+Opinion,Paul,2015-12-02,M
+Technology,Pui-wing,2015-12-02,U
+Real Estate,Kevin,2015-12-02,M
+World,International,2015-12-02,U
+N.Y. / Region,Chari,2015-12-02,F
+U.S.,Robert,2015-12-02,M
+U.S.,Jonathan,2015-12-02,M
+U.S.,Carl,2015-12-02,M
+U.S.,John,2015-12-02,M
+U.S.,Alan,2015-12-02,M
+N.Y. / Region,Tatiana,2015-12-02,F
+NYT Now,Adeel,2015-12-02,M
+Opinion,Ethel,2015-12-02,F
+Travel,Shivani,2015-12-02,F
+Blogs,Amie,2015-12-02,F
+Education,Michael,2015-12-02,M
+Education,Michael,2015-12-02,M
+Opinion,Sarah,2015-12-02,F
+Opinion,Frank,2015-12-02,M
+Opinion,Thomas,2015-12-02,M
+Opinion,Thomas,2015-12-02,M
+Multimedia/Photos,James,2015-12-02,M
+World,Coral,2015-12-02,F
+Arts,Kathryn,2015-12-02,F
+Sports,Austin,2015-12-02,M
+Technology,Steve,2015-12-02,M
+Business Day,Michael,2015-12-02,M
+N.Y. / Region,Ashley,2015-12-02,F
+N.Y. / Region,William,2015-12-02,M
+N.Y. / Region,Vivian,2015-12-02,F
+World,Shuaib,2015-12-02,M
+World,Andrea,2015-12-02,F
+Theater,Laura,2015-12-02,F
+Arts,Bruce,2015-12-02,M
+U.S.,Alan,2015-12-02,M
+World,Michael,2015-12-02,M
+U.S.,Ian,2015-12-02,M
+N.Y. / Region,Ashley,2015-12-02,F
+World,Sam,2015-12-02,M
+U.S.,David,2015-12-02,M
+Sports,Billy,2015-12-02,M
+Sports,Scott,2015-12-02,M
+N.Y. / Region,Maggie,2015-12-02,F
+U.S.,Patricia,2015-12-02,F
+World,Ben,2015-12-02,M
+N.Y. / Region,Jesse,2015-12-02,M
+U.S.,Anemona,2015-12-02,U
+World,Simon,2015-12-02,M
+Sports,Allan,2015-12-02,M
+N.Y. / Region,Jim,2015-12-02,M
+U.S.,Mitch,2015-12-02,M
+Business Day,Steven,2015-12-02,M
+World,Ivan,2015-12-02,M
+Real Estate,Rosalie,2015-12-02,F
+N.Y. / Region,James,2015-12-02,M
+Opinion,Katha,2015-12-02,F
+N.Y. / Region,Susanne,2015-12-02,F
+Arts,Stephen,2015-12-02,M
+Theater,Laurel,2015-12-02,F
+Arts,Jonathan,2015-12-02,M
+U.S.,Amy,2015-12-02,F
+Books,Dwight,2015-12-02,M
+Sports,Tyler,2015-12-02,M
+Business Day,Matthew,2015-12-02,M
+Real Estate,Vivian,2015-12-02,F
+World,Alison,2015-12-02,F
+Real Estate,Eugene,2015-12-02,M
+Arts,Neil,2015-12-02,M
+Business Day,Ravi,2015-12-02,M
+Food,Martha,2015-12-02,F
+World,Somini,2015-12-02,U
+Technology,Vindu,2015-12-02,U
+Business Day,Danny,2015-12-02,M
+U.S.,Adam,2015-12-02,M
+Your Money,Ann,2015-12-02,F
+Business Day,Rob,2015-12-02,M
+Business Day,Binyamin,2015-12-02,M
+Food,Florence,2015-12-02,F
+World,Jonathan,2015-12-02,M
+Business Day,Liz,2015-12-02,F
+World,Taimoor,2015-12-02,M
+T Magazine,Emily,2015-12-02,F
+U.S.,David,2015-12-02,M
+Food,Joan,2015-12-02,F
+Business Day,Eduardo,2015-12-02,M
+Food,Robert,2015-12-02,M
+N.Y. / Region,Michael,2015-12-02,M
+Sports,Victor,2015-12-02,M
+Business Day,Jackie,2015-12-02,GN
+U.S.,Emmarie,2015-12-02,F
+U.S.,Richard,2015-12-02,M
+Food,Florence,2015-12-02,F
+Sports,Naila-jean,2015-12-02,U
+Food,Julia,2015-12-02,F
+N.Y. / Region,Benjamin,2015-12-02,M
+Business Day,Bill,2015-12-02,M
+U.S.,Jonathan,2015-12-02,M
+Sports,Benjamin,2015-12-02,M
+World,Helene,2015-12-02,F
+Sports,Scott,2015-12-02,M
+World,Diaa,2015-12-02,U
+Technology,Mike,2015-12-02,M
+Sports,Marc,2015-12-02,M
+Arts,Kathy,2015-12-02,F
+Business Day,Mary,2015-12-02,F
+Food,Robert,2015-12-02,M
+Arts,Dave,2015-12-02,M
+U.S.,Monica,2015-12-02,F
+World,Alison,2015-12-02,F
+Food,Pete,2015-12-02,M
+Business Day,Danny,2015-12-02,M
+U.S.,Adam,2015-12-02,M
+U.S.,Katie,2015-12-02,F
+N.Y. / Region,Rick,2015-12-02,M
+Arts,Patricia,2015-12-02,F
+N.Y. / Region,J.,2015-12-02,U
+U.S.,Eric,2015-12-02,M
+Health,Donald,2015-12-02,M
+Opinion,Eswar,2015-12-02,U
+World,Raphael,2015-12-02,M
+Business Day,Alexandra,2015-12-02,F
+Technology,J.,2015-12-02,U
+Sports,Victor,2015-12-02,M
+Movies,Cara,2015-12-02,F
+World,Gardiner,2015-12-02,M
+Sports,Chase,2015-12-02,M
+The Upshot,Gregg,2015-12-02,M
+Fashion & Style,Vanessa,2015-12-02,F
+World,Chris,2015-12-02,M
+The Upshot,Michael,2015-12-02,M
+World,Ben,2015-12-02,M
+World,Floyd,2015-12-02,M
+World,Joe,2015-12-02,M
+Sports,Rob,2015-12-02,M
+Opinion,Patrick,2015-12-02,M
+Arts,Michael,2015-12-02,M
+Sports,Sam,2015-12-02,M
+N.Y. / Region,Nikita,2015-12-02,F
+Fashion & Style,Elizabeth,2015-12-02,F
+Fashion & Style,Mark,2015-12-02,M
+Fashion & Style,Bronwyn,2015-12-02,F
+Fashion & Style,Kevin,2015-12-02,M
+Business Day,Chad,2015-12-02,M
+Fashion & Style,Elizabeth,2015-12-02,F
+Fashion & Style,Elizabeth,2015-12-02,F
+Fashion & Style,Dana,2015-12-02,F
+Food,Eric,2015-12-02,M
+Food,Ligaya,2015-12-02,F
+Food,David,2015-12-02,M
+Food,Melissa,2015-12-02,F
+Food,Ligaya,2015-12-02,F
+Times Insider,David,2015-12-03,M
+T Magazine,Photographs,2015-12-03,U
+Movies,A.,2015-12-03,U
+Movies,Ainara,2015-12-03,F
+U.S.,Liam,2015-12-03,M
+Technology,Steve,2015-12-03,M
+Crosswords & Games,Deb,2015-12-03,F
+Crosswords & Games,Deb,2015-12-03,F
+U.S.,Ashley,2015-12-03,F
+Technology,Nicole,2015-12-03,F
+Fashion & Style,Alex,2015-12-03,M
+Movies,Manohla,2015-12-03,U
+NYT Now,Andrea,2015-12-03,F
+T Magazine,Photographs,2015-12-03,U
+Times Insider,Philip,2015-12-03,M
+Movies,Ainara,2015-12-03,F
+Movies,Mekado,2015-12-03,U
+Movies,Ainara,2015-12-03,F
+Travel,Freda,2015-12-03,F
+Movies,Ainara,2015-12-03,F
+Arts,Alexandra,2015-12-03,F
+Arts,Joe,2015-12-03,M
+U.S.,Alan,2015-12-03,M
+U.S.,David,2015-12-03,M
+U.S.,Kj,2015-12-03,M
+U.S.,Amy,2015-12-03,F
+U.S.,Jason,2015-12-03,M
+Arts,Brooks,2015-12-03,M
+T Magazine,Kat,2015-12-03,F
+T Magazine,Andrew,2015-12-03,M
+Times Insider,Nelson,2015-12-03,M
+Arts,Joshua,2015-12-03,M
+Health,Susan,2015-12-03,F
+Health,Nicholas,2015-12-03,M
+Fashion & Style,Alden,2015-12-03,M
+Arts,Andrew,2015-12-03,M
+T Magazine,Whitney,2015-12-03,F
+U.S.,Jeremy,2015-12-03,M
+Business Day,Colin,2015-12-03,M
+T Magazine,Nikil,2015-12-03,M
+Arts,Michael,2015-12-03,M
+Arts,Robin,2015-12-03,F
+T Magazine,Alex,2015-12-03,M
+T Magazine,Photographs,2015-12-03,U
+Arts,Michael,2015-12-03,M
+N.Y. / Region,Jessica,2015-12-03,F
+Arts,Craig,2015-12-03,M
+Arts,E.,2015-12-03,U
+World,International,2015-12-03,U
+Health,Lisa,2015-12-03,F
+Education,Katherine,2015-12-03,F
+Technology,Pui-wing,2015-12-03,U
+Arts,Michael,2015-12-03,M
+T Magazine,Photographs,2015-12-03,U
+World,International,2015-12-03,U
+N.Y. / Region,Nichola,2015-12-03,F
+Education,Katherine,2015-12-03,F
+U.S.,First,2015-12-03,U
+U.S.,Maggie,2015-12-03,F
+U.S.,Amy,2015-12-03,F
+U.S.,Carl,2015-12-03,M
+Science,Jonah,2015-12-03,M
+Technology,Cecilia,2015-12-03,F
+U.S.,Carl,2015-12-03,M
+N.Y. / Region,Tatiana,2015-12-03,F
+Blogs,Amie,2015-12-03,F
+NYT Now,Adeel,2015-12-03,M
+Health,Roni,2015-12-03,F
+Education,Katherine,2015-12-03,F
+Education,Katherine,2015-12-03,F
+The Upshot,Josh,2015-12-03,M
+Opinion,Ross,2015-12-03,M
+Opinion,Charles,2015-12-03,M
+Opinion,Christopher,2015-12-03,M
+Multimedia/Photos,Maurice,2015-12-03,M
+Technology,Mark,2015-12-03,M
+Arts,Kathryn,2015-12-03,F
+U.S.,Adam,2015-12-03,M
+Business Day,Liz,2015-12-03,F
+Sports,Rebecca,2015-12-03,F
+World,Edward,2015-12-03,M
+World,Michelle,2015-12-03,F
+Sports,Scott,2015-12-03,M
+Sports,Allan,2015-12-03,M
+N.Y. / Region,John,2015-12-03,M
+Business Day,Jeremy,2015-12-03,M
+Sports,Dave,2015-12-03,M
+N.Y. / Region,Stephanie,2015-12-03,F
+N.Y. / Region,Eli,2015-12-03,M
+Theater,Charles,2015-12-03,M
+Theater,Ben,2015-12-03,M
+N.Y. / Region,Rick,2015-12-03,M
+Science,John,2015-12-03,M
+N.Y. / Region,Susanne,2015-12-03,F
+World,Didi,2015-12-03,F
+World,Didi,2015-12-03,F
+Business Day,Emily,2015-12-03,F
+U.S.,Sharon,2015-12-03,F
+N.Y. / Region,Kate,2015-12-03,F
+World,Simon,2015-12-03,M
+World,Andrea,2015-12-03,F
+World,Shuaib,2015-12-03,M
+Technology,Vindu,2015-12-03,U
+Sports,Benjamin,2015-12-03,M
+Opinion,Nicholas,2015-12-03,M
+U.S.,Charlie,2015-12-03,M
+World,Helene,2015-12-03,F
+Sports,Tim,2015-12-03,M
+N.Y. / Region,Benjamin,2015-12-03,M
+Technology,Natasha,2015-12-03,F
+U.S.,Trip,2015-12-03,M
+Technology,Farhad,2015-12-03,M
+World,Sam,2015-12-03,M
+U.S.,Adam,2015-12-03,M
+World,Norimitsu,2015-12-03,U
+Science,Kenneth,2015-12-03,M
+U.S.,Emmarie,2015-12-03,F
+Business Day,Graham,2015-12-03,M
+Health,Sheri,2015-12-03,F
+U.S.,Abby,2015-12-03,F
+Sports,Tom,2015-12-03,M
+U.S.,Monica,2015-12-03,F
+Arts,Ben,2015-12-03,M
+U.S.,Anemona,2015-12-03,U
+Arts,James,2015-12-03,M
+Theater,Anita,2015-12-03,F
+Fashion & Style,Michael,2015-12-03,M
+Theater,Erik,2015-12-03,M
+Fashion & Style,Courtney,2015-12-03,F
+U.S.,Ian,2015-12-03,M
+Fashion & Style,Ben,2015-12-03,M
+Movies,Cara,2015-12-03,F
+Fashion & Style,Rachel,2015-12-03,F
+World,Alissa,2015-12-03,F
+Fashion & Style,Valeriya,2015-12-03,F
+Fashion & Style,Alison,2015-12-03,F
+Arts,Nina,2015-12-03,F
+Arts,Stephen,2015-12-03,M
+Arts,Neil,2015-12-03,M
+Style,Nick,2015-12-03,M
+N.Y. / Region,Andy,2015-12-03,M
+Fashion & Style,Abby,2015-12-03,F
+Arts,Michael,2015-12-03,M
+U.S.,Alan,2015-12-03,M
+Books,Jennifer,2015-12-03,F
+Sports,Ken,2015-12-03,M
+Fashion & Style,Marisa,2015-12-03,F
+Fashion & Style,Valeriya,2015-12-03,F
+Fashion & Style,Susan,2015-12-03,F
+World,Elisabetta,2015-12-03,F
+Movies,Brooks,2015-12-03,M
+Business Day,Matthew,2015-12-03,M
+U.S.,Robert,2015-12-03,M
+Business Day,Stephanie,2015-12-03,F
+World,Alison,2015-12-03,F
+Fashion & Style,Katherine,2015-12-03,F
+U.S.,Adam,2015-12-03,M
+World,Melissa,2015-12-03,F
+World,David,2015-12-03,M
+Business Day,Jack,2015-12-03,M
+Technology,Kit,2015-12-03,M
+Travel,Molly,2015-12-03,F
+Opinion,Richard,2015-12-03,M
+Fashion & Style,Elizabeth,2015-12-03,F
+Business Day,Kathleen,2015-12-03,F
+Business Day,Robert,2015-12-03,M
+Business Day,Binyamin,2015-12-03,M
+Sports,Michael,2015-12-03,M
+Business Day,Liz,2015-12-03,F
+Real Estate,Mike,2015-12-03,M
+U.S.,Katie,2015-12-03,F
+Arts,Nate,2015-12-03,M
+Business Day,Vinod,2015-12-03,M
+World,Steven,2015-12-03,M
+U.S.,Sheryl,2015-12-03,F
+U.S.,David,2015-12-03,M
+U.S.,Nicholas,2015-12-03,M
+Arts,Matt,2015-12-03,M
+Sports,Juliet,2015-12-03,F
+The Upshot,Neil,2015-12-03,M
+Business Day,Sydney,2015-12-03,F
+Movies,Mekado,2015-12-03,U
+Technology,J.,2015-12-03,U
+World,Dan,2015-12-03,M
+World,Steven,2015-12-03,M
+Opinion,Tolu,2015-12-03,U
+U.S.,Patrick,2015-12-03,M
+Opinion,Paul,2015-12-03,M
+Arts,Ginanne,2015-12-03,U
+Arts,Ted,2015-12-03,M
+Arts,Palko,2015-12-03,U
+Arts,Elisabetta,2015-12-03,F
+Arts,Nina,2015-12-03,F
+Arts,Roderick,2015-12-03,M
+Arts,Elisabetta,2015-12-03,F
+Arts,David,2015-12-03,M
+World,Thomas,2015-12-03,M
+The Upshot,Claire,2015-12-03,F
+Sports,Andrew,2015-12-03,M
+World,Michael,2015-12-03,M
+N.Y. / Region,David,2015-12-03,M
+N.Y. / Region,Alexander,2015-12-03,M
+Sports,Christopher,2015-12-03,M
+World,Michael,2015-12-03,M
+Fashion & Style,Jeffrey,2015-12-03,M
+Fashion & Style,Molly,2015-12-03,F
+Business Day,Elizabeth,2015-12-03,F
+Fashion & Style,Vanessa,2015-12-03,F
+Universal,Por,2015-12-04,U
+Fashion & Style,Bill,2015-12-04,M
+Arts,Mike,2015-12-04,M
+Technology,Cecilia,2015-12-04,F
+Arts,Ben,2015-12-04,M
+Your Money,Tara,2015-12-04,F
+Books,Maria,2015-12-04,F
+Sports,Marc,2015-12-04,M
+Technology,Katie,2015-12-04,F
+NYT Now,Andrea,2015-12-04,F
+U.S.,Alan,2015-12-04,M
+T Magazine,Photographs,2015-12-04,U
+U.S.,Alan,2015-12-04,M
+Opinion,Teresa,2015-12-04,F
+T Magazine,Michael,2015-12-04,M
+Times Insider,Sheri,2015-12-04,F
+Arts,Graham,2015-12-04,M
+T Magazine,Kat,2015-12-04,F
+U.S.,Kj,2015-12-04,M
+Opinion,Marie,2015-12-04,F
+T Magazine,Marella,2015-12-04,F
+Health,Lisa,2015-12-04,F
+T Magazine,Kevin,2015-12-04,M
+T Magazine,Hilary,2015-12-04,F
+N.Y. / Region,Erica,2015-12-04,F
+N.Y. / Region,Erica,2015-12-04,F
+Opinion,Patrick,2015-12-04,M
+T Magazine,Mary,2015-12-04,F
+Arts,Simon,2015-12-04,M
+Arts,Jennifer,2015-12-04,F
+T Magazine,Gideon,2015-12-04,M
+Food,Sam,2015-12-04,M
+T Magazine,Photographs,2015-12-04,U
+Opinion,Nicholas,2015-12-04,M
+World,International,2015-12-04,U
+World,International,2015-12-04,U
+Opinion,Andrew,2015-12-04,M
+Arts,Christopher,2015-12-04,M
+Opinion,Paul,2015-12-04,M
+Fashion & Style,Alex,2015-12-04,M
+Fashion & Style,Joanna,2015-12-04,F
+U.S.,Alan,2015-12-04,M
+Technology,Pui-wing,2015-12-04,U
+World,International,2015-12-04,U
+Travel,Elaine,2015-12-04,F
+N.Y. / Region,Howard,2015-12-04,M
+U.S.,Maggie,2015-12-04,F
+Education,Shannon,2015-12-04,F
+Travel,Shivani,2015-12-04,F
+U.S.,Matt,2015-12-04,M
+U.S.,Alan,2015-12-04,M
+U.S.,Nicholas,2015-12-04,M
+Blogs,Amie,2015-12-04,F
+N.Y. / Region,Tatiana,2015-12-04,F
+U.S.,Carl,2015-12-04,M
+NYT Now,Adeel,2015-12-04,M
+Health,Toby,2015-12-04,M
+Health,Catherine,2015-12-04,F
+U.S.,Thomas,2015-12-04,M
+Education,Michael,2015-12-04,M
+Fashion & Style,Guy,2015-12-04,M
+World,International,2015-12-04,U
+Opinion,Susan,2015-12-04,F
+Opinion,David,2015-12-04,M
+Opinion,Paul,2015-12-04,M
+Opinion,Sara,2015-12-04,F
+Movies,Ken,2015-12-04,M
+Multimedia/Photos,Kerri,2015-12-04,F
+Movies,Ken,2015-12-04,M
+Movies,Nicolas,2015-12-04,M
+Movies,Andy,2015-12-04,M
+Movies,Andy,2015-12-04,M
+Movies,Neil,2015-12-04,M
+Movies,Jeannette,2015-12-04,F
+Movies,Helen,2015-12-04,F
+Movies,Nicolas,2015-12-04,M
+Movies,Neil,2015-12-04,M
+Movies,Andy,2015-12-04,M
+Movies,A.,2015-12-04,U
+Movies,Glenn,2015-12-04,M
+Movies,A.,2015-12-04,U
+Arts,Kathryn,2015-12-04,F
+Movies,Stephen,2015-12-04,M
+Movies,Glenn,2015-12-04,M
+Movies,Stephen,2015-12-04,M
+Movies,Manohla,2015-12-04,U
+Movies,Stephen,2015-12-04,M
+U.S.,David,2015-12-04,M
+Arts,Laurel,2015-12-04,F
+Arts,Mary,2015-12-04,F
+Arts,Alec,2015-12-04,M
+U.S.,Rick,2015-12-04,M
+N.Y. / Region,John,2015-12-04,M
+U.S.,Jeremy,2015-12-04,M
+Theater,Ben,2015-12-04,M
+Theater,Charles,2015-12-04,M
+U.S.,N.,2015-12-04,U
+Science,James,2015-12-04,M
+Obituaries,Richard,2015-12-04,M
+Sports,Simon,2015-12-04,M
+U.S.,Liam,2015-12-04,M
+World,David,2015-12-04,M
+N.Y. / Region,Jim,2015-12-04,M
+Sports,William,2015-12-04,M
+World,David,2015-12-04,M
+N.Y. / Region,Susanne,2015-12-04,F
+Sports,Ian,2015-12-04,M
+U.S.,Peter,2015-12-04,M
+Business Day,Nathaniel,2015-12-04,M
+N.Y. / Region,Winnie,2015-12-04,F
+World,Robert,2015-12-04,M
+U.S.,Deborah,2015-12-04,F
+U.S.,Monica,2015-12-04,F
+Business Day,Michael,2015-12-04,M
+Business Day,Alexandra,2015-12-04,F
+N.Y. / Region,Jesse,2015-12-04,M
+World,Melissa,2015-12-04,F
+Arts,Eve,2015-12-04,F
+Arts,Holland,2015-12-04,GN
+Technology,Jonah,2015-12-04,M
+Arts,Martha,2015-12-04,F
+Arts,Jason,2015-12-04,M
+Technology,Vindu,2015-12-04,U
+Business Day,Steven,2015-12-04,M
+U.S.,Michael,2015-12-04,M
+Arts,Roberta,2015-12-04,F
+Business Day,Liz,2015-12-04,F
+Arts,Holland,2015-12-04,GN
+World,Simon,2015-12-04,M
+Arts,Graham,2015-12-04,M
+Arts,Robin,2015-12-04,F
+Sports,Chase,2015-12-04,M
+Opinion,Mark,2015-12-04,M
+Arts,Ken,2015-12-04,M
+Arts,Zachary,2015-12-04,M
+Movies,Mekado,2015-12-04,U
+U.S.,Mike,2015-12-04,M
+World,Kareem,2015-12-04,M
+Science,Nicholas,2015-12-04,M
+Arts,Ben,2015-12-04,M
+Books,Dwight,2015-12-04,M
+Arts,Marina,2015-12-04,F
+N.Y. / Region,Patrick,2015-12-04,M
+Business Day,James,2015-12-04,M
+Automobiles,Nick,2015-12-04,M
+World,William,2015-12-04,M
+World,Steven,2015-12-04,M
+Science,John,2015-12-04,M
+Arts,Jonathan,2015-12-04,M
+Arts,Anthony,2015-12-04,M
+Opinion,Haider,2015-12-04,M
+Arts,Alastair,2015-12-04,M
+Business Day,Mike,2015-12-04,M
+Business Day,Michael,2015-12-04,M
+U.S.,David,2015-12-04,M
+Fashion & Style,Carson,2015-12-04,M
+Fashion & Style,Matthew,2015-12-04,M
+World,Alison,2015-12-04,F
+Sports,Harvey,2015-12-04,M
+Sports,Sam,2015-12-04,M
+U.S.,Jess,2015-12-04,M
+World,Isabel,2015-12-04,F
+Technology,Mike,2015-12-04,M
+Business Day,Robert,2015-12-04,M
+Business Day,Liz,2015-12-04,F
+World,Kareem,2015-12-04,M
+Sports,Rebecca,2015-12-04,F
+U.S.,Maggie,2015-12-04,F
+N.Y. / Region,Benjamin,2015-12-04,M
+Business Day,Diane,2015-12-04,F
+Movies,Rachel,2015-12-04,F
+Business Day,Binyamin,2015-12-04,M
+Movies,Brooks,2015-12-04,M
+U.S.,Alan,2015-12-04,M
+Sports,Sam,2015-12-04,M
+Business Day,Leslie,2015-12-04,F
+U.S.,Matthew,2015-12-04,M
+U.S.,Ron,2015-12-04,M
+The Upshot,Neil,2015-12-04,M
+Business Day,Jesse,2015-12-04,M
+Sports,Jason,2015-12-04,M
+U.S.,Peter,2015-12-04,M
+World,Neil,2015-12-04,M
+World,Joe,2015-12-04,M
+U.S.,Nick,2015-12-04,M
+Technology,J.,2015-12-04,U
+U.S.,Jennifer,2015-12-04,F
+Opinion,Tom,2015-12-04,M
+World,Dionne,2015-12-04,F
+Arts,George,2015-12-04,M
+World,Salman,2015-12-04,M
+Opinion,Anatol,2015-12-04,M
+Fashion & Style,Vanessa,2015-12-04,F
+U.S.,Jennifer,2015-12-04,F
+Opinion,Ben,2015-12-04,M
+World,Michelle,2015-12-04,F
+Business Day,Jack,2015-12-04,M
+Sports,Raphael,2015-12-04,M
+Opinion,Roger,2015-12-04,M
+World,Nida,2015-12-04,F
+Great Homes & Destinations,Richard,2015-12-04,M
+Sports,Gary,2015-12-04,M
+World,Niki,2015-12-04,F
+Business Day,James,2015-12-04,M
+U.S.,Jennifer,2015-12-04,F
+Great Homes & Destinations,Fiona,2015-12-04,F
+Business Day,Chad,2015-12-04,M
+World,Austin,2015-12-04,M
+Business Day,Diane,2015-12-04,F
+Fashion & Style,Choire,2015-12-04,U
+Business Day,Chad,2015-12-04,M
+Business Day,Chad,2015-12-04,M
+World,Norimitsu,2015-12-04,U
+Sports,Kelley,2015-12-04,F
+World,Mujib,2015-12-04,U
+U.S.,Adam,2015-12-04,M
+World,David,2015-12-04,M
+Fashion & Style,Foster,2015-12-04,M
+Fashion & Style,John,2015-12-04,M
+Fashion & Style,Stacey,2015-12-04,F
+Automobiles,Tom,2015-12-04,M
+Fashion & Style,Bee,2015-12-04,M
+Fashion & Style,Steven,2015-12-04,M
+Fashion & Style,Sam,2015-12-04,M
+Fashion & Style,Foster,2015-12-04,M
+Fashion & Style,John,2015-12-04,M
+Fashion & Style,John,2015-12-04,M
+Fashion & Style,Andrew,2015-12-04,M
+Fashion & Style,Steven,2015-12-04,M
+Fashion & Style,Max,2015-12-04,M
+Fashion & Style,Steven,2015-12-04,M
+U.S.,Edmund,2015-12-05,M
+Opinion,Javad,2015-12-05,M
+Opinion,Richard,2015-12-05,M
+Crosswords & Games,Deb,2015-12-05,F
+U.S.,Erica,2015-12-05,F
+U.S.,Jeremy,2015-12-05,M
+Crosswords & Games,Deb,2015-12-05,F
+World,International,2015-12-05,U
+U.S.,Jonathan,2015-12-05,M
+Opinion,Paul,2015-12-05,M
+Arts,Amy,2015-12-05,F
+Arts,Kathryn,2015-12-05,F
+U.S.,Nick,2015-12-05,M
+Sports,Marc,2015-12-05,M
+Sports,Tyler,2015-12-05,M
+Sports,Andrew,2015-12-05,M
+N.Y. / Region,John,2015-12-05,M
+U.S.,Michael,2015-12-05,M
+Opinion,Gail,2015-12-05,F
+Arts,Brian,2015-12-05,M
+U.S.,Ravi,2015-12-05,M
+U.S.,Laurie,2015-12-05,F
+Movies,Liam,2015-12-05,M
+World,William,2015-12-05,M
+World,Frances,2015-12-05,F
+Business Day,Bill,2015-12-05,M
+N.Y. / Region,Michael,2015-12-05,M
+Business Day,Sydney,2015-12-05,F
+Opinion,Mariette,2015-12-05,F
+World,Ian,2015-12-05,M
+Arts,Bruce,2015-12-05,M
+Sports,Bill,2015-12-05,M
+Technology,Vindu,2015-12-05,U
+N.Y. / Region,Liz,2015-12-05,F
+N.Y. / Region,David,2015-12-05,M
+World,Steven,2015-12-05,M
+U.S.,Jackie,2015-12-05,GN
+Arts,Brian,2015-12-05,M
+Arts,Gia,2015-12-05,F
+Business Day,Landon,2015-12-05,M
+Arts,James,2015-12-05,M
+Theater,Laura,2015-12-05,F
+Opinion,Timothy,2015-12-05,M
+Arts,David,2015-12-05,M
+Arts,Roslyn,2015-12-05,F
+Science,Kenneth,2015-12-05,M
+Arts,Alastair,2015-12-05,M
+Arts,Elise,2015-12-05,F
+U.S.,Julia,2015-12-05,F
+Business Day,Alexandra,2015-12-05,F
+Arts,Stephen,2015-12-05,M
+Arts,Ben,2015-12-05,M
+U.S.,David,2015-12-05,M
+World,Kareem,2015-12-05,M
+N.Y. / Region,Benjamin,2015-12-05,M
+World,Andrew,2015-12-05,M
+N.Y. / Region,Sarah,2015-12-05,F
+Business Day,Jane,2015-12-05,F
+World,Liz,2015-12-05,F
+Arts,Michael,2015-12-05,M
+Sports,Fred,2015-12-05,M
+World,Nida,2015-12-05,F
+U.S.,Alan,2015-12-05,M
+World,Katie,2015-12-05,F
+Business Day,Jeffrey,2015-12-05,M
+Business Day,Victor,2015-12-05,M
+Arts,Melena,2015-12-05,F
+Your Money,Tara,2015-12-05,F
+World,Neil,2015-12-05,M
+Business Day,Adam,2015-12-05,M
+Arts,John,2015-12-05,M
+Opinion,Mimi,2015-12-05,F
+U.S.,Sheryl,2015-12-05,F
+U.S.,Rick,2015-12-05,M
+Sports,Tim,2015-12-05,M
+Your Money,Paul,2015-12-05,M
+Sports,Tyler,2015-12-05,M
+Sports,Joe,2015-12-05,M
+Business Day,Matthew,2015-12-05,M
+U.S.,Christine,2015-12-05,F
+Business Day,Stanley,2015-12-05,M
+World,Norimitsu,2015-12-05,U
+U.S.,Lizette,2015-12-05,F
+Sports,Matt,2015-12-05,M
+U.S.,Michael,2015-12-05,M
+Sports,Sam,2015-12-05,M
+World,Rod,2015-12-05,M
+N.Y. / Region,William,2015-12-05,M
+Your Money,Ann,2015-12-05,F
+U.S.,Jeremy,2015-12-05,M
+U.S.,Michael,2015-12-05,M
+Opinion,William,2015-12-05,M
+World,Alison,2015-12-05,F
+Sports,Andrew,2015-12-05,M
+World,Suzanne,2015-12-05,F
+Sports,Victor,2015-12-05,M
+The Upshot,Damon,2015-12-05,M
+Your Money,Amy,2015-12-05,F
+The Upshot,Neil,2015-12-05,M
+Business Day,John,2015-12-05,M
+Business Day,Leslie,2015-12-05,F
+Movies,Cara,2015-12-05,F
+World,Kiki,2015-12-05,F
+Opinion,Ou,2015-12-05,U
+Sports,Michael,2015-12-05,M
+The Upshot,Kevin,2015-12-05,M
+World,Rod,2015-12-05,M
+World,Declan,2015-12-05,M
+Business Day,Chad,2015-12-05,M
+Arts,Wesley,2015-12-05,M
+World,Alison,2015-12-05,F
+Science,John,2015-12-05,M
+Sports,Brad,2015-12-05,M
+Sports,Brad,2015-12-05,M
+Sports,Brad,2015-12-05,M
+Business Day,Nelson,2015-12-05,M
+World,Austin,2015-12-05,M
+Sports,Brad,2015-12-05,M
+Sports,Brad,2015-12-05,M
+Sports,Brad,2015-12-05,M
+Sports,Brad,2015-12-05,M
+Sports,Brad,2015-12-05,M
+Business Day,Jack,2015-12-05,M
+Business Day,Choe,2015-12-05,U
+Arts,Siobhan,2015-12-05,F
+Sports,Marc,2015-12-05,M
+Arts,Stephen,2015-12-05,M
+Arts,Simon,2015-12-06,M
+Travel,Diane,2015-12-06,F
+Business Day,Sydney,2015-12-06,F
+Arts,Mike,2015-12-06,M
+Arts,Jada,2015-12-06,F
+Arts,Jen,2015-12-06,F
+Travel,Fritzie,2015-12-06,F
+Arts,Judith,2015-12-06,F
+U.S.,Patrick,2015-12-06,M
+Arts,Roslyn,2015-12-06,F
+N.Y. / Region,Deborah,2015-12-06,F
+Fashion & Style,Rachel,2015-12-06,F
+U.S.,Brent,2015-12-06,M
+Movies,Michael,2015-12-06,M
+Crosswords & Games,Deb,2015-12-06,F
+U.S.,Ainara,2015-12-06,F
+U.S.,Patrick,2015-12-06,M
+U.S.,Patrick,2015-12-06,M
+Fashion & Style,Jonah,2015-12-06,M
+Arts,Brooks,2015-12-06,M
+Arts,Kathryn,2015-12-06,F
+World,International,2015-12-06,U
+Food,Sam,2015-12-06,M
+World,International,2015-12-06,U
+Sports,Benjamin,2015-12-06,M
+Sports,Benjamin,2015-12-06,M
+Sports,Benjamin,2015-12-06,M
+Sports,Benjamin,2015-12-06,M
+Sports,Benjamin,2015-12-06,M
+Sports,Benjamin,2015-12-06,M
+Sports,Benjamin,2015-12-06,M
+Sports,Benjamin,2015-12-06,M
+Sports,Benjamin,2015-12-06,M
+Sports,Benjamin,2015-12-06,M
+Sports,Benjamin,2015-12-06,M
+Sports,Benjamin,2015-12-06,M
+Sports,Benjamin,2015-12-06,M
+Sports,Benjamin,2015-12-06,M
+U.S.,Alexandria,2015-12-06,F
+NYT Now,Andrea,2015-12-06,F
+U.S.,Dave,2015-12-06,M
+Sports,Marc,2015-12-06,M
+Sports,Viv,2015-12-06,F
+Fashion & Style,Vincent,2015-12-06,M
+Books; Arts,Maria,2015-12-06,F
+U.S.,Dave,2015-12-06,M
+U.S.,Liam,2015-12-06,M
+World,Liam,2015-12-06,M
+World,Stephen,2015-12-06,M
+U.S.,Stephanie,2015-12-06,F
+World,Rod,2015-12-06,M
+Sports,Ray,2015-12-06,M
+U.S.,Jennifer,2015-12-06,F
+World,Julfikar,2015-12-06,U
+U.S.,Peter,2015-12-06,M
+World,Jeffrey,2015-12-06,M
+U.S.,Ashley,2015-12-06,F
+World,Elisabetta,2015-12-06,F
+World,Michael,2015-12-06,M
+World,Melissa,2015-12-06,F
+World,Tim,2015-12-06,M
+World,Ian,2015-12-06,M
+Sports,Ben,2015-12-06,M
+U.S.,Amy,2015-12-06,F
+Sports,Gerald,2015-12-06,M
+Opinion,Brian,2015-12-06,M
+Sports,Ken,2015-12-06,M
+Opinion,Kate,2015-12-06,F
+Sports,Benjamin,2015-12-06,M
+U.S.,Ashley,2015-12-06,F
+Sports,Harvey,2015-12-06,M
+Opinion,Josh,2015-12-06,M
+Opinion,Jamil,2015-12-06,M
+Sports,Christopher,2015-12-06,M
+Sunday Review,Rod,2015-12-06,M
+Public Editor,Margaret,2015-12-06,F
+Opinion,Jessica,2015-12-06,F
+Sports,Richard,2015-12-06,M
+N.Y. / Region,Masha,2015-12-06,F
+U.S.,Monica,2015-12-06,F
+Opinion,Blain,2015-12-06,M
+Sports,Allan,2015-12-06,M
+Opinion,Sam,2015-12-06,M
+World,Rukmini,2015-12-06,F
+Opinion,Maria,2015-12-06,F
+Sports,Tyler,2015-12-06,M
+U.S.,Fernanda,2015-12-06,F
+Opinion,Ross,2015-12-06,M
+Opinion,Nicholas,2015-12-06,M
+Business Day,Keith,2015-12-06,M
+Sports,Bill,2015-12-06,M
+Your Money,Jeff,2015-12-06,M
+Your Money,David,2015-12-06,M
+Sports,Bill,2015-12-06,M
+Sports,Ben,2015-12-06,M
+U.S.,Adam,2015-12-06,M
+U.S.,Patrick,2015-12-06,M
+Technology,Natasha,2015-12-06,F
+Sports,Rebecca,2015-12-06,F
+Business Day,Julie,2015-12-06,F
+Sports,Dave,2015-12-06,M
+Real Estate,Ronda,2015-12-06,F
+Arts,Randy,2015-12-06,M
+Technology,Farhad,2015-12-06,M
+Science,John,2015-12-06,M
+World,Norimitsu,2015-12-06,U
+Fashion & Style,Ruth,2015-12-06,F
+Fashion & Style,Laura,2015-12-06,F
+Fashion & Style,George,2015-12-06,M
+Fashion & Style,Matthew,2015-12-06,M
+Fashion & Style,Teddy,2015-12-06,M
+U.S.,Gardiner,2015-12-06,M
+Business Day,Gretchen,2015-12-06,F
+Fashion & Style,Bill,2015-12-06,M
+Fashion & Style,Sophia,2015-12-06,F
+Fashion & Style,Molly,2015-12-06,F
+Fashion & Style,Bee,2015-12-06,M
+Opinion,Scott,2015-12-06,M
+Real Estate,Julie,2015-12-06,F
+N.Y. / Region,Ginia,2015-12-06,F
+N.Y. / Region,Matt,2015-12-06,M
+N.Y. / Region,Jonah,2015-12-06,M
+N.Y. / Region,Corey,2015-12-06,M
+N.Y. / Region,Alan,2015-12-06,M
+N.Y. / Region,John,2015-12-06,M
+Opinion,Lucas,2015-12-06,M
+Books,Molly,2015-12-06,F
+Real Estate,Lisa,2015-12-06,F
+T Magazine,Gabé,2015-12-06,U
+Real Estate,Vivian,2015-12-06,F
+N.Y. / Region,Annie,2015-12-06,F
+Real Estate,Vivian,2015-12-06,F
+Books,John,2015-12-06,M
+N.Y. / Region,Susan,2015-12-06,F
+Fashion & Style,Vincent,2015-12-06,M
+Books,Joumana,2015-12-06,U
+Travel,Hillary,2015-12-06,F
+N.Y. / Region,Ginia,2015-12-06,F
+Books,Marilyn,2015-12-06,F
+Books,Daisy,2015-12-06,F
+Books,Meghan,2015-12-06,F
+The Upshot,Robert,2015-12-06,M
+Books,Alexi,2015-12-06,F
+Books,Siri,2015-12-06,F
+Real Estate,Dan,2015-12-06,M
+Travel,Richard,2015-12-06,M
+Magazine,Malia,2015-12-06,F
+Magazine,Jennifer,2015-12-06,F
+Magazine,Mark,2015-12-06,M
+World,Michael,2015-12-06,M
+Books,Gerry,2015-12-06,M
+Books,Amanda,2015-12-06,F
+Books,Phillip,2015-12-06,M
+Books,Nicholas,2015-12-06,M
+Books,Sasha,2015-12-06,F
+Books,Annette,2015-12-06,F
+Business Day,Katie,2015-12-06,F
+Arts,Rachel,2015-12-06,F
+Fashion & Style,Vanessa,2015-12-06,F
+Real Estate,Ronda,2015-12-06,F
+Books,Monica,2015-12-06,F
+Books,Alan,2015-12-06,M
+Books,Ben,2015-12-06,M
+Books,Peter,2015-12-06,M
+Books,Rob,2015-12-06,M
+Books,Jenny,2015-12-06,F
+Books,Liesl,2015-12-06,F
+Books,Shalom,2015-12-06,M
+Books,Phyllis,2015-12-06,F
+Books,Pete,2015-12-06,M
+Books,Deb,2015-12-06,F
+Books,Emily,2015-12-06,F
+Books,Blake,2015-12-06,M
+Books,Lisa,2015-12-06,F
+N.Y. / Region,Christopher,2015-12-06,M
+N.Y. / Region,Marissa,2015-12-06,F
+N.Y. / Region,Joanne,2015-12-06,F
+N.Y. / Region,Emily,2015-12-06,F
+Arts,Margalit,2015-12-06,F
+N.Y. / Region,Brooke,2015-12-06,F
+N.Y. / Region,Sarah,2015-12-06,F
+N.Y. / Region,Aileen,2015-12-06,F
+Fashion & Style,Philip,2015-12-06,M
+Sports,Benjamin,2015-12-06,M
+Arts,Neil,2015-12-06,M
+Fashion & Style,Anya,2015-12-06,F
+Business Day,Adam,2015-12-06,M
+Fashion & Style,Una,2015-12-06,F
+Movies,Salamishah,2015-12-06,U
+Books,David,2015-12-06,M
+Books,John,2015-12-06,M
+N.Y. / Region,Tammy,2015-12-06,F
+Movies,Manohla,2015-12-06,U
+Travel,Bonnie,2015-12-06,F
+Travel,Patrick,2015-12-06,M
+Magazine,Sam,2015-12-06,M
+Movies,Melena,2015-12-06,F
+Magazine,Rosie,2015-12-06,F
+Books,Eric,2015-12-06,M
+Books,Caryn,2015-12-06,F
+Books,Pamela,2015-12-06,F
+Books,A.,2015-12-06,U
+Real Estate,Joyce,2015-12-06,F
+Fashion & Style,Alix,2015-12-06,F
+Movies,J.,2015-12-06,U
+Arts,David,2015-12-06,M
+Arts,Jason,2015-12-06,M
+N.Y. / Region,Gloria,2015-12-06,F
+Arts,Jon,2015-12-06,M
+Arts,Jack,2015-12-06,M
+Movies,Daniel,2015-12-06,M
+Arts,Neil,2015-12-06,M
+Arts,Ben,2015-12-06,M
+Arts,Dave,2015-12-06,M
+Arts,Holland,2015-12-06,GN
+Theater,Brian,2015-12-06,M
+Arts,Gia,2015-12-06,F
+Theater,Alexis,2015-12-06,F
+Arts,Kathryn,2015-12-06,F
+Theater,Jason,2015-12-06,M
+Travel,Donald,2015-12-06,M
+Magazine,Helen,2015-12-06,F
+Magazine,Jeff,2015-12-06,M
+Magazine,Kwame,2015-12-06,M
+Magazine,Bret,2015-12-06,M
+Magazine,John,2015-12-06,M
+Magazine,Eula,2015-12-06,F
+Books,Deborah,2015-12-06,F
+Books,Alexander,2015-12-06,M
+Books,Cree,2015-12-06,F
+Books,Cree,2015-12-06,F
+Books,Dominique,2015-12-06,F
+Books,Kate,2015-12-06,F
+Books,Neil,2015-12-06,M
+Books,Kate,2015-12-06,F
+Real Estate,Julie,2015-12-06,F
+Arts,Joe,2015-12-06,M
+Travel,Elaine,2015-12-06,F
+Magazine,Pankaj,2015-12-06,U
+Magazine,Parul,2015-12-06,F
+Travel,Lucinda,2015-12-06,F
+Travel,Kelly,2015-12-06,F
+Books,Luc,2015-12-06,M
+Books,Jesse,2015-12-06,M
+Books,Peter,2015-12-06,M
+Books,Stephanie,2015-12-06,F
+Books,Joshua,2015-12-06,M
+Magazine,Interview,2015-12-06,U
+Style,Katie,2015-12-06,F
+Books,Matthew,2015-12-06,M
+Books,Ihsan,2015-12-06,M
+Books,Tom,2015-12-06,M
+Books,Jason,2015-12-06,M
+Travel,Stephanie,2015-12-06,F
+Books,Gregory,2015-12-06,M
+T Magazine,Angela,2015-12-07,F
+Travel,Patrick,2015-12-07,M
+Arts,Scott,2015-12-07,M
+Crosswords & Games,Deb,2015-12-07,F
+U.S.,First,2015-12-07,U
+Technology,Conor,2015-12-07,M
+NYT Now,Andrea,2015-12-07,F
+Arts,Joe,2015-12-07,M
+U.S.,Alan,2015-12-07,M
+U.S.,Jennifer,2015-12-07,F
+T Magazine,Kat,2015-12-07,F
+T Magazine,Hilary,2015-12-07,F
+Magazine,Jason,2015-12-07,M
+Times Insider,Andrew,2015-12-07,M
+U.S.,Patrick,2015-12-07,M
+Opinion,Andrew,2015-12-07,M
+T Magazine,John,2015-12-07,M
+Arts,Brooks,2015-12-07,M
+Opinion,Anna,2015-12-07,F
+Opinion,Ross,2015-12-07,M
+World,Diantha,2015-12-07,F
+T Magazine,Mimi,2015-12-07,F
+T Magazine,Photographs,2015-12-07,U
+Arts,Ben,2015-12-07,M
+Opinion,Jaime,2015-12-07,GN
+U.S.,Amy,2015-12-07,F
+Arts,Michael,2015-12-07,M
+U.S.,Trip,2015-12-07,M
+Arts,Michael,2015-12-07,M
+Crosswords & Games,Gary,2015-12-07,M
+Travel,Jad,2015-12-07,M
+Fashion & Style,Jonah,2015-12-07,M
+Health,Nicholas,2015-12-07,M
+Food,Sam,2015-12-07,M
+Opinion,Eric,2015-12-07,M
+World,International,2015-12-07,U
+Arts,Jen,2015-12-07,F
+Style,Valeriya,2015-12-07,F
+Arts,Michael,2015-12-07,M
+World,International,2015-12-07,U
+Technology,Jim,2015-12-07,M
+Opinion,Paul,2015-12-07,M
+U.S.,First,2015-12-07,U
+Opinion,Paul,2015-12-07,M
+U.S.,Carl,2015-12-07,M
+U.S.,Maggie,2015-12-07,F
+N.Y. / Region,Noah,2015-12-07,M
+NYT Now,Adeel,2015-12-07,M
+Blogs,Amie,2015-12-07,F
+Health,Jane,2015-12-07,F
+Travel,Elaine,2015-12-07,F
+Education,Shannon,2015-12-07,F
+N.Y. / Region,Susanne,2015-12-07,F
+Education,Shannon,2015-12-07,F
+Business Day,Gretchen,2015-12-07,F
+Opinion,Hillary,2015-12-07,F
+Opinion,Bennet,2015-12-07,M
+Opinion,Paul,2015-12-07,M
+Opinion,Brett,2015-12-07,M
+Opinion,Colin,2015-12-07,M
+Education,Larry,2015-12-07,M
+Multimedia/Photos,Jonathan,2015-12-07,M
+U.S.,Liam,2015-12-07,M
+Sports,Benjamin,2015-12-07,M
+Arts,Kathryn,2015-12-07,F
+Business Day,Sydney,2015-12-07,F
+Sports,William,2015-12-07,M
+Sports,Dave,2015-12-07,M
+U.S.,Katharine,2015-12-07,F
+Sports,Benjamin,2015-12-07,M
+Theater,Ben,2015-12-07,M
+U.S.,Adam,2015-12-07,M
+Sports,Brian,2015-12-07,M
+U.S.,Julie,2015-12-07,F
+Sports,Ben,2015-12-07,M
+Sports,Andrew,2015-12-07,M
+World,Declan,2015-12-07,M
+Business Day,Ravi,2015-12-07,M
+Sports,Marc,2015-12-07,M
+N.Y. / Region,Lisa,2015-12-07,F
+Sports,Tim,2015-12-07,M
+World,Coral,2015-12-07,F
+Sports,Lisa,2015-12-07,F
+N.Y. / Region,Kirk,2015-12-07,M
+World,Jonathan,2015-12-07,M
+U.S.,Gardiner,2015-12-07,M
+Business Day,Jack,2015-12-07,M
+Sports,Benjamin,2015-12-07,M
+Sports,Jonah,2015-12-07,M
+Business Day,Robert,2015-12-07,M
+N.Y. / Region,John,2015-12-07,M
+Opinion,Roger,2015-12-07,M
+World,William,2015-12-07,M
+World,Coral,2015-12-07,F
+Arts,Saphora,2015-12-07,U
+Business Day,Sydney,2015-12-07,F
+World,Alissa,2015-12-07,F
+Sports,Ken,2015-12-07,M
+U.S.,Stephanie,2015-12-07,F
+Theater,Alexis,2015-12-07,F
+World,Michael,2015-12-07,M
+Arts,Zachary,2015-12-07,M
+U.S.,Clyde,2015-12-07,M
+Arts,Robin,2015-12-07,F
+Books,Jennifer,2015-12-07,F
+Arts,Siobhan,2015-12-07,F
+Arts,Neil,2015-12-07,M
+U.S.,Monica,2015-12-07,F
+Arts,Gia,2015-12-07,F
+Arts,Anthony,2015-12-07,M
+Arts,Brian,2015-12-07,M
+Arts,David,2015-12-07,M
+Sports,Bill,2015-12-07,M
+U.S.,Michael,2015-12-07,M
+Opinion,Heng,2015-12-07,M
+Opinion,Michelle,2015-12-07,F
+Opinion,Cheng-chwee,2015-12-07,U
+U.S.,Albert,2015-12-07,M
+U.S.,David,2015-12-07,M
+U.S.,Ashley,2015-12-07,F
+Fashion & Style,Joyce,2015-12-07,F
+Fashion & Style,Rachel,2015-12-07,F
+Fashion & Style,Rachel,2015-12-07,F
+Fashion & Style,Elizabeth,2015-12-07,F
+Fashion & Style,Kathleen,2015-12-07,F
+Fashion & Style,Melanie,2015-12-07,F
+Fashion & Style,Victoria,2015-12-07,F
+U.S.,Nicholas,2015-12-07,M
+N.Y. / Region,J.,2015-12-07,U
+U.S.,Jonathan,2015-12-07,M
+Sports,Marc,2015-12-07,M
+U.S.,Julie,2015-12-07,F
+N.Y. / Region,James,2015-12-07,M
+Health,Denise,2015-12-07,F
+World,Patrick,2015-12-07,M
+N.Y. / Region,Michael,2015-12-07,M
+World,Saeed,2015-12-07,M
+Business Day,Sonia,2015-12-07,F
+Sports,Rob,2015-12-07,M
+Business Day,Robert,2015-12-07,M
+U.S.,William,2015-12-07,M
+U.S.,Bruce,2015-12-07,M
+Fashion & Style,Rachel,2015-12-07,F
+Arts,Scott,2015-12-07,M
+Technology,Farhad,2015-12-07,M
+T Magazine,Photographs,2015-12-08,U
+Arts,Neil,2015-12-08,M
+Movies,Nicolas,2015-12-08,M
+U.S.,Patrick,2015-12-08,M
+Arts,Ben,2015-12-08,M
+Crosswords & Games,Deb,2015-12-08,F
+U.S.,Peter,2015-12-08,M
+U.S.,Ashley,2015-12-08,F
+U.S.,Alan,2015-12-08,M
+Arts,Michael,2015-12-08,M
+NYT Now,Andrea,2015-12-08,F
+T Magazine,Julie,2015-12-08,F
+T Magazine,Charlotte,2015-12-08,F
+Universal,Por,2015-12-08,U
+Opinion,Elizabeth,2015-12-08,F
+Technology,John,2015-12-08,M
+Arts,Simon,2015-12-08,M
+U.S.,Nick,2015-12-08,M
+Movies,Brooks,2015-12-08,M
+U.S.,Julie,2015-12-08,F
+Times Insider,Susan,2015-12-08,F
+T Magazine,Kat,2015-12-08,F
+Fashion & Style,Elizabeth,2015-12-08,F
+Opinion,Okey,2015-12-08,M
+U.S.,Maggie,2015-12-08,F
+Arts,Alexandra,2015-12-08,F
+U.S.,Patricia,2015-12-08,F
+Health,Nicholas,2015-12-08,M
+U.S.,Alan,2015-12-08,M
+T Magazine,Hilary,2015-12-08,F
+U.S.,Emmarie,2015-12-08,F
+U.S.,Kim,2015-12-08,F
+Real Estate,Michelle,2015-12-08,F
+U.S.,Anand,2015-12-08,M
+Arts,Michael,2015-12-08,M
+Health,Nicholas,2015-12-08,M
+Arts,George,2015-12-08,M
+Opinion,Bret,2015-12-08,M
+U.S.,Nick,2015-12-08,M
+World,International,2015-12-08,U
+Opinion,Paul,2015-12-08,M
+Opinion,Paul,2015-12-08,M
+U.S.,Alexander,2015-12-08,M
+Education,Michael,2015-12-08,M
+Technology,Jim,2015-12-08,M
+World,International,2015-12-08,U
+N.Y. / Region,Rose,2015-12-08,F
+U.S.,Michael,2015-12-08,M
+Education,Katherine,2015-12-08,F
+U.S.,Maggie,2015-12-08,F
+Times Topics,Philip,2015-12-08,M
+Arts,Alastair,2015-12-08,M
+Movies,Cara,2015-12-08,F
+U.S.,Maggie,2015-12-08,F
+Opinion,Patrick,2015-12-08,M
+U.S.,Giovanni,2015-12-08,M
+Blogs,Amie,2015-12-08,F
+U.S.,Carl,2015-12-08,M
+U.S.,John,2015-12-08,M
+U.S.,Amy,2015-12-08,F
+N.Y. / Region,Tatiana,2015-12-08,F
+NYT Now,Adeel,2015-12-08,M
+Health,Gretchen,2015-12-08,F
+Education,Michael,2015-12-08,M
+Opinion,Flora,2015-12-08,F
+Opinion,Tina,2015-12-08,F
+Opinion,Michael,2015-12-08,M
+Opinion,David,2015-12-08,M
+Opinion,Elise,2015-12-08,F
+Opinion,Emma,2015-12-08,F
+Opinion,George,2015-12-08,M
+Multimedia/Photos,James,2015-12-08,M
+Science,Henry,2015-12-08,M
+Arts,Dave,2015-12-08,M
+Arts,Kathryn,2015-12-08,F
+N.Y. / Region,Ashley,2015-12-08,F
+Sports,Tyler,2015-12-08,M
+Sports,Richard,2015-12-08,M
+N.Y. / Region,John,2015-12-08,M
+Sports,Ben,2015-12-08,M
+Sports,Scott,2015-12-08,M
+Sports,Tim,2015-12-08,M
+Sports,Christopher,2015-12-08,M
+Business Day,Jonathan,2015-12-08,M
+Sports,Richard,2015-12-08,M
+Theater,Ben,2015-12-08,M
+N.Y. / Region,James,2015-12-08,M
+Sports,Bill,2015-12-08,M
+N.Y. / Region,Sarah,2015-12-08,F
+N.Y. / Region,Elizabeth,2015-12-08,F
+Sports,Seth,2015-12-08,M
+U.S.,Matt,2015-12-08,M
+World,William,2015-12-08,M
+World,William,2015-12-08,M
+Technology,Nicole,2015-12-08,F
+U.S.,Erik,2015-12-08,M
+World,Rukmini,2015-12-08,F
+World,Elisabetta,2015-12-08,F
+Fashion & Style,Margalit,2015-12-08,F
+N.Y. / Region,Margalit,2015-12-08,F
+Business Day,Andrew,2015-12-08,M
+Sports,Michael,2015-12-08,M
+U.S.,Michael,2015-12-08,M
+N.Y. / Region,Benjamin,2015-12-08,M
+Business Day,Clifford,2015-12-08,M
+World,Daniel,2015-12-08,M
+U.S.,Carl,2015-12-08,M
+N.Y. / Region,Emma,2015-12-08,F
+World,Rick,2015-12-08,M
+Business Day,Daniel,2015-12-08,M
+Business Day,Jackie,2015-12-08,GN
+U.S.,Anemona,2015-12-08,U
+Business Day,Sydney,2015-12-08,F
+Business Day,Emily,2015-12-08,F
+Business Day,Sydney,2015-12-08,F
+U.S.,Adam,2015-12-08,M
+World,Alissa,2015-12-08,F
+Sports,Nathaniel,2015-12-08,M
+Theater,Alexis,2015-12-08,F
+Arts,Gia,2015-12-08,F
+Arts,Saphora,2015-12-08,U
+Books,Michiko,2015-12-08,F
+World,Ben,2015-12-08,M
+U.S.,Julia,2015-12-08,F
+Business Day,Landon,2015-12-08,M
+N.Y. / Region,Matt,2015-12-08,M
+Theater,Neil,2015-12-08,M
+Arts,Anthony,2015-12-08,M
+Arts,David,2015-12-08,M
+World,Nick,2015-12-08,M
+Sports,Andrew,2015-12-08,M
+Business Day,Matthew,2015-12-08,M
+World,Stephen,2015-12-08,M
+Business Day,Michael,2015-12-08,M
+U.S.,Katie,2015-12-08,F
+World,Richard,2015-12-08,M
+U.S.,Adam,2015-12-08,M
+Business Day,Kevin,2015-12-08,M
+World,Marlise,2015-12-08,F
+Arts,Christopher,2015-12-08,M
+Business Day,Liz,2015-12-08,F
+World,Salman,2015-12-08,M
+Business Day,Landon,2015-12-08,M
+U.S.,Alan,2015-12-08,M
+U.S.,Sheryl,2015-12-08,F
+Business Day,Martha,2015-12-08,F
+World,Nick,2015-12-08,M
+Business Day,Liz,2015-12-08,F
+World,Peter,2015-12-08,M
+Science,Justin,2015-12-08,M
+Sports,Tyler,2015-12-08,M
+Sports,Andrew,2015-12-08,M
+U.S.,Monica,2015-12-08,F
+U.S.,Rick,2015-12-08,M
+U.S.,Fernanda,2015-12-08,F
+Health,Kira,2015-12-08,F
+Science,Sindya,2015-12-08,U
+Your Money,Carl,2015-12-08,M
+Health,Christine,2015-12-08,F
+Business Day,Peter,2015-12-08,M
+Sports,Benjamin,2015-12-08,M
+N.Y. / Region,Lisa,2015-12-08,F
+Style,Katie,2015-12-08,F
+U.S.,Jennifer,2015-12-08,F
+U.S.,Adam,2015-12-08,M
+The Upshot,Josh,2015-12-08,M
+Science,C.,2015-12-08,U
+N.Y. / Region,Corey,2015-12-08,M
+U.S.,Adam,2015-12-08,M
+World,Edward,2015-12-08,M
+World,Hwaida,2015-12-08,U
+Technology,J.,2015-12-08,U
+Fashion & Style,Vanessa,2015-12-08,F
+Business Day,Leslie,2015-12-08,F
+World,Andrew,2015-12-08,M
+Arts,Robin,2015-12-08,F
+Arts,Ben,2015-12-08,M
+Movies,Cara,2015-12-08,F
+Arts,Nick,2015-12-08,M
+Opinion,Masha,2015-12-08,F
+Business Day,Celestine,2015-12-08,F
+The Upshot,Austin,2015-12-08,M
+Business Day,Maggie,2015-12-08,F
+Business Day,Chris,2015-12-08,M
+Science,Rachel,2015-12-08,F
+Science,Sindya,2015-12-08,U
+Business Day,Maggie,2015-12-08,F
+Business Day,Paul,2015-12-08,M
+U.S.,David,2015-12-08,M
+Business Day,Amie,2015-12-08,F
+Business Day,Chad,2015-12-08,M
+Movies,William,2015-12-08,M
+Arts,James,2015-12-08,M
+N.Y. / Region,Al,2015-12-08,M
+Health,Paula,2015-12-08,F
+Science,Sindya,2015-12-08,U
+Science,John,2015-12-08,M
+Science,Carl,2015-12-08,M
+U.S.,Sam,2015-12-08,M
+Books,Matt,2015-12-09,M
+Arts,Simon,2015-12-09,M
+Crosswords & Games,Deb,2015-12-09,F
+Fashion & Style,Erica,2015-12-09,F
+Arts,Holland,2015-12-09,GN
+U.S.,Maggie,2015-12-09,F
+U.S.,Maggie,2015-12-09,F
+U.S.,Amy,2015-12-09,F
+Movies,Manohla,2015-12-09,U
+U.S.,First,2015-12-09,U
+NYT Now,Andrea,2015-12-09,F
+T Magazine,Alexandria,2015-12-09,F
+Health,Nicholas,2015-12-09,M
+Technology,Katie,2015-12-09,F
+Arts,Cara,2015-12-09,F
+Arts,Michael,2015-12-09,M
+Opinion,Emma,2015-12-09,F
+U.S.,Ashley,2015-12-09,F
+Travel,Seth,2015-12-09,M
+T Magazine,Alexis,2015-12-09,F
+U.S.,Brent,2015-12-09,M
+Arts,Graham,2015-12-09,M
+U.S.,Amy,2015-12-09,F
+Education,Michael,2015-12-09,M
+Opinion,Paul,2015-12-09,M
+Opinion,Paul,2015-12-09,M
+U.S.,Alan,2015-12-09,M
+Health,Roni,2015-12-09,F
+The Upshot,Ari,2015-12-09,M
+U.S.,Matt,2015-12-09,M
+Arts,Claudia,2015-12-09,F
+Technology,Kit,2015-12-09,M
+Opinion,Andrew,2015-12-09,M
+Arts,Jeremy,2015-12-09,M
+Books,Maria,2015-12-09,F
+Arts,Michael,2015-12-09,M
+Opinion,Sergei,2015-12-09,M
+Opinion,Phil,2015-12-09,M
+Food,Sam,2015-12-09,M
+Technology,Jim,2015-12-09,M
+Arts,Roslyn,2015-12-09,F
+U.S.,Ashley,2015-12-09,F
+Real Estate,Marcelle,2015-12-09,F
+World,International,2015-12-09,U
+World,International,2015-12-09,U
+U.S.,Jodi,2015-12-09,F
+T Magazine,Hilary,2015-12-09,F
+Opinion,Josh,2015-12-09,M
+N.Y. / Region,Paul,2015-12-09,M
+Opinion,Wajahat,2015-12-09,U
+Travel,Shivani,2015-12-09,F
+U.S.,Maggie,2015-12-09,F
+U.S.,Carl,2015-12-09,M
+U.S.,Nick,2015-12-09,M
+Blogs,Amie,2015-12-09,F
+N.Y. / Region,Tatiana,2015-12-09,F
+Arts,Michael,2015-12-09,M
+U.S.,Alan,2015-12-09,M
+Science,Matt,2015-12-09,M
+U.S.,Ron,2015-12-09,M
+NYT Now,Adeel,2015-12-09,M
+Health,Nicholas,2015-12-09,M
+Health,Gretchen,2015-12-09,F
+Education,Katherine,2015-12-09,F
+Education,Katherine,2015-12-09,F
+Opinion,Katy,2015-12-09,F
+World,Austin,2015-12-09,M
+Opinion,Sheen,2015-12-09,GN
+Opinion,Thomas,2015-12-09,M
+Opinion,Thomas,2015-12-09,M
+Multimedia/Photos,David,2015-12-09,M
+Multimedia/Photos,David,2015-12-09,M
+U.S.,Abby,2015-12-09,F
+Science,John,2015-12-09,M
+Sports,Seth,2015-12-09,M
+U.S.,Yamiche,2015-12-09,U
+Health,Sabrina,2015-12-09,F
+Business Day,Hiroko,2015-12-09,F
+N.Y. / Region,Ashley,2015-12-09,F
+Business Day,Leslie,2015-12-09,F
+U.S.,Scott,2015-12-09,M
+N.Y. / Region,Kate,2015-12-09,F
+Business Day,Victor,2015-12-09,M
+U.S.,Katharine,2015-12-09,F
+N.Y. / Region,Michael,2015-12-09,M
+N.Y. / Region,John,2015-12-09,M
+U.S.,Jennifer,2015-12-09,F
+U.S.,Rick,2015-12-09,M
+N.Y. / Region,Jim,2015-12-09,M
+Sports,Tyler,2015-12-09,M
+U.S.,Bruce,2015-12-09,M
+Business Day,Ben,2015-12-09,M
+Sports,David,2015-12-09,M
+U.S.,Charlie,2015-12-09,M
+World,Edward,2015-12-09,M
+Sports,Richard,2015-12-09,M
+Business Day,Danielle,2015-12-09,F
+Business Day,Daniel,2015-12-09,M
+World,David,2015-12-09,M
+Sports,Tim,2015-12-09,M
+Sports,Christopher,2015-12-09,M
+World,Rick,2015-12-09,M
+World,William,2015-12-09,M
+Business Day,Ben,2015-12-09,M
+U.S.,Manny,2015-12-09,M
+Business Day,Stephanie,2015-12-09,F
+Obituaries,Rachel,2015-12-09,F
+Real Estate,Rosalie,2015-12-09,F
+N.Y. / Region,Mike,2015-12-09,M
+World,Rana,2015-12-09,F
+N.Y. / Region,Elizabeth,2015-12-09,F
+Business Day,Liz,2015-12-09,F
+World,Coral,2015-12-09,F
+World,Dan,2015-12-09,M
+World,Anne,2015-12-09,F
+Real Estate,Vivian,2015-12-09,F
+Technology,Mark,2015-12-09,M
+World,Rick,2015-12-09,M
+Technology,Michael,2015-12-09,M
+Arts,James,2015-12-09,M
+Arts,Tom,2015-12-09,M
+Business Day,Steven,2015-12-09,M
+Business Day,Sydney,2015-12-09,F
+Arts,Zachary,2015-12-09,M
+Sports,Rebecca,2015-12-09,F
+Books,Dwight,2015-12-09,M
+Arts,Anthony,2015-12-09,M
+Opinion,Frank,2015-12-09,M
+World,Didi,2015-12-09,F
+Business Day,Coral,2015-12-09,F
+Business Day,Alexandra,2015-12-09,F
+Business Day,Eduardo,2015-12-09,M
+World,Stanley,2015-12-09,M
+World,Isabel,2015-12-09,F
+Business Day,Michael,2015-12-09,M
+N.Y. / Region,Al,2015-12-09,M
+N.Y. / Region,Katie,2015-12-09,F
+Business Day,Robert,2015-12-09,M
+Real Estate,Brian,2015-12-09,M
+U.S.,Jonathan,2015-12-09,M
+Business Day,Liz,2015-12-09,F
+Food,Pete,2015-12-09,M
+World,David,2015-12-09,M
+Business Day,Ron,2015-12-09,M
+Sports,Naila-jean,2015-12-09,U
+Business Day,Vinod,2015-12-09,M
+The Upshot,Lynn,2015-12-09,F
+Food,Pete,2015-12-09,M
+U.S.,Sheryl,2015-12-09,F
+World,Ivan,2015-12-09,M
+N.Y. / Region,Liz,2015-12-09,F
+N.Y. / Region,William,2015-12-09,M
+U.S.,Timothy,2015-12-09,M
+World,James,2015-12-09,M
+Sports,Sam,2015-12-09,M
+Food,Florence,2015-12-09,F
+Business Day,Liz,2015-12-09,F
+U.S.,Maggie,2015-12-09,F
+The Upshot,Justin,2015-12-09,M
+Sports,Juliet,2015-12-09,F
+N.Y. / Region,Mireya,2015-12-09,F
+World,Christine,2015-12-09,F
+Arts,Joe,2015-12-09,M
+Business Day,Leslie,2015-12-09,F
+Food,Martha,2015-12-09,F
+World,Elisabetta,2015-12-09,F
+Sports,Victor,2015-12-09,M
+U.S.,John,2015-12-09,M
+World,Saphora,2015-12-09,U
+Business Day,Clifford,2015-12-09,M
+Business Day,Mike,2015-12-09,M
+Technology,J.,2015-12-09,U
+Business Day,Leslie,2015-12-09,F
+U.S.,Mitch,2015-12-09,M
+World,Peter,2015-12-09,M
+Opinion,Raúl,2015-12-09,U
+The Upshot,Gregg,2015-12-09,M
+Opinion,Beppe,2015-12-09,U
+World,Edward,2015-12-09,M
+World,Edward,2015-12-09,M
+Technology,Mark,2015-12-09,M
+Food,Jacques,2015-12-09,M
+Sports,Dave,2015-12-09,M
+Business Day,Beth,2015-12-09,F
+Business Day,Erica,2015-12-09,F
+Business Day,Conrad,2015-12-09,M
+Arts,Joyce,2015-12-09,F
+Business Day,Conrad,2015-12-09,M
+Sports,Rob,2015-12-09,M
+N.Y. / Region,Kate,2015-12-09,F
+U.S.,Adam,2015-12-09,M
+U.S.,Adam,2015-12-09,M
+World,Didi,2015-12-09,F
+Science,William,2015-12-09,M
+Food,Kim,2015-12-09,F
+Food,Florence,2015-12-09,F
+Sports,Chase,2015-12-09,M
+Food,Ligaya,2015-12-09,F
+Business Day,David,2015-12-09,M
+Food,David,2015-12-09,M
+Food,Melissa,2015-12-09,F
+Food,Eric,2015-12-09,M
+Food,Eric,2015-12-09,M
+Food,Ligaya,2015-12-09,F
+Food,Robert,2015-12-09,M
+Arts,Rachel,2015-12-10,F
+Movies,A.,2015-12-10,U
+Movies,Manohla,2015-12-10,U
+Movies,A.,2015-12-10,U
+N.Y. / Region,Liz,2015-12-10,F
+Crosswords & Games,Deb,2015-12-10,F
+Movies,Andy,2015-12-10,M
+Movies,Neil,2015-12-10,M
+Movies,Glenn,2015-12-10,M
+Movies,Neil,2015-12-10,M
+Movies,Jeannette,2015-12-10,F
+U.S.,First,2015-12-10,U
+Movies,Ben,2015-12-10,M
+Movies,Nicolas,2015-12-10,M
+Technology,Vindu,2015-12-10,U
+Education,Katherine,2015-12-10,F
+Movies,Ainara,2015-12-10,F
+Movies,Ainara,2015-12-10,F
+Movies,Ainara,2015-12-10,F
+U.S.,Michael,2015-12-10,M
+U.S.,Michael,2015-12-10,M
+NYT Now,Andrea,2015-12-10,F
+T Magazine,Hannah,2015-12-10,F
+T Magazine,Isabel,2015-12-10,F
+U.S.,Alan,2015-12-10,M
+Movies,Mekado,2015-12-10,U
+U.S.,Yamiche,2015-12-10,U
+U.S.,Kj,2015-12-10,M
+U.S.,Trip,2015-12-10,M
+Opinion,Anna,2015-12-10,F
+U.S.,Maggie,2015-12-10,F
+T Magazine,Caroline,2015-12-10,F
+Technology,Jane,2015-12-10,F
+T Magazine,Alexander,2015-12-10,M
+Technology,Vindu,2015-12-10,U
+Opinion,Ross,2015-12-10,M
+Arts,Joe,2015-12-10,M
+Travel,Elaine,2015-12-10,F
+Opinion,Graphic,2015-12-10,U
+Travel,Christopher,2015-12-10,M
+Magazine,Daniel,2015-12-10,M
+Health,Dhruv,2015-12-10,M
+Opinion,Serge,2015-12-10,M
+World,International,2015-12-10,U
+Arts,Michael,2015-12-10,M
+Arts,E.,2015-12-10,U
+Arts,Nina,2015-12-10,F
+U.S.,Nick,2015-12-10,M
+Fashion & Style,Marianne,2015-12-10,F
+Arts,Michael,2015-12-10,M
+U.S.,Gregor,2015-12-10,M
+T Magazine,Noah,2015-12-10,M
+Science,Michael,2015-12-10,M
+Technology,Jim,2015-12-10,M
+U.S.,Maggie,2015-12-10,F
+World,International,2015-12-10,U
+Health,Jen,2015-12-10,F
+N.Y. / Region,Bernard,2015-12-10,M
+The Upshot,Brendan,2015-12-10,M
+U.S.,Alan,2015-12-10,M
+Opinion,Joseph,2015-12-10,M
+U.S.,First,2015-12-10,U
+U.S.,Maggie,2015-12-10,F
+Magazine,Daniel,2015-12-10,M
+Magazine,Daniel,2015-12-10,M
+Magazine,Daniel,2015-12-10,M
+Magazine,Daniel,2015-12-10,M
+Magazine,Daniel,2015-12-10,M
+Magazine,Daniel,2015-12-10,M
+Magazine,Daniel,2015-12-10,M
+Magazine,Daniel,2015-12-10,M
+Magazine,Daniel,2015-12-10,M
+Magazine,Daniel,2015-12-10,M
+Magazine,Daniel,2015-12-10,M
+U.S.,Megan,2015-12-10,F
+U.S.,Carl,2015-12-10,M
+N.Y. / Region,Tatiana,2015-12-10,F
+Health,Gretchen,2015-12-10,F
+U.S.,Maggie,2015-12-10,F
+Blogs,Amie,2015-12-10,F
+NYT Now,Adeel,2015-12-10,M
+Education,Katherine,2015-12-10,F
+Opinion,Jeremy,2015-12-10,M
+Opinion,Ji,2015-12-10,F
+Opinion,Roger,2015-12-10,M
+Education,Michael,2015-12-10,M
+Opinion,Ross,2015-12-10,M
+Opinion,George,2015-12-10,M
+The Upshot,Claire,2015-12-10,F
+Opinion,Charles,2015-12-10,M
+Opinion,Linda,2015-12-10,F
+Opinion,Gail,2015-12-10,F
+Opinion,David,2015-12-10,M
+Multimedia/Photos,James,2015-12-10,M
+Theater,Laura,2015-12-10,F
+Arts,Kathryn,2015-12-10,F
+Fashion & Style,John,2015-12-10,M
+Sports,Andrew,2015-12-10,M
+Business Day,Hiroko,2015-12-10,F
+Business Day,Bill,2015-12-10,M
+U.S.,Kirk,2015-12-10,M
+N.Y. / Region,Michael,2015-12-10,M
+U.S.,Manny,2015-12-10,M
+World,Michelle,2015-12-10,F
+Sports,Tyler,2015-12-10,M
+World,Rick,2015-12-10,M
+U.S.,Jennifer,2015-12-10,F
+U.S.,Peter,2015-12-10,M
+U.S.,David,2015-12-10,M
+U.S.,Liam,2015-12-10,M
+Sports,David,2015-12-10,M
+World,Margalit,2015-12-10,F
+U.S.,David,2015-12-10,M
+Sports,Tyler,2015-12-10,M
+U.S.,Bruce,2015-12-10,M
+Sports,Mike,2015-12-10,M
+U.S.,Coral,2015-12-10,F
+Business Day,Vinod,2015-12-10,M
+World,Sheri,2015-12-10,F
+Business Day,Ben,2015-12-10,M
+Business Day,Andrew,2015-12-10,M
+Business Day,Danielle,2015-12-10,F
+Fashion & Style,Alison,2015-12-10,F
+N.Y. / Region,John,2015-12-10,M
+Business Day,Nelson,2015-12-10,M
+World,William,2015-12-10,M
+Business Day,Hala,2015-12-10,F
+N.Y. / Region,Patrick,2015-12-10,M
+Sports,Brett,2015-12-10,M
+World,Isabel,2015-12-10,F
+World,Ian,2015-12-10,M
+N.Y. / Region,J.,2015-12-10,U
+U.S.,Monica,2015-12-10,F
+Health,Denise,2015-12-10,F
+U.S.,Jonathan,2015-12-10,M
+Fashion & Style,Matthew,2015-12-10,M
+Business Day,Michael,2015-12-10,M
+Movies,Cara,2015-12-10,F
+World,Keith,2015-12-10,M
+Sports,Marc,2015-12-10,M
+Books,Janet,2015-12-10,F
+U.S.,Charlie,2015-12-10,M
+U.S.,Alan,2015-12-10,M
+Business Day,Mary,2015-12-10,F
+Sports,Jason,2015-12-10,M
+Business Day,Leslie,2015-12-10,F
+U.S.,Julie,2015-12-10,F
+Arts,Joshua,2015-12-10,M
+Arts,John,2015-12-10,M
+Business Day,Ravi,2015-12-10,M
+Style,Jacob,2015-12-10,M
+Fashion & Style,Guy,2015-12-10,M
+Arts,James,2015-12-10,M
+Arts,Brian,2015-12-10,M
+Fashion & Style,Alex,2015-12-10,M
+Arts,Ben,2015-12-10,M
+World,Ellen,2015-12-10,F
+Fashion & Style,Penelope,2015-12-10,F
+N.Y. / Region,William,2015-12-10,M
+Arts,Nate,2015-12-10,M
+Arts,Jon,2015-12-10,M
+U.S.,Richard,2015-12-10,M
+Business Day,Liz,2015-12-10,F
+Your Money,Ann,2015-12-10,F
+World,Javier,2015-12-10,M
+Business Day,Ben,2015-12-10,M
+Sports,Michael,2015-12-10,M
+World,Isabel,2015-12-10,F
+World,Nick,2015-12-10,M
+Sports,Tim,2015-12-10,M
+Technology,Gregory,2015-12-10,M
+World,Suzanne,2015-12-10,F
+Business Day,Alexandra,2015-12-10,F
+U.S.,Mike,2015-12-10,M
+U.S.,Eric,2015-12-10,M
+Fashion & Style,Ruth,2015-12-10,F
+World,Manu,2015-12-10,M
+Business Day,Jack,2015-12-10,M
+Business Day,Jennifer,2015-12-10,F
+Arts,David,2015-12-10,M
+Business Day,Steven,2015-12-10,M
+Business Day,Sam,2015-12-10,M
+N.Y. / Region,Alexander,2015-12-10,M
+U.S.,Robert,2015-12-10,M
+Technology,Kit,2015-12-10,M
+Fashion & Style,Katie,2015-12-10,F
+Fashion & Style,Brian,2015-12-10,M
+Business Day,Sam,2015-12-10,M
+Technology,Farhad,2015-12-10,M
+Sports,Richard,2015-12-10,M
+Business Day,Andrew,2015-12-10,M
+World,Anne,2015-12-10,F
+Business Day,Christine,2015-12-10,F
+U.S.,Emmarie,2015-12-10,F
+World,Helene,2015-12-10,F
+U.S.,Michael,2015-12-10,M
+Movies,Cara,2015-12-10,F
+World,Alison,2015-12-10,F
+Arts,Elian,2015-12-10,M
+Sports,Victor,2015-12-10,M
+Business Day,Constance,2015-12-10,F
+U.S.,Matt,2015-12-10,M
+U.S.,Christine,2015-12-10,F
+Technology,J.,2015-12-10,U
+N.Y. / Region,Sarah,2015-12-10,F
+World,Dan,2015-12-10,M
+World,Nick,2015-12-10,M
+Real Estate,Mike,2015-12-10,M
+Fashion & Style,Vanessa,2015-12-10,F
+Business Day,David,2015-12-10,M
+Opinion,Jochen,2015-12-10,U
+World,Coral,2015-12-10,F
+U.S.,Sheryl,2015-12-10,F
+The Upshot,Toni,2015-12-10,F
+World,Thomas,2015-12-10,M
+Technology,Vindu,2015-12-10,U
+U.S.,Yamiche,2015-12-10,U
+Sports,Jill,2015-12-10,F
+World,Shaojie,2015-12-10,U
+World,Rod,2015-12-10,M
+Business Day,Elizabeth,2015-12-10,F
+World,Taimoor,2015-12-10,M
+World,Alissa,2015-12-10,F
+World,Edward,2015-12-10,M
+N.Y. / Region,David,2015-12-10,M
+World,Helene,2015-12-10,F
+Fashion & Style,Molly,2015-12-10,F
+U.S.,Robert,2015-12-10,M
+U.S.,Adam,2015-12-10,M
+U.S.,Adam,2015-12-10,M
+Fashion & Style,Alyson,2015-12-10,F
+Sports,Rob,2015-12-10,M
+World,Michelle,2015-12-10,F
+Business Day,Amie,2015-12-10,F
+Opinion,Peter,2015-12-10,M
+Fashion & Style,Steven,2015-12-10,M
+Technology,Katie,2015-12-10,F
+Theater,Alexis,2015-12-10,F
+Arts,James,2015-12-10,M
+Fashion & Style,Bee,2015-12-10,M
+Fashion & Style,Guy,2015-12-10,M
+Food,Jeff,2015-12-11,M
+Business Day,Pradnya,2015-12-11,U
+Opinion,Photographs,2015-12-11,U
+Fashion & Style,Bee,2015-12-11,M
+Arts,Mike,2015-12-11,M
+Fashion & Style,Bill,2015-12-11,M
+Crosswords & Games,Deb,2015-12-11,F
+Arts,Ben,2015-12-11,M
+U.S.,Katie,2015-12-11,F
+U.S.,Alan,2015-12-11,M
+NYT Now,Andrea,2015-12-11,F
+Times Insider,Maureen,2015-12-11,F
+T Magazine,Alex,2015-12-11,M
+Opinion,Andrew,2015-12-11,M
+Magazine,Anand,2015-12-11,M
+U.S.,John,2015-12-11,M
+U.S.,Nick,2015-12-11,M
+T Magazine,Eimear,2015-12-11,F
+Opinion,R.,2015-12-11,U
+U.S.,Kj,2015-12-11,M
+Opinion,Masha,2015-12-11,F
+Opinion,Tricia,2015-12-11,F
+Arts,John,2015-12-11,M
+T Magazine,Nathan,2015-12-11,M
+Magazine,Avi,2015-12-11,M
+T Magazine,Hilary,2015-12-11,F
+Food,Alec,2015-12-11,M
+Business Day,Amie,2015-12-11,F
+Opinion,Andrew,2015-12-11,M
+Arts,Elisabetta,2015-12-11,F
+Opinion,Andrew,2015-12-11,M
+Magazine,Danusha,2015-12-11,U
+Arts,Christopher,2015-12-11,M
+Food,Sam,2015-12-11,M
+World,International,2015-12-11,U
+World,International,2015-12-11,U
+Education,Michael,2015-12-11,M
+T Magazine,Gia,2015-12-11,F
+Technology,Jim,2015-12-11,M
+Times Insider,Susan,2015-12-11,F
+U.S.,Alan,2015-12-11,M
+Movies,Ainara,2015-12-11,F
+N.Y. / Region,Beth,2015-12-11,F
+Multimedia/Photos,Fayemi,2015-12-11,U
+Movies,Cara,2015-12-11,F
+U.S.,Maggie,2015-12-11,F
+Magazine,Lisa,2015-12-11,F
+U.S.,Carl,2015-12-11,M
+Health,Toby,2015-12-11,M
+Arts,Christopher,2015-12-11,M
+N.Y. / Region,Tatiana,2015-12-11,F
+U.S.,Alan,2015-12-11,M
+Technology,Paul,2015-12-11,M
+Blogs,Amie,2015-12-11,F
+NYT Now,Adeel,2015-12-11,M
+Health,Karen,2015-12-11,F
+Travel,Elaine,2015-12-11,F
+Education,Michael,2015-12-11,M
+U.S.,Alan,2015-12-11,M
+Education,Michael,2015-12-11,M
+World,Derek,2015-12-11,M
+Sports,Andrew,2015-12-11,M
+Opinion,Aatish,2015-12-11,M
+Opinion,Timothy,2015-12-11,M
+Opinion,David,2015-12-11,M
+Opinion,Paul,2015-12-11,M
+Arts,Kathryn,2015-12-11,F
+Arts,Laurel,2015-12-11,F
+Arts,Joshua,2015-12-11,M
+U.S.,Liam,2015-12-11,M
+N.Y. / Region,Winnie,2015-12-11,F
+U.S.,Sabrina,2015-12-11,F
+Sports,Zach,2015-12-11,M
+N.Y. / Region,John,2015-12-11,M
+N.Y. / Region,David,2015-12-11,M
+N.Y. / Region,Jesse,2015-12-11,M
+Arts,Daniel,2015-12-11,M
+U.S.,Dave,2015-12-11,M
+Theater,Ben,2015-12-11,M
+Business Day,Stephanie,2015-12-11,F
+Sports,John,2015-12-11,M
+U.S.,Katharine,2015-12-11,F
+N.Y. / Region,Michael,2015-12-11,M
+Arts,Margalit,2015-12-11,F
+World,Simon,2015-12-11,M
+U.S.,Rick,2015-12-11,M
+U.S.,Emmarie,2015-12-11,F
+World,Ben,2015-12-11,M
+U.S.,Anemona,2015-12-11,U
+Sports,Tyler,2015-12-11,M
+Sports,Gary,2015-12-11,M
+World,Coral,2015-12-11,F
+U.S.,Jackie,2015-12-11,GN
+N.Y. / Region,Jim,2015-12-11,M
+U.S.,David,2015-12-11,M
+Arts,Jon,2015-12-11,M
+N.Y. / Region,Patrick,2015-12-11,M
+U.S.,Julie,2015-12-11,F
+World,Sewell,2015-12-11,M
+U.S.,Sheryl,2015-12-11,F
+Automobiles,Daniel,2015-12-11,M
+World,Rick,2015-12-11,M
+Arts,Robin,2015-12-11,F
+U.S.,Amy,2015-12-11,F
+Arts,Eve,2015-12-11,F
+Arts,Joshua,2015-12-11,M
+Arts,Roberta,2015-12-11,F
+Arts,Roberta,2015-12-11,F
+Arts,Ken,2015-12-11,M
+Arts,Joshua,2015-12-11,M
+Arts,Holland,2015-12-11,GN
+Arts,Joshua,2015-12-11,M
+Arts,Joshua,2015-12-11,M
+Arts,Roberta,2015-12-11,F
+Arts,Gia,2015-12-11,F
+Arts,Alastair,2015-12-11,M
+U.S.,Mike,2015-12-11,M
+U.S.,Jonathan,2015-12-11,M
+Arts,Zachary,2015-12-11,M
+Theater,Laura,2015-12-11,F
+Business Day,Jad,2015-12-11,M
+Arts,Ken,2015-12-11,M
+World,Gaia,2015-12-11,F
+Arts,Vivien,2015-12-11,F
+Business Day,Vindu,2015-12-11,U
+Business Day,James,2015-12-11,M
+U.S.,Ashley,2015-12-11,F
+World,David,2015-12-11,M
+U.S.,Dave,2015-12-11,M
+World,Isabel,2015-12-11,F
+Theater,Alexis,2015-12-11,F
+Sports,Tom,2015-12-11,M
+World,Robert,2015-12-11,M
+Arts,Joshua,2015-12-11,M
+Arts,Nate,2015-12-11,M
+Arts,Robin,2015-12-11,F
+N.Y. / Region,Kate,2015-12-11,F
+Movies,Mekado,2015-12-11,U
+Business Day,Michael,2015-12-11,M
+Business Day,Landon,2015-12-11,M
+World,Choe,2015-12-11,U
+Business Day,Landon,2015-12-11,M
+Business Day,Danielle,2015-12-11,F
+Sports,Christopher,2015-12-11,M
+Sports,Benjamin,2015-12-11,M
+Sports,Richard,2015-12-11,M
+Books,Michiko,2015-12-11,F
+Science,Christine,2015-12-11,F
+World,Dan,2015-12-11,M
+Books,Sam,2015-12-11,M
+World,Josh,2015-12-11,M
+U.S.,Diantha,2015-12-11,F
+Business Day,Victor,2015-12-11,M
+Business Day,Richard,2015-12-11,M
+Science,John,2015-12-11,M
+World,Alexandra,2015-12-11,F
+World,Ceylan,2015-12-11,F
+Business Day,Michael,2015-12-11,M
+Opinion,Patrick,2015-12-11,M
+N.Y. / Region,Elizabeth,2015-12-11,F
+Sports,Victor,2015-12-11,M
+Technology,Christine,2015-12-11,F
+World,Alan,2015-12-11,M
+Business Day,Caroline,2015-12-11,F
+World,Melissa,2015-12-11,F
+Business Day,Robert,2015-12-11,M
+N.Y. / Region,William,2015-12-11,M
+World,Nida,2015-12-11,F
+Sports,Victor,2015-12-11,M
+World,Jonathan,2015-12-11,M
+Business Day,Liz,2015-12-11,F
+Automobiles,Tom,2015-12-11,M
+Business Day,Chad,2015-12-11,M
+The Upshot,Kevin,2015-12-11,M
+U.S.,Alan,2015-12-11,M
+N.Y. / Region,Michael,2015-12-11,M
+Movies,Cara,2015-12-11,F
+Sports,Katie,2015-12-11,F
+Opinion,Shmuel,2015-12-11,M
+Arts,Mike,2015-12-11,M
+Technology,J.,2015-12-11,U
+World,Edward,2015-12-11,M
+Opinion,Liselotte,2015-12-11,U
+Movies,Michael,2015-12-11,M
+World,Austin,2015-12-11,M
+World,Mujib,2015-12-11,U
+World,Nick,2015-12-11,M
+Business Day,Noam,2015-12-11,M
+Business Day,Stanley,2015-12-11,M
+World,Chris,2015-12-11,M
+World,Dan,2015-12-11,M
+Great Homes & Destinations,Mike,2015-12-11,M
+U.S.,Richard,2015-12-11,M
+Business Day,Richard,2015-12-11,M
+Great Homes & Destinations,Laura,2015-12-11,F
+Business Day,Jack,2015-12-11,M
+Sports,Rob,2015-12-11,M
+Science,Justin,2015-12-11,M
+Sports,Marc,2015-12-11,M
+U.S.,Mark,2015-12-11,M
+World,Jonathan,2015-12-11,M
+World,Vanessa,2015-12-11,F
+World,Choe,2015-12-11,U
+World,Andrew,2015-12-11,M
+Science,Coral,2015-12-11,F
+Fashion & Style,Vanessa,2015-12-12,F
+U.S.,Maggie,2015-12-12,F
+U.S.,Jeremy,2015-12-12,M
+Opinion,Nicholas,2015-12-12,M
+Opinion,Andrew,2015-12-12,M
+Crosswords & Games,Deb,2015-12-12,F
+U.S.,Nick,2015-12-12,M
+Science,Coral,2015-12-12,F
+Crosswords & Games,Deb,2015-12-12,F
+U.S.,Deborah,2015-12-12,F
+Multimedia/Photos,Kassie,2015-12-12,F
+Opinion,Paul,2015-12-12,M
+Food,Elaine,2015-12-12,F
+Arts,Kathryn,2015-12-12,F
+Sports,Peter,2015-12-12,M
+Sports,Jay,2015-12-12,M
+N.Y. / Region,David,2015-12-12,M
+Sports,Daniel,2015-12-12,M
+Opinion,Ivan,2015-12-12,M
+World,Jonathan,2015-12-12,M
+N.Y. / Region,Michael,2015-12-12,M
+Opinion,Laurie,2015-12-12,F
+N.Y. / Region,Alan,2015-12-12,M
+N.Y. / Region,Kate,2015-12-12,F
+Sports,Daniel,2015-12-12,M
+Arts,William,2015-12-12,M
+U.S.,Jackie,2015-12-12,GN
+U.S.,Rick,2015-12-12,M
+World,Anne,2015-12-12,F
+Business Day,Mike,2015-12-12,M
+Health,Mike,2015-12-12,M
+Business Day,Landon,2015-12-12,M
+Sports,Bill,2015-12-12,M
+N.Y. / Region,Ashley,2015-12-12,F
+World,Coral,2015-12-12,F
+N.Y. / Region,Eli,2015-12-12,M
+World,Robert,2015-12-12,M
+Business Day,Jad,2015-12-12,M
+World,Julie,2015-12-12,F
+U.S.,Mitch,2015-12-12,M
+U.S.,Tamar,2015-12-12,F
+Sports,Tyler,2015-12-12,M
+Business Day,Andrew,2015-12-12,M
+U.S.,Matt,2015-12-12,M
+U.S.,Jason,2015-12-12,M
+U.S.,Adam,2015-12-12,M
+Arts,Jon,2015-12-12,M
+Arts,Siobhan,2015-12-12,F
+Arts,Vivien,2015-12-12,F
+World,Hwaida,2015-12-12,U
+Arts,Anthony,2015-12-12,M
+U.S.,Samuel,2015-12-12,M
+Arts,Neil,2015-12-12,M
+Arts,Neil,2015-12-12,M
+Theater,Roslyn,2015-12-12,F
+Arts,Mike,2015-12-12,M
+World,Amina,2015-12-12,F
+Opinion,Charles,2015-12-12,M
+U.S.,Kirk,2015-12-12,M
+Science,John,2015-12-12,M
+World,Ivan,2015-12-12,M
+Sports,Andrew,2015-12-12,M
+Arts,Stephen,2015-12-12,M
+World,Raphael,2015-12-12,M
+World,Adam,2015-12-12,M
+World,Josh,2015-12-12,M
+U.S.,Ron,2015-12-12,M
+Arts,Randy,2015-12-12,M
+Sports,Jason,2015-12-12,M
+U.S.,Ian,2015-12-12,M
+Arts,Ben,2015-12-12,M
+N.Y. / Region,William,2015-12-12,M
+U.S.,Sheryl,2015-12-12,F
+U.S.,Frances,2015-12-12,F
+U.S.,Ben,2015-12-12,M
+World,Diaa,2015-12-12,U
+Sports,Victor,2015-12-12,M
+World,Michael,2015-12-12,M
+World,Omar,2015-12-12,M
+Technology,Mike,2015-12-12,M
+Business Day,Keith,2015-12-12,M
+Business Day,Landon,2015-12-12,M
+U.S.,David,2015-12-12,M
+World,Andrew,2015-12-12,M
+Your Money,Ann,2015-12-12,F
+Sports,Joe,2015-12-12,M
+U.S.,Katie,2015-12-12,F
+Your Money,Paul,2015-12-12,M
+World,Mujib,2015-12-12,U
+Sports,Ben,2015-12-12,M
+Business Day,Kevin,2015-12-12,M
+N.Y. / Region,Al,2015-12-12,M
+Your Money,Ron,2015-12-12,M
+The Upshot,Michael,2015-12-12,M
+Sports,Joe,2015-12-12,M
+Technology,J.,2015-12-12,U
+The Upshot,Damon,2015-12-12,M
+U.S.,Christine,2015-12-12,F
+The Upshot,Nate,2015-12-12,M
+Business Day,Chad,2015-12-12,M
+World,Dan,2015-12-12,M
+World,Ian,2015-12-12,M
+Your Money,Mark,2015-12-12,M
+Business Day,David,2015-12-12,M
+World,Michelle,2015-12-12,F
+Business Day,Leslie,2015-12-12,F
+World,Edward,2015-12-12,M
+Sports,Ryan,2015-12-12,M
+Sports,Ryan,2015-12-12,M
+U.S.,Abby,2015-12-12,F
+N.Y. / Region,Tom,2015-12-12,M
+Sports,Sam,2015-12-12,M
+Sports,Huw,2015-12-12,U
+U.S.,Steve,2015-12-12,M
+World,Steven,2015-12-12,M
+N.Y. / Region,Al,2015-12-12,M
+World,Didi,2015-12-12,F
+Sports,Kelley,2015-12-12,F
+World,Choe,2015-12-12,U
+Theater,Ben,2015-12-12,M
+Arts,Brian,2015-12-12,M
+Arts,Christopher,2015-12-12,M
+Fashion & Style,John,2015-12-13,M
+Arts,Rachel,2015-12-13,F
+N.Y. / Region,Dani,2015-12-13,F
+Arts,Andrew,2015-12-13,M
+Arts,Mike,2015-12-13,M
+Arts,Judith,2015-12-13,F
+U.S.,Devorah,2015-12-13,F
+Crosswords & Games,Deb,2015-12-13,F
+U.S.,Thomas,2015-12-13,M
+Arts,Brooks,2015-12-13,M
+Opinion,Paul,2015-12-13,M
+Opinion,Paul,2015-12-13,M
+Arts,Jonathan,2015-12-13,M
+Food,Sam,2015-12-13,M
+World,International,2015-12-13,U
+N.Y. / Region,Emily,2015-12-13,F
+Sports,Brett,2015-12-13,M
+Sports,Brett,2015-12-13,M
+Sports,Brett,2015-12-13,M
+Sports,Brett,2015-12-13,M
+Sports,Brett,2015-12-13,M
+Sports,Brett,2015-12-13,M
+Sports,Brett,2015-12-13,M
+Sports,Brett,2015-12-13,M
+Sports,Brett,2015-12-13,M
+Sports,Brett,2015-12-13,M
+Sports,Brett,2015-12-13,M
+Sports,Brett,2015-12-13,M
+Sports,Brett,2015-12-13,M
+Sports,Brett,2015-12-13,M
+World,International,2015-12-13,U
+NYT Now,Andrea,2015-12-13,F
+U.S.,Manny,2015-12-13,M
+Fashion & Style,Vincent,2015-12-13,M
+Fashion & Style,Rosalie,2015-12-13,F
+U.S.,Liam,2015-12-13,M
+Sports,Richard,2015-12-13,M
+Sports,Seth,2015-12-13,M
+Science,Justin,2015-12-13,M
+U.S.,Julie,2015-12-13,F
+N.Y. / Region,Jesse,2015-12-13,M
+Sports,Tim,2015-12-13,M
+World,Dionne,2015-12-13,F
+World,Josh,2015-12-13,M
+N.Y. / Region,John,2015-12-13,M
+U.S.,Trip,2015-12-13,M
+Sports,Bill,2015-12-13,M
+World,Sewell,2015-12-13,M
+Sports,Zach,2015-12-13,M
+Sports,Zach,2015-12-13,M
+World,Azam,2015-12-13,M
+Sports,Scott,2015-12-13,M
+N.Y. / Region,Jesse,2015-12-13,M
+Arts,William,2015-12-13,M
+Sports,Sam,2015-12-13,M
+Opinion,Andrew,2015-12-13,M
+N.Y. / Region,Daniel,2015-12-13,M
+U.S.,Dave,2015-12-13,M
+Sports,Zach,2015-12-13,M
+U.S.,Jennifer,2015-12-13,F
+Sunday Review,Paul,2015-12-13,M
+Public Editor,Margaret,2015-12-13,F
+Opinion,Ross,2015-12-13,M
+Opinion,Amy,2015-12-13,F
+Opinion,Michele,2015-12-13,F
+Opinion,Frank,2015-12-13,M
+Opinion,Alisson,2015-12-13,F
+Opinion,Brian,2015-12-13,M
+Opinion,Kate,2015-12-13,F
+Business Day,Liz,2015-12-13,F
+World,Ben,2015-12-13,M
+U.S.,Rick,2015-12-13,M
+Business Day,Robert,2015-12-13,M
+Sports,Richard,2015-12-13,M
+U.S.,Amy,2015-12-13,F
+U.S.,Matt,2015-12-13,M
+Business Day,Adam,2015-12-13,M
+U.S.,Erik,2015-12-13,M
+Business Day,Barry,2015-12-13,M
+World,Alissa,2015-12-13,F
+World,Choe,2015-12-13,U
+Opinion,Evan,2015-12-13,M
+World,Dan,2015-12-13,M
+Real Estate,Ronda,2015-12-13,F
+World,Edward,2015-12-13,M
+World,Rod,2015-12-13,M
+Fashion & Style,Sheila,2015-12-13,F
+Fashion & Style,Joanne,2015-12-13,F
+Style,Sam,2015-12-13,M
+Fashion & Style,Brooks,2015-12-13,M
+World,Coral,2015-12-13,F
+World,Mujib,2015-12-13,U
+N.Y. / Region,Ginia,2015-12-13,F
+Fashion & Style,Bill,2015-12-13,M
+N.Y. / Region,Michael,2015-12-13,M
+Fashion & Style,Alexandra,2015-12-13,F
+N.Y. / Region,David,2015-12-13,M
+Opinion,Eve,2015-12-13,F
+N.Y. / Region,Aileen,2015-12-13,F
+Style,Philip,2015-12-13,M
+Fashion & Style,Gisela,2015-12-13,F
+N.Y. / Region,Tammy,2015-12-13,F
+Fashion & Style,Sheila,2015-12-13,F
+Opinion,Ray,2015-12-13,M
+N.Y. / Region,Susan,2015-12-13,F
+Fashion & Style,Elizabeth,2015-12-13,F
+N.Y. / Region,Shivani,2015-12-13,F
+N.Y. / Region,Patricia,2015-12-13,F
+Fashion & Style,Kate,2015-12-13,F
+N.Y. / Region,Julie,2015-12-13,F
+N.Y. / Region,Dave,2015-12-13,M
+N.Y. / Region,Sam,2015-12-13,M
+Real Estate,Joanne,2015-12-13,F
+Fashion & Style,Teddy,2015-12-13,M
+Fashion & Style,Noah,2015-12-13,M
+N.Y. / Region,Robin,2015-12-13,F
+Fashion & Style,Lara,2015-12-13,F
+Opinion,Megan,2015-12-13,F
+Real Estate,Vivian,2015-12-13,F
+Opinion,Zachary,2015-12-13,M
+Real Estate,Lisa,2015-12-13,F
+Real Estate,C.,2015-12-13,U
+Books,Alison,2015-12-13,F
+Books,Sandeep,2015-12-13,M
+Books,Akash,2015-12-13,M
+Books,Geraldine,2015-12-13,F
+Books,Lincoln,2015-12-13,M
+Books,Jaimy,2015-12-13,F
+N.Y. / Region,Corey,2015-12-13,M
+Books,John,2015-12-13,M
+Books,Stephen,2015-12-13,M
+N.Y. / Region,Charles,2015-12-13,M
+Books,Sarah,2015-12-13,F
+Opinion,Angie,2015-12-13,F
+Books,Joumana,2015-12-13,U
+Books,Susan,2015-12-13,F
+Real Estate,Michelle,2015-12-13,F
+N.Y. / Region,John,2015-12-13,M
+Books,Amy,2015-12-13,F
+Business Day,Jeff,2015-12-13,M
+The Upshot,Josh,2015-12-13,M
+Arts,Brian,2015-12-13,M
+Real Estate,C.,2015-12-13,U
+Opinion,Sara,2015-12-13,F
+Magazine,Malia,2015-12-13,F
+Travel,Charu,2015-12-13,F
+Magazine,Melissa,2015-12-13,F
+Fashion & Style,Jamie,2015-12-13,F
+Fashion & Style,Katherine,2015-12-13,F
+Real Estate,Roy,2015-12-13,M
+Job Market,Rob,2015-12-13,M
+Arts,Anna,2015-12-13,F
+Fashion & Style,Amisha,2015-12-13,F
+Sports,Brett,2015-12-13,M
+Fashion & Style,Philip,2015-12-13,M
+Theater,Ben,2015-12-13,M
+Movies,Neil,2015-12-13,M
+Arts,Zachary,2015-12-13,M
+Arts,Roberta,2015-12-13,F
+Arts,Kathryn,2015-12-13,F
+Arts,Nate,2015-12-13,M
+Travel,Elaine,2015-12-13,F
+Travel,Cindy,2015-12-13,F
+Travel,Cindy,2015-12-13,F
+Travel,Cindy,2015-12-13,F
+Travel,Neil,2015-12-13,M
+Travel,Monica,2015-12-13,F
+Magazine,Chris,2015-12-13,M
+Magazine,A.,2015-12-13,U
+Magazine,Jake,2015-12-13,M
+Magazine,Kathy,2015-12-13,F
+Magazine,Photographs,2015-12-13,U
+Books,Laura,2015-12-13,F
+Books,Antoine,2015-12-13,M
+Real Estate,Joyce,2015-12-13,F
+Arts,Wesley,2015-12-13,M
+Arts,Jon,2015-12-13,M
+Arts,Alastair,2015-12-13,M
+N.Y. / Region,Jackie,2015-12-13,GN
+Travel,Ian,2015-12-13,M
+Theater,Steven,2015-12-13,M
+Magazine,Luke,2015-12-13,M
+Magazine,Tamar,2015-12-13,F
+Magazine,Kwame,2015-12-13,M
+Magazine,Teju,2015-12-13,U
+Magazine,John,2015-12-13,M
+Books,Max,2015-12-13,M
+Books,Eliot,2015-12-13,M
+Books,Lucy,2015-12-13,F
+Real Estate,Vera,2015-12-13,F
+Theater,Ben,2015-12-13,M
+Books,Bruce,2015-12-13,M
+Travel,Shivani,2015-12-13,F
+Travel,Karen,2015-12-13,F
+Books,Jane,2015-12-13,F
+Books,Joanna,2015-12-13,F
+Magazine,Guy,2015-12-13,M
+Magazine,Mark,2015-12-13,M
+Arts,James,2015-12-13,M
+Books,Karen,2015-12-13,F
+Books,Kaiama,2015-12-13,U
+N.Y. / Region,Michael,2015-12-13,M
+Travel,Stephanie,2015-12-13,F
+Books,Gregory,2015-12-13,M
+Arts,Simon,2015-12-13,M
+Universal,Por,2015-12-14,U
+Arts,Scott,2015-12-14,M
+U.S.,Louise,2015-12-14,F
+Crosswords & Games,Deb,2015-12-14,F
+Arts,Michael,2015-12-14,M
+U.S.,Maggie,2015-12-14,F
+NYT Now,Michael,2015-12-14,M
+U.S.,Alan,2015-12-14,M
+Opinion,Margaret,2015-12-14,F
+T Magazine,Adam,2015-12-14,M
+Arts,Michael,2015-12-14,M
+Times Insider,Francesca,2015-12-14,F
+T Magazine,Nicholas,2015-12-14,M
+Health,Abigail,2015-12-14,F
+Arts,Ben,2015-12-14,M
+Arts,Michael,2015-12-14,M
+Arts,Scott,2015-12-14,M
+U.S.,Maggie,2015-12-14,F
+Opinion,Phoebe,2015-12-14,F
+Health,Roni,2015-12-14,F
+U.S.,Alan,2015-12-14,M
+U.S.,Jason,2015-12-14,M
+T Magazine,Hanya,2015-12-14,F
+Food,Pete,2015-12-14,M
+Opinion,Andrew,2015-12-14,M
+Arts,Christopher,2015-12-14,M
+Travel,Diane,2015-12-14,F
+U.S.,Rachel,2015-12-14,F
+Crosswords & Games,Gary,2015-12-14,M
+Food,Sam,2015-12-14,M
+NYT Now,Adeel,2015-12-14,M
+World,International,2015-12-14,U
+T Magazine,Osman,2015-12-14,M
+Technology,Joseph,2015-12-14,M
+Science,James,2015-12-14,M
+Science,David,2015-12-14,M
+U.S.,Alan,2015-12-14,M
+World,International,2015-12-14,U
+Technology,Steve,2015-12-14,M
+Arts,Ben,2015-12-14,M
+Style,Valeriya,2015-12-14,F
+Travel,Marissa,2015-12-14,F
+U.S.,Maggie,2015-12-14,F
+Magazine,Bonnie,2015-12-14,F
+Sports,Brett,2015-12-14,M
+U.S.,Carl,2015-12-14,M
+Blogs,Amie,2015-12-14,F
+N.Y. / Region,Noah,2015-12-14,M
+U.S.,Julie,2015-12-14,F
+NYT Now,Adeel,2015-12-14,M
+Health,Jane,2015-12-14,F
+Travel,Elaine,2015-12-14,F
+Opinion,Paul,2015-12-14,M
+Education,Shannon,2015-12-14,F
+Education,Shannon,2015-12-14,F
+Opinion,Gerald,2015-12-14,M
+Opinion,Carl,2015-12-14,M
+Opinion,Tom,2015-12-14,M
+Opinion,Paul,2015-12-14,M
+Opinion,Charles,2015-12-14,M
+Education,Larry,2015-12-14,M
+Multimedia/Photos,Andrew,2015-12-14,M
+N.Y. / Region,Michael,2015-12-14,M
+Arts,Kathryn,2015-12-14,F
+Business Day,Emily,2015-12-14,F
+Sports,Ken,2015-12-14,M
+Technology,Nick,2015-12-14,M
+U.S.,Liam,2015-12-14,M
+Sports,Bill,2015-12-14,M
+Opinion,Bill,2015-12-14,M
+Theater,Ben,2015-12-14,M
+Sports,William,2015-12-14,M
+U.S.,Liam,2015-12-14,M
+Sports,Ben,2015-12-14,M
+Sports,Benjamin,2015-12-14,M
+Business Day,Clifford,2015-12-14,M
+N.Y. / Region,Benjamin,2015-12-14,M
+Business Day,Jack,2015-12-14,M
+U.S.,Thomas,2015-12-14,M
+Business Day,Brooks,2015-12-14,M
+World,Coral,2015-12-14,F
+Sports,Dave,2015-12-14,M
+U.S.,Sam,2015-12-14,M
+Sports,Jodie,2015-12-14,F
+Business Day,Michael,2015-12-14,M
+U.S.,Ashley,2015-12-14,F
+N.Y. / Region,Emma,2015-12-14,F
+Business Day,Ben,2015-12-14,M
+Sports,Tom,2015-12-14,M
+N.Y. / Region,Paul,2015-12-14,M
+World,Aurelien,2015-12-14,U
+Sports,Brett,2015-12-14,M
+Sports,Jonah,2015-12-14,M
+U.S.,Dave,2015-12-14,M
+World,Frances,2015-12-14,F
+Business Day,Nicholas,2015-12-14,M
+World,Andrew,2015-12-14,M
+World,David,2015-12-14,M
+Business Day,Michael,2015-12-14,M
+Arts,Andrew,2015-12-14,M
+World,William,2015-12-14,M
+U.S.,John,2015-12-14,M
+Arts,David,2015-12-14,M
+Arts,Ben,2015-12-14,M
+Arts,James,2015-12-14,M
+Arts,Alastair,2015-12-14,M
+Arts,Jon,2015-12-14,M
+Arts,Vivien,2015-12-14,F
+Books,Jennifer,2015-12-14,F
+World,Ben,2015-12-14,M
+Arts,Alastair,2015-12-14,M
+Arts,Michael,2015-12-14,M
+Theater,Michael,2015-12-14,M
+Sports,Zach,2015-12-14,M
+World,Simon,2015-12-14,M
+World,Gaia,2015-12-14,F
+World,Adam,2015-12-14,M
+U.S.,Albert,2015-12-14,M
+Technology,Mike,2015-12-14,M
+N.Y. / Region,Sam,2015-12-14,M
+U.S.,Julie,2015-12-14,F
+World,Sewell,2015-12-14,M
+Business Day,Ben,2015-12-14,M
+U.S.,Ian,2015-12-14,M
+N.Y. / Region,David,2015-12-14,M
+World,Salman,2015-12-14,M
+N.Y. / Region,Michael,2015-12-14,M
+World,Chris,2015-12-14,M
+N.Y. / Region,Michael,2015-12-14,M
+Sports,Rob,2015-12-14,M
+U.S.,Kirk,2015-12-14,M
+Business Day,Binyamin,2015-12-14,M
+Business Day,Hugo,2015-12-14,M
+Arts,Sam,2015-12-14,M
+Arts,Scott,2015-12-14,M
+Theater,Laura,2015-12-14,F
+Business Day,Kevin,2015-12-14,M
+Opinion,Paul,2015-12-15,M
+T Magazine,Nadja,2015-12-15,F
+U.S.,Maggie,2015-12-15,F
+Movies,Jeannette,2015-12-15,F
+Movies,Stephen,2015-12-15,M
+T Magazine,Hilary,2015-12-15,F
+Crosswords & Games,Deb,2015-12-15,F
+Arts,Alastair,2015-12-15,M
+Technology,Farhad,2015-12-15,M
+Food,Jeff,2015-12-15,M
+NYT Now,Andrea,2015-12-15,F
+Fashion & Style,Joanna,2015-12-15,F
+U.S.,Alan,2015-12-15,M
+Opinion,Andrew,2015-12-15,M
+U.S.,Ashley,2015-12-15,F
+Times Insider,Blake,2015-12-15,M
+U.S.,Kj,2015-12-15,M
+U.S.,Maggie,2015-12-15,F
+T Magazine,Aimee,2015-12-15,F
+Arts,John,2015-12-15,M
+Arts,Roslyn,2015-12-15,F
+Technology,Nicole,2015-12-15,F
+T Magazine,Mimi,2015-12-15,F
+U.S.,First,2015-12-15,U
+Arts,Andrew,2015-12-15,M
+Opinion,Ross,2015-12-15,M
+Arts,Rachel,2015-12-15,F
+Opinion,Marie,2015-12-15,F
+U.S.,Alan,2015-12-15,M
+Arts,Raphael,2015-12-15,M
+Arts,Pilot,2015-12-15,M
+World,Teresa,2015-12-15,F
+U.S.,Meghan,2015-12-15,F
+Books,James,2015-12-15,M
+World,International,2015-12-15,U
+U.S.,Wilson,2015-12-15,M
+Fashion & Style,Crystal,2015-12-15,F
+Arts,Jon,2015-12-15,M
+Opinion,Ross,2015-12-15,M
+Technology,Joseph,2015-12-15,M
+Arts,Kathryn,2015-12-15,F
+N.Y. / Region,Ronald,2015-12-15,M
+Opinion,Hussein,2015-12-15,M
+Opinion,Margaret,2015-12-15,F
+Times Topics,Philip,2015-12-15,M
+Arts,Michael,2015-12-15,M
+Education,Katherine,2015-12-15,F
+World,International,2015-12-15,U
+Opinion,Patrick,2015-12-15,M
+U.S.,Maggie,2015-12-15,F
+U.S.,Dalia,2015-12-15,F
+U.S.,Carl,2015-12-15,M
+U.S.,Thomas,2015-12-15,M
+Blogs,Amie,2015-12-15,F
+N.Y. / Region,Tatiana,2015-12-15,F
+U.S.,Amy,2015-12-15,F
+NYT Now,Adeel,2015-12-15,M
+Health,Karen,2015-12-15,F
+Education,Michael,2015-12-15,M
+Education,Michael,2015-12-15,M
+Arts,Nina,2015-12-15,F
+Opinion,Brett,2015-12-15,M
+Opinion,Brett,2015-12-15,M
+Opinion,Paul,2015-12-15,M
+Opinion,Joseph,2015-12-15,M
+The Upshot,Nate,2015-12-15,M
+Opinion,Jim,2015-12-15,M
+Opinion,Tom,2015-12-15,M
+Opinion,Emma,2015-12-15,F
+Opinion,Brad,2015-12-15,M
+Opinion,David,2015-12-15,M
+Multimedia/Photos,James,2015-12-15,M
+U.S.,Yamiche,2015-12-15,U
+The Upshot,Kevin,2015-12-15,M
+N.Y. / Region,Ashley,2015-12-15,F
+World,Rick,2015-12-15,M
+N.Y. / Region,Ashley,2015-12-15,F
+World,Floyd,2015-12-15,M
+U.S.,Sam,2015-12-15,M
+Business Day,Michael,2015-12-15,M
+Theater,Ben,2015-12-15,M
+Theater,Charles,2015-12-15,M
+N.Y. / Region,Kate,2015-12-15,F
+Sports,Allan,2015-12-15,M
+U.S.,Jonathan,2015-12-15,M
+U.S.,Lizette,2015-12-15,F
+Sports,Mike,2015-12-15,M
+U.S.,Eric,2015-12-15,M
+U.S.,David,2015-12-15,M
+Business Day,Andrew,2015-12-15,M
+U.S.,Robert,2015-12-15,M
+Business Day,Ravi,2015-12-15,M
+Sports,Bruce,2015-12-15,M
+Business Day,Clifford,2015-12-15,M
+Sports,Tyler,2015-12-15,M
+N.Y. / Region,James,2015-12-15,M
+Business Day,Robin,2015-12-15,F
+World,Rick,2015-12-15,M
+Business Day,Emily,2015-12-15,F
+Business Day,Liz,2015-12-15,F
+Arts,Michael,2015-12-15,M
+N.Y. / Region,Charles,2015-12-15,M
+N.Y. / Region,Kate,2015-12-15,F
+Arts,Graham,2015-12-15,M
+Technology,Nick,2015-12-15,M
+Arts,Robin,2015-12-15,F
+Health,Lawrence,2015-12-15,M
+Science,John,2015-12-15,M
+World,Tim,2015-12-15,M
+U.S.,Carl,2015-12-15,M
+Sports,Dave,2015-12-15,M
+Times Insider,Francesca,2015-12-15,F
+World,James,2015-12-15,M
+Arts,Gia,2015-12-15,F
+U.S.,Louise,2015-12-15,F
+Arts,Anthony,2015-12-15,M
+World,Nick,2015-12-15,M
+Books,Michiko,2015-12-15,F
+Sports,Marc,2015-12-15,M
+Arts,Siobhan,2015-12-15,F
+Business Day,Lynn,2015-12-15,F
+Business Day,Rachel,2015-12-15,F
+World,Laura,2015-12-15,F
+World,Hwaida,2015-12-15,U
+Business Day,David,2015-12-15,M
+Science,Nicholas,2015-12-15,M
+Health,Donald,2015-12-15,M
+Food,Jeff,2015-12-15,M
+World,Sewell,2015-12-15,M
+World,Adam,2015-12-15,M
+Sports,Ken,2015-12-15,M
+U.S.,Sheryl,2015-12-15,F
+N.Y. / Region,Sarah,2015-12-15,F
+Business Day,Mark,2015-12-15,M
+Business Day,Raphael,2015-12-15,M
+U.S.,Christine,2015-12-15,F
+Business Day,Robert,2015-12-15,M
+U.S.,Eric,2015-12-15,M
+Technology,Steve,2015-12-15,M
+U.S.,Richard,2015-12-15,M
+N.Y. / Region,Elizabeth,2015-12-15,F
+World,Alison,2015-12-15,F
+U.S.,Adam,2015-12-15,M
+Health,Sarah,2015-12-15,F
+U.S.,Adam,2015-12-15,M
+Science,Claudia,2015-12-15,F
+U.S.,Mitch,2015-12-15,M
+Your Money,Carl,2015-12-15,M
+Sports,Victor,2015-12-15,M
+Business Day,Niki,2015-12-15,F
+Technology,J.,2015-12-15,U
+Business Day,Chad,2015-12-15,M
+Technology,Katie,2015-12-15,F
+U.S.,Ashley,2015-12-15,F
+World,Michael,2015-12-15,M
+Arts,Bruce,2015-12-15,M
+Business Day,Peter,2015-12-15,M
+Movies,Rachel,2015-12-15,F
+Sports,Michael,2015-12-15,M
+World,Jodi,2015-12-15,F
+World,Rick,2015-12-15,M
+World,Celestine,2015-12-15,F
+U.S.,Julie,2015-12-15,F
+Technology,Cecilia,2015-12-15,F
+World,Jonathan,2015-12-15,M
+World,Shuaib,2015-12-15,M
+World,Isabel,2015-12-15,F
+World,Aurelien,2015-12-15,U
+Science,Nicholas,2015-12-15,M
+The Upshot,Neil,2015-12-15,M
+World,Declan,2015-12-15,M
+U.S.,Michael,2015-12-15,M
+World,Thomas,2015-12-15,M
+Business Day,Chad,2015-12-15,M
+Sports,Victor,2015-12-15,M
+Business Day,Landon,2015-12-15,M
+N.Y. / Region,Liz,2015-12-15,F
+Movies,Rachel,2015-12-15,F
+Business Day,Leslie,2015-12-15,F
+The Upshot,Aaron,2015-12-15,M
+Sports,Harvey,2015-12-15,M
+Opinion,Roger,2015-12-15,M
+Opinion,Sylvie,2015-12-15,F
+World,Patrick,2015-12-15,M
+Opinion,Sisonke,2015-12-15,U
+Science,Sandra,2015-12-15,F
+Science,Sindya,2015-12-15,U
+World,Norimitsu,2015-12-15,U
+N.Y. / Region,Alexander,2015-12-15,M
+Business Day,Chad,2015-12-15,M
+Business Day,Jad,2015-12-15,M
+N.Y. / Region,Kirk,2015-12-15,M
+World,Michael,2015-12-15,M
+Business Day,Chad,2015-12-15,M
+World,Ian,2015-12-15,M
+World,Edward,2015-12-15,M
+Science,C.,2015-12-15,U
+Health,Jan,2015-12-15,F
+Theater,Charles,2015-12-15,M
+N.Y. / Region,Alan,2015-12-15,M
+Science,Sindya,2015-12-15,U
+Science,Sindya,2015-12-15,U
+Times Insider,Richard,2015-12-16,M
+Movies,Nicolas,2015-12-16,M
+Fashion & Style,Erica,2015-12-16,F
+Crosswords & Games,Deb,2015-12-16,F
+T Magazine,Isabel,2015-12-16,F
+Travel,Victoria,2015-12-16,F
+Magazine,Mark,2015-12-16,M
+U.S.,Fernanda,2015-12-16,F
+Arts,James,2015-12-16,M
+U.S.,Nick,2015-12-16,M
+Food,Colin,2015-12-16,M
+NYT Now,Andrea,2015-12-16,F
+U.S.,Maggie,2015-12-16,F
+T Magazine,Rinne,2015-12-16,U
+Opinion,Vikas,2015-12-16,M
+U.S.,Alan,2015-12-16,M
+Times Insider,Manohla,2015-12-16,U
+Arts,Doreen,2015-12-16,F
+Books,Maria,2015-12-16,F
+Fashion & Style,Guy,2015-12-16,M
+Opinion,Paul,2015-12-16,M
+Opinion,Elizabeth,2015-12-16,F
+U.S.,Amy,2015-12-16,F
+T Magazine,Kat,2015-12-16,F
+Technology,Kit,2015-12-16,M
+U.S.,Alan,2015-12-16,M
+Times Insider,Quoctrung,2015-12-16,U
+U.S.,Trip,2015-12-16,M
+Technology,Mark,2015-12-16,M
+U.S.,Emily,2015-12-16,F
+Travel,Jeanine,2015-12-16,F
+U.S.,Alan,2015-12-16,M
+Opinion,Ross,2015-12-16,M
+Food,Michael,2015-12-16,M
+World,International,2015-12-16,U
+Arts,Michael,2015-12-16,M
+U.S.,Ashley,2015-12-16,F
+Arts,Dave,2015-12-16,M
+Opinion,Josh,2015-12-16,M
+Health,Nicholas,2015-12-16,M
+Food,Sam,2015-12-16,M
+U.S.,Lisa,2015-12-16,F
+Health,Nicholas,2015-12-16,M
+U.S.,Yamiche,2015-12-16,U
+Technology,Joseph,2015-12-16,M
+Real Estate,Roxana,2015-12-16,F
+Arts,Rachel,2015-12-16,F
+Business Day,Good,2015-12-16,U
+Real Estate,Mike,2015-12-16,M
+Opinion,Natasha,2015-12-16,F
+N.Y. / Region,Dora,2015-12-16,F
+Movies,Manohla,2015-12-16,U
+Movies,Rachel,2015-12-16,F
+N.Y. / Region,Stephanie,2015-12-16,F
+U.S.,Maggie,2015-12-16,F
+N.Y. / Region,Tatiana,2015-12-16,F
+U.S.,Carl,2015-12-16,M
+World,International,2015-12-16,U
+NYT Now,Adeel,2015-12-16,M
+Blogs,Amie,2015-12-16,F
+Travel,Shivani,2015-12-16,F
+Health,Gretchen,2015-12-16,F
+Education,Katherine,2015-12-16,F
+The Upshot,Quoctrung,2015-12-16,U
+Multimedia/Photos,Rena,2015-12-16,F
+Opinion,Stefan,2015-12-16,M
+Education,Katherine,2015-12-16,F
+Opinion,Mira,2015-12-16,F
+Opinion,Thomas,2015-12-16,M
+Opinion,Sigal,2015-12-16,F
+Opinion,Thomas,2015-12-16,M
+Arts,Dave,2015-12-16,M
+N.Y. / Region,Ashley,2015-12-16,F
+N.Y. / Region,Kate,2015-12-16,F
+U.S.,Adam,2015-12-16,M
+U.S.,Jeremy,2015-12-16,M
+N.Y. / Region,Stephanie,2015-12-16,F
+N.Y. / Region,Jim,2015-12-16,M
+Arts,Kathryn,2015-12-16,F
+Opinion,Elizabeth,2015-12-16,F
+Business Day,Leslie,2015-12-16,F
+U.S.,Timothy,2015-12-16,M
+Opinion,Frank,2015-12-16,M
+U.S.,Patrick,2015-12-16,M
+Arts,Sam,2015-12-16,M
+World,Andrew,2015-12-16,M
+Sports,Dave,2015-12-16,M
+N.Y. / Region,John,2015-12-16,M
+World,Hanna,2015-12-16,F
+Theater,Charles,2015-12-16,M
+World,Michael,2015-12-16,M
+U.S.,Trip,2015-12-16,M
+U.S.,Alan,2015-12-16,M
+U.S.,Erik,2015-12-16,M
+U.S.,Christine,2015-12-16,F
+World,Marlise,2015-12-16,F
+U.S.,Kate,2015-12-16,F
+U.S.,Matthew,2015-12-16,M
+Business Day,Alexandra,2015-12-16,F
+Sports,Daniel,2015-12-16,M
+U.S.,Ashley,2015-12-16,F
+N.Y. / Region,Mireya,2015-12-16,F
+N.Y. / Region,Benjamin,2015-12-16,M
+N.Y. / Region,Elizabeth,2015-12-16,F
+Science,Matt,2015-12-16,M
+N.Y. / Region,Rick,2015-12-16,M
+World,Robert,2015-12-16,M
+N.Y. / Region,Lisa,2015-12-16,F
+U.S.,David,2015-12-16,M
+Science,Dennis,2015-12-16,M
+Business Day,Michael,2015-12-16,M
+Movies,Stephen,2015-12-16,M
+Real Estate,Vivian,2015-12-16,F
+U.S.,Michael,2015-12-16,M
+Real Estate,Rosalie,2015-12-16,F
+Movies,Mekado,2015-12-16,U
+U.S.,Richard,2015-12-16,M
+Business Day,Liz,2015-12-16,F
+Arts,Roberta,2015-12-16,F
+Arts,Mike,2015-12-16,M
+Theater,Laura,2015-12-16,F
+Arts,Robin,2015-12-16,F
+World,Nicholas,2015-12-16,M
+Your Money,Ann,2015-12-16,F
+The Upshot,Josh,2015-12-16,M
+Sports,Tyler,2015-12-16,M
+Arts,David,2015-12-16,M
+World,Sunday,2015-12-16,F
+World,Jonathan,2015-12-16,M
+Business Day,Steven,2015-12-16,M
+Sports,Tim,2015-12-16,M
+World,Alissa,2015-12-16,F
+Health,Donald,2015-12-16,M
+World,David,2015-12-16,M
+World,Joanna,2015-12-16,F
+Food,Florence,2015-12-16,F
+Business Day,Jack,2015-12-16,M
+Business Day,Hiroko,2015-12-16,F
+Business Day,Liz,2015-12-16,F
+Sports,Sam,2015-12-16,M
+Business Day,Eduardo,2015-12-16,M
+Movies,Karen,2015-12-16,F
+N.Y. / Region,Nikita,2015-12-16,F
+Sports,Chase,2015-12-16,M
+Arts,James,2015-12-16,M
+Business Day,Michael,2015-12-16,M
+Food,Martha,2015-12-16,F
+World,Somini,2015-12-16,U
+Books,Dwight,2015-12-16,M
+U.S.,James,2015-12-16,M
+Sports,Naila-jean,2015-12-16,U
+U.S.,Alan,2015-12-16,M
+World,Aurelien,2015-12-16,U
+World,Katrin,2015-12-16,F
+Real Estate,Lisa,2015-12-16,F
+U.S.,David,2015-12-16,M
+Business Day,Kevin,2015-12-16,M
+World,Ben,2015-12-16,M
+N.Y. / Region,J.,2015-12-16,U
+Business Day,Andrew,2015-12-16,M
+Food,Pete,2015-12-16,M
+Business Day,John,2015-12-16,M
+U.S.,Nick,2015-12-16,M
+Sports,Victor,2015-12-16,M
+N.Y. / Region,J.,2015-12-16,U
+Opinion,Keith,2015-12-16,M
+Sports,Bill,2015-12-16,M
+U.S.,Christine,2015-12-16,F
+U.S.,Adam,2015-12-16,M
+Science,Katie,2015-12-16,F
+U.S.,Alan,2015-12-16,M
+Movies,Mekado,2015-12-16,U
+World,James,2015-12-16,M
+World,Stephen,2015-12-16,M
+Business Day,Leslie,2015-12-16,F
+Technology,J.,2015-12-16,U
+World,Steven,2015-12-16,M
+Business Day,Daniel,2015-12-16,M
+Business Day,Liz,2015-12-16,F
+Business Day,Ben,2015-12-16,M
+Sports,Richard,2015-12-16,M
+World,Melissa,2015-12-16,F
+Opinion,Pablo,2015-12-16,M
+The Upshot,Gregg,2015-12-16,M
+U.S.,Gardiner,2015-12-16,M
+Sports,David,2015-12-16,M
+Movies,Cara,2015-12-16,F
+World,Jane,2015-12-16,F
+Opinion,Geeta,2015-12-16,F
+Technology,Quentin,2015-12-16,M
+Opinion,Geoffrey,2015-12-16,M
+Business Day,Michael,2015-12-16,M
+Business Day,Chad,2015-12-16,M
+Business Day,Chad,2015-12-16,M
+World,Nick,2015-12-16,M
+Food,Julia,2015-12-16,F
+Sports,Rob,2015-12-16,M
+Business Day,Amie,2015-12-16,F
+Business Day,Chad,2015-12-16,M
+World,Nida,2015-12-16,F
+Business Day,Brooks,2015-12-16,M
+Technology,Mark,2015-12-16,M
+Business Day,Amie,2015-12-16,F
+World,Michael,2015-12-16,M
+World,Vanessa,2015-12-16,F
+Food,Florence,2015-12-16,F
+Food,Ligaya,2015-12-16,F
+Theater,Laurel,2015-12-16,F
+Food,Melissa,2015-12-16,F
+Food,David,2015-12-16,M
+Food,Eric,2015-12-16,M
+Food,Ligaya,2015-12-16,F
+T Magazine,Angela,2015-12-17,F
+World,Tim,2015-12-17,M
+Arts,Rachel,2015-12-17,F
+Movies,Ben,2015-12-17,M
+Movies,Ken,2015-12-17,M
+Movies,Daniel,2015-12-17,M
+Movies,Mary,2015-12-17,F
+Movies,Neil,2015-12-17,M
+U.S.,Matt,2015-12-17,M
+Movies,Rachel,2015-12-17,F
+Movies,Neil,2015-12-17,M
+Theater,Anita,2015-12-17,F
+Fashion & Style,Bee,2015-12-17,M
+Technology,Cecilia,2015-12-17,F
+Technology,Katie,2015-12-17,F
+Crosswords & Games,Deb,2015-12-17,F
+Movies,A.,2015-12-17,U
+U.S.,Gregor,2015-12-17,M
+U.S.,Peter,2015-12-17,M
+NYT Now,Andrea,2015-12-17,F
+U.S.,Yamiche,2015-12-17,U
+Movies,Ainara,2015-12-17,F
+Movies,Ainara,2015-12-17,F
+Arts,Ainara,2015-12-17,F
+T Magazine,Julie,2015-12-17,F
+Movies,Mekado,2015-12-17,U
+Movies,Ainara,2015-12-17,F
+Times Insider,David,2015-12-17,M
+Arts,Michael,2015-12-17,M
+Technology,Cecilia,2015-12-17,F
+Arts,Graham,2015-12-17,M
+U.S.,Brent,2015-12-17,M
+U.S.,Jeremy,2015-12-17,M
+Style,Valeriya,2015-12-17,F
+T Magazine,John,2015-12-17,M
+Business Day,Blaine,2015-12-17,M
+Business Day,Karen,2015-12-17,F
+U.S.,Trip,2015-12-17,M
+U.S.,First,2015-12-17,U
+T Magazine,Betsy,2015-12-17,F
+T Magazine,Betsy,2015-12-17,F
+Arts,Brooks,2015-12-17,M
+Arts,Michael,2015-12-17,M
+Arts,Jonathan,2015-12-17,M
+Times Insider,Francesca,2015-12-17,F
+Health,Mikkael,2015-12-17,U
+Opinion,Frank,2015-12-17,M
+Opinion,Andrew,2015-12-17,M
+Technology,Nick,2015-12-17,M
+Travel,Mark,2015-12-17,M
+Movies,A.,2015-12-17,U
+U.S.,Maggie,2015-12-17,F
+Movies,Lorne,2015-12-17,M
+Arts,Michael,2015-12-17,M
+Opinion,Ross,2015-12-17,M
+Technology,Jp,2015-12-17,M
+U.S.,Alan,2015-12-17,M
+Education,Michael,2015-12-17,M
+Arts,E.,2015-12-17,U
+Times Insider,Matthew,2015-12-17,M
+Health,Nicholas,2015-12-17,M
+World,International,2015-12-17,U
+Technology,Jim,2015-12-17,M
+N.Y. / Region,Mark,2015-12-17,M
+Travel,Elaine,2015-12-17,F
+Movies,Mekado,2015-12-17,U
+Opinion,Margaret,2015-12-17,F
+World,International,2015-12-17,U
+U.S.,Maggie,2015-12-17,F
+U.S.,Matt,2015-12-17,M
+Health,Roni,2015-12-17,F
+U.S.,Carl,2015-12-17,M
+N.Y. / Region,Tatiana,2015-12-17,F
+U.S.,Giovanni,2015-12-17,M
+Blogs,Amie,2015-12-17,F
+NYT Now,Adeel,2015-12-17,M
+Health,Lela,2015-12-17,F
+Education,Katherine,2015-12-17,F
+Multimedia/Photos,Evelyn,2015-12-17,F
+Fashion & Style,Vanessa,2015-12-17,F
+Education,Michael,2015-12-17,M
+World,Christopher,2015-12-17,M
+World,Nicholas,2015-12-17,M
+The Upshot,Nate,2015-12-17,M
+Opinion,Jedidah,2015-12-17,F
+Opinion,Sari,2015-12-17,F
+Opinion,Charles,2015-12-17,M
+Opinion,Arthur,2015-12-17,M
+Opinion,Vanessa,2015-12-17,F
+Opinion,Gail,2015-12-17,F
+Opinion,Ross,2015-12-17,M
+Arts,Ben,2015-12-17,M
+U.S.,Charlie,2015-12-17,M
+Arts,Kathryn,2015-12-17,F
+N.Y. / Region,Mireya,2015-12-17,F
+N.Y. / Region,Eleanor,2015-12-17,F
+Sports,Scott,2015-12-17,M
+N.Y. / Region,James,2015-12-17,M
+World,Elisabeth,2015-12-17,F
+World,Rick,2015-12-17,M
+N.Y. / Region,Rick,2015-12-17,M
+World,Liam,2015-12-17,M
+U.S.,Julia,2015-12-17,F
+U.S.,Timothy,2015-12-17,M
+N.Y. / Region,Kate,2015-12-17,F
+World,Somini,2015-12-17,U
+N.Y. / Region,Rick,2015-12-17,M
+Education,Margalit,2015-12-17,F
+World,Nicholas,2015-12-17,M
+Education,Sam,2015-12-17,M
+U.S.,Michael,2015-12-17,M
+N.Y. / Region,Emma,2015-12-17,F
+Business Day,Steve,2015-12-17,M
+World,Robert,2015-12-17,M
+Business Day,Ravi,2015-12-17,M
+Sports,Ken,2015-12-17,M
+World,Julie,2015-12-17,F
+Business Day,Landon,2015-12-17,M
+U.S.,Julie,2015-12-17,F
+U.S.,Ashley,2015-12-17,F
+Business Day,Michael,2015-12-17,M
+U.S.,Robert,2015-12-17,M
+World,Rick,2015-12-17,M
+Business Day,Ben,2015-12-17,M
+World,Jonathan,2015-12-17,M
+Sports,Benjamin,2015-12-17,M
+Sports,Bill,2015-12-17,M
+Business Day,Danielle,2015-12-17,F
+U.S.,Julia,2015-12-17,F
+World,Milan,2015-12-17,M
+World,Daniel,2015-12-17,M
+Movies,Cara,2015-12-17,F
+Arts,Ben,2015-12-17,M
+Sports,Rebecca,2015-12-17,F
+Fashion & Style,Alison,2015-12-17,F
+Arts,Jon,2015-12-17,M
+Arts,Jon,2015-12-17,M
+Arts,Mike,2015-12-17,M
+Fashion & Style,Ben,2015-12-17,M
+Arts,Anthony,2015-12-17,M
+Technology,Conor,2015-12-17,M
+Fashion & Style,Max,2015-12-17,M
+N.Y. / Region,Stephanie,2015-12-17,F
+Fashion & Style,Laura,2015-12-17,F
+Universal,Por,2015-12-17,U
+World,Katie,2015-12-17,F
+Fashion & Style,Jon,2015-12-17,M
+World,Diaa,2015-12-17,U
+Technology,Dan,2015-12-17,M
+Sports,Tim,2015-12-17,M
+World,Alexandra,2015-12-17,F
+N.Y. / Region,Al,2015-12-17,M
+Business Day,John,2015-12-17,M
+Fashion & Style,Ruth,2015-12-17,F
+World,Jeffrey,2015-12-17,M
+Books,Jennifer,2015-12-17,F
+Business Day,Michael,2015-12-17,M
+Sports,Scott,2015-12-17,M
+Business Day,John,2015-12-17,M
+Theater,Michael,2015-12-17,M
+Fashion & Style,Jacob,2015-12-17,M
+Fashion & Style,Alex,2015-12-17,M
+The Upshot,Neil,2015-12-17,M
+Technology,Kit,2015-12-17,M
+World,Saeed,2015-12-17,M
+Technology,Mike,2015-12-17,M
+Fashion & Style,Brian,2015-12-17,M
+U.S.,Sheryl,2015-12-17,F
+Business Day,Peter,2015-12-17,M
+Arts,Jennifer,2015-12-17,F
+Technology,Brian,2015-12-17,M
+Fashion & Style,Hannah,2015-12-17,F
+U.S.,Al,2015-12-17,M
+World,Omar,2015-12-17,M
+World,Daniel,2015-12-17,M
+World,Jacey,2015-12-17,F
+U.S.,David,2015-12-17,M
+Business Day,Stephen,2015-12-17,M
+World,Robert,2015-12-17,M
+U.S.,Ian,2015-12-17,M
+U.S.,Matt,2015-12-17,M
+Technology,Mike,2015-12-17,M
+Business Day,Clifford,2015-12-17,M
+U.S.,Christine,2015-12-17,F
+U.S.,Lizette,2015-12-17,F
+Fashion & Style,Tim,2015-12-17,M
+U.S.,Nick,2015-12-17,M
+U.S.,Christine,2015-12-17,F
+Business Day,Liz,2015-12-17,F
+Movies,Sewell,2015-12-17,M
+N.Y. / Region,Charles,2015-12-17,M
+Technology,Jonah,2015-12-17,M
+Fashion & Style,Penelope,2015-12-17,F
+U.S.,Robert,2015-12-17,M
+U.S.,Matt,2015-12-17,M
+World,Douglas,2015-12-17,M
+U.S.,David,2015-12-17,M
+Business Day,Nicola,2015-12-17,F
+Fashion & Style,Katie,2015-12-17,F
+Technology,Farhad,2015-12-17,M
+Fashion & Style,Vanessa,2015-12-17,F
+N.Y. / Region,Michael,2015-12-17,M
+Business Day,Jack,2015-12-17,M
+World,Sewell,2015-12-17,M
+Business Day,Chad,2015-12-17,M
+Sports,Victor,2015-12-17,M
+Business Day,Stanley,2015-12-17,M
+World,Norimitsu,2015-12-17,U
+Technology,J.,2015-12-17,U
+World,Rod,2015-12-17,M
+N.Y. / Region,James,2015-12-17,M
+Business Day,Eilene,2015-12-17,F
+Movies,Katie,2015-12-17,F
+World,Nida,2015-12-17,F
+Business Day,Andrew,2015-12-17,M
+Opinion,Kemal,2015-12-17,M
+Opinion,Andrew,2015-12-17,M
+Sports,Marc,2015-12-17,M
+World,Sewell,2015-12-17,M
+Science,Jonah,2015-12-17,M
+Sports,Lisa,2015-12-17,F
+Arts,Matt,2015-12-17,M
+Sports,Andrew,2015-12-17,M
+World,Michael,2015-12-17,M
+World,Jonathan,2015-12-17,M
+N.Y. / Region,David,2015-12-17,M
+Fashion & Style,Lisa,2015-12-17,F
+Your Money,Tara,2015-12-17,F
+World,Choe,2015-12-17,U
+Business Day,Chad,2015-12-17,M
+World,Jane,2015-12-17,F
+Business Day,Amie,2015-12-17,F
+World,Edward,2015-12-17,M
+World,Michael,2015-12-17,M
+Business Day,Michael,2015-12-17,M
+U.S.,Alan,2015-12-17,M
+Fashion & Style,John,2015-12-17,M
+Times Insider,Marie,2015-12-18,F
+Fashion & Style,Katherine,2015-12-18,F
+Fashion & Style,Bill,2015-12-18,M
+Crosswords & Games,Deb,2015-12-18,F
+World,K.,2015-12-18,U
+Opinion,Paul,2015-12-18,M
+Travel,Ingrid,2015-12-18,F
+N.Y. / Region,Emily,2015-12-18,F
+N.Y. / Region,Marc,2015-12-18,M
+U.S.,First,2015-12-18,U
+NYT Now,Andrea,2015-12-18,F
+Movies,Mekado,2015-12-18,U
+Opinion,Andrew,2015-12-18,M
+U.S.,Michael,2015-12-18,M
+Books,Maria,2015-12-18,F
+Arts,Ben,2015-12-18,M
+N.Y. / Region,Winnie,2015-12-18,F
+Magazine,Geffrey,2015-12-18,M
+T Magazine,Alexandria,2015-12-18,F
+Opinion,Ross,2015-12-18,M
+The Upshot,Margot,2015-12-18,F
+Arts,Caryn,2015-12-18,F
+Arts,Alexandra,2015-12-18,F
+Movies,Lorne,2015-12-18,M
+U.S.,Alan,2015-12-18,M
+Opinion,Margaret,2015-12-18,F
+T Magazine,Hilary,2015-12-18,F
+U.S.,Ashley,2015-12-18,F
+Food,Sam,2015-12-18,M
+World,International,2015-12-18,U
+Opinion,Teresa,2015-12-18,F
+Movies,Cara,2015-12-18,F
+U.S.,Alan,2015-12-18,M
+Arts,Christopher,2015-12-18,M
+Arts,Jonathan,2015-12-18,M
+Technology,Joseph,2015-12-18,M
+Science,Jonathan,2015-12-18,M
+World,International,2015-12-18,U
+N.Y. / Region,Jon,2015-12-18,M
+Travel,Elaine,2015-12-18,F
+Arts,Laurel,2015-12-18,F
+Arts,Joshua,2015-12-18,M
+U.S.,Maggie,2015-12-18,F
+Education,Shannon,2015-12-18,F
+U.S.,John,2015-12-18,M
+U.S.,Carl,2015-12-18,M
+Health,Toby,2015-12-18,M
+U.S.,Nick,2015-12-18,M
+U.S.,Alan,2015-12-18,M
+N.Y. / Region,Tatiana,2015-12-18,F
+NYT Now,Adeel,2015-12-18,M
+Blogs,Amie,2015-12-18,F
+Health,Roni,2015-12-18,F
+Education,Katherine,2015-12-18,F
+Multimedia/Photos,David,2015-12-18,M
+Education,Michael,2015-12-18,M
+Opinion,Thomas,2015-12-18,M
+Opinion,Paul,2015-12-18,M
+Opinion,Timothy,2015-12-18,M
+Opinion,David,2015-12-18,M
+U.S.,Maggie,2015-12-18,F
+Arts,Kathryn,2015-12-18,F
+N.Y. / Region,Emily,2015-12-18,F
+N.Y. / Region,Rick,2015-12-18,M
+N.Y. / Region,Joshua,2015-12-18,M
+World,Edward,2015-12-18,M
+Arts,Randy,2015-12-18,M
+U.S.,Katharine,2015-12-18,F
+N.Y. / Region,Patrick,2015-12-18,M
+Arts,William,2015-12-18,M
+N.Y. / Region,Benjamin,2015-12-18,M
+U.S.,John,2015-12-18,M
+U.S.,Liam,2015-12-18,M
+Business Day,Abby,2015-12-18,F
+World,Stephen,2015-12-18,M
+Sports,Ben,2015-12-18,M
+Business Day,Andrew,2015-12-18,M
+Business Day,Liz,2015-12-18,F
+Sports,William,2015-12-18,M
+N.Y. / Region,Jim,2015-12-18,M
+World,Ian,2015-12-18,M
+Business Day,Stephanie,2015-12-18,F
+Opinion,Charles,2015-12-18,M
+N.Y. / Region,Michael,2015-12-18,M
+World,Michael,2015-12-18,M
+World,Somini,2015-12-18,U
+Business Day,Binyamin,2015-12-18,M
+Business Day,Diane,2015-12-18,F
+U.S.,Nick,2015-12-18,M
+Business Day,Stephanie,2015-12-18,F
+Science,Kenneth,2015-12-18,M
+Arts,Elise,2015-12-18,F
+Movies,Daniel,2015-12-18,M
+Arts,Ken,2015-12-18,M
+Arts,Nicole,2015-12-18,F
+Arts,Ken,2015-12-18,M
+Arts,Roberta,2015-12-18,F
+Arts,Martha,2015-12-18,F
+Movies,Daniel,2015-12-18,M
+Arts,Holland,2015-12-18,GN
+Arts,Eve,2015-12-18,F
+Arts,Holland,2015-12-18,GN
+U.S.,Ashley,2015-12-18,F
+Theater,Anita,2015-12-18,F
+Theater,Gia,2015-12-18,F
+Arts,James,2015-12-18,M
+Arts,Holland,2015-12-18,GN
+Arts,Nate,2015-12-18,M
+World,Mujib,2015-12-18,U
+Theater,Ben,2015-12-18,M
+U.S.,Monica,2015-12-18,F
+Arts,Brian,2015-12-18,M
+Arts,David,2015-12-18,M
+Movies,Mekado,2015-12-18,U
+Arts,Robin,2015-12-18,F
+N.Y. / Region,Al,2015-12-18,M
+Sports,Chase,2015-12-18,M
+U.S.,Daniel,2015-12-18,M
+U.S.,Eric,2015-12-18,M
+Business Day,James,2015-12-18,M
+Times Insider,Susan,2015-12-18,F
+Sports,Jonah,2015-12-18,M
+Travel,Shivani,2015-12-18,F
+N.Y. / Region,Michael,2015-12-18,M
+Theater,Alexis,2015-12-18,F
+Automobiles,John,2015-12-18,M
+World,Isabel,2015-12-18,F
+Business Day,Dan,2015-12-18,M
+Sports,Lindsay,2015-12-18,F
+Business Day,William,2015-12-18,M
+N.Y. / Region,David,2015-12-18,M
+World,Liz,2015-12-18,F
+Business Day,Danielle,2015-12-18,F
+U.S.,Monica,2015-12-18,F
+World,Andrew,2015-12-18,M
+Movies,Brooks,2015-12-18,M
+U.S.,Ron,2015-12-18,M
+Business Day,Rob,2015-12-18,M
+World,Thomas,2015-12-18,M
+Sports,Tom,2015-12-18,M
+Business Day,Neil,2015-12-18,M
+World,Somini,2015-12-18,U
+N.Y. / Region,Marc,2015-12-18,M
+Arts,Brian,2015-12-18,M
+Arts,Stephen,2015-12-18,M
+U.S.,Jennifer,2015-12-18,F
+U.S.,David,2015-12-18,M
+Business Day,Brooks,2015-12-18,M
+Sports,Harvey,2015-12-18,M
+Books,Dwight,2015-12-18,M
+World,Joe,2015-12-18,M
+Movies,Melena,2015-12-18,F
+U.S.,Gardiner,2015-12-18,M
+Sports,Pat,2015-12-18,F
+Technology,Katie,2015-12-18,F
+Business Day,Stanley,2015-12-18,M
+World,Peter,2015-12-18,M
+U.S.,Christine,2015-12-18,F
+Automobiles,Tom,2015-12-18,M
+Opinion,David,2015-12-18,M
+World,Katie,2015-12-18,F
+U.S.,Michael,2015-12-18,M
+World,Sewell,2015-12-18,M
+Business Day,Ravi,2015-12-18,M
+World,Vindu,2015-12-18,U
+World,Andrew,2015-12-18,M
+Opinion,Mohammed,2015-12-18,M
+Sports,Victor,2015-12-18,M
+Opinion,Darren,2015-12-18,M
+World,Kareem,2015-12-18,M
+The Upshot,Claire,2015-12-18,F
+World,Stephen,2015-12-18,M
+U.S.,Adam,2015-12-18,M
+U.S.,Jeremy,2015-12-18,M
+Business Day,Leslie,2015-12-18,F
+Technology,J.,2015-12-18,U
+U.S.,Sheryl,2015-12-18,F
+World,Nick,2015-12-18,M
+Business Day,Isabel,2015-12-18,F
+Opinion,P.,2015-12-18,U
+Business Day,Chad,2015-12-18,M
+Business Day,Julie,2015-12-18,F
+Sports,Victor,2015-12-18,M
+Business Day,Chad,2015-12-18,M
+World,Michael,2015-12-18,M
+Business Day,Ben,2015-12-18,M
+Great Homes & Destinations,Laura,2015-12-18,F
+World,Jane,2015-12-18,F
+Health,Denise,2015-12-18,F
+Great Homes & Destinations,Andrew,2015-12-18,M
+World,Choe,2015-12-18,U
+Opinion,Roger,2015-12-18,M
+Sports,Emma,2015-12-18,F
+N.Y. / Region,Jesse,2015-12-18,M
+Business Day,Peter,2015-12-18,M
+Business Day,Chad,2015-12-18,M
+World,Andrew,2015-12-18,M
+World,Patrick,2015-12-18,M
+Universal,Choe,2015-12-19,U
+U.S.,Maggie,2015-12-19,F
+Job Market,Seth,2015-12-19,M
+Crosswords & Games,Deb,2015-12-19,F
+Arts,Mike,2015-12-19,M
+Fashion & Style,Channon,2015-12-19,F
+Crosswords & Games,Deb,2015-12-19,F
+U.S.,Ashley,2015-12-19,F
+World,Mathias,2015-12-19,M
+Opinion,Andrew,2015-12-19,M
+Sports,Benjamin,2015-12-19,M
+Fashion & Style,Channon,2015-12-19,F
+U.S.,Julie,2015-12-19,F
+Opinion,Miles,2015-12-19,M
+Arts,Kathryn,2015-12-19,F
+Sports,Allan,2015-12-19,M
+U.S.,Julia,2015-12-19,F
+U.S.,Nick,2015-12-19,M
+N.Y. / Region,Liam,2015-12-19,M
+Sports,Scott,2015-12-19,M
+Opinion,Gail,2015-12-19,F
+Opinion,Peter,2015-12-19,M
+N.Y. / Region,Charles,2015-12-19,M
+Sports,Marc,2015-12-19,M
+Arts,William,2015-12-19,M
+N.Y. / Region,John,2015-12-19,M
+N.Y. / Region,Rick,2015-12-19,M
+N.Y. / Region,Sam,2015-12-19,M
+Sports,Joe,2015-12-19,M
+N.Y. / Region,Julie,2015-12-19,F
+Opinion,William,2015-12-19,M
+Sports,Ben,2015-12-19,M
+U.S.,Scott,2015-12-19,M
+N.Y. / Region,Nikita,2015-12-19,F
+World,Vinod,2015-12-19,M
+Sports,Ben,2015-12-19,M
+N.Y. / Region,David,2015-12-19,M
+U.S.,Alan,2015-12-19,M
+N.Y. / Region,William,2015-12-19,M
+Business Day,Ravi,2015-12-19,M
+U.S.,Dave,2015-12-19,M
+World,Rick,2015-12-19,M
+U.S.,Erik,2015-12-19,M
+Business Day,Reed,2015-12-19,M
+Health,Gina,2015-12-19,F
+U.S.,Mitch,2015-12-19,M
+The Upshot,Nate,2015-12-19,M
+World,Rana,2015-12-19,F
+U.S.,Helene,2015-12-19,F
+Arts,Anthony,2015-12-19,M
+U.S.,Todd,2015-12-19,M
+Theater,Michael,2015-12-19,M
+Arts,Nate,2015-12-19,M
+Arts,Jon,2015-12-19,M
+Theater,Alexis,2015-12-19,F
+U.S.,Mike,2015-12-19,M
+World,Julfikar,2015-12-19,U
+World,Saeed,2015-12-19,M
+Books,Rachel,2015-12-19,F
+World,Ellen,2015-12-19,F
+World,James,2015-12-19,M
+Business Day,Diane,2015-12-19,F
+Sports,Jason,2015-12-19,M
+Business Day,Mary,2015-12-19,F
+World,Rick,2015-12-19,M
+U.S.,Jonathan,2015-12-19,M
+Business Day,Nathaniel,2015-12-19,M
+World,Nick,2015-12-19,M
+World,Andrew,2015-12-19,M
+U.S.,Julie,2015-12-19,F
+Business Day,Robyn,2015-12-19,F
+Business Day,Robert,2015-12-19,M
+Business Day,Andrew,2015-12-19,M
+Your Money,Paul,2015-12-19,M
+Theater,Michael,2015-12-19,M
+World,Michael,2015-12-19,M
+N.Y. / Region,Katie,2015-12-19,F
+World,Jeffrey,2015-12-19,M
+U.S.,Jeremy,2015-12-19,M
+Your Money,Ron,2015-12-19,M
+Arts,Melissa,2015-12-19,F
+Movies,Rachel,2015-12-19,F
+Health,Sabrina,2015-12-19,F
+U.S.,Michael,2015-12-19,M
+World,Raphael,2015-12-19,M
+Arts,Gia,2015-12-19,F
+Arts,Gia,2015-12-19,F
+Arts,Gia,2015-12-19,F
+N.Y. / Region,Lisa,2015-12-19,F
+Business Day,Keith,2015-12-19,M
+Your Money,Ann,2015-12-19,F
+Arts,Daniel,2015-12-19,M
+Sports,Scott,2015-12-19,M
+Business Day,Brooks,2015-12-19,M
+The Upshot,Damon,2015-12-19,M
+Technology,J.,2015-12-19,U
+U.S.,David,2015-12-19,M
+U.S.,Liam,2015-12-19,M
+World,Choe,2015-12-19,U
+Your Money,John,2015-12-19,M
+The Upshot,David,2015-12-19,M
+Opinion,Patrick,2015-12-19,M
+Technology,Ian,2015-12-19,M
+World,Thomas,2015-12-19,M
+Business Day,Chad,2015-12-19,M
+Business Day,Amie,2015-12-19,F
+World,Thomas,2015-12-19,M
+Sports,Huw,2015-12-19,U
+Business Day,Jonathan,2015-12-19,M
+World,Michael,2015-12-19,M
+Business Day,Chad,2015-12-19,M
+World,Somini,2015-12-19,U
+World,Zhan,2015-12-19,U
+Universal,Por,2015-12-20,U
+Arts,Mike,2015-12-20,M
+N.Y. / Region,William,2015-12-20,M
+U.S.,Trip,2015-12-20,M
+Opinion,Paul,2015-12-20,M
+World,Ben,2015-12-20,M
+Crosswords & Games,Deb,2015-12-20,F
+U.S.,Maggie,2015-12-20,F
+U.S.,Amy,2015-12-20,F
+Arts,Kathryn,2015-12-20,F
+Food,Sam,2015-12-20,M
+World,International,2015-12-20,U
+Sports,Benjamin,2015-12-20,M
+Sports,Benjamin,2015-12-20,M
+Sports,Benjamin,2015-12-20,M
+Sports,Benjamin,2015-12-20,M
+Sports,Benjamin,2015-12-20,M
+Sports,Benjamin,2015-12-20,M
+Sports,Benjamin,2015-12-20,M
+Sports,Benjamin,2015-12-20,M
+Sports,Benjamin,2015-12-20,M
+Sports,Benjamin,2015-12-20,M
+Sports,Benjamin,2015-12-20,M
+Sports,Benjamin,2015-12-20,M
+Sports,Benjamin,2015-12-20,M
+World,International,2015-12-20,U
+U.S.,Teri,2015-12-20,F
+NYT Now,Andrea,2015-12-20,F
+Sports,Ben,2015-12-20,M
+Fashion & Style,Vincent,2015-12-20,M
+Books; Arts,Maria,2015-12-20,F
+U.S.,Patrick,2015-12-20,M
+Sports,Andrew,2015-12-20,M
+U.S.,Matthew,2015-12-20,M
+World,Victoria,2015-12-20,F
+World,Ceylan,2015-12-20,F
+U.S.,David,2015-12-20,M
+U.S.,Ashley,2015-12-20,F
+World,Andrew,2015-12-20,M
+World,Andrew,2015-12-20,M
+Sports,Bill,2015-12-20,M
+World,Edward,2015-12-20,M
+World,Raphael,2015-12-20,M
+Sports,Marc,2015-12-20,M
+Sports,Jeré,2015-12-20,U
+N.Y. / Region,Margalit,2015-12-20,F
+Sports,Bill,2015-12-20,M
+N.Y. / Region,John,2015-12-20,M
+N.Y. / Region,Sandra,2015-12-20,F
+N.Y. / Region,Daniel,2015-12-20,M
+U.S.,Jonathan,2015-12-20,M
+Sports,Tim,2015-12-20,M
+Opinion,Brian,2015-12-20,M
+Sports,Jonathan,2015-12-20,M
+Opinion,Nicholas,2015-12-20,M
+Opinion,Frank,2015-12-20,M
+Opinion,Kevin,2015-12-20,M
+Opinion,Richard,2015-12-20,M
+Opinion,Joanne,2015-12-20,F
+Opinion,Carol,2015-12-20,F
+Opinion,Seamus,2015-12-20,M
+Opinion,Francis,2015-12-20,M
+Opinion,Ross,2015-12-20,M
+Opinion,Kate,2015-12-20,F
+Opinion,Paco,2015-12-20,M
+Opinion,Theresa,2015-12-20,F
+World,David,2015-12-20,M
+Sports,Michael,2015-12-20,M
+Your Money,David,2015-12-20,M
+Business Day,David,2015-12-20,M
+U.S.,Michael,2015-12-20,M
+World,Ellen,2015-12-20,F
+U.S.,Erik,2015-12-20,M
+Sports,Benjamin,2015-12-20,M
+Business Day,Reed,2015-12-20,M
+World,Michael,2015-12-20,M
+U.S.,Alan,2015-12-20,M
+Real Estate,Ronda,2015-12-20,F
+U.S.,Jonathan,2015-12-20,M
+Arts,Margalit,2015-12-20,F
+Technology,Farhad,2015-12-20,M
+U.S.,Trip,2015-12-20,M
+Business Day,Michael,2015-12-20,M
+Fashion & Style,Steven,2015-12-20,M
+Fashion & Style,Stuart,2015-12-20,M
+Fashion & Style,Jacob,2015-12-20,M
+Fashion & Style,Jacob,2015-12-20,M
+Fashion & Style,Vincent,2015-12-20,M
+World,Sam,2015-12-20,M
+N.Y. / Region,Liz,2015-12-20,F
+Universal,Por,2015-12-20,U
+N.Y. / Region,Steve,2015-12-20,M
+N.Y. / Region,Hilary,2015-12-20,F
+Fashion & Style,Stuart,2015-12-20,M
+Fashion & Style,Hampton,2015-12-20,M
+N.Y. / Region,Tammy,2015-12-20,F
+Real Estate,Dan,2015-12-20,M
+N.Y. / Region,Winnie,2015-12-20,F
+Opinion,Joseph,2015-12-20,M
+N.Y. / Region,Fran,2015-12-20,F
+N.Y. / Region,Ginia,2015-12-20,F
+N.Y. / Region,Kurt,2015-12-20,M
+N.Y. / Region,Rand,2015-12-20,M
+Real Estate,Aileen,2015-12-20,F
+N.Y. / Region,Ken,2015-12-20,M
+N.Y. / Region,Aileen,2015-12-20,F
+Fashion & Style,Stuart,2015-12-20,M
+Fashion & Style,Ruth,2015-12-20,F
+N.Y. / Region,Jonah,2015-12-20,M
+Real Estate,Michelle,2015-12-20,F
+Real Estate,Michelle,2015-12-20,F
+N.Y. / Region,Corey,2015-12-20,M
+Sports,Seth,2015-12-20,M
+Real Estate,Vivian,2015-12-20,F
+N.Y. / Region,Shivani,2015-12-20,F
+Opinion,Maeve,2015-12-20,F
+Books,Marilyn,2015-12-20,F
+Books,Toni,2015-12-20,F
+Books,Pedro,2015-12-20,M
+Books,Andrew,2015-12-20,M
+Books,Jonathan,2015-12-20,M
+Books,Louisa,2015-12-20,F
+The Upshot,Michael,2015-12-20,M
+Real Estate,Lisa,2015-12-20,F
+Books,Benjamin,2015-12-20,M
+Books,Andrew,2015-12-20,M
+Sports,Benjamin,2015-12-20,M
+Books,Lisa,2015-12-20,F
+Books,Kekla,2015-12-20,U
+Books,John,2015-12-20,M
+Books,Joumana,2015-12-20,U
+Opinion,Thomas,2015-12-20,M
+The Upshot,N.,2015-12-20,U
+N.Y. / Region,Alan,2015-12-20,M
+Business Day,Gretchen,2015-12-20,F
+Real Estate,Tim,2015-12-20,M
+Travel,Danielle,2015-12-20,F
+Travel,Elaine,2015-12-20,F
+Theater,Eric,2015-12-20,M
+Opinion,Stacy,2015-12-20,F
+Theater,Erik,2015-12-20,M
+Magazine,Khaled,2015-12-20,M
+Arts,Jori,2015-12-20,F
+Magazine,Malia,2015-12-20,F
+Fashion & Style,Jane,2015-12-20,F
+Fashion & Style,Matthew,2015-12-20,M
+Real Estate,C.,2015-12-20,U
+Fashion & Style,Lori,2015-12-20,F
+Business Day,Adam,2015-12-20,M
+Fashion & Style,Philip,2015-12-20,M
+Real Estate,Joyce,2015-12-20,F
+Movies,Cara,2015-12-20,F
+Magazine,Dan,2015-12-20,M
+Magazine,Interview,2015-12-20,U
+Magazine,Jim,2015-12-20,M
+Travel,Minh,2015-12-20,M
+Arts,Ben,2015-12-20,M
+Books,Caleb,2015-12-20,M
+Arts,James,2015-12-20,M
+Arts,James,2015-12-20,M
+Arts,Alastair,2015-12-20,M
+Books,Cynthia,2015-12-20,F
+N.Y. / Region,Alex,2015-12-20,M
+Arts,Nate,2015-12-20,M
+Arts,Jon,2015-12-20,M
+Arts,Neil,2015-12-20,M
+Arts,Siobhan,2015-12-20,F
+Theater,Steven,2015-12-20,M
+Arts,Anthony,2015-12-20,M
+Movies,Stephen,2015-12-20,M
+Arts,Ken,2015-12-20,M
+Travel,Jillian,2015-12-20,F
+Opinion,Paula,2015-12-20,F
+Magazine,Nathaniel,2015-12-20,M
+Magazine,John,2015-12-20,M
+Magazine,Sam,2015-12-20,M
+Magazine,Kwame,2015-12-20,M
+Travel,Joyce,2015-12-20,F
+Real Estate,C.,2015-12-20,U
+Travel,Alyson,2015-12-20,F
+Travel,Ingrid,2015-12-20,F
+Magazine,Jim,2015-12-20,M
+Magazine,Emily,2015-12-20,F
+Magazine,Adam,2015-12-20,M
+Books,Sam,2015-12-20,M
+Books,Lori,2015-12-20,F
+Travel,Gabriella,2015-12-20,F
+Books,Gregory,2015-12-20,M
+Movies,Dave,2015-12-20,M
+Books,Gideon,2015-12-20,M
+Magazine,Teju,2015-12-21,U
+Crosswords & Games,Deb,2015-12-21,F
+World,Russell,2015-12-21,M
+Arts,Graham,2015-12-21,M
+Arts,Sydney,2015-12-21,F
+U.S.,Jeremy,2015-12-21,M
+NYT Now,Andrea,2015-12-21,F
+Books,George,2015-12-21,M
+Opinion,Paul,2015-12-21,M
+N.Y. / Region,Corey,2015-12-21,M
+World,Derek,2015-12-21,M
+Arts,Michael,2015-12-21,M
+Health,Jennifer,2015-12-21,F
+Your Money,Carl,2015-12-21,M
+Health,Roni,2015-12-21,F
+Style,Valeriya,2015-12-21,F
+Magazine,Tom,2015-12-21,M
+U.S.,Amy,2015-12-21,F
+U.S.,Julie,2015-12-21,F
+Opinion,Anna,2015-12-21,F
+Arts,Rachel,2015-12-21,F
+U.S.,Alan,2015-12-21,M
+Real Estate,Mika,2015-12-21,F
+U.S.,Maggie,2015-12-21,F
+World,International,2015-12-21,U
+U.S.,Alan,2015-12-21,M
+Arts,Ben,2015-12-21,M
+Crosswords & Games,Gary,2015-12-21,M
+Arts,Michael,2015-12-21,M
+Arts,Roslyn,2015-12-21,F
+Food,Sam,2015-12-21,M
+Opinion,Ross,2015-12-21,M
+U.S.,Kj,2015-12-21,M
+U.S.,Maggie,2015-12-21,F
+Technology,Pui-wing,2015-12-21,U
+T Magazine,Hilary,2015-12-21,F
+World,International,2015-12-21,U
+Blogs,Amie,2015-12-21,F
+Science,David,2015-12-21,M
+Science,James,2015-12-21,M
+N.Y. / Region,Noah,2015-12-21,M
+NYT Now,Adeel,2015-12-21,M
+Health,Jane,2015-12-21,F
+Travel,Elaine,2015-12-21,F
+World,Sergio,2015-12-21,M
+Food,Meghan,2015-12-21,F
+Opinion,Kenan,2015-12-21,M
+Education,Shannon,2015-12-21,F
+Multimedia/Photos,James,2015-12-21,M
+Education,Larry,2015-12-21,M
+Education,Shannon,2015-12-21,F
+Opinion,Roy,2015-12-21,M
+Opinion,Mustafa,2015-12-21,M
+Opinion,Donovan,2015-12-21,M
+Opinion,Paul,2015-12-21,M
+U.S.,Jennifer,2015-12-21,F
+Arts,Kathryn,2015-12-21,F
+U.S.,Erica,2015-12-21,F
+N.Y. / Region,Liz,2015-12-21,F
+U.S.,Liam,2015-12-21,M
+Sports,Jonah,2015-12-21,M
+Sports,Dave,2015-12-21,M
+Sports,Benjamin,2015-12-21,M
+Sports,Seth,2015-12-21,M
+Theater,Charles,2015-12-21,M
+Science,Erica,2015-12-21,F
+N.Y. / Region,John,2015-12-21,M
+N.Y. / Region,Kirk,2015-12-21,M
+U.S.,Julie,2015-12-21,F
+Sports,Tom,2015-12-21,M
+U.S.,Matt,2015-12-21,M
+N.Y. / Region,Sarah,2015-12-21,F
+World,Michael,2015-12-21,M
+Business Day,Cecilia,2015-12-21,F
+Sports,Josh,2015-12-21,M
+Opinion,Charles,2015-12-21,M
+N.Y. / Region,Jesse,2015-12-21,M
+U.S.,Katharine,2015-12-21,F
+Business Day,Alina,2015-12-21,F
+Business Day,Elizabeth,2015-12-21,F
+World,Kareem,2015-12-21,M
+Business Day,Alessandra,2015-12-21,F
+World,Mujib,2015-12-21,U
+N.Y. / Region,Rachel,2015-12-21,F
+N.Y. / Region,Tatiana,2015-12-21,F
+World,C.,2015-12-21,U
+Technology,Nick,2015-12-21,M
+Business Day,Leslie,2015-12-21,F
+U.S.,Eric,2015-12-21,M
+World,Andrew,2015-12-21,M
+Arts,Brian,2015-12-21,M
+Arts,Alastair,2015-12-21,M
+World,Amina,2015-12-21,F
+Books,Dwight,2015-12-21,M
+Arts,Lilia,2015-12-21,F
+Arts,Stephen,2015-12-21,M
+Arts,Mekado,2015-12-21,U
+Sports,Marc,2015-12-21,M
+Arts,David,2015-12-21,M
+Arts,Brian,2015-12-21,M
+Sports,Bill,2015-12-21,M
+Business Day,Nelson,2015-12-21,M
+Opinion,Enuma,2015-12-21,U
+U.S.,Nicholas,2015-12-21,M
+World,Michael,2015-12-21,M
+Sports,Rob,2015-12-21,M
+Movies,Cara,2015-12-21,F
+Movies,Brooks,2015-12-21,M
+U.S.,Albert,2015-12-21,M
+N.Y. / Region,Tom,2015-12-21,M
+U.S.,Adam,2015-12-21,M
+World,Diaa,2015-12-21,U
+N.Y. / Region,James,2015-12-21,M
+World,Jeffrey,2015-12-21,M
+World,Raphael,2015-12-21,M
+Business Day,Nicola,2015-12-21,F
+World,Norimitsu,2015-12-21,U
+Sports,Rob,2015-12-21,M
+Business Day,Sonia,2015-12-21,F
+Sports,Richard,2015-12-21,M
+U.S.,Margalit,2015-12-21,F
+Arts,Scott,2015-12-21,M
+Fashion & Style,Eleanor,2015-12-22,F
+Movies,A.,2015-12-22,U
+Movies,Stephen,2015-12-22,M
+Health,Donald,2015-12-22,M
+Crosswords & Games,Deb,2015-12-22,F
+Opinion,Andrew,2015-12-22,M
+U.S.,Liam,2015-12-22,M
+N.Y. / Region,Channon,2015-12-22,F
+U.S.,Ashley,2015-12-22,F
+NYT Now,Andrea,2015-12-22,F
+U.S.,Matt,2015-12-22,M
+Opinion,Anna,2015-12-22,F
+N.Y. / Region,Corey,2015-12-22,M
+U.S.,Amy,2015-12-22,F
+Times Insider,Michael,2015-12-22,M
+World,Axel,2015-12-22,M
+U.S.,Alan,2015-12-22,M
+Health,Nicholas,2015-12-22,M
+Arts,Michael,2015-12-22,M
+Universal,Por,2015-12-22,U
+Opinion,Paul,2015-12-22,M
+Arts,Randy,2015-12-22,M
+Arts,Brett,2015-12-22,M
+Education,Michael,2015-12-22,M
+Travel,Matt,2015-12-22,M
+World,International,2015-12-22,U
+Technology,Pui-wing,2015-12-22,U
+U.S.,Michael,2015-12-22,M
+Opinion,Paul,2015-12-22,M
+T Magazine,Hilary,2015-12-22,F
+N.Y. / Region,Emily,2015-12-22,F
+Times Topics,Philip,2015-12-22,M
+Arts,Alastair,2015-12-22,M
+Movies,Rachel,2015-12-22,F
+World,International,2015-12-22,U
+U.S.,Carl,2015-12-22,M
+U.S.,T.,2015-12-22,U
+U.S.,Alan,2015-12-22,M
+N.Y. / Region,Tatiana,2015-12-22,F
+U.S.,Alan,2015-12-22,M
+Blogs,Amie,2015-12-22,F
+NYT Now,Adeel,2015-12-22,M
+Health,Anahad,2015-12-22,U
+Opinion,Patrick,2015-12-22,M
+Education,Michael,2015-12-22,M
+Education,Katherine,2015-12-22,F
+Opinion,Steve,2015-12-22,M
+The Upshot,Nate,2015-12-22,M
+Opinion,David,2015-12-22,M
+Opinion,Amanda,2015-12-22,F
+Opinion,Steven,2015-12-22,M
+Opinion,Flora,2015-12-22,F
+Opinion,David,2015-12-22,M
+Opinion,Emma,2015-12-22,F
+Opinion,Sharon,2015-12-22,F
+Multimedia/Photos,James,2015-12-22,M
+Arts,Kathryn,2015-12-22,F
+N.Y. / Region,Ashley,2015-12-22,F
+U.S.,Mitch,2015-12-22,M
+World,Jane,2015-12-22,F
+Sports,Scott,2015-12-22,M
+World,Julie,2015-12-22,F
+Sports,Michael,2015-12-22,M
+Sports,Ben,2015-12-22,M
+World,Rick,2015-12-22,M
+N.Y. / Region,John,2015-12-22,M
+Science,Kenneth,2015-12-22,M
+Sports,William,2015-12-22,M
+Business Day,Liz,2015-12-22,F
+Arts,William,2015-12-22,M
+Sports,Scott,2015-12-22,M
+U.S.,Sam,2015-12-22,M
+Business Day,Andrew,2015-12-22,M
+N.Y. / Region,Jesse,2015-12-22,M
+U.S.,Alan,2015-12-22,M
+World,Vinod,2015-12-22,M
+World,David,2015-12-22,M
+Business Day,Emily,2015-12-22,F
+Sports,Bill,2015-12-22,M
+Business Day,Michael,2015-12-22,M
+World,Hwaida,2015-12-22,U
+N.Y. / Region,Michael,2015-12-22,M
+Sports,Richard,2015-12-22,M
+Business Day,Danny,2015-12-22,M
+N.Y. / Region,James,2015-12-22,M
+Business Day,Stephanie,2015-12-22,F
+N.Y. / Region,Charles,2015-12-22,M
+World,Robert,2015-12-22,M
+U.S.,Carl,2015-12-22,M
+Arts,Doreen,2015-12-22,F
+Arts,Jon,2015-12-22,M
+N.Y. / Region,Michael,2015-12-22,M
+Arts,Vivien,2015-12-22,F
+Arts,Michael,2015-12-22,M
+Business Day,Liz,2015-12-22,F
+Business Day,Liz,2015-12-22,F
+Arts,Stephen,2015-12-22,M
+Arts,Ben,2015-12-22,M
+Arts,David,2015-12-22,M
+World,William,2015-12-22,M
+World,Barbara,2015-12-22,F
+U.S.,Mike,2015-12-22,M
+Science,Nicholas,2015-12-22,M
+U.S.,Ian,2015-12-22,M
+Sports,Bill,2015-12-22,M
+Books,Jennifer,2015-12-22,F
+Arts,Farah,2015-12-22,F
+Sports,Chase,2015-12-22,M
+U.S.,Katie,2015-12-22,F
+World,Thomas,2015-12-22,M
+Science,Sindya,2015-12-22,U
+U.S.,Sheryl,2015-12-22,F
+Business Day,Robert,2015-12-22,M
+U.S.,Daniel,2015-12-22,M
+World,Rick,2015-12-22,M
+Business Day,Michael,2015-12-22,M
+Business Day,Peter,2015-12-22,M
+N.Y. / Region,Benjamin,2015-12-22,M
+U.S.,Jess,2015-12-22,M
+Health,Donald,2015-12-22,M
+Sports,Andrew,2015-12-22,M
+Business Day,Chad,2015-12-22,M
+N.Y. / Region,Matt,2015-12-22,M
+World,Thomas,2015-12-22,M
+N.Y. / Region,Nikita,2015-12-22,F
+U.S.,Maggie,2015-12-22,F
+U.S.,Stephanie,2015-12-22,F
+Business Day,Jonathan,2015-12-22,M
+Business Day,Leslie,2015-12-22,F
+U.S.,Fernanda,2015-12-22,F
+Business Day,Lucian,2015-12-22,M
+Business Day,Amy,2015-12-22,F
+Health,Sabrina,2015-12-22,F
+World,Raphael,2015-12-22,M
+U.S.,Katie,2015-12-22,F
+Science,C.,2015-12-22,U
+Business Day,Andrew,2015-12-22,M
+World,Jane,2015-12-22,F
+Business Day,Chad,2015-12-22,M
+Technology,J.,2015-12-22,U
+World,Aurelien,2015-12-22,U
+World,James,2015-12-22,M
+Fashion & Style,Vanessa,2015-12-22,F
+Business Day,Chad,2015-12-22,M
+Business Day,Stanley,2015-12-22,M
+World,Mujib,2015-12-22,U
+Business Day,Chad,2015-12-22,M
+The Upshot,Aaron,2015-12-22,M
+Business Day,Chad,2015-12-22,M
+Science,Justin,2015-12-22,M
+Opinion,Roger,2015-12-22,M
+Business Day,Neil,2015-12-22,M
+U.S.,Julie,2015-12-22,F
+World,Chris,2015-12-22,M
+Sports,Sam,2015-12-22,M
+Arts,Judith,2015-12-22,F
+U.S.,Richard,2015-12-22,M
+Science,George,2015-12-22,M
+Science,Sindya,2015-12-22,U
+Science,Sindya,2015-12-22,U
+Health,Paula,2015-12-22,F
+Science,Carl,2015-12-22,M
+Times Insider,Trip,2015-12-23,M
+Movies,Nicolas,2015-12-23,M
+Crosswords & Games,Deb,2015-12-23,F
+Health,Pam,2015-12-23,F
+U.S.,Trip,2015-12-23,M
+Arts,Ben,2015-12-23,M
+U.S.,Julie,2015-12-23,F
+NYT Now,Andrea,2015-12-23,F
+Travel,Charly,2015-12-23,F
+U.S.,Richard,2015-12-23,M
+Food,Florence,2015-12-23,F
+Technology,Quentin,2015-12-23,M
+Arts,Joshua,2015-12-23,M
+U.S.,Kj,2015-12-23,M
+The Upshot,Quoctrung,2015-12-23,U
+Technology,Kit,2015-12-23,M
+Books,David,2015-12-23,M
+World,Barbara,2015-12-23,F
+Technology,Vindu,2015-12-23,U
+Opinion,Paul,2015-12-23,M
+Opinion,Paul,2015-12-23,M
+Opinion,Elizabeth,2015-12-23,F
+U.S.,Alan,2015-12-23,M
+Fashion & Style,Aaron,2015-12-23,M
+The Upshot,Damon,2015-12-23,M
+Travel,Ingrid,2015-12-23,F
+Health,Susan,2015-12-23,F
+U.S.,Ashley,2015-12-23,F
+Fashion & Style,Jon,2015-12-23,M
+Food,Sam,2015-12-23,M
+World,International,2015-12-23,U
+Books,Maria,2015-12-23,F
+U.S.,Maggie,2015-12-23,F
+Arts,Graham,2015-12-23,M
+World,Rick,2015-12-23,M
+Real Estate,Alison,2015-12-23,F
+Technology,Pui-wing,2015-12-23,U
+Real Estate,Mike,2015-12-23,M
+U.S.,Alan,2015-12-23,M
+N.Y. / Region,Bob,2015-12-23,M
+Arts,Joe,2015-12-23,M
+Education,Katherine,2015-12-23,F
+Opinion,Margaret,2015-12-23,F
+Movies,Mekado,2015-12-23,U
+U.S.,Maggie,2015-12-23,F
+Opinion,Hadley,2015-12-23,F
+U.S.,Alan,2015-12-23,M
+World,International,2015-12-23,U
+U.S.,Alan,2015-12-23,M
+U.S.,Matt,2015-12-23,M
+N.Y. / Region,Tatiana,2015-12-23,F
+U.S.,Nick,2015-12-23,M
+Health,Gretchen,2015-12-23,F
+Blogs,Amie,2015-12-23,F
+NYT Now,Adeel,2015-12-23,M
+Health,Karen,2015-12-23,F
+Travel,Shivani,2015-12-23,F
+Education,Michael,2015-12-23,M
+Education,Michael,2015-12-23,M
+Opinion,Bernie,2015-12-23,M
+Opinion,Kyle,2015-12-23,M
+Opinion,Thomas,2015-12-23,M
+Opinion,Frank,2015-12-23,M
+World,Patrick,2015-12-23,M
+Multimedia/Photos,Dave,2015-12-23,M
+Arts,Kathryn,2015-12-23,F
+U.S.,Dave,2015-12-23,M
+N.Y. / Region,Hunter,2015-12-23,M
+Business Day,Sydney,2015-12-23,F
+Sports,Bill,2015-12-23,M
+Science,John,2015-12-23,M
+Sports,Jonathan,2015-12-23,M
+World,Sona,2015-12-23,F
+Business Day,Matthew,2015-12-23,M
+Sports,Rebecca,2015-12-23,F
+World,Karen,2015-12-23,F
+Health,Sabrina,2015-12-23,F
+U.S.,Julie,2015-12-23,F
+N.Y. / Region,Jim,2015-12-23,M
+Sports,Richard,2015-12-23,M
+World,Rick,2015-12-23,M
+Science,Kenneth,2015-12-23,M
+Business Day,Emily,2015-12-23,F
+Theater,Sam,2015-12-23,M
+Sports,Karen,2015-12-23,F
+World,Somini,2015-12-23,U
+N.Y. / Region,James,2015-12-23,M
+Business Day,Alexandra,2015-12-23,F
+Books,Bruce,2015-12-23,M
+N.Y. / Region,Stephanie,2015-12-23,F
+U.S.,Scott,2015-12-23,M
+Sports,Richard,2015-12-23,M
+Opinion,Jennifer,2015-12-23,F
+U.S.,Donald,2015-12-23,M
+U.S.,Ron,2015-12-23,M
+N.Y. / Region,Benjamin,2015-12-23,M
+N.Y. / Region,John,2015-12-23,M
+N.Y. / Region,Andy,2015-12-23,M
+Arts,Wesley,2015-12-23,M
+Arts,Jon,2015-12-23,M
+Real Estate,Vivian,2015-12-23,F
+U.S.,Mitch,2015-12-23,M
+Business Day,Christopher,2015-12-23,M
+U.S.,Daniel,2015-12-23,M
+Books,Dwight,2015-12-23,M
+Business Day,Ben,2015-12-23,M
+Real Estate,Rosalie,2015-12-23,F
+Business Day,Jennifer,2015-12-23,F
+Business Day,Liz,2015-12-23,F
+Business Day,Eduardo,2015-12-23,M
+U.S.,Jack,2015-12-23,M
+Sports,Allan,2015-12-23,M
+Arts,Jori,2015-12-23,F
+World,Rick,2015-12-23,M
+U.S.,Jonah,2015-12-23,M
+U.S.,Sheryl,2015-12-23,F
+Business Day,Sydney,2015-12-23,F
+U.S.,Nick,2015-12-23,M
+World,Alison,2015-12-23,F
+World,Jane,2015-12-23,F
+Business Day,Michael,2015-12-23,M
+Business Day,Steven,2015-12-23,M
+World,Julie,2015-12-23,F
+Food,Florence,2015-12-23,F
+World,Nick,2015-12-23,M
+World,Daniel,2015-12-23,M
+Food,Samantha,2015-12-23,F
+Sports,Tim,2015-12-23,M
+N.Y. / Region,Marc,2015-12-23,M
+Sports,Naila-jean,2015-12-23,U
+Food,Pete,2015-12-23,M
+The Upshot,Neil,2015-12-23,M
+World,Axel,2015-12-23,M
+Theater,Michael,2015-12-23,M
+Real Estate,Ronda,2015-12-23,F
+U.S.,Julie,2015-12-23,F
+World,Michael,2015-12-23,M
+N.Y. / Region,Michael,2015-12-23,M
+N.Y. / Region,J.,2015-12-23,U
+World,Ron,2015-12-23,M
+Sports,Victor,2015-12-23,M
+U.S.,Laurie,2015-12-23,F
+World,Alan,2015-12-23,M
+Health,Catherine,2015-12-23,F
+World,Nick,2015-12-23,M
+Arts,Katie,2015-12-23,F
+Sports,Ken,2015-12-23,M
+Technology,J.,2015-12-23,U
+World,Mujib,2015-12-23,U
+Business Day,Hiroko,2015-12-23,F
+Business Day,Nelson,2015-12-23,M
+The Upshot,Gregg,2015-12-23,M
+U.S.,Nick,2015-12-23,M
+World,Omar,2015-12-23,M
+Business Day,Chad,2015-12-23,M
+World,Hari,2015-12-23,M
+World,Chris,2015-12-23,M
+World,Sewell,2015-12-23,M
+World,Jonathan,2015-12-23,M
+Food,Jeff,2015-12-23,M
+Sports,Rob,2015-12-23,M
+Opinion,Ai,2015-12-23,F
+Opinion,Piotr,2015-12-23,M
+Business Day,Jessica,2015-12-23,F
+U.S.,Amy,2015-12-23,F
+World,Tim,2015-12-23,M
+Sports,Ray,2015-12-23,M
+World,Jane,2015-12-23,F
+Business Day,Amie,2015-12-23,F
+World,Patrick,2015-12-23,M
+N.Y. / Region,Steven,2015-12-23,M
+Theater,Laura,2015-12-23,F
+Arts,James,2015-12-23,M
+Food,Florence,2015-12-23,F
+Food,Martha,2015-12-23,F
+Food,Christopher,2015-12-23,M
+Food,David,2015-12-23,M
+Food,Melissa,2015-12-23,F
+Food,Florence,2015-12-23,F
+Arts,Pilot,2015-12-23,M
+Times Insider,Walter,2015-12-24,M
+Business Day,Ben,2015-12-24,M
+Times Insider,David,2015-12-24,M
+Style,Philip,2015-12-24,M
+Movies,Robin,2015-12-24,F
+Movies,Robin,2015-12-24,F
+Movies,Robin,2015-12-24,F
+Movies,Robin,2015-12-24,F
+Movies,A.,2015-12-24,U
+NYT Now,Karen,2015-12-24,F
+Fashion & Style,Bill,2015-12-24,M
+Movies,Manohla,2015-12-24,U
+Crosswords & Games,Deb,2015-12-24,F
+Movies,Neil,2015-12-24,M
+Movies,Glenn,2015-12-24,M
+Movies,Stephen,2015-12-24,M
+U.S.,Karen,2015-12-24,F
+Theater,Erik,2015-12-24,M
+Movies,Mekado,2015-12-24,U
+Fashion & Style,Ainara,2015-12-24,F
+U.S.,Maggie,2015-12-24,F
+Health,Nicholas,2015-12-24,M
+Opinion,Marie,2015-12-24,F
+U.S.,Maggie,2015-12-24,F
+Opinion,Jesse,2015-12-24,M
+Health,Nicholas,2015-12-24,M
+Opinion,Teresa,2015-12-24,F
+Automobiles,Tom,2015-12-24,M
+World,International,2015-12-24,U
+Sports,Victor,2015-12-24,M
+Opinion,Phoebe,2015-12-24,F
+Movies,A.,2015-12-24,U
+Movies,Manohla,2015-12-24,U
+U.S.,Maggie,2015-12-24,F
+Technology,Pui-wing,2015-12-24,U
+N.Y. / Region,Harry,2015-12-24,M
+World,International,2015-12-24,U
+Multimedia/Photos,James,2015-12-24,M
+N.Y. / Region,Tatiana,2015-12-24,F
+NYT Now,Adeel,2015-12-24,M
+Health,Roni,2015-12-24,F
+Health,Daniela,2015-12-24,F
+World,Catrin,2015-12-24,F
+World,Azam,2015-12-24,M
+Opinion,George,2015-12-24,M
+Opinion,Mimi,2015-12-24,F
+Opinion,Jonathan,2015-12-24,M
+Opinion,Linda,2015-12-24,F
+Opinion,Gail,2015-12-24,F
+Education,Katherine,2015-12-24,F
+Business Day,Mary,2015-12-24,F
+Arts,Kathryn,2015-12-24,F
+U.S.,Meadow,2015-12-24,F
+U.S.,Ashley,2015-12-24,F
+Sports,Scott,2015-12-24,M
+N.Y. / Region,Benjamin,2015-12-24,M
+Movies,Bruce,2015-12-24,M
+N.Y. / Region,N.,2015-12-24,U
+Sports,Benjamin,2015-12-24,M
+N.Y. / Region,Nikita,2015-12-24,F
+U.S.,Christina,2015-12-24,F
+Sports,Joe,2015-12-24,M
+World,Patricia,2015-12-24,F
+N.Y. / Region,Emma,2015-12-24,F
+U.S.,Alan,2015-12-24,M
+N.Y. / Region,Alexander,2015-12-24,M
+Business Day,Sydney,2015-12-24,F
+U.S.,Alan,2015-12-24,M
+U.S.,Tamar,2015-12-24,F
+N.Y. / Region,Noah,2015-12-24,M
+Sports,Bill,2015-12-24,M
+World,Karen,2015-12-24,F
+Arts,Zachary,2015-12-24,M
+Books,Rachel,2015-12-24,F
+Business Day,Leslie,2015-12-24,F
+Science,Mike,2015-12-24,M
+N.Y. / Region,Jonah,2015-12-24,M
+World,Raphael,2015-12-24,M
+U.S.,Jack,2015-12-24,M
+World,Ian,2015-12-24,M
+World,Carlotta,2015-12-24,F
+World,Rick,2015-12-24,M
+Arts,Michael,2015-12-24,M
+U.S.,Katie,2015-12-24,F
+Arts,Stephen,2015-12-24,M
+Technology,Brian,2015-12-24,M
+Technology,Brian,2015-12-24,M
+Times Insider,Amy,2015-12-24,F
+World,William,2015-12-24,M
+Business Day,Robert,2015-12-24,M
+Sports,Jason,2015-12-24,M
+N.Y. / Region,Marc,2015-12-24,M
+Sports,William,2015-12-24,M
+Fashion & Style,George,2015-12-24,M
+Technology,Kit,2015-12-24,M
+Books,Alexandra,2015-12-24,F
+Theater,Erik,2015-12-24,M
+Business Day,Vinod,2015-12-24,M
+World,Isabel,2015-12-24,F
+N.Y. / Region,J.,2015-12-24,U
+U.S.,Jonathan,2015-12-24,M
+World,Isabel,2015-12-24,F
+Business Day,Leslie,2015-12-24,F
+Health,Gina,2015-12-24,F
+Business Day,Hiroko,2015-12-24,F
+U.S.,Amy,2015-12-24,F
+World,Robert,2015-12-24,M
+The Upshot,Josh,2015-12-24,M
+Sports,Michael,2015-12-24,M
+Business Day,Neil,2015-12-24,M
+U.S.,Julie,2015-12-24,F
+World,Katie,2015-12-24,F
+U.S.,Daniel,2015-12-24,M
+Business Day,Stacy,2015-12-24,F
+World,Sewell,2015-12-24,M
+Science,Jonah,2015-12-24,M
+Business Day,Leslie,2015-12-24,F
+U.S.,Richard,2015-12-24,M
+N.Y. / Region,Sarah,2015-12-24,F
+World,Sewell,2015-12-24,M
+Technology,J.,2015-12-24,U
+U.S.,Andrew,2015-12-24,M
+U.S.,Nick,2015-12-24,M
+Business Day,Michael,2015-12-24,M
+Sports,Zach,2015-12-24,M
+World,Chris,2015-12-24,M
+Opinion,Rosecrans,2015-12-24,U
+World,Kiki,2015-12-24,F
+World,Falih,2015-12-24,U
+Technology,Farhad,2015-12-24,M
+Sports,Christopher,2015-12-24,M
+Sports,Rob,2015-12-24,M
+Sports,Christopher,2015-12-24,M
+World,Sewell,2015-12-24,M
+Opinion,Nikos,2015-12-24,M
+Sports,John,2015-12-24,M
+Fashion & Style,Vanessa,2015-12-24,F
+Fashion & Style,Joshua,2015-12-24,M
+U.S.,Lizette,2015-12-24,F
+Fashion & Style,Marisa,2015-12-24,F
+N.Y. / Region,Charles,2015-12-24,M
+World,Deborah,2015-12-24,F
+World,Austin,2015-12-24,M
+Theater,Ben,2015-12-24,M
+Fashion & Style,J.,2015-12-24,U
+Fashion & Style,Courtney,2015-12-24,F
+Fashion & Style,Michael,2015-12-24,M
+Fashion & Style,Rachel,2015-12-24,F
+Fashion & Style,Lindsay,2015-12-24,F
+Movies,Cara,2015-12-24,F
+Movies,Mekado,2015-12-25,U
+Crosswords & Games,Deb,2015-12-25,F
+Opinion,Ben,2015-12-25,M
+Opinion,Paul,2015-12-25,M
+N.Y. / Region,Deborah,2015-12-25,F
+World,International,2015-12-25,U
+N.Y. / Region,Ginia,2015-12-25,F
+Food,Sam,2015-12-25,M
+World,International,2015-12-25,U
+Times Insider,Jessica,2015-12-25,F
+Arts,Christopher,2015-12-25,M
+Health,Toby,2015-12-25,M
+Opinion,Peter,2015-12-25,M
+Opinion,Paul,2015-12-25,M
+Opinion,Jennifer,2015-12-25,F
+World,Rick,2015-12-25,M
+N.Y. / Region,Lori,2015-12-25,F
+N.Y. / Region,Winnie,2015-12-25,F
+Sports,Christopher,2015-12-25,M
+Sports,Tim,2015-12-25,M
+U.S.,William,2015-12-25,M
+U.S.,Sam,2015-12-25,M
+N.Y. / Region,Mireya,2015-12-25,F
+Sports,Christopher,2015-12-25,M
+N.Y. / Region,Benjamin,2015-12-25,M
+U.S.,Katharine,2015-12-25,F
+N.Y. / Region,Lisa,2015-12-25,F
+Technology,Nicole,2015-12-25,F
+Movies,William,2015-12-25,M
+Business Day,Mary,2015-12-25,F
+Movies,Mekado,2015-12-25,U
+Business Day,Natasha,2015-12-25,F
+World,Mujib,2015-12-25,U
+Arts,Laurel,2015-12-25,F
+Arts,Joshua,2015-12-25,M
+Arts,Roberta,2015-12-25,F
+Arts,Kathryn,2015-12-25,F
+U.S.,Jeremy,2015-12-25,M
+U.S.,Gardiner,2015-12-25,M
+Books,Ethan,2015-12-25,M
+World,Mike,2015-12-25,M
+U.S.,Jess,2015-12-25,M
+U.S.,Ashley,2015-12-25,F
+World,Gaia,2015-12-25,F
+Science,Nicholas,2015-12-25,M
+Arts,Holland,2015-12-25,GN
+Automobiles,Christopher,2015-12-25,M
+Arts,Roberta,2015-12-25,F
+Arts,Robin,2015-12-25,F
+World,Diaa,2015-12-25,U
+Sports,Ken,2015-12-25,M
+World,Alison,2015-12-25,F
+Arts,Martha,2015-12-25,F
+Arts,Ken,2015-12-25,M
+Arts,Eve,2015-12-25,F
+Sports,Chase,2015-12-25,M
+Arts,Jason,2015-12-25,M
+Business Day,Randall,2015-12-25,M
+Arts,Mary,2015-12-25,F
+Business Day,James,2015-12-25,M
+U.S.,Jennifer,2015-12-25,F
+U.S.,Daniel,2015-12-25,M
+U.S.,Maggie,2015-12-25,F
+Arts,William,2015-12-25,M
+World,Diaa,2015-12-25,U
+Sports,Harvey,2015-12-25,M
+Arts,Jonah,2015-12-25,M
+Automobiles,Christopher,2015-12-25,M
+U.S.,Katie,2015-12-25,F
+Arts,Jonathan,2015-12-25,M
+U.S.,Lacey,2015-12-25,F
+World,Omar,2015-12-25,M
+World,Stephen,2015-12-25,M
+Automobiles,Tom,2015-12-25,M
+Technology,J.,2015-12-25,U
+The Upshot,Claire,2015-12-25,F
+Opinion,Elizabeth,2015-12-25,F
+Movies,Cara,2015-12-25,F
+World,Sewell,2015-12-25,M
+World,Mona,2015-12-25,F
+U.S.,David,2015-12-25,M
+Business Day,Stacy,2015-12-25,F
+N.Y. / Region,Winnie,2015-12-25,F
+World,Vanessa,2015-12-25,F
+World,Austin,2015-12-25,M
+World,Thomas,2015-12-25,M
+World,Austin,2015-12-25,M
+Crosswords & Games,Deb,2015-12-26,F
+Opinion,Paul,2015-12-26,M
+World,Alissa,2015-12-26,F
+World,John,2015-12-26,M
+The Upshot,Josh,2015-12-26,M
+Crosswords & Games,Deb,2015-12-26,F
+Sports,Benjamin,2015-12-26,M
+Arts,Alec,2015-12-26,M
+N.Y. / Region,Colin,2015-12-26,M
+N.Y. / Region,Colin,2015-12-26,M
+N.Y. / Region,John,2015-12-26,M
+U.S.,Alan,2015-12-26,M
+U.S.,Robert,2015-12-26,M
+N.Y. / Region,James,2015-12-26,M
+Sports,Kevin,2015-12-26,M
+Sports,Christopher,2015-12-26,M
+N.Y. / Region,Noah,2015-12-26,M
+Business Day,Hiroko,2015-12-26,F
+Sports,Scott,2015-12-26,M
+Sports,Dave,2015-12-26,M
+World,Omar,2015-12-26,M
+World,Rick,2015-12-26,M
+N.Y. / Region,Alexander,2015-12-26,M
+Business Day,Elizabeth,2015-12-26,F
+Opinion,Elizabeth,2015-12-26,F
+World,Ceylan,2015-12-26,F
+U.S.,Nick,2015-12-26,M
+U.S.,Kirk,2015-12-26,M
+Movies,Nicolas,2015-12-26,M
+Arts,Rachel,2015-12-26,F
+Science,John,2015-12-26,M
+Arts,Amy,2015-12-26,F
+World,Mujib,2015-12-26,U
+Arts,Neil,2015-12-26,M
+Business Day,Clifford,2015-12-26,M
+Opinion,Jon,2015-12-26,M
+World,Nicholas,2015-12-26,M
+World,Julfikar,2015-12-26,U
+World,Isma'il,2015-12-26,U
+Arts,Gia,2015-12-26,F
+World,Anne,2015-12-26,F
+N.Y. / Region,Sarah,2015-12-26,F
+Business Day,Andrew,2015-12-26,M
+Sports,Jason,2015-12-26,M
+World,Chris,2015-12-26,M
+Business Day,Raphael,2015-12-26,M
+U.S.,Matt,2015-12-26,M
+The Upshot,Claire,2015-12-26,F
+Business Day,John,2015-12-26,M
+Your Money,Paul,2015-12-26,M
+Your Money,Tara,2015-12-26,F
+U.S.,Mark,2015-12-26,M
+World,Ellen,2015-12-26,F
+World,Tony,2015-12-26,M
+Arts,Matt,2015-12-26,M
+Sports,Joe,2015-12-26,M
+Opinion,Miguel-anxo,2015-12-26,U
+Opinion,Gavin,2015-12-26,M
+The Upshot,Damon,2015-12-26,M
+Sports,Christopher,2015-12-26,M
+Sports,Christopher,2015-12-26,M
+Sports,Christopher,2015-12-26,M
+Sports,Huw,2015-12-26,U
+Technology,Quentin,2015-12-26,M
+Business Day,Keith,2015-12-26,M
+Opinion,Umapagan,2015-12-26,U
+N.Y. / Region,Kyle,2015-12-26,M
+U.S.,Manny,2015-12-26,M
+Opinion,Timothy,2015-12-26,M
+U.S.,Sam,2015-12-26,M
+Technology,J.,2015-12-26,U
+Arts,Sam,2015-12-26,M
+Arts,Alastair,2015-12-26,M
+Your Money,Ann,2015-12-26,F
+Arts,Nate,2015-12-26,M
+Arts,Daniel,2015-12-26,M
+N.Y. / Region,Mary,2015-12-27,F
+Crosswords & Games,Deb,2015-12-27,F
+Arts,Joshua,2015-12-27,M
+Opinion,Paul,2015-12-27,M
+Arts,Brooks,2015-12-27,M
+Arts,Alec,2015-12-27,M
+Arts,Joshua,2015-12-27,M
+World,International,2015-12-27,U
+Food,Sam,2015-12-27,M
+World,International,2015-12-27,U
+Sports,Benjamin,2015-12-27,M
+Sports,Benjamin,2015-12-27,M
+Sports,Benjamin,2015-12-27,M
+Sports,Benjamin,2015-12-27,M
+Sports,Benjamin,2015-12-27,M
+Sports,Benjamin,2015-12-27,M
+Sports,Benjamin,2015-12-27,M
+Sports,Benjamin,2015-12-27,M
+Sports,Benjamin,2015-12-27,M
+Sports,Benjamin,2015-12-27,M
+Sports,Benjamin,2015-12-27,M
+Sports,Benjamin,2015-12-27,M
+Sports,Benjamin,2015-12-27,M
+U.S.,Laura,2015-12-27,F
+Technology,Katie,2015-12-27,F
+N.Y. / Region,J.,2015-12-27,U
+Sports,Billy,2015-12-27,M
+Fashion & Style,Vincent,2015-12-27,M
+World,Marlise,2015-12-27,F
+U.S.,Richard,2015-12-27,M
+World,Norimitsu,2015-12-27,U
+U.S.,Daniel,2015-12-27,M
+Sports,Dave,2015-12-27,M
+World,Falih,2015-12-27,U
+U.S.,Monica,2015-12-27,F
+U.S.,Richard,2015-12-27,M
+Arts,Bruce,2015-12-27,M
+Arts,William,2015-12-27,M
+Sports,Joe,2015-12-27,M
+Sports,Ben,2015-12-27,M
+Sports,Bill,2015-12-27,M
+World,Sewell,2015-12-27,M
+The Upshot,Josh,2015-12-27,M
+The Upshot,Josh,2015-12-27,M
+The Upshot,Josh,2015-12-27,M
+The Upshot,Josh,2015-12-27,M
+The Upshot,Josh,2015-12-27,M
+Opinion,Ross,2015-12-27,M
+Opinion,Arthur,2015-12-27,M
+Opinion,Mark,2015-12-27,M
+Sports,Bill,2015-12-27,M
+The Upshot,Josh,2015-12-27,M
+The Upshot,Josh,2015-12-27,M
+World,Somini,2015-12-27,U
+The Upshot,Josh,2015-12-27,M
+The Upshot,Josh,2015-12-27,M
+The Upshot,Josh,2015-12-27,M
+The Upshot,Josh,2015-12-27,M
+The Upshot,Josh,2015-12-27,M
+Sports,Ben,2015-12-27,M
+The Upshot,Josh,2015-12-27,M
+The Upshot,Josh,2015-12-27,M
+The Upshot,Josh,2015-12-27,M
+Technology,Natasha,2015-12-27,F
+The Upshot,Josh,2015-12-27,M
+The Upshot,Josh,2015-12-27,M
+The Upshot,Josh,2015-12-27,M
+Job Market,Rob,2015-12-27,M
+Business Day,Claire,2015-12-27,F
+N.Y. / Region,Matt,2015-12-27,M
+N.Y. / Region,Noah,2015-12-27,M
+N.Y. / Region,Alexander,2015-12-27,M
+U.S.,Motoko,2015-12-27,U
+Real Estate,Ronda,2015-12-27,F
+World,Michael,2015-12-27,M
+Business Day,Liz,2015-12-27,F
+Technology,David,2015-12-27,M
+Fashion & Style,Aimee,2015-12-27,F
+Fashion & Style,Michael,2015-12-27,M
+N.Y. / Region,John,2015-12-27,M
+N.Y. / Region,Susan,2015-12-27,F
+N.Y. / Region,Emily,2015-12-27,F
+N.Y. / Region,Tammy,2015-12-27,F
+N.Y. / Region,Douglas,2015-12-27,M
+Real Estate,Vivian,2015-12-27,F
+Real Estate,Michelle,2015-12-27,F
+Real Estate,Steven,2015-12-27,M
+Real Estate,C.,2015-12-27,U
+Real Estate,Lisa,2015-12-27,F
+Business Day,Nathaniel,2015-12-27,M
+N.Y. / Region,John,2015-12-27,M
+N.Y. / Region,Dave,2015-12-27,M
+Fashion & Style,Lois,2015-12-27,F
+Fashion & Style,Ainara,2015-12-27,F
+N.Y. / Region,Sarah,2015-12-27,F
+Sports,Benjamin,2015-12-27,M
+N.Y. / Region,Joanne,2015-12-27,F
+Arts,Zachary,2015-12-27,M
+N.Y. / Region,Sam,2015-12-27,M
+Movies,Thomas,2015-12-27,M
+N.Y. / Region,John,2015-12-27,M
+N.Y. / Region,Corey,2015-12-27,M
+Movies,J.,2015-12-27,U
+N.Y. / Region,Bill,2015-12-27,M
+N.Y. / Region,Joel,2015-12-27,M
+N.Y. / Region,Alice,2015-12-27,F
+Theater,Alexis,2015-12-27,F
+Theater,Diep,2015-12-27,F
+Real Estate,Vivian,2015-12-27,F
+The Upshot,Tyler,2015-12-27,M
+Real Estate,Joanne,2015-12-27,F
+Real Estate,Joanne,2015-12-27,F
+Books,Maureen,2015-12-27,F
+Books,Jeff,2015-12-27,M
+Books,Katy,2015-12-27,F
+Books,Meghan,2015-12-27,F
+Books,Srikanth,2015-12-27,M
+Books,Craig,2015-12-27,M
+Books,Peter,2015-12-27,M
+Books,Natalie,2015-12-27,F
+Books,James,2015-12-27,M
+Books,Kathleen,2015-12-27,F
+Books,Stephen,2015-12-27,M
+Books,Eric,2015-12-27,M
+Books,John,2015-12-27,M
+Travel,Diane,2015-12-27,F
+Fashion & Style,Andrew,2015-12-27,M
+Arts,Dan,2015-12-27,M
+Books,Joumana,2015-12-27,U
+Real Estate,Joyce,2015-12-27,F
+Fashion & Style,Philip,2015-12-27,M
+Movies,Erik,2015-12-27,M
+Books,David,2015-12-27,M
+N.Y. / Region,Gili,2015-12-27,F
+Travel,Sarah,2015-12-27,F
+Arts,Josh,2015-12-27,M
+Arts,Joe,2015-12-27,M
+Arts,Gia,2015-12-27,F
+Arts,Kathryn,2015-12-27,F
+Arts,Jon,2015-12-27,M
+Arts,Randy,2015-12-27,M
+Theater,Charles,2015-12-27,M
+Movies,Andy,2015-12-27,M
+Arts,Gia,2015-12-27,F
+Arts,Vivien,2015-12-27,F
+Movies,Margy,2015-12-27,F
+Arts,Ben,2015-12-27,M
+Technology,Katie,2015-12-27,F
+World,Tim,2015-12-27,M
+Magazine,Jenna,2015-12-27,F
+Real Estate,Anne,2015-12-27,F
+Travel,Nina,2015-12-27,F
+Business Day,Adam,2015-12-27,M
+Travel,David,2015-12-27,M
+Travel,Shivani,2015-12-27,F
+Travel,Dave,2015-12-27,M
+Travel,Adam,2015-12-27,M
+Movies,David,2015-12-27,M
+Travel,Stephanie,2015-12-27,F
+Books,Sonya,2015-12-27,F
+Books,Gregory,2015-12-27,M
+World,Javier,2015-12-27,M
+Crosswords & Games,Deb,2015-12-28,F
+Opinion,Steven,2015-12-28,M
+U.S.,Michael,2015-12-28,M
+NYT Now,Andrea,2015-12-28,F
+U.S.,Maggie,2015-12-28,F
+Arts,Jonathan,2015-12-28,M
+Arts,Graham,2015-12-28,M
+Opinion,Paul,2015-12-28,M
+Fashion & Style,Stuart,2015-12-28,M
+Arts,Ben,2015-12-28,M
+Arts,Joe,2015-12-28,M
+Opinion,Frank,2015-12-28,M
+U.S.,Ashley,2015-12-28,F
+Travel,Rebecca,2015-12-28,F
+Travel,Christopher,2015-12-28,M
+U.S.,Ashley,2015-12-28,F
+Travel,Matt,2015-12-28,M
+Technology,Vindu,2015-12-28,U
+Arts,Cara,2015-12-28,F
+U.S.,Matt,2015-12-28,M
+U.S.,Alan,2015-12-28,M
+Opinion,Jesse,2015-12-28,M
+Travel,Shivani,2015-12-28,F
+Crosswords & Games,Gary,2015-12-28,M
+Crosswords & Games,Gary,2015-12-28,M
+Food,Sam,2015-12-28,M
+Food,Alec,2015-12-28,M
+World,International,2015-12-28,U
+World,International,2015-12-28,U
+Opinion,Anna,2015-12-28,F
+Technology,Jim,2015-12-28,M
+U.S.,Ashley,2015-12-28,F
+T Magazine,Neil,2015-12-28,M
+Travel,Elaine,2015-12-28,F
+U.S.,Maggie,2015-12-28,F
+Sports,Benjamin,2015-12-28,M
+U.S.,Carl,2015-12-28,M
+N.Y. / Region,Noah,2015-12-28,M
+Travel,Fritzie,2015-12-28,F
+NYT Now,Adeel,2015-12-28,M
+Health,Jane,2015-12-28,F
+Opinion,Gary,2015-12-28,M
+Opinion,Pete,2015-12-28,M
+Opinion,Ernesto,2015-12-28,M
+Opinion,Paul,2015-12-28,M
+Opinion,Bryce,2015-12-28,M
+Opinion,Rachael,2015-12-28,F
+N.Y. / Region,Kim,2015-12-28,F
+Multimedia/Photos,Jonathan,2015-12-28,M
+Arts,Alec,2015-12-28,M
+Sports,Bill,2015-12-28,M
+Sports,Andrew,2015-12-28,M
+Sports,Benjamin,2015-12-28,M
+Sports,Karen,2015-12-28,F
+Arts,Holland,2015-12-28,GN
+Sports,Michael,2015-12-28,M
+N.Y. / Region,John,2015-12-28,M
+Sports,William,2015-12-28,M
+N.Y. / Region,Eli,2015-12-28,M
+U.S.,Peter,2015-12-28,M
+World,Mark,2015-12-28,M
+Sports,Peter,2015-12-28,M
+Business Day,Barry,2015-12-28,M
+Sports,Scott,2015-12-28,M
+Business Day,Zach,2015-12-28,M
+Arts,Daniel,2015-12-28,M
+Sports,Jonah,2015-12-28,M
+U.S.,Monica,2015-12-28,F
+World,Raphael,2015-12-28,M
+Business Day,Michael,2015-12-28,M
+N.Y. / Region,Tatiana,2015-12-28,F
+World,Jonathan,2015-12-28,M
+Corrections,Holland,2015-12-28,GN
+Business Day,Rachel,2015-12-28,F
+Technology,Cecilia,2015-12-28,F
+Business Day,Martha,2015-12-28,F
+Arts,Stephen,2015-12-28,M
+Opinion,Dimiter,2015-12-28,U
+Arts,Jon,2015-12-28,M
+Books,Fred,2015-12-28,M
+Movies,Lorne,2015-12-28,M
+Arts,Neil,2015-12-28,M
+Arts,Stephen,2015-12-28,M
+Theater,Ben,2015-12-28,M
+Movies,John,2015-12-28,M
+U.S.,Albert,2015-12-28,M
+Sports,Ray,2015-12-28,M
+Sports,Ben,2015-12-28,M
+World,Mujib,2015-12-28,U
+World,Majd,2015-12-28,M
+World,Jessica,2015-12-28,F
+N.Y. / Region,Michael,2015-12-28,M
+World,Stephen,2015-12-28,M
+U.S.,Monica,2015-12-28,F
+Sports,Ken,2015-12-28,M
+U.S.,David,2015-12-28,M
+N.Y. / Region,David,2015-12-28,M
+U.S.,Amy,2015-12-28,F
+World,Chris,2015-12-28,M
+U.S.,Robert,2015-12-28,M
+U.S.,Erik,2015-12-28,M
+Technology,Vindu,2015-12-28,U
+Sports,Rob,2015-12-28,M
+U.S.,Benedict,2015-12-28,M
+Theater,Laura,2015-12-28,F
+Movies,Manohla,2015-12-29,U
+U.S.,Maggie,2015-12-29,F
+U.S.,Daniel,2015-12-29,M
+Crosswords & Games,Deb,2015-12-29,F
+U.S.,Alan,2015-12-29,M
+U.S.,Alexander,2015-12-29,M
+NYT Now,Andrea,2015-12-29,F
+Arts,Michael,2015-12-29,M
+U.S.,Michael,2015-12-29,M
+Food,Pete,2015-12-29,M
+Arts,Alexis,2015-12-29,F
+Arts,Joshua,2015-12-29,M
+Opinion,Paul,2015-12-29,M
+U.S.,Alan,2015-12-29,M
+Technology,John,2015-12-29,M
+Opinion,Andrew,2015-12-29,M
+Opinion,Paul,2015-12-29,M
+U.S.,Alan,2015-12-29,M
+U.S.,Maggie,2015-12-29,F
+U.S.,Kj,2015-12-29,M
+U.S.,Maggie,2015-12-29,F
+Opinion,Teresa,2015-12-29,F
+World,International,2015-12-29,U
+Technology,Jim,2015-12-29,M
+World,International,2015-12-29,U
+N.Y. / Region,Adam,2015-12-29,M
+T Magazine,Hettie,2015-12-29,F
+U.S.,Maggie,2015-12-29,F
+U.S.,Carl,2015-12-29,M
+Technology,Nick,2015-12-29,M
+N.Y. / Region,Tatiana,2015-12-29,F
+U.S.,Alan,2015-12-29,M
+NYT Now,Adeel,2015-12-29,M
+Health,Karen,2015-12-29,F
+Opinion,Patrick,2015-12-29,M
+The Upshot,Nate,2015-12-29,M
+The Upshot,Josh,2015-12-29,M
+Opinion,Peter,2015-12-29,M
+Opinion,Brett,2015-12-29,M
+Opinion,Walter,2015-12-29,M
+Opinion,Emma,2015-12-29,F
+Opinion,Héctor,2015-12-29,U
+Opinion,Brett,2015-12-29,M
+Multimedia/Photos,James,2015-12-29,M
+U.S.,Amisha,2015-12-29,F
+Arts,Alec,2015-12-29,M
+N.Y. / Region,Amisha,2015-12-29,F
+Sports,Tom,2015-12-29,M
+U.S.,Cooper,2015-12-29,M
+World,Ian,2015-12-29,M
+U.S.,Alan,2015-12-29,M
+Sports,Ben,2015-12-29,M
+Business Day,Andrew,2015-12-29,M
+World,Anne,2015-12-29,F
+Sports,Bill,2015-12-29,M
+Arts,William,2015-12-29,M
+Business Day,Nathaniel,2015-12-29,M
+World,Rick,2015-12-29,M
+N.Y. / Region,Stephanie,2015-12-29,F
+Sports,John,2015-12-29,M
+N.Y. / Region,Matt,2015-12-29,M
+Business Day,Hiroko,2015-12-29,F
+N.Y. / Region,Liz,2015-12-29,F
+World,Ibrahim,2015-12-29,M
+World,Isma'il,2015-12-29,U
+N.Y. / Region,Corey,2015-12-29,M
+The Upshot,Josh,2015-12-29,M
+U.S.,Alan,2015-12-29,M
+World,Isabel,2015-12-29,F
+Arts,Alastair,2015-12-29,M
+Arts,Zachary,2015-12-29,M
+Arts,Michael,2015-12-29,M
+N.Y. / Region,Jonathan,2015-12-29,M
+U.S.,Carl,2015-12-29,M
+Health,Donald,2015-12-29,M
+Sports,Billy,2015-12-29,M
+Books,David,2015-12-29,M
+Sports,Andrew,2015-12-29,M
+Business Day,Nelson,2015-12-29,M
+Arts,Ted,2015-12-29,M
+World,Rick,2015-12-29,M
+Arts,Neil,2015-12-29,M
+Sports,Daniel,2015-12-29,M
+Business Day,Kevin,2015-12-29,M
+Science,Sindya,2015-12-29,U
+Health,Benedict,2015-12-29,M
+N.Y. / Region,Katie,2015-12-29,F
+Science,Sindya,2015-12-29,U
+World,Steven,2015-12-29,M
+Science,C.,2015-12-29,U
+World,David,2015-12-29,M
+Business Day,Robert,2015-12-29,M
+Science,Erica,2015-12-29,F
+U.S.,Timothy,2015-12-29,M
+Technology,Natasha,2015-12-29,F
+U.S.,Daniel,2015-12-29,M
+Business Day,Liz,2015-12-29,F
+Arts,Justin,2015-12-29,M
+Sports,Chase,2015-12-29,M
+U.S.,Jason,2015-12-29,M
+Times Insider,Jesse,2015-12-29,M
+Science,Nicholas,2015-12-29,M
+U.S.,Katie,2015-12-29,F
+Your Money,Carl,2015-12-29,M
+Business Day,Peter,2015-12-29,M
+World,Karam,2015-12-29,M
+World,Jeffrey,2015-12-29,M
+World,Celestine,2015-12-29,F
+Science,Abigail,2015-12-29,F
+U.S.,Adam,2015-12-29,M
+Technology,J.,2015-12-29,U
+Business Day,Rachel,2015-12-29,F
+N.Y. / Region,Sarah,2015-12-29,F
+The Upshot,Austin,2015-12-29,M
+World,Chris,2015-12-29,M
+World,Falih,2015-12-29,U
+Science,Carl,2015-12-29,M
+Science,Sindya,2015-12-29,U
+Sports,John,2015-12-29,M
+U.S.,Jason,2015-12-29,M
+Business Day,Jad,2015-12-29,M
+N.Y. / Region,Michael,2015-12-29,M
+World,Choe,2015-12-29,U
+World,Amy,2015-12-29,F
+Sports,Bruce,2015-12-29,M
+U.S.,Sam,2015-12-29,M
+Arts,Elisha,2015-12-30,GN
+Magazine,Brit,2015-12-30,M
+Crosswords & Games,Deb,2015-12-30,F
+U.S.,Maggie,2015-12-30,F
+Arts,Ben,2015-12-30,M
+U.S.,Kj,2015-12-30,M
+Opinion,Andrew,2015-12-30,M
+U.S.,Matt,2015-12-30,M
+Fashion & Style,Erica,2015-12-30,F
+Travel,Sally,2015-12-30,F
+Arts,Ben,2015-12-30,M
+U.S.,Maggie,2015-12-30,F
+NYT Now,Andrea,2015-12-30,F
+U.S.,Alan,2015-12-30,M
+U.S.,Alan,2015-12-30,M
+Style,Bob,2015-12-30,M
+U.S.,Ashley,2015-12-30,F
+World,International,2015-12-30,U
+Arts,Roslyn,2015-12-30,F
+Business Day,Sydney,2015-12-30,F
+Opinion,Paul,2015-12-30,M
+Health,Nicholas,2015-12-30,M
+Arts,Elisabetta,2015-12-30,F
+U.S.,Maggie,2015-12-30,F
+U.S.,Kj,2015-12-30,M
+Science,Michael,2015-12-30,M
+World,Turner,2015-12-30,M
+U.S.,Maggie,2015-12-30,F
+Opinion,Helen,2015-12-30,F
+Technology,Kit,2015-12-30,M
+Times Insider,Ian,2015-12-30,M
+Technology,Quentin,2015-12-30,M
+Arts,Christopher,2015-12-30,M
+Arts,Cara,2015-12-30,F
+Magazine,John,2015-12-30,M
+Real Estate,Kevin,2015-12-30,M
+Times Insider,Brian,2015-12-30,M
+U.S.,Trip,2015-12-30,M
+Arts,Joshua,2015-12-30,M
+Style,Anya,2015-12-30,F
+N.Y. / Region,Pui,2015-12-30,F
+Opinion,Paul,2015-12-30,M
+Technology,Jim,2015-12-30,M
+Real Estate,Mike,2015-12-30,M
+U.S.,Maggie,2015-12-30,F
+U.S.,Michael,2015-12-30,M
+N.Y. / Region,Tatiana,2015-12-30,F
+Health,Roni,2015-12-30,F
+Travel,Shivani,2015-12-30,F
+NYT Now,Adeel,2015-12-30,M
+Health,Gretchen,2015-12-30,F
+Business Day,Jonah,2015-12-30,M
+Opinion,Jennifer,2015-12-30,F
+Opinion,Rebecca,2015-12-30,F
+Opinion,Frank,2015-12-30,M
+Opinion,Adam,2015-12-30,M
+Multimedia/Photos,David,2015-12-30,M
+Arts,Alec,2015-12-30,M
+U.S.,Dave,2015-12-30,M
+Sports,Seth,2015-12-30,M
+World,Choe,2015-12-30,U
+N.Y. / Region,Emma,2015-12-30,F
+Sports,Julie,2015-12-30,F
+N.Y. / Region,Eli,2015-12-30,M
+U.S.,Amy,2015-12-30,F
+N.Y. / Region,Jim,2015-12-30,M
+N.Y. / Region,John,2015-12-30,M
+Science,Amisha,2015-12-30,F
+World,Jonathan,2015-12-30,M
+Technology,Katie,2015-12-30,F
+N.Y. / Region,Kirk,2015-12-30,M
+Sports,Tom,2015-12-30,M
+World,Kareem,2015-12-30,M
+Sports,Bruce,2015-12-30,M
+U.S.,Shaila,2015-12-30,F
+N.Y. / Region,Kirk,2015-12-30,M
+U.S.,Jackie,2015-12-30,GN
+Business Day,Mary,2015-12-30,F
+World,Rick,2015-12-30,M
+N.Y. / Region,Sam,2015-12-30,M
+Sports,Bill,2015-12-30,M
+N.Y. / Region,Benjamin,2015-12-30,M
+U.S.,Michael,2015-12-30,M
+World,Robert,2015-12-30,M
+U.S.,Mike,2015-12-30,M
+Arts,Joshua,2015-12-30,M
+Movies,Ben,2015-12-30,M
+Arts,Jon,2015-12-30,M
+Real Estate,Rosalie,2015-12-30,F
+Arts,Scott,2015-12-30,M
+Real Estate,Vivian,2015-12-30,F
+World,Michael,2015-12-30,M
+Food,Pete,2015-12-30,M
+World,Sewell,2015-12-30,M
+Theater,Alexis,2015-12-30,F
+N.Y. / Region,J.,2015-12-30,U
+Sports,Tim,2015-12-30,M
+U.S.,William,2015-12-30,M
+Food,Kim,2015-12-30,F
+World,Rick,2015-12-30,M
+U.S.,Ashley,2015-12-30,F
+Food,Kim,2015-12-30,F
+World,Jonathan,2015-12-30,M
+Books,Dwight,2015-12-30,M
+Business Day,Kevin,2015-12-30,M
+World,Neil,2015-12-30,M
+Business Day,Ian,2015-12-30,M
+Business Day,Ben,2015-12-30,M
+World,Helene,2015-12-30,F
+Business Day,Quentin,2015-12-30,M
+U.S.,Mitch,2015-12-30,M
+Food,Clay,2015-12-30,M
+Business Day,Liz,2015-12-30,F
+Sports,Naila-jean,2015-12-30,U
+U.S.,Nick,2015-12-30,M
+Business Day,Jon,2015-12-30,M
+Business Day,Liz,2015-12-30,F
+World,Suhasini,2015-12-30,U
+Food,Martha,2015-12-30,F
+N.Y. / Region,James,2015-12-30,M
+Business Day,Noam,2015-12-30,M
+World,Falih,2015-12-30,U
+World,Jonathan,2015-12-30,M
+Technology,J.,2015-12-30,U
+Arts,Amisha,2015-12-30,F
+World,Doreen,2015-12-30,F
+World,Ismail,2015-12-30,M
+The Upshot,Gregg,2015-12-30,M
+U.S.,Nick,2015-12-30,M
+Opinion,Anna,2015-12-30,F
+Sports,Ken,2015-12-30,M
+U.S.,Manny,2015-12-30,M
+Sports,Rob,2015-12-30,M
+Sports,Huw,2015-12-30,U
+World,Milan,2015-12-30,M
+U.S.,Eric,2015-12-30,M
+Business Day,Ben,2015-12-30,M
+World,Sheri,2015-12-30,F
+Opinion,John,2015-12-30,M
+World,Isabel,2015-12-30,F
+Arts,Joe,2015-12-30,M
+Food,Elaine,2015-12-30,F
+Food,Florence,2015-12-30,F
+Food,David,2015-12-30,M
+Food,Melissa,2015-12-30,F
+Food,Eric,2015-12-30,M
+U.S.,Ari,2015-12-31,M
+Crosswords & Games,Deb,2015-12-31,F
+Movies,Glenn,2015-12-31,M
+Movies,Jeannette,2015-12-31,F
+Movies,Nicolas,2015-12-31,M
+U.S.,Maggie,2015-12-31,F
+Real Estate,Joanne,2015-12-31,F
+Technology,John,2015-12-31,M
+Opinion,Andrew,2015-12-31,M
+U.S.,James,2015-12-31,M
+Movies,Ainara,2015-12-31,F
+Movies,Ainara,2015-12-31,F
+Movies,Ainara,2015-12-31,F
+Movies,Ainara,2015-12-31,F
+U.S.,Ashley,2015-12-31,F
+Magazine,Emily,2015-12-31,F
+Arts,Roslyn,2015-12-31,F
+Movies,Mekado,2015-12-31,U
+U.S.,Trip,2015-12-31,M
+Opinion,Paul,2015-12-31,M
+U.S.,Alan,2015-12-31,M
+U.S.,Nick,2015-12-31,M
+Times Insider,David,2015-12-31,M
+Travel,Debra,2015-12-31,F
+Arts,Kathryn,2015-12-31,F
+Technology,Jim,2015-12-31,M
+Fashion & Style,Bee,2015-12-31,M
+U.S.,Maggie,2015-12-31,F
+World,International,2015-12-31,U
+N.Y. / Region,Gary,2015-12-31,M
+Opinion,Nicholas,2015-12-31,M
+Arts,Alastair,2015-12-31,M
+N.Y. / Region,Tatiana,2015-12-31,F
+NYT Now,Adeel,2015-12-31,M
+Health,Roni,2015-12-31,F
+The Upshot,Nate,2015-12-31,M
+Opinion,Megan,2015-12-31,F
+Opinion,Roger,2015-12-31,M
+Multimedia/Photos,Andrew,2015-12-31,M
+Arts,Alec,2015-12-31,M
+World,Rick,2015-12-31,M
+U.S.,Jack,2015-12-31,M
+World,William,2015-12-31,M
+World,Robert,2015-12-31,M
+Sports,Bruce,2015-12-31,M
+Sports,Marc,2015-12-31,M
+N.Y. / Region,Michael,2015-12-31,M
+Sports,Bill,2015-12-31,M
+N.Y. / Region,Elizabeth,2015-12-31,F
+Science,Justin,2015-12-31,M
+Technology,Hiroko,2015-12-31,F
+Sports,Jeré,2015-12-31,U
+World,Kareem,2015-12-31,M
+N.Y. / Region,Sarah,2015-12-31,F
+U.S.,Mitch,2015-12-31,M
+Business Day,Colin,2015-12-31,M
+Opinion,Elizabeth,2015-12-31,F
+Sports,Tim,2015-12-31,M
+Theater,Alexis,2015-12-31,F
+Health,Pam,2015-12-31,F
+The Upshot,Josh,2015-12-31,M
+Sports,Ben,2015-12-31,M
+U.S.,Michael,2015-12-31,M
+N.Y. / Region,Jonathan,2015-12-31,M
+N.Y. / Region,Nate,2015-12-31,M
+U.S.,Ron,2015-12-31,M
+World,Alissa,2015-12-31,F
+World,Chris,2015-12-31,M
+Arts,Anthony,2015-12-31,M
+Arts,James,2015-12-31,M
+Arts,Doreen,2015-12-31,F
+Business Day,John,2015-12-31,M
+U.S.,Daniel,2015-12-31,M
+Books,Alastair,2015-12-31,M
+Books,Carmela,2015-12-31,F
+Sports,William,2015-12-31,M
+Theater,Laura,2015-12-31,F
+World,Jeffrey,2015-12-31,M
+Style,Ruth,2015-12-31,F
+Arts,Neil,2015-12-31,M
+Sports,Marc,2015-12-31,M
+Business Day,Antony,2015-12-31,M
+Sports,Richard,2015-12-31,M
+Fashion & Style,Ben,2015-12-31,M
+Fashion & Style,Jon,2015-12-31,M
+Fashion & Style,Matthew,2015-12-31,M
+Business Day,Stanley,2015-12-31,M
+Sports,Joe,2015-12-31,M
+Books,Jennifer,2015-12-31,F
+Sports,Richard,2015-12-31,M
+Fashion & Style,Bob,2015-12-31,M
+World,Ivan,2015-12-31,M
+N.Y. / Region,Benjamin,2015-12-31,M
+Fashion & Style,Caroline,2015-12-31,F
+World,Alexandra,2015-12-31,F
+U.S.,Nick,2015-12-31,M
+World,Milan,2015-12-31,M
+Business Day,Mary,2015-12-31,F
+Technology,Kit,2015-12-31,M
+Business Day,Rachel,2015-12-31,F
+Arts,Stephen,2015-12-31,M
+Business Day,Liz,2015-12-31,F
+Technology,Michael,2015-12-31,M
+World,Andrew,2015-12-31,M
+World,Ceylan,2015-12-31,F
+N.Y. / Region,Rick,2015-12-31,M
+World,Chris,2015-12-31,M
+N.Y. / Region,J.,2015-12-31,U
+World,Helene,2015-12-31,F
+Technology,J.,2015-12-31,U
+World,Margaux,2015-12-31,F
+World,Rod,2015-12-31,M
+Business Day,Glenn,2015-12-31,M
+The Upshot,Austin,2015-12-31,M
+N.Y. / Region,Benjamin,2015-12-31,M
+Business Day,Mark,2015-12-31,M
+World,Ceylan,2015-12-31,F
+Opinion,Max,2015-12-31,M
+World,Steven,2015-12-31,M
+Technology,Mark,2015-12-31,M
+The Upshot,Neil,2015-12-31,M
+Arts,Michael,2015-12-31,M
+U.S.,Alan,2015-12-31,M
+Opinion,Uki,2015-12-31,U
+Fashion & Style,Courtney,2015-12-31,F
+N.Y. / Region,David,2015-12-31,M
+U.S.,Patrick,2015-12-31,M
+Fashion & Style,Rachel,2015-12-31,F
+World,Simon,2015-12-31,M
+Business Day,Keith,2015-12-31,M
+World,Neil,2015-12-31,M
+U.S.,John,2015-12-31,M
+Fashion & Style,Lillian,2015-12-31,F

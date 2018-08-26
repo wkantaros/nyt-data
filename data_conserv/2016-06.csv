@@ -1,0 +1,4716 @@
+section_name,firstname,pub_date,gender
+Movies,Anita,2016-06-01,F
+Arts,Daniel,2016-06-01,M
+Arts,Mike,2016-06-01,M
+Health,Gina,2016-06-01,F
+Fashion & Style,Steven,2016-06-01,M
+Crosswords & Games,Deb,2016-06-01,F
+Fashion & Style,Alex,2016-06-01,M
+T Magazine,Alexa,2016-06-01,F
+Business Day,William,2016-06-01,M
+Theater,Neil,2016-06-01,M
+T Magazine,Alexandria,2016-06-01,F
+N.Y. / Region,Henny,2016-06-01,F
+Arts,Marina,2016-06-01,F
+Arts,Anthony,2016-06-01,M
+Fashion & Style,Erica,2016-06-01,F
+T Magazine,Kevin,2016-06-01,M
+Books,James,2016-06-01,M
+Books,Annie,2016-06-01,F
+Books,Tom,2016-06-01,M
+U.S.,Ian,2016-06-01,M
+T Magazine,Samantha,2016-06-01,F
+Books,Sam,2016-06-01,M
+Books,Alan,2016-06-01,M
+Books,Alex,2016-06-01,M
+Books,Jenny,2016-06-01,F
+Books,Sarah,2016-06-01,F
+Books,Henry,2016-06-01,M
+Books,Hillary,2016-06-01,F
+Books,Andrea,2016-06-01,F
+Books,J.,2016-06-01,U
+Books,Sharon,2016-06-01,F
+Books,Liesl,2016-06-01,F
+Books,Teller,2016-06-01,U
+Books,Joshua,2016-06-01,M
+Books,Lisa,2016-06-01,F
+Books,Dominique,2016-06-01,F
+Books,Alan,2016-06-01,M
+Books,Kiese,2016-06-01,U
+Books,Christine,2016-06-01,F
+Books,Marjorie,2016-06-01,F
+Books,Frank,2016-06-01,M
+Books,Lisa,2016-06-01,F
+Books,Manuel,2016-06-01,M
+Books,Jenna,2016-06-01,F
+Books,Vanessa,2016-06-01,F
+Fashion & Style,Bee,2016-06-01,M
+Fashion & Style,Alex,2016-06-01,M
+Books,Terrence,2016-06-01,M
+Books,John,2016-06-01,M
+Books,Simon,2016-06-01,M
+Opinion,Andrew,2016-06-01,M
+T Magazine,Samantha,2016-06-01,F
+Travel,Elaine,2016-06-01,F
+T Magazine,Stacy,2016-06-01,F
+Sports,David,2016-06-01,M
+World,Austin,2016-06-01,M
+Real Estate,Kevin,2016-06-01,M
+Arts,Daniel,2016-06-01,M
+World,Natalia,2016-06-01,F
+Fashion & Style,Alex,2016-06-01,M
+T Magazine,Kari,2016-06-01,F
+World,International,2016-06-01,U
+Food,Sam,2016-06-01,M
+Health,Roni,2016-06-01,F
+Travel,Anna,2016-06-01,F
+Travel,Amy,2016-06-01,F
+World,International,2016-06-01,U
+Books,Jay,2016-06-01,M
+Books,Josh,2016-06-01,M
+Theater,Sarah,2016-06-01,F
+Real Estate,Kenneth,2016-06-01,M
+Blogs,Amie,2016-06-01,F
+N.Y. / Region,Jonathan,2016-06-01,M
+Health,Mikkael,2016-06-01,U
+NYT Now,Adeel,2016-06-01,M
+Health,Gretchen,2016-06-01,F
+Education,Patrick,2016-06-01,M
+Education,Michael,2016-06-01,M
+Opinion,Thomas,2016-06-01,M
+Opinion,Frank,2016-06-01,M
+Opinion,Andy,2016-06-01,M
+Opinion,Thomas,2016-06-01,M
+Opinion,Tina,2016-06-01,F
+Multimedia/Photos,David,2016-06-01,M
+Sports,Bruce,2016-06-01,M
+Arts,Kathryn,2016-06-01,F
+Technology,Katie,2016-06-01,F
+World,Alison,2016-06-01,F
+Health,Sabrina,2016-06-01,F
+Sports,Matt,2016-06-01,M
+N.Y. / Region,Christopher,2016-06-01,M
+N.Y. / Region,Christopher,2016-06-01,M
+Sports,Seth,2016-06-01,M
+Sports,Billy,2016-06-01,M
+Sports,Richard,2016-06-01,M
+N.Y. / Region,Andy,2016-06-01,M
+N.Y. / Region,Colin,2016-06-01,M
+U.S.,Michael,2016-06-01,M
+N.Y. / Region,Jim,2016-06-01,M
+Business Day,Diane,2016-06-01,F
+Business Day,Emily,2016-06-01,F
+Sports,Seth,2016-06-01,M
+U.S.,Eric,2016-06-01,M
+N.Y. / Region,Vivian,2016-06-01,F
+Business Day,Stuart,2016-06-01,M
+N.Y. / Region,Liz,2016-06-01,F
+World,Rick,2016-06-01,M
+Business Day,Stephanie,2016-06-01,F
+N.Y. / Region,Michael,2016-06-01,M
+N.Y. / Region,Benjamin,2016-06-01,M
+Books,Dwight,2016-06-01,M
+Theater,Michael,2016-06-01,M
+Arts,Ben,2016-06-01,M
+U.S.,Jeremy,2016-06-01,M
+Arts,James,2016-06-01,M
+Business Day,John,2016-06-01,M
+World,Nicholas,2016-06-01,M
+Arts,Doreen,2016-06-01,F
+Real Estate,Rosalie,2016-06-01,F
+Business Day,Steven,2016-06-01,M
+Arts,James,2016-06-01,M
+Business Day,Michael,2016-06-01,M
+World,Steven,2016-06-01,M
+Sports,Scott,2016-06-01,M
+World,Thomas,2016-06-01,M
+World,Sewell,2016-06-01,M
+Business Day,Michael,2016-06-01,M
+Business Day,Michael,2016-06-01,M
+Business Day,Kevin,2016-06-01,M
+Science,Nicholas,2016-06-01,M
+Food,Florence,2016-06-01,F
+Business Day,Ben,2016-06-01,M
+World,Isabel,2016-06-01,F
+Food,Jeff,2016-06-01,M
+World,Tim,2016-06-01,M
+World,Richard,2016-06-01,M
+U.S.,Christine,2016-06-01,F
+U.S.,Adam,2016-06-01,M
+World,Rick,2016-06-01,M
+Business Day,Steven,2016-06-01,M
+Food,Kim,2016-06-01,F
+Sports,Chris,2016-06-01,M
+U.S.,Julie,2016-06-01,F
+Business Day,Peter,2016-06-01,M
+World,Anne,2016-06-01,F
+Food,Florence,2016-06-01,F
+Science,Joanna,2016-06-01,F
+World,Dan,2016-06-01,M
+Food,Florence,2016-06-01,F
+Food,Florence,2016-06-01,F
+Opinion,Patrick,2016-06-01,M
+Food,Florence,2016-06-01,F
+Food,Florence,2016-06-01,F
+Food,Florence,2016-06-01,F
+U.S.,Jonah,2016-06-01,M
+Food,Jeff,2016-06-01,M
+Theater,Christopher,2016-06-01,M
+Sports,Ben,2016-06-01,M
+Food,Pete,2016-06-01,M
+Sports,Harvey,2016-06-01,M
+Arts,Ben,2016-06-01,M
+U.S.,Alan,2016-06-01,M
+Opinion,Ian,2016-06-01,M
+Business Day,Carl,2016-06-01,M
+World,Mujib,2016-06-01,U
+U.S.,Mike,2016-06-01,M
+Opinion,Dreux,2016-06-01,M
+U.S.,Ron,2016-06-01,M
+U.S.,Adam,2016-06-01,M
+Sports,Victor,2016-06-01,M
+U.S.,John,2016-06-01,M
+World,Jane,2016-06-01,F
+Technology,Quentin,2016-06-01,M
+Technology,J.,2016-06-01,U
+World,Raphael,2016-06-01,M
+World,Kai,2016-06-01,M
+N.Y. / Region,David,2016-06-01,M
+Business Day,Chad,2016-06-01,M
+Business Day,Michael,2016-06-01,M
+World,Diaa,2016-06-01,U
+World,Nida,2016-06-01,F
+World,Sewell,2016-06-01,M
+Sports,Rob,2016-06-01,M
+Business Day,Chad,2016-06-01,M
+U.S.,Maggie,2016-06-01,F
+World,Hari,2016-06-01,M
+World,Thomas,2016-06-01,M
+Sports,Zach,2016-06-01,M
+Business Day,Chad,2016-06-01,M
+Business Day,Jack,2016-06-01,M
+Business Day,Eduardo,2016-06-01,M
+N.Y. / Region,Corey,2016-06-01,M
+Business Day,Eduardo,2016-06-01,M
+Opinion,Yanis,2016-06-01,GN
+Food,Margaux,2016-06-01,F
+Food,David,2016-06-01,M
+Food,Melissa,2016-06-01,F
+Food,Eric,2016-06-01,M
+Food,Eric,2016-06-01,M
+Food,Ligaya,2016-06-01,F
+T Magazine,Emma,2016-06-02,F
+Arts,Neil,2016-06-02,M
+Theater,Michael,2016-06-02,M
+Crosswords & Games,Deb,2016-06-02,F
+Fashion & Style,Elizabeth,2016-06-02,F
+Books,Dwight,2016-06-02,M
+Fashion & Style,Sridhar,2016-06-02,M
+Movies,Melena,2016-06-02,F
+Business Day,Brooks,2016-06-02,M
+T Magazine,Malina,2016-06-02,F
+Movies,Erik,2016-06-02,M
+Sports,Joe,2016-06-02,M
+Business Day,Danielle,2016-06-02,F
+Business Day,Anita,2016-06-02,F
+N.Y. / Region,Laura,2016-06-02,F
+Fashion & Style,Philip,2016-06-02,M
+Movies,Ainara,2016-06-02,F
+World,Nicole,2016-06-02,F
+Sports,Ewan,2016-06-02,M
+Theater,Alexis,2016-06-02,F
+NYT Now,Andrea,2016-06-02,F
+Arts,Joe,2016-06-02,M
+Arts,Jon,2016-06-02,M
+Fashion & Style,Bee,2016-06-02,M
+Health,Nicholas,2016-06-02,M
+N.Y. / Region,Alan,2016-06-02,M
+N.Y. / Region,Joyce,2016-06-02,F
+Sports,David,2016-06-02,M
+Opinion,Andrew,2016-06-02,M
+Health,Corey,2016-06-02,M
+Education,Katherine,2016-06-02,F
+T Magazine,Ian,2016-06-02,M
+World,Ben,2016-06-02,M
+Movies,Mekado,2016-06-02,U
+T Magazine,Hayley,2016-06-02,F
+T Magazine,Hettie,2016-06-02,F
+Fashion & Style,Jaclyn,2016-06-02,F
+Arts,Randy,2016-06-02,M
+Health,Susan,2016-06-02,F
+Times Insider,David,2016-06-02,M
+T Magazine,Jeff,2016-06-02,M
+Health,Roni,2016-06-02,F
+T Magazine,Ariela,2016-06-02,F
+Business Day,Emily,2016-06-02,F
+World,International,2016-06-02,U
+T Magazine,Hilary,2016-06-02,F
+Books,Maria,2016-06-02,F
+Travel,Shivani,2016-06-02,F
+The Upshot,Neil,2016-06-02,M
+Travel,Sarah,2016-06-02,F
+Times Insider,Motoko,2016-06-02,U
+U.S.,Cincinnati,2016-06-02,U
+Health,Lisa,2016-06-02,F
+Times Insider,Jess,2016-06-02,M
+World,International,2016-06-02,U
+U.S.,Michael,2016-06-02,M
+Real Estate,Joyce,2016-06-02,F
+Sports,Adam,2016-06-02,M
+Opinion,Bob,2016-06-02,M
+Health,Norman,2016-06-02,M
+Blogs,Amie,2016-06-02,F
+N.Y. / Region,Jonathan,2016-06-02,M
+NYT Now,Adeel,2016-06-02,M
+Education,Katherine,2016-06-02,F
+Science,Joanna,2016-06-02,F
+Education,Katherine,2016-06-02,F
+The Upshot,Margot,2016-06-02,F
+The Upshot,Nate,2016-06-02,M
+Opinion,Nicholas,2016-06-02,M
+Opinion,Charles,2016-06-02,M
+Opinion,Gail,2016-06-02,F
+Opinion,Nate,2016-06-02,M
+Multimedia/Photos,James,2016-06-02,M
+Sports,Benjamin,2016-06-02,M
+Arts,Ben,2016-06-02,M
+Business Day,Brooks,2016-06-02,M
+N.Y. / Region,Paul,2016-06-02,M
+Arts,Kathryn,2016-06-02,F
+Sports,Chris,2016-06-02,M
+World,Megan,2016-06-02,F
+Business Day,Stacy,2016-06-02,F
+U.S.,Nick,2016-06-02,M
+Sports,Ben,2016-06-02,M
+U.S.,Adam,2016-06-02,M
+N.Y. / Region,Noah,2016-06-02,M
+U.S.,Amy,2016-06-02,F
+Sports,Harvey,2016-06-02,M
+Business Day,Michael,2016-06-02,M
+U.S.,Alan,2016-06-02,M
+N.Y. / Region,Ashley,2016-06-02,F
+N.Y. / Region,Benjamin,2016-06-02,M
+U.S.,Jess,2016-06-02,M
+Sports,Sam,2016-06-02,M
+Sports,Andrew,2016-06-02,M
+Arts,Nate,2016-06-02,M
+Arts,Alan,2016-06-02,M
+Arts,Ben,2016-06-02,M
+Arts,Jon,2016-06-02,M
+World,David,2016-06-02,M
+World,Jeffrey,2016-06-02,M
+World,Declan,2016-06-02,M
+Sports,Dave,2016-06-02,M
+Arts,Victoria,2016-06-02,F
+U.S.,Jonathan,2016-06-02,M
+Movies,Melena,2016-06-02,F
+Fashion & Style,Brian,2016-06-02,M
+Sports,Seth,2016-06-02,M
+Fashion & Style,Alison,2016-06-02,F
+Health,Denise,2016-06-02,F
+U.S.,Maggie,2016-06-02,F
+Your Money,Ann,2016-06-02,F
+Arts,Brian,2016-06-02,M
+Books,Jennifer,2016-06-02,F
+Arts,Tamara,2016-06-02,F
+Technology,David,2016-06-02,M
+Fashion & Style,Alex,2016-06-02,M
+U.S.,Yamiche,2016-06-02,U
+World,Alison,2016-06-02,F
+Business Day,Emily,2016-06-02,F
+Fashion & Style,Jacob,2016-06-02,M
+Business Day,Reed,2016-06-02,M
+Sports,Christopher,2016-06-02,M
+Arts,Jon,2016-06-02,M
+U.S.,Thomas,2016-06-02,M
+World,Ian,2016-06-02,M
+Fashion & Style,Ruth,2016-06-02,F
+U.S.,Matt,2016-06-02,M
+Business Day,John,2016-06-02,M
+Technology,Kit,2016-06-02,M
+Business Day,Robert,2016-06-02,M
+Sports,Karen,2016-06-02,F
+Sports,Ken,2016-06-02,M
+Fashion & Style,Ben,2016-06-02,M
+Theater,Ben,2016-06-02,M
+Fashion & Style,David,2016-06-02,M
+N.Y. / Region,Kate,2016-06-02,F
+Fashion & Style,Erin,2016-06-02,F
+World,Neil,2016-06-02,M
+U.S.,Christine,2016-06-02,F
+Business Day,John,2016-06-02,M
+Sports,Marc,2016-06-02,M
+World,Rick,2016-06-02,M
+World,Sewell,2016-06-02,M
+Business Day,Hiroko,2016-06-02,F
+World,Suhasini,2016-06-02,U
+Arts,Andrew,2016-06-02,M
+World,Ben,2016-06-02,M
+Theater,Michael,2016-06-02,M
+N.Y. / Region,Kate,2016-06-02,F
+U.S.,Nicholas,2016-06-02,M
+U.S.,Frances,2016-06-02,F
+Health,Sabrina,2016-06-02,F
+U.S.,Christopher,2016-06-02,M
+Business Day,Jackie,2016-06-02,GN
+Sports,David,2016-06-02,M
+U.S.,Carol,2016-06-02,F
+Times Insider,Philip,2016-06-02,M
+World,Steven,2016-06-02,M
+World,Dan,2016-06-02,M
+World,Douglas,2016-06-02,M
+Sports,Victor,2016-06-02,M
+World,Jane,2016-06-02,F
+World,Melissa,2016-06-02,F
+Business Day,Janet,2016-06-02,F
+World,Edward,2016-06-02,M
+World,Ellen,2016-06-02,F
+Technology,Quentin,2016-06-02,M
+Technology,J.,2016-06-02,U
+The Upshot,Quoctrung,2016-06-02,U
+World,Sewell,2016-06-02,M
+World,Didi,2016-06-02,F
+World,Nicola,2016-06-02,F
+World,Salman,2016-06-02,M
+Fashion & Style,Vanessa,2016-06-02,F
+World,Choe,2016-06-02,U
+Opinion,Pamela,2016-06-02,F
+The Upshot,Nate,2016-06-02,M
+U.S.,Michael,2016-06-02,M
+Fashion & Style,Elizabeth,2016-06-02,F
+U.S.,Alan,2016-06-02,M
+Business Day,Jonathan,2016-06-02,M
+N.Y. / Region,David,2016-06-02,M
+U.S.,Jeremy,2016-06-02,M
+Technology,Farhad,2016-06-02,M
+World,Norimitsu,2016-06-02,U
+N.Y. / Region,James,2016-06-02,M
+World,Eli,2016-06-02,M
+Business Day,Michael,2016-06-02,M
+World,Richard,2016-06-02,M
+Fashion & Style,Rachel,2016-06-02,F
+Fashion & Style,Vanessa,2016-06-02,F
+T Magazine,Clarke,2016-06-03,M
+Business Day,Emily,2016-06-03,F
+Arts,Amanda,2016-06-03,F
+Arts,Stephen,2016-06-03,M
+Arts,Gia,2016-06-03,F
+Movies,Rachel,2016-06-03,F
+Arts,Andrew,2016-06-03,M
+Arts,Jason,2016-06-03,M
+Crosswords & Games,Deb,2016-06-03,F
+Arts,Mike,2016-06-03,M
+Arts,Neil,2016-06-03,M
+Arts,Alastair,2016-06-03,M
+Fashion & Style,Bill,2016-06-03,M
+Opinion,Lisa,2016-06-03,F
+Sports,Juliet,2016-06-03,F
+Technology,Steve,2016-06-03,M
+Real Estate,Dan,2016-06-03,M
+Fashion & Style,Desiree,2016-06-03,F
+N.Y. / Region,Tammy,2016-06-03,F
+Fashion & Style,Jacob,2016-06-03,M
+Arts,Steve,2016-06-03,M
+NYT Now,Jonah,2016-06-03,M
+Arts,Jon,2016-06-03,M
+Your Money,Ann,2016-06-03,F
+Health,Lisa,2016-06-03,F
+Opinion,Ruchir,2016-06-03,M
+Arts,Jeremy,2016-06-03,M
+Sports,Tyler,2016-06-03,M
+Arts,Roslyn,2016-06-03,F
+Opinion,Naka,2016-06-03,U
+Business Day,Diane,2016-06-03,F
+Your Money,Paul,2016-06-03,M
+Opinion,Timothy,2016-06-03,M
+Opinion,Andrew,2016-06-03,M
+T Magazine,Aimee,2016-06-03,F
+Real Estate,Tim,2016-06-03,M
+T Magazine,Alainna,2016-06-03,F
+Real Estate,Ronda,2016-06-03,F
+Business Day,Clifford,2016-06-03,M
+Real Estate,Vivian,2016-06-03,F
+N.Y. / Region,Ginia,2016-06-03,F
+Sports,Christopher,2016-06-03,M
+T Magazine,Jeff,2016-06-03,M
+The Upshot,Justin,2016-06-03,M
+Opinion,Teresa,2016-06-03,F
+Real Estate,Tim,2016-06-03,M
+Movies,John,2016-06-03,M
+Times Insider,Susan,2016-06-03,F
+U.S.,Karen,2016-06-03,F
+World,Dionne,2016-06-03,F
+Sports,David,2016-06-03,M
+T Magazine,James,2016-06-03,M
+U.S.,Natalia,2016-06-03,F
+Arts,Nate,2016-06-03,M
+Arts,Stephen,2016-06-03,M
+Arts,Margaret,2016-06-03,F
+Opinion,Anna,2016-06-03,F
+T Magazine,Alexandria,2016-06-03,F
+Sports,Michael,2016-06-03,M
+Your Money,Elizabeth,2016-06-03,F
+Opinion,Moises,2016-06-03,M
+Arts,Louis,2016-06-03,M
+World,International,2016-06-03,U
+World,International,2016-06-03,U
+Food,Sam,2016-06-03,M
+Travel,Shivani,2016-06-03,F
+Food,Alec,2016-06-03,M
+World,International,2016-06-03,U
+Opinion,Patrick,2016-06-03,M
+Arts,Amy,2016-06-03,F
+Times Insider,Barry,2016-06-03,M
+Education,Margaret,2016-06-03,F
+Fashion & Style,Vincent,2016-06-03,M
+Arts,Jon,2016-06-03,M
+Real Estate,Michelle,2016-06-03,F
+Sports,Carla,2016-06-03,F
+Science,Tatiana,2016-06-03,F
+Real Estate,Michelle,2016-06-03,F
+Times Insider,Jordan,2016-06-03,M
+N.Y. / Region,Manjula,2016-06-03,U
+Fashion & Style,Melissa,2016-06-03,F
+Fashion & Style,Vanessa,2016-06-03,F
+Fashion & Style,Steven,2016-06-03,M
+Health,Noah,2016-06-03,M
+Blogs,Amie,2016-06-03,F
+Health,Toby,2016-06-03,M
+N.Y. / Region,Jonathan,2016-06-03,M
+NYT Now,Adeel,2016-06-03,M
+Health,Roni,2016-06-03,F
+Health,Allison,2016-06-03,F
+Education,Michael,2016-06-03,M
+U.S.,A.,2016-06-03,U
+Movies,J.,2016-06-03,U
+Education,Michael,2016-06-03,M
+Opinion,Joanna,2016-06-03,F
+Opinion,Paul,2016-06-03,M
+Opinion,David,2016-06-03,M
+Opinion,Robert,2016-06-03,M
+Obituaries,Carlotta,2016-06-03,F
+Arts,Peter,2016-06-03,M
+Sports,Andrew,2016-06-03,M
+N.Y. / Region,Ashley,2016-06-03,F
+Arts,Margalit,2016-06-03,F
+N.Y. / Region,J.,2016-06-03,U
+Sports,Benjamin,2016-06-03,M
+Arts,Kathryn,2016-06-03,F
+U.S.,Nick,2016-06-03,M
+N.Y. / Region,Rick,2016-06-03,M
+The Upshot,Quoctrung,2016-06-03,U
+Sports,Billy,2016-06-03,M
+Sports,Harvey,2016-06-03,M
+N.Y. / Region,Jonah,2016-06-03,M
+Business Day,Emily,2016-06-03,F
+World,Rick,2016-06-03,M
+Movies,Laurel,2016-06-03,F
+World,Stephen,2016-06-03,M
+Business Day,Leslie,2016-06-03,F
+Science,Nicholas,2016-06-03,M
+Arts,Laurel,2016-06-03,F
+N.Y. / Region,Benjamin,2016-06-03,M
+Sports,Andrew,2016-06-03,M
+Sports,Karen,2016-06-03,F
+N.Y. / Region,Joseph,2016-06-03,M
+Sports,Chris,2016-06-03,M
+Health,Donald,2016-06-03,M
+Sports,Victor,2016-06-03,M
+World,Julie,2016-06-03,F
+U.S.,Jonah,2016-06-03,M
+U.S.,Maggie,2016-06-03,F
+Arts,Neil,2016-06-03,M
+Science,Henry,2016-06-03,M
+Health,Jonah,2016-06-03,M
+World,Nick,2016-06-03,M
+N.Y. / Region,Matt,2016-06-03,M
+Sports,Scott,2016-06-03,M
+World,Melissa,2016-06-03,F
+Arts,Roberta,2016-06-03,F
+Movies,Manohla,2016-06-03,U
+Movies,Stephen,2016-06-03,M
+Arts,Neesha,2016-06-03,F
+Movies,A.,2016-06-03,U
+Movies,Stephen,2016-06-03,M
+Automobiles,Neal,2016-06-03,M
+Arts,Gia,2016-06-03,F
+Movies,Neil,2016-06-03,M
+Movies,Ben,2016-06-03,M
+Books,William,2016-06-03,M
+Movies,Glenn,2016-06-03,M
+Movies,Neil,2016-06-03,M
+Movies,Helen,2016-06-03,F
+Movies,Ben,2016-06-03,M
+Movies,Glenn,2016-06-03,M
+Arts,Robin,2016-06-03,F
+Travel,Shivani,2016-06-03,F
+Movies,Jeannette,2016-06-03,F
+Movies,Glenn,2016-06-03,M
+Business Day,James,2016-06-03,M
+Business Day,Robert,2016-06-03,M
+U.S.,Eric,2016-06-03,M
+U.S.,Matthew,2016-06-03,M
+U.S.,Amy,2016-06-03,F
+Movies,Mekado,2016-06-03,U
+Arts,Eve,2016-06-03,F
+World,Margaux,2016-06-03,F
+Arts,Michael,2016-06-03,M
+Business Day,Rachel,2016-06-03,F
+Movies,Andy,2016-06-03,M
+U.S.,Emmarie,2016-06-03,F
+U.S.,Michael,2016-06-03,M
+Arts,John,2016-06-03,M
+Science,Andrew,2016-06-03,M
+Sports,Jay,2016-06-03,M
+Arts,Joshua,2016-06-03,M
+Arts,Holland,2016-06-03,GN
+Science,James,2016-06-03,M
+U.S.,Christine,2016-06-03,F
+Business Day,Ben,2016-06-03,M
+World,Keith,2016-06-03,M
+Science,Nicholas,2016-06-03,M
+World,Maher,2016-06-03,M
+U.S.,Ian,2016-06-03,M
+Fashion & Style,Bee,2016-06-03,M
+Business Day,Diane,2016-06-03,F
+Automobiles,Tom,2016-06-03,M
+Arts,Liam,2016-06-03,M
+Theater,Matt,2016-06-03,M
+Sports,Christopher,2016-06-03,M
+World,Richard,2016-06-03,M
+Sports,Andrew,2016-06-03,M
+Arts,Kathryn,2016-06-03,F
+Business Day,Michael,2016-06-03,M
+Arts,Ken,2016-06-03,M
+U.S.,Maggie,2016-06-03,F
+Opinion,Hussein,2016-06-03,M
+World,Aurelien,2016-06-03,U
+World,Alan,2016-06-03,M
+Real Estate,Richard,2016-06-03,M
+Movies,A.,2016-06-03,U
+Business Day,Stanley,2016-06-03,M
+World,Choe,2016-06-03,U
+U.S.,Mike,2016-06-03,M
+Technology,J.,2016-06-03,U
+World,Austin,2016-06-03,M
+World,Declan,2016-06-03,M
+U.S.,Jada,2016-06-03,F
+Business Day,Liam,2016-06-03,M
+Arts,Zachary,2016-06-03,M
+Arts,Michael,2016-06-03,M
+Technology,Paul,2016-06-03,M
+Books,Alexandra,2016-06-03,F
+Science,Erica,2016-06-03,F
+World,Alison,2016-06-03,F
+Arts,Dave,2016-06-03,M
+Opinion,Roger,2016-06-03,M
+World,Ellen,2016-06-03,F
+World,Ceylan,2016-06-03,F
+World,Chris,2016-06-03,M
+World,Sarah,2016-06-03,F
+Business Day,Jack,2016-06-03,M
+Sports,John,2016-06-03,M
+Fashion & Style,Alex,2016-06-03,M
+T Magazine,Kat,2016-06-03,F
+World,Kirk,2016-06-04,M
+World,Ceylan,2016-06-04,F
+Arts,Angelica,2016-06-04,F
+N.Y. / Region,Marybel,2016-06-04,F
+N.Y. / Region,Joseph,2016-06-04,M
+N.Y. / Region,John,2016-06-04,M
+U.S.,Margalit,2016-06-04,F
+N.Y. / Region,Michael,2016-06-04,M
+N.Y. / Region,Bill,2016-06-04,M
+N.Y. / Region,Rand,2016-06-04,M
+Sports,Wesley,2016-06-04,M
+N.Y. / Region,Kurt,2016-06-04,M
+Opinion,Justin,2016-06-04,M
+N.Y. / Region,Shivani,2016-06-04,F
+Sports,Christopher,2016-06-04,M
+Sports,Andrew,2016-06-04,M
+Opinion,Anna,2016-06-04,F
+Opinion,Kate,2016-06-04,F
+World,Elisabetta,2016-06-04,F
+N.Y. / Region,Steve,2016-06-04,M
+N.Y. / Region,Susan,2016-06-04,F
+Opinion,Dw,2016-06-04,U
+N.Y. / Region,Aileen,2016-06-04,F
+Opinion,Tom,2016-06-04,M
+N.Y. / Region,Susan,2016-06-04,F
+World,Joe,2016-06-04,M
+Sunday Review,Kj,2016-06-04,M
+Sports,Karen,2016-06-04,F
+Opinion,Maureen,2016-06-04,F
+Opinion,Nicholas,2016-06-04,M
+Opinion,Jessica,2016-06-04,F
+Opinion,Frank,2016-06-04,M
+Sports,Tyler,2016-06-04,M
+Opinion,Adam,2016-06-04,M
+World,Michael,2016-06-04,M
+Crosswords & Games,Deb,2016-06-04,F
+Sports,Harvey,2016-06-04,M
+Fashion & Style,Daniel,2016-06-04,M
+Sports,Tyler,2016-06-04,M
+Sports,James,2016-06-04,M
+World,Richard,2016-06-04,M
+Sports,Richard,2016-06-04,M
+World,Michael,2016-06-04,M
+U.S.,Jennifer,2016-06-04,F
+World,Elisabetta,2016-06-04,F
+Sports,David,2016-06-04,M
+World,Jonathan,2016-06-04,M
+Health,Andrew,2016-06-04,M
+Crosswords & Games,Deb,2016-06-04,F
+Fashion & Style,Katherine,2016-06-04,F
+Fashion & Style,Michael,2016-06-04,M
+Fashion & Style,George,2016-06-04,M
+Crosswords & Games,Deb,2016-06-04,F
+Multimedia/Photos,Todd,2016-06-04,M
+Opinion,Ishmael,2016-06-04,M
+Travel,Lucas,2016-06-04,M
+Sports,Michael,2016-06-04,M
+NYT Now,Lela,2016-06-04,F
+Sports,George,2016-06-04,M
+Sports,Dave,2016-06-04,M
+Sports,Billy,2016-06-04,M
+Multimedia/Photos,Lisa,2016-06-04,F
+Opinion,Elizabeth,2016-06-04,F
+Arts,Jon,2016-06-04,M
+Books,William,2016-06-04,M
+Arts,Kathryn,2016-06-04,F
+U.S.,Carl,2016-06-04,M
+Sports,Robert,2016-06-04,M
+Sports,Gabe,2016-06-04,M
+Business Day,Rachel,2016-06-04,F
+Business Day,Diane,2016-06-04,F
+Sports,Ben,2016-06-04,M
+U.S.,Fernanda,2016-06-04,F
+Opinion,Jennifer,2016-06-04,F
+N.Y. / Region,Ashley,2016-06-04,F
+Opinion,Eric,2016-06-04,M
+Opinion,Amy,2016-06-04,F
+Sports,William,2016-06-04,M
+U.S.,Alan,2016-06-04,M
+Sports,David,2016-06-04,M
+Opinion,Gail,2016-06-04,F
+U.S.,Michael,2016-06-04,M
+Sports,Andrew,2016-06-04,M
+N.Y. / Region,Kate,2016-06-04,F
+N.Y. / Region,David,2016-06-04,M
+U.S.,Eric,2016-06-04,M
+U.S.,Julia,2016-06-04,F
+U.S.,Nick,2016-06-04,M
+Business Day,Michael,2016-06-04,M
+U.S.,Thomas,2016-06-04,M
+Business Day,Ben,2016-06-04,M
+U.S.,Jonathan,2016-06-04,M
+World,Diaa,2016-06-04,U
+N.Y. / Region,Kristin,2016-06-04,F
+The Upshot,Damon,2016-06-04,M
+World,Daphné,2016-06-04,U
+Science,Carl,2016-06-04,M
+Sports,Andy,2016-06-04,M
+World,Rick,2016-06-04,M
+Arts,Michael,2016-06-04,M
+Business Day,Matthew,2016-06-04,M
+Business Day,Richard,2016-06-04,M
+U.S.,Christine,2016-06-04,F
+U.S.,Jack,2016-06-04,M
+Arts,Jon,2016-06-04,M
+Sports,Andrew,2016-06-04,M
+Opinion,Julia,2016-06-04,F
+Sports,Seth,2016-06-04,M
+World,Andrew,2016-06-04,M
+World,Lilia,2016-06-04,F
+Sports,Victor,2016-06-04,M
+Business Day,William,2016-06-04,M
+Arts,Scott,2016-06-04,M
+U.S.,Christopher,2016-06-04,M
+Sports,Sam,2016-06-04,M
+World,Hari,2016-06-04,M
+Arts,Christopher,2016-06-04,M
+U.S.,Alan,2016-06-04,M
+U.S.,Liam,2016-06-04,M
+U.S.,Richard,2016-06-04,M
+Technology,J.,2016-06-04,U
+World,Jane,2016-06-04,F
+World,Jane,2016-06-04,F
+U.S.,Jennifer,2016-06-04,F
+Technology,Quentin,2016-06-04,M
+U.S.,Alan,2016-06-04,M
+World,Dan,2016-06-04,M
+World,Lilia,2016-06-04,F
+Opinion,Nikos,2016-06-04,M
+U.S.,Maggie,2016-06-04,F
+U.S.,Carl,2016-06-04,M
+U.S.,Adam,2016-06-04,M
+U.S.,Adam,2016-06-04,M
+Business Day,Patricia,2016-06-04,F
+U.S.,Mark,2016-06-04,M
+World,Alan,2016-06-04,M
+World,Austin,2016-06-04,M
+World,Edward,2016-06-04,M
+U.S.,Nick,2016-06-04,M
+World,Jonathan,2016-06-04,M
+Theater,Michael,2016-06-04,M
+Sports,Daniel,2016-06-05,M
+Sports,Ben,2016-06-05,M
+Arts,Jeremy,2016-06-05,M
+N.Y. / Region,James,2016-06-05,M
+N.Y. / Region,Jordyn,2016-06-05,F
+Universal,Gabe,2016-06-05,M
+Arts,Noel,2016-06-05,M
+Arts,Scott,2016-06-05,M
+N.Y. / Region,Rick,2016-06-05,M
+Crosswords & Games,Deb,2016-06-05,F
+U.S.,Eric,2016-06-05,M
+Arts,Joshua,2016-06-05,M
+World,International,2016-06-05,U
+World,International,2016-06-05,U
+Movies,Brooks,2016-06-05,M
+World,Guilbert,2016-06-05,M
+Food,Sam,2016-06-05,M
+Arts,Kathryn,2016-06-05,F
+NYT Now,Stacy,2016-06-05,F
+Sports,David,2016-06-05,M
+Sports,Billy,2016-06-05,M
+Sports,Christopher,2016-06-05,M
+Fashion & Style,Vincent,2016-06-05,M
+Fashion & Style,Rosalie,2016-06-05,F
+U.S.,Steve,2016-06-05,M
+U.S.,Jennifer,2016-06-05,F
+U.S.,Michael,2016-06-05,M
+Job Market,Angela,2016-06-05,F
+Opinion,Brian,2016-06-05,M
+Sports,Matt,2016-06-05,M
+Sports,Dave,2016-06-05,M
+Sports,Ben,2016-06-05,M
+Health,Denise,2016-06-05,F
+Your Money,Jeff,2016-06-05,M
+Business Day,Landon,2016-06-05,M
+Your Money,David,2016-06-05,M
+Technology,Farhad,2016-06-05,M
+N.Y. / Region,Noah,2016-06-05,M
+Sports,Liam,2016-06-05,M
+Sports,Tim,2016-06-05,M
+Arts,Anthony,2016-06-05,M
+Arts,Siobhan,2016-06-05,F
+Movies,Stephen,2016-06-05,M
+Arts,Robin,2016-06-05,F
+Arts,Jon,2016-06-05,M
+Arts,Kathryn,2016-06-05,F
+Business Day,Gretchen,2016-06-05,F
+The Upshot,Tyler,2016-06-05,M
+Business Day,Adam,2016-06-05,M
+Theater,Steven,2016-06-05,M
+Books,Joumana,2016-06-05,U
+Books,Douglas,2016-06-05,M
+Books,John,2016-06-05,M
+Real Estate,Mike,2016-06-05,M
+Books,Gregory,2016-06-05,M
+Theater,Michael,2016-06-06,M
+Style,John,2016-06-06,M
+Crosswords & Games,Deb,2016-06-06,F
+Business Day,Andrew,2016-06-06,M
+Business Day,John,2016-06-06,M
+Opinion,Frank,2016-06-06,M
+Science,Dennis,2016-06-06,M
+Business Day,Sam,2016-06-06,M
+N.Y. / Region,Michael,2016-06-06,M
+N.Y. / Region,George,2016-06-06,M
+T Magazine,Laura,2016-06-06,F
+N.Y. / Region,J.,2016-06-06,U
+Theater,Bruce,2016-06-06,M
+NYT Now,Jonah,2016-06-06,M
+NYT Now,Jonah,2016-06-06,M
+World,Megan,2016-06-06,F
+T Magazine,Hilary,2016-06-06,F
+T Magazine,Aimee,2016-06-06,F
+U.S.,Cbs,2016-06-06,U
+Health,Anahad,2016-06-06,U
+Science,Ken,2016-06-06,M
+U.S.,Cbs,2016-06-06,U
+Opinion,Yusef,2016-06-06,M
+N.Y. / Region,Natalia,2016-06-06,F
+World,International,2016-06-06,U
+Arts,Margaret,2016-06-06,F
+Sports,John,2016-06-06,M
+Arts,Kathryn,2016-06-06,F
+Health,Abigail,2016-06-06,F
+Crosswords & Games,Gary,2016-06-06,M
+N.Y. / Region,Elizabeth,2016-06-06,F
+Food,Jason,2016-06-06,M
+Opinion,Anna,2016-06-06,F
+Education,Larry,2016-06-06,M
+Food,Sam,2016-06-06,M
+Science,James,2016-06-06,M
+Science,Samantha,2016-06-06,F
+Books,Isabel,2016-06-06,F
+T Magazine,Wyatt,2016-06-06,M
+Education,Katherine,2016-06-06,F
+World,International,2016-06-06,U
+Health,Perri,2016-06-06,F
+N.Y. / Region,Alexandra,2016-06-06,F
+Blogs,Amie,2016-06-06,F
+NYT Now,Adeel,2016-06-06,M
+Health,Jane,2016-06-06,F
+Education,Shannon,2016-06-06,F
+Education,Shannon,2016-06-06,F
+Opinion,Charles,2016-06-06,M
+Opinion,Joyce,2016-06-06,F
+Opinion,Jay,2016-06-06,M
+Opinion,Paul,2016-06-06,M
+Theater,Joshua,2016-06-06,M
+Multimedia/Photos,John,2016-06-06,M
+U.S.,Richard,2016-06-06,M
+Business Day,Jim,2016-06-06,M
+World,Andrea,2016-06-06,F
+World,Elisabeth,2016-06-06,F
+Opinion,Mustafa,2016-06-06,M
+World,Bryant,2016-06-06,M
+Sports,Scott,2016-06-06,M
+N.Y. / Region,Colin,2016-06-06,M
+Sports,Victor,2016-06-06,M
+World,Andrew,2016-06-06,M
+Business Day,Sydney,2016-06-06,F
+Sports,Tal,2016-06-06,M
+Business Day,Steve,2016-06-06,M
+Business Day,Ben,2016-06-06,M
+Technology,John,2016-06-06,M
+Sports,Tim,2016-06-06,M
+Sports,Richard,2016-06-06,M
+World,Alison,2016-06-06,F
+N.Y. / Region,Kate,2016-06-06,F
+Business Day,Alina,2016-06-06,F
+Sports,David,2016-06-06,M
+N.Y. / Region,Noah,2016-06-06,M
+Sports,Billy,2016-06-06,M
+Sports,Karen,2016-06-06,F
+Sports,Karen,2016-06-06,F
+Theater,Michael,2016-06-06,M
+U.S.,Sheryl,2016-06-06,F
+U.S.,Ashley,2016-06-06,F
+World,Choe,2016-06-06,U
+U.S.,Jack,2016-06-06,M
+World,Gardiner,2016-06-06,M
+U.S.,Maggie,2016-06-06,F
+World,Rod,2016-06-06,M
+Theater,Roslyn,2016-06-06,F
+Arts,Brian,2016-06-06,M
+Arts,Zachary,2016-06-06,M
+Books,John,2016-06-06,M
+Arts,Nate,2016-06-06,M
+Arts,Mike,2016-06-06,M
+Sports,Andy,2016-06-06,M
+World,Mujib,2016-06-06,U
+World,Isabel,2016-06-06,F
+U.S.,Yamiche,2016-06-06,U
+World,Raphael,2016-06-06,M
+Sports,Jonathan,2016-06-06,M
+Business Day,Nicholas,2016-06-06,M
+Business Day,Chris,2016-06-06,M
+Arts,James,2016-06-06,M
+U.S.,Albert,2016-06-06,M
+Sports,Christopher,2016-06-06,M
+U.S.,Maggie,2016-06-06,F
+N.Y. / Region,Michael,2016-06-06,M
+Opinion,Walter,2016-06-06,M
+World,Rod,2016-06-06,M
+World,Julfikar,2016-06-06,U
+N.Y. / Region,Jesse,2016-06-06,M
+Health,Andrew,2016-06-06,M
+Sports,Rob,2016-06-06,M
+Business Day,Nazanin,2016-06-06,F
+Business Day,Neal,2016-06-06,M
+Automobiles,Neal,2016-06-06,M
+Arts,Brian,2016-06-06,M
+Travel,Shivani,2016-06-06,F
+Technology,Mark,2016-06-06,M
+Sports,Louie,2016-06-06,M
+Technology,Quentin,2016-06-06,M
+Arts,Anthony,2016-06-06,M
+Magazine,Kaitlyn,2016-06-07,F
+Business Day,Steven,2016-06-07,M
+Technology,Nicole,2016-06-07,F
+Crosswords & Games,Deb,2016-06-07,F
+Technology,David,2016-06-07,M
+Technology,Farhad,2016-06-07,M
+Travel,Wendell,2016-06-07,M
+Magazine,Rosie,2016-06-07,F
+N.Y. / Region,Rocco,2016-06-07,M
+Health,Sabrina,2016-06-07,F
+N.Y. / Region,Matt,2016-06-07,M
+Sports,Katie,2016-06-07,F
+NYT Now,Andrea,2016-06-07,F
+N.Y. / Region,Megan,2016-06-07,F
+U.S.,Eric,2016-06-07,M
+Fashion & Style,Brooke,2016-06-07,F
+Fashion & Style,Steve,2016-06-07,M
+Opinion,Teresa,2016-06-07,F
+U.S.,Alicia,2016-06-07,F
+Fashion & Style,Jim,2016-06-07,M
+T Magazine,Hilary,2016-06-07,F
+Business Day,John,2016-06-07,M
+T Magazine,Michael,2016-06-07,M
+Times Insider,Lew,2016-06-07,M
+Times Insider,Lew,2016-06-07,M
+T Magazine,Kari,2016-06-07,F
+World,Megan,2016-06-07,F
+Technology,Cecilia,2016-06-07,F
+Technology,Mark,2016-06-07,M
+Fashion & Style,Jacob,2016-06-07,M
+Opinion,Anna,2016-06-07,F
+U.S.,Cbs,2016-06-07,U
+Sports,Christine,2016-06-07,F
+World,Syria,2016-06-07,F
+Arts,Genevieve,2016-06-07,F
+Education,Katherine,2016-06-07,F
+Travel,Shivani,2016-06-07,F
+World,International,2016-06-07,U
+Travel,Shivani,2016-06-07,F
+Travel,Stephanie,2016-06-07,F
+Books,Justin,2016-06-07,M
+Opinion,Patrick,2016-06-07,M
+Fashion & Style,Penelope,2016-06-07,F
+World,International,2016-06-07,U
+Opinion,Elizabeth,2016-06-07,F
+Opinion,Andrew,2016-06-07,M
+Blogs,Amie,2016-06-07,F
+Health,Jill,2016-06-07,F
+N.Y. / Region,Alexandra,2016-06-07,F
+NYT Now,Adeel,2016-06-07,M
+Education,Michael,2016-06-07,M
+Education,Michael,2016-06-07,M
+Opinion,Lin-manuel,2016-06-07,U
+Opinion,Emma,2016-06-07,F
+Opinion,David,2016-06-07,M
+Opinion,Osagie,2016-06-07,M
+Opinion,Arthur,2016-06-07,M
+World,Dylan,2016-06-07,M
+Arts,Margalit,2016-06-07,F
+Multimedia/Photos,David,2016-06-07,M
+Arts,Kathryn,2016-06-07,F
+Health,Roni,2016-06-07,F
+Business Day,Victoria,2016-06-07,F
+Sports,Andrew,2016-06-07,M
+The Upshot,Nate,2016-06-07,M
+Sports,David,2016-06-07,M
+U.S.,Nick,2016-06-07,M
+U.S.,Maggie,2016-06-07,F
+Sports,Seth,2016-06-07,M
+Theater,Charles,2016-06-07,M
+Theater,Ben,2016-06-07,M
+N.Y. / Region,Matt,2016-06-07,M
+U.S.,Michael,2016-06-07,M
+U.S.,Amy,2016-06-07,F
+World,Somini,2016-06-07,U
+Sports,Rebecca,2016-06-07,F
+Business Day,Andrew,2016-06-07,M
+World,Declan,2016-06-07,M
+Business Day,Jonathan,2016-06-07,M
+Business Day,Elizabeth,2016-06-07,F
+Sports,Tyler,2016-06-07,M
+Business Day,Michael,2016-06-07,M
+U.S.,Alexander,2016-06-07,M
+Sports,Jamie,2016-06-07,F
+U.S.,Carol,2016-06-07,F
+World,Ian,2016-06-07,M
+Business Day,Michael,2016-06-07,M
+Theater,Michael,2016-06-07,M
+U.S.,Patrick,2016-06-07,M
+World,Palko,2016-06-07,U
+Arts,Roslyn,2016-06-07,F
+Arts,James,2016-06-07,M
+U.S.,Stephanie,2016-06-07,F
+Books,Jennifer,2016-06-07,F
+Movies,Cara,2016-06-07,F
+U.S.,Jess,2016-06-07,M
+World,Somini,2016-06-07,U
+Health,Donald,2016-06-07,M
+Business Day,Ben,2016-06-07,M
+Theater,Scott,2016-06-07,M
+Sports,David,2016-06-07,M
+Science,James,2016-06-07,M
+Arts,Ben,2016-06-07,M
+Science,Natalie,2016-06-07,F
+World,Jeffrey,2016-06-07,M
+Business Day,Robert,2016-06-07,M
+Business Day,David,2016-06-07,M
+Theater,Michael,2016-06-07,M
+World,Tim,2016-06-07,M
+U.S.,Mike,2016-06-07,M
+Business Day,Martha,2016-06-07,F
+N.Y. / Region,J.,2016-06-07,U
+Business Day,Binyamin,2016-06-07,M
+Sports,William,2016-06-07,M
+N.Y. / Region,Rick,2016-06-07,M
+U.S.,Anand,2016-06-07,M
+Business Day,Peter,2016-06-07,M
+Sports,Victor,2016-06-07,M
+World,Gaia,2016-06-07,F
+U.S.,Adam,2016-06-07,M
+Science,C.,2016-06-07,U
+Technology,Katie,2016-06-07,F
+Arts,Lilia,2016-06-07,F
+Business Day,Emily,2016-06-07,F
+World,Jonathan,2016-06-07,M
+U.S.,Julie,2016-06-07,F
+World,Alison,2016-06-07,F
+Technology,J.,2016-06-07,U
+Technology,Jim,2016-06-07,M
+Arts,Jon,2016-06-07,M
+World,Andrew,2016-06-07,M
+Technology,Katie,2016-06-07,F
+U.S.,Maggie,2016-06-07,F
+Business Day,Chris,2016-06-07,M
+Opinion,Gordon,2016-06-07,M
+Sports,Harvey,2016-06-07,M
+Fashion & Style,Vanessa,2016-06-07,F
+The Upshot,Nate,2016-06-07,M
+U.S.,Maggie,2016-06-07,F
+U.S.,Maggie,2016-06-07,F
+U.S.,Carl,2016-06-07,M
+U.S.,Maggie,2016-06-07,F
+Health,Paula,2016-06-07,F
+World,Rana,2016-06-07,F
+World,Austin,2016-06-07,M
+Business Day,Chad,2016-06-07,M
+U.S.,Yamiche,2016-06-07,U
+World,Amy,2016-06-07,F
+World,Mujib,2016-06-07,U
+U.S.,Jess,2016-06-07,M
+Books,Maria,2016-06-08,F
+Science,Benedict,2016-06-08,M
+Arts,Mike,2016-06-08,M
+U.S.,Sam,2016-06-08,M
+N.Y. / Region,Sam,2016-06-08,M
+Crosswords & Games,Deb,2016-06-08,F
+Opinion,Andrew,2016-06-08,M
+Arts,Mike,2016-06-08,M
+Theater,Laura,2016-06-08,F
+Science,Neil,2016-06-08,M
+Fashion & Style,Dominique,2016-06-08,F
+N.Y. / Region,Karen,2016-06-08,F
+Technology,Quentin,2016-06-08,M
+Travel,Lucas,2016-06-08,M
+NYT Now,Andrea,2016-06-08,F
+Fashion & Style,Erica,2016-06-08,F
+Technology,Vindu,2016-06-08,U
+Technology,Vindu,2016-06-08,U
+Technology,Mike,2016-06-08,M
+T Magazine,Julie,2016-06-08,F
+T Magazine,Aimee,2016-06-08,F
+Opinion,Vikas,2016-06-08,M
+T Magazine,Hilary,2016-06-08,F
+Technology,Mike,2016-06-08,M
+World,Natalia,2016-06-08,F
+Health,Nicholas,2016-06-08,M
+Times Insider,Nina,2016-06-08,F
+Opinion,Andrew,2016-06-08,M
+Food,Sam,2016-06-08,M
+World,International,2016-06-08,U
+Arts,Alan,2016-06-08,M
+Health,Anahad,2016-06-08,U
+Travel,Peter,2016-06-08,M
+Travel,Jeremy,2016-06-08,M
+T Magazine,Kat,2016-06-08,F
+Books,Jon,2016-06-08,M
+Fashion & Style,Vanessa,2016-06-08,F
+World,Des,2016-06-08,GN
+Education,Katherine,2016-06-08,F
+World,International,2016-06-08,U
+Blogs,Amie,2016-06-08,F
+N.Y. / Region,Alexandra,2016-06-08,F
+Universal,Susan,2016-06-08,F
+Travel,Mickey,2016-06-08,M
+NYT Now,Adeel,2016-06-08,M
+Health,Jessica,2016-06-08,F
+Health,Gretchen,2016-06-08,F
+Education,Michael,2016-06-08,M
+Arts,Bria,2016-06-08,F
+World,Kirk,2016-06-08,M
+Opinion,Christina,2016-06-08,F
+Education,Katherine,2016-06-08,F
+N.Y. / Region,Nate,2016-06-08,M
+Multimedia/Photos,Rena,2016-06-08,F
+N.Y. / Region,Vivian,2016-06-08,F
+Books,Margalit,2016-06-08,F
+Sports,Scott,2016-06-08,M
+U.S.,Sam,2016-06-08,M
+Arts,Kathryn,2016-06-08,F
+U.S.,Jennifer,2016-06-08,F
+Business Day,Sam,2016-06-08,M
+Opinion,Thomas,2016-06-08,M
+Books,William,2016-06-08,M
+U.S.,Christopher,2016-06-08,M
+Sports,Jamie,2016-06-08,F
+N.Y. / Region,Jesse,2016-06-08,M
+Sports,Seth,2016-06-08,M
+N.Y. / Region,Kate,2016-06-08,F
+Theater,Alexis,2016-06-08,F
+Theater,Ben,2016-06-08,M
+U.S.,Yamiche,2016-06-08,U
+World,Nicholas,2016-06-08,M
+U.S.,Michael,2016-06-08,M
+N.Y. / Region,Jim,2016-06-08,M
+Sports,Jamie,2016-06-08,F
+U.S.,Chris,2016-06-08,M
+Opinion,Gail,2016-06-08,F
+U.S.,Patrick,2016-06-08,M
+Sports,Rebecca,2016-06-08,F
+Business Day,Niki,2016-06-08,F
+Sports,Joe,2016-06-08,M
+Business Day,Michael,2016-06-08,M
+U.S.,Timothy,2016-06-08,M
+Sports,Tyler,2016-06-08,M
+Theater,Sarah,2016-06-08,F
+Sports,Jamie,2016-06-08,F
+Sports,Scott,2016-06-08,M
+Technology,Quentin,2016-06-08,M
+U.S.,Nick,2016-06-08,M
+World,Dionne,2016-06-08,F
+U.S.,Coral,2016-06-08,F
+World,Kareem,2016-06-08,M
+Sports,Matt,2016-06-08,M
+Business Day,Emily,2016-06-08,F
+Business Day,Jonah,2016-06-08,M
+N.Y. / Region,Eli,2016-06-08,M
+Arts,Randy,2016-06-08,M
+World,Steven,2016-06-08,M
+Real Estate,Rosalie,2016-06-08,F
+Business Day,Elizabeth,2016-06-08,F
+World,Jeffrey,2016-06-08,M
+Theater,Alexis,2016-06-08,F
+Arts,Alastair,2016-06-08,M
+Theater,Ken,2016-06-08,M
+Business Day,Victoria,2016-06-08,F
+Theater,Jennifer,2016-06-08,F
+Books,Janet,2016-06-08,F
+Arts,Emmarie,2016-06-08,F
+Movies,Stephen,2016-06-08,M
+Arts,Anthony,2016-06-08,M
+Arts,Piotr,2016-06-08,M
+N.Y. / Region,Winnie,2016-06-08,F
+Business Day,Leslie,2016-06-08,F
+U.S.,Alan,2016-06-08,M
+World,Ian,2016-06-08,M
+Technology,John,2016-06-08,M
+Times Insider,Jessica,2016-06-08,F
+Arts,Mike,2016-06-08,M
+U.S.,Alan,2016-06-08,M
+Business Day,Nicola,2016-06-08,F
+N.Y. / Region,Michael,2016-06-08,M
+World,Raphael,2016-06-08,M
+World,David,2016-06-08,M
+Business Day,Benjamin,2016-06-08,M
+N.Y. / Region,Daniel,2016-06-08,M
+Arts,Randy,2016-06-08,M
+U.S.,Ian,2016-06-08,M
+Business Day,Chad,2016-06-08,M
+U.S.,Amy,2016-06-08,F
+Food,Florence,2016-06-08,F
+Business Day,Jennifer,2016-06-08,F
+Food,Jeff,2016-06-08,M
+U.S.,John,2016-06-08,M
+World,Isabel,2016-06-08,F
+Science,Amy,2016-06-08,F
+Food,Pete,2016-06-08,M
+Sports,Filip,2016-06-08,M
+Technology,Pui-wing,2016-06-08,U
+Arts,Ben,2016-06-08,M
+Opinion,Salva,2016-06-08,U
+Theater,Melena,2016-06-08,F
+Food,Florence,2016-06-08,F
+U.S.,Jennifer,2016-06-08,F
+Food,Florence,2016-06-08,F
+Opinion,Tash,2016-06-08,GN
+Technology,J.,2016-06-08,U
+Real Estate,Janet,2016-06-08,F
+World,Chris,2016-06-08,M
+Business Day,Amie,2016-06-08,F
+Business Day,Katie,2016-06-08,F
+The Upshot,Nate,2016-06-08,M
+Fashion & Style,Vanessa,2016-06-08,F
+World,Michael,2016-06-08,M
+N.Y. / Region,Kristin,2016-06-08,F
+Arts,Michael,2016-06-08,M
+Business Day,Eduardo,2016-06-08,M
+Business Day,Liz,2016-06-08,F
+World,Jane,2016-06-08,F
+Movies,Nina,2016-06-08,F
+U.S.,Christine,2016-06-08,F
+Arts,Frank,2016-06-08,M
+Opinion,Roger,2016-06-08,M
+World,Javier,2016-06-08,M
+U.S.,Carl,2016-06-08,M
+World,Simon,2016-06-08,M
+U.S.,Alexander,2016-06-08,M
+World,Gardiner,2016-06-08,M
+Business Day,Leslie,2016-06-08,F
+World,Joseph,2016-06-08,M
+World,Julfikar,2016-06-08,U
+World,Ceylan,2016-06-08,F
+World,Steven,2016-06-08,M
+Food,Jeff,2016-06-08,M
+Food,Julia,2016-06-08,F
+Food,Kevin,2016-06-08,M
+Food,Florence,2016-06-08,F
+Food,Florence,2016-06-08,F
+Food,Florence,2016-06-08,F
+Food,Florence,2016-06-08,F
+Food,David,2016-06-08,M
+Food,Melissa,2016-06-08,F
+Food,Eric,2016-06-08,M
+Food,Ligaya,2016-06-08,F
+N.Y. / Region,Michael,2016-06-09,M
+Arts,Ben,2016-06-09,M
+Crosswords & Games,Deb,2016-06-09,F
+Technology,Pui-wing,2016-06-09,U
+Fashion & Style,Jennifer,2016-06-09,F
+Movies,Neil,2016-06-09,M
+Business Day,Jack,2016-06-09,M
+Fashion & Style,Philip,2016-06-09,M
+Movies,Neil,2016-06-09,M
+World,Untv,2016-06-09,U
+Movies,Ainara,2016-06-09,F
+Movies,Ainara,2016-06-09,F
+Movies,Ainara,2016-06-09,F
+Opinion,Elizabeth,2016-06-09,F
+Movies,Ainara,2016-06-09,F
+NYT Now,Andrea,2016-06-09,F
+Magazine,Emily,2016-06-09,F
+T Magazine,Antwaun,2016-06-09,M
+Travel,Jynne,2016-06-09,U
+Education,Katherine,2016-06-09,F
+World,Channel,2016-06-09,F
+Times Insider,David,2016-06-09,M
+Movies,Mekado,2016-06-09,U
+U.S.,Cbs,2016-06-09,U
+T Magazine,Jamie,2016-06-09,F
+Opinion,Sylvie,2016-06-09,F
+T Magazine,Malina,2016-06-09,F
+T Magazine,Jeff,2016-06-09,M
+Health,Nicholas,2016-06-09,M
+World,International,2016-06-09,U
+Fashion & Style,Elizabeth,2016-06-09,F
+Health,Jen,2016-06-09,F
+Travel,Lindsey,2016-06-09,F
+Opinion,Anna,2016-06-09,F
+Movies,Wesley,2016-06-09,M
+U.S.,Sharon,2016-06-09,F
+Sports,Ken,2016-06-09,M
+Opinion,Thomas,2016-06-09,M
+Automobiles,Tom,2016-06-09,M
+Health,David,2016-06-09,M
+World,Adam,2016-06-09,M
+Blogs,Amie,2016-06-09,F
+N.Y. / Region,Alexandra,2016-06-09,F
+NYT Now,Adeel,2016-06-09,M
+Health,Jessica,2016-06-09,F
+Education,Michael,2016-06-09,M
+Education,Michael,2016-06-09,M
+Opinion,Alexandria,2016-06-09,F
+Education,Katherine,2016-06-09,F
+The Upshot,Peter,2016-06-09,M
+Opinion,Nicholas,2016-06-09,M
+Opinion,Henry,2016-06-09,M
+Opinion,Gail,2016-06-09,F
+Multimedia/Photos,David,2016-06-09,M
+The Upshot,Margot,2016-06-09,F
+N.Y. / Region,J.,2016-06-09,U
+Arts,Kathryn,2016-06-09,F
+Sports,Seth,2016-06-09,M
+Arts,William,2016-06-09,M
+Sports,Tyler,2016-06-09,M
+Sports,Scott,2016-06-09,M
+Arts,Bruce,2016-06-09,M
+Arts,James,2016-06-09,M
+N.Y. / Region,Elizabeth,2016-06-09,F
+Theater,Charles,2016-06-09,M
+Sports,Steve,2016-06-09,M
+N.Y. / Region,James,2016-06-09,M
+Theater,Michael,2016-06-09,M
+U.S.,Patrick,2016-06-09,M
+Sports,Marc,2016-06-09,M
+N.Y. / Region,William,2016-06-09,M
+U.S.,Lizette,2016-06-09,F
+Sports,Tyler,2016-06-09,M
+U.S.,David,2016-06-09,M
+World,Hwaida,2016-06-09,U
+Sports,Chris,2016-06-09,M
+Sports,Tyler,2016-06-09,M
+U.S.,Carl,2016-06-09,M
+Opinion,Linda,2016-06-09,F
+Science,Nicholas,2016-06-09,M
+N.Y. / Region,Emma,2016-06-09,F
+N.Y. / Region,Winnie,2016-06-09,F
+U.S.,Adam,2016-06-09,M
+Arts,Alastair,2016-06-09,M
+World,Gardiner,2016-06-09,M
+Arts,Ben,2016-06-09,M
+Fashion & Style,Elizabeth,2016-06-09,F
+Arts,Nate,2016-06-09,M
+Arts,Jon,2016-06-09,M
+Movies,Stephen,2016-06-09,M
+Arts,Robin,2016-06-09,F
+U.S.,Amy,2016-06-09,F
+Movies,Ben,2016-06-09,M
+Arts,James,2016-06-09,M
+Arts,Brian,2016-06-09,M
+Fashion & Style,Alison,2016-06-09,F
+N.Y. / Region,Sarah,2016-06-09,F
+U.S.,Michael,2016-06-09,M
+Your Money,Ann,2016-06-09,F
+Business Day,Tatiana,2016-06-09,F
+U.S.,Katharine,2016-06-09,F
+World,Alissa,2016-06-09,F
+Technology,Kit,2016-06-09,M
+World,Isabel,2016-06-09,F
+World,Ian,2016-06-09,M
+World,Geeta,2016-06-09,F
+Theater,Joshua,2016-06-09,M
+Theater,Steven,2016-06-09,M
+U.S.,Katie,2016-06-09,F
+Fashion & Style,Matthew,2016-06-09,M
+Times Insider,Steven,2016-06-09,M
+Fashion & Style,Matthew,2016-06-09,M
+Business Day,Matthew,2016-06-09,M
+Books,Dwight,2016-06-09,M
+Fashion & Style,Jon,2016-06-09,M
+Theater,Ben,2016-06-09,M
+Sports,Scott,2016-06-09,M
+Business Day,Chad,2016-06-09,M
+U.S.,Anemona,2016-06-09,U
+World,Gaia,2016-06-09,F
+Science,Carl,2016-06-09,M
+Sports,Melissa,2016-06-09,F
+U.S.,Alexander,2016-06-09,M
+Business Day,John,2016-06-09,M
+World,Nick,2016-06-09,M
+World,Andrew,2016-06-09,M
+N.Y. / Region,Jesse,2016-06-09,M
+U.S.,Ashley,2016-06-09,F
+Arts,Nina,2016-06-09,F
+U.S.,David,2016-06-09,M
+Technology,Laura,2016-06-09,F
+Sports,Naila-jean,2016-06-09,U
+Science,Amy,2016-06-09,F
+Technology,Pui-wing,2016-06-09,U
+World,Raphael,2016-06-09,M
+Technology,J.,2016-06-09,U
+Opinion,Sylvain,2016-06-09,M
+Business Day,John,2016-06-09,M
+Business Day,Jonathan,2016-06-09,M
+U.S.,Jess,2016-06-09,M
+World,Kimberly,2016-06-09,F
+World,Jeffrey,2016-06-09,M
+N.Y. / Region,William,2016-06-09,M
+Technology,Farhad,2016-06-09,M
+Fashion & Style,Steven,2016-06-09,M
+N.Y. / Region,David,2016-06-09,M
+World,Jane,2016-06-09,F
+U.S.,Alexander,2016-06-09,M
+U.S.,Michael,2016-06-09,M
+World,Michelle,2016-06-09,F
+N.Y. / Region,Sarah,2016-06-09,F
+The Upshot,Peter,2016-06-09,M
+Business Day,Clifford,2016-06-10,M
+U.S.,Fernanda,2016-06-10,F
+U.S.,Nick,2016-06-10,M
+Business Day,Hiroko,2016-06-10,F
+Sports,Christopher,2016-06-10,M
+Technology,Vindu,2016-06-10,U
+Crosswords & Games,Deb,2016-06-10,F
+World,Nicholas,2016-06-10,M
+Fashion & Style,Adrienne,2016-06-10,F
+Arts,Neil,2016-06-10,M
+Opinion,Paul,2016-06-10,M
+U.S.,Natalia,2016-06-10,F
+Opinion,Marie,2016-06-10,F
+NYT Now,Andrea,2016-06-10,F
+Arts,Ben,2016-06-10,M
+Business Day,Julie,2016-06-10,F
+Books,Daniel,2016-06-10,M
+Times Insider,Jonathan,2016-06-10,M
+Universal,John,2016-06-10,M
+N.Y. / Region,Ginia,2016-06-10,F
+Books,Charles,2016-06-10,M
+Books,Denise,2016-06-10,F
+Books,Marilyn,2016-06-10,F
+Books,Matthew,2016-06-10,M
+Books,Jaimy,2016-06-10,F
+Books,Karl,2016-06-10,M
+Books,Elizabeth,2016-06-10,F
+Books,Dara,2016-06-10,F
+Books,Anthony,2016-06-10,M
+Books,Kevin,2016-06-10,M
+Books,Judith,2016-06-10,F
+Books,Stacy,2016-06-10,F
+Books,Annie,2016-06-10,F
+Books,Gary,2016-06-10,M
+Theater,Christopher,2016-06-10,M
+Books,Ian,2016-06-10,M
+Your Money,Constance,2016-06-10,F
+Sports,Richard,2016-06-10,M
+Travel,Freda,2016-06-10,F
+Business Day,Neal,2016-06-10,M
+Sports,Ben,2016-06-10,M
+The Upshot,Robert,2016-06-10,M
+Business Day,Chad,2016-06-10,M
+U.S.,Christopher,2016-06-10,M
+Your Money,Ron,2016-06-10,M
+Fashion & Style,Max,2016-06-10,M
+Travel,Diane,2016-06-10,F
+Travel,Andrew,2016-06-10,M
+Arts,Margaret,2016-06-10,F
+Food,Alec,2016-06-10,M
+Your Money,Paul,2016-06-10,M
+Your Money,Ann,2016-06-10,F
+Arts,Kathryn,2016-06-10,F
+Arts,Laurel,2016-06-10,F
+World,Natalia,2016-06-10,F
+T Magazine,Angela,2016-06-10,F
+Opinion,Jesse,2016-06-10,M
+Sports,Richard,2016-06-10,M
+Food,Sam,2016-06-10,M
+Business Day,Paul,2016-06-10,M
+World,International,2016-06-10,U
+T Magazine,Michael,2016-06-10,M
+N.Y. / Region,Yousur,2016-06-10,U
+Arts,Mary,2016-06-10,F
+Opinion,Patrick,2016-06-10,M
+Arts,Kathryn,2016-06-10,F
+Fashion & Style,Michael,2016-06-10,M
+Fashion & Style,Elizabeth,2016-06-10,F
+Fashion & Style,Pauls,2016-06-10,U
+Education,Michael,2016-06-10,M
+T Magazine,Lindsay,2016-06-10,F
+Opinion,Paul,2016-06-10,M
+World,International,2016-06-10,U
+Health,Emma,2016-06-10,F
+The Upshot,Nate,2016-06-10,M
+Blogs,Amie,2016-06-10,F
+Health,Toby,2016-06-10,M
+N.Y. / Region,Alexandra,2016-06-10,F
+NYT Now,Adeel,2016-06-10,M
+Health,Karen,2016-06-10,F
+Real Estate,Yousur,2016-06-10,U
+Education,Michael,2016-06-10,M
+Times Insider,Winnie,2016-06-10,F
+Sports,Dave,2016-06-10,M
+Opinion,Estelle,2016-06-10,F
+Opinion,David,2016-06-10,M
+Sports,Geeta,2016-06-10,F
+Education,Katherine,2016-06-10,F
+Sports,Sam,2016-06-10,M
+World,Andrea,2016-06-10,F
+Sports,Pat,2016-06-10,F
+Sports,Pat,2016-06-10,F
+Sports,Benjamin,2016-06-10,M
+U.S.,Yamiche,2016-06-10,U
+Arts,Laurel,2016-06-10,F
+Sports,Tom,2016-06-10,M
+Arts,Joshua,2016-06-10,M
+Theater,Ben,2016-06-10,M
+World,Nick,2016-06-10,M
+Sports,Ken,2016-06-10,M
+N.Y. / Region,Lisa,2016-06-10,F
+Business Day,Michael,2016-06-10,M
+U.S.,Michael,2016-06-10,M
+N.Y. / Region,Alan,2016-06-10,M
+U.S.,Jennifer,2016-06-10,F
+Sports,Seth,2016-06-10,M
+U.S.,Eric,2016-06-10,M
+Arts,Michael,2016-06-10,M
+World,Mark,2016-06-10,M
+U.S.,Matt,2016-06-10,M
+World,Declan,2016-06-10,M
+World,Dan,2016-06-10,M
+Arts,Robin,2016-06-10,F
+Arts,Eve,2016-06-10,F
+Theater,Michael,2016-06-10,M
+Arts,Randy,2016-06-10,M
+Arts,Roberta,2016-06-10,F
+U.S.,Alan,2016-06-10,M
+U.S.,Christine,2016-06-10,F
+Arts,Amy,2016-06-10,F
+Theater,Neil,2016-06-10,M
+U.S.,Jeremy,2016-06-10,M
+N.Y. / Region,Rick,2016-06-10,M
+Business Day,Michael,2016-06-10,M
+Business Day,Daniel,2016-06-10,M
+U.S.,Kirk,2016-06-10,M
+Business Day,Neal,2016-06-10,M
+Movies,Manohla,2016-06-10,U
+Theater,Erik,2016-06-10,M
+Arts,Ken,2016-06-10,M
+Arts,Robin,2016-06-10,F
+World,Zaheena,2016-06-10,U
+Arts,Randy,2016-06-10,M
+Movies,Ken,2016-06-10,M
+U.S.,Adam,2016-06-10,M
+U.S.,Michael,2016-06-10,M
+Movies,Andy,2016-06-10,M
+Movies,Helen,2016-06-10,F
+Arts,Gia,2016-06-10,F
+Movies,Jeannette,2016-06-10,F
+N.Y. / Region,Joe,2016-06-10,M
+Movies,Stephen,2016-06-10,M
+Movies,Daniel,2016-06-10,M
+Movies,A.,2016-06-10,U
+Movies,Andy,2016-06-10,M
+World,Christina,2016-06-10,F
+Movies,A.,2016-06-10,U
+Movies,A.,2016-06-10,U
+U.S.,Daniel,2016-06-10,M
+Movies,Ken,2016-06-10,M
+Arts,Holland,2016-06-10,GN
+Movies,Andy,2016-06-10,M
+Arts,Alastair,2016-06-10,M
+N.Y. / Region,Colin,2016-06-10,M
+U.S.,Jonah,2016-06-10,M
+Movies,Glenn,2016-06-10,M
+Arts,Stephen,2016-06-10,M
+Books,A.,2016-06-10,U
+Movies,Manohla,2016-06-10,U
+Business Day,Elinor,2016-06-10,F
+World,Jeffrey,2016-06-10,M
+Health,Donald,2016-06-10,M
+Sports,Marc,2016-06-10,M
+U.S.,Karen,2016-06-10,F
+U.S.,Sheryl,2016-06-10,F
+U.S.,Adam,2016-06-10,M
+Business Day,Emily,2016-06-10,F
+World,Stephen,2016-06-10,M
+World,Somini,2016-06-10,U
+Sports,Joe,2016-06-10,M
+Movies,Mekado,2016-06-10,U
+Sports,Karen,2016-06-10,F
+Business Day,James,2016-06-10,M
+Science,Henry,2016-06-10,M
+U.S.,Julie,2016-06-10,F
+Sports,Naila-jean,2016-06-10,U
+Business Day,Kevin,2016-06-10,M
+Sports,Victor,2016-06-10,M
+World,Ayesha,2016-06-10,F
+N.Y. / Region,Benjamin,2016-06-10,M
+Books,Christopher,2016-06-10,M
+Business Day,Jack,2016-06-10,M
+N.Y. / Region,Michael,2016-06-10,M
+Business Day,Steven,2016-06-10,M
+Automobiles,Nick,2016-06-10,M
+Arts,Michael,2016-06-10,M
+Business Day,Daniel,2016-06-10,M
+U.S.,Robert,2016-06-10,M
+Theater,Dave,2016-06-10,M
+Arts,Stephen,2016-06-10,M
+World,Alan,2016-06-10,M
+Technology,Mark,2016-06-10,M
+T Magazine,Merrell,2016-06-10,M
+Opinion,Shmuel,2016-06-10,M
+U.S.,Liam,2016-06-10,M
+World,Thomas,2016-06-10,M
+Technology,J.,2016-06-10,U
+Technology,Pui-wing,2016-06-10,U
+U.S.,Jennifer,2016-06-10,F
+Sports,Rob,2016-06-10,M
+Sports,Rob,2016-06-10,M
+World,Isabel,2016-06-10,F
+Sports,Rob,2016-06-10,M
+Sports,Rob,2016-06-10,M
+Sports,Benjamin,2016-06-10,M
+Sports,Christopher,2016-06-10,M
+Sports,Christopher,2016-06-10,M
+Sports,Michael,2016-06-10,M
+Automobiles,Tom,2016-06-10,M
+Opinion,Beppe,2016-06-10,U
+Real Estate,Laura,2016-06-10,F
+Real Estate,Diane,2016-06-10,F
+World,Sewell,2016-06-10,M
+U.S.,Daniel,2016-06-10,M
+World,Amy,2016-06-10,F
+The Upshot,Nate,2016-06-10,M
+The Upshot,Nate,2016-06-10,M
+The Upshot,Nate,2016-06-10,M
+U.S.,Alan,2016-06-10,M
+World,Jonathan,2016-06-10,M
+U.S.,Jennifer,2016-06-10,F
+World,Azam,2016-06-10,M
+Sports,Sam,2016-06-10,M
+U.S.,Nicholas,2016-06-10,M
+World,Dan,2016-06-10,M
+Business Day,Chad,2016-06-10,M
+Sports,Emma,2016-06-10,F
+World,Shaojie,2016-06-10,U
+Sports,Lindsay,2016-06-10,F
+Opinion,Amy,2016-06-10,F
+World,Adam,2016-06-11,M
+U.S.,Adam,2016-06-11,M
+U.S.,Ainara,2016-06-11,F
+World,Julfikar,2016-06-11,U
+World,Choe,2016-06-11,U
+Sports,Joe,2016-06-11,M
+World,Didi,2016-06-11,F
+Arts,Angelica,2016-06-11,F
+Sports,Dave,2016-06-11,M
+Sports,Melissa,2016-06-11,F
+Sports,Gerald,2016-06-11,M
+World,Kareem,2016-06-11,M
+Sports,Thomas,2016-06-11,M
+Sports,Richard,2016-06-11,M
+Sports,Benjamin,2016-06-11,M
+Sports,Bill,2016-06-11,M
+U.S.,Julia,2016-06-11,F
+Opinion,Richard,2016-06-11,M
+Opinion,Frank,2016-06-11,M
+Opinion,Muhammad,2016-06-11,M
+Sports,Tyler,2016-06-11,M
+Crosswords & Games,Deb,2016-06-11,F
+Sports,Sam,2016-06-11,M
+Arts,Jon,2016-06-11,M
+N.Y. / Region,Sam,2016-06-11,M
+U.S.,Ashley,2016-06-11,F
+World,Keith,2016-06-11,M
+Technology,Glenn,2016-06-11,M
+World,Ellen,2016-06-11,F
+Crosswords & Games,Deb,2016-06-11,F
+U.S.,Lizette,2016-06-11,F
+Opinion,Andrew,2016-06-11,M
+U.S.,Julie,2016-06-11,F
+Fashion & Style,Alessandra,2016-06-11,F
+Fashion & Style,Ruth,2016-06-11,F
+Style,Leah,2016-06-11,F
+Fashion & Style,Teddy,2016-06-11,M
+Crosswords & Games,Deb,2016-06-11,F
+Technology,Nicole,2016-06-11,F
+Travel,Shivani,2016-06-11,F
+NYT Now,Lela,2016-06-11,F
+Arts,Margalit,2016-06-11,F
+U.S.,Julie,2016-06-11,F
+Sports,Dave,2016-06-11,M
+Sports,Dave,2016-06-11,M
+Sports,Dave,2016-06-11,M
+Sports,William,2016-06-11,M
+Sports,George,2016-06-11,M
+Sports,Melissa,2016-06-11,F
+Sports,Dave,2016-06-11,M
+Books,William,2016-06-11,M
+Sports,Dave,2016-06-11,M
+Sports,Dave,2016-06-11,M
+Sports,Robert,2016-06-11,M
+Sports,Robert,2016-06-11,M
+Arts,Kathryn,2016-06-11,F
+N.Y. / Region,William,2016-06-11,M
+Sports,Robert,2016-06-11,M
+Business Day,Katie,2016-06-11,F
+Business Day,John,2016-06-11,M
+Sports,Pat,2016-06-11,F
+N.Y. / Region,Ashley,2016-06-11,F
+Sports,Scott,2016-06-11,M
+Sports,Neal,2016-06-11,M
+N.Y. / Region,Samantha,2016-06-11,F
+U.S.,Nick,2016-06-11,M
+N.Y. / Region,Eli,2016-06-11,M
+Sports,Pat,2016-06-11,F
+U.S.,Alan,2016-06-11,M
+Opinion,Doug,2016-06-11,M
+N.Y. / Region,J.,2016-06-11,U
+Theater,Ken,2016-06-11,M
+Opinion,Jason,2016-06-11,M
+Sports,Zach,2016-06-11,M
+N.Y. / Region,David,2016-06-11,M
+Opinion,Tammy,2016-06-11,F
+Opinion,Jennifer,2016-06-11,F
+Sports,Jim,2016-06-11,M
+Sports,Ken,2016-06-11,M
+U.S.,Yamiche,2016-06-11,U
+Sports,Scott,2016-06-11,M
+U.S.,Alan,2016-06-11,M
+World,Miroslava,2016-06-11,F
+Sports,Chris,2016-06-11,M
+N.Y. / Region,Christine,2016-06-11,F
+Arts,Siobhan,2016-06-11,F
+World,Sewell,2016-06-11,M
+U.S.,Anemona,2016-06-11,U
+U.S.,Carol,2016-06-11,F
+Theater,Laura,2016-06-11,F
+Arts,Roberta,2016-06-11,F
+Sports,Sam,2016-06-11,M
+Arts,Jon,2016-06-11,M
+Movies,Robert,2016-06-11,M
+World,Matthew,2016-06-11,M
+Arts,Alastair,2016-06-11,M
+Arts,Roslyn,2016-06-11,F
+Arts,Zachary,2016-06-11,M
+Arts,Amanda,2016-06-11,F
+Sports,Naila-jean,2016-06-11,U
+U.S.,Mark,2016-06-11,M
+Health,Christine,2016-06-11,F
+World,Andrew,2016-06-11,M
+World,Henrik,2016-06-11,M
+U.S.,Daniel,2016-06-11,M
+Health,Sabrina,2016-06-11,F
+U.S.,Helene,2016-06-11,F
+World,Hari,2016-06-11,M
+U.S.,Christine,2016-06-11,F
+World,Melissa,2016-06-11,F
+Books,Alexandra,2016-06-11,F
+Sports,Ken,2016-06-11,M
+Theater,Ben,2016-06-11,M
+Business Day,Jennifer,2016-06-11,F
+Business Day,Sydney,2016-06-11,F
+Arts,Joshua,2016-06-11,M
+Science,Henry,2016-06-11,M
+U.S.,Daniel,2016-06-11,M
+Sports,George,2016-06-11,M
+World,Hwaida,2016-06-11,U
+N.Y. / Region,Winnie,2016-06-11,F
+World,Julfikar,2016-06-11,U
+Arts,Christopher,2016-06-11,M
+World,Neil,2016-06-11,M
+Technology,J.,2016-06-11,U
+Technology,Pui-wing,2016-06-11,U
+U.S.,Alan,2016-06-11,M
+U.S.,Maggie,2016-06-11,F
+U.S.,Katie,2016-06-11,F
+Sports,Brad,2016-06-11,M
+U.S.,Maggie,2016-06-11,F
+Business Day,Stanley,2016-06-11,M
+U.S.,Carl,2016-06-11,M
+Sports,Rob,2016-06-11,M
+Arts,Amy,2016-06-11,F
+Opinion,Roger,2016-06-11,M
+U.S.,Ashley,2016-06-11,F
+World,Sewell,2016-06-11,M
+Health,Mike,2016-06-11,M
+U.S.,Michael,2016-06-11,M
+U.S.,Alexander,2016-06-11,M
+World,Rick,2016-06-11,M
+Opinion,Timothy,2016-06-11,M
+U.S.,Richard,2016-06-11,M
+Arts,Jeremy,2016-06-12,M
+Technology,Nicole,2016-06-12,F
+World,Ian,2016-06-12,M
+U.S.,Turner,2016-06-12,M
+Arts,Scott,2016-06-12,M
+U.S.,C.,2016-06-12,U
+U.S.,Sheryl,2016-06-12,F
+Opinion,Andrew,2016-06-12,M
+N.Y. / Region,Lou,2016-06-12,F
+Opinion,Frank,2016-06-12,M
+Crosswords & Games,Deb,2016-06-12,F
+Opinion,Mike,2016-06-12,M
+U.S.,Gregor,2016-06-12,M
+U.S.,Yousur,2016-06-12,U
+Opinion,Paul,2016-06-12,M
+Opinion,Paul,2016-06-12,M
+World,International,2016-06-12,U
+Food,Sam,2016-06-12,M
+World,International,2016-06-12,U
+Food,Sara,2016-06-12,F
+Health,Nicholas,2016-06-12,M
+NYT Now,Karen,2016-06-12,F
+Sports,Zach,2016-06-12,M
+Sports,Andrew,2016-06-12,M
+Arts,Kathryn,2016-06-12,F
+Sports,Pat,2016-06-12,F
+Fashion & Style,Jaclyn,2016-06-12,F
+Sports,David,2016-06-12,M
+Opinion,Brian,2016-06-12,M
+Opinion,Judy,2016-06-12,F
+Opinion,Justin,2016-06-12,M
+Opinion,Nicholas,2016-06-12,M
+Opinion,Maureen,2016-06-12,F
+Opinion,Jeremy,2016-06-12,M
+U.S.,Alison,2016-06-12,F
+U.S.,Liam,2016-06-12,M
+Arts,Jon,2016-06-12,M
+Arts,Gia,2016-06-12,F
+Arts,Vivien,2016-06-12,F
+World,Choe,2016-06-12,U
+World,Javier,2016-06-12,M
+Arts,Holland,2016-06-12,GN
+Arts,Neil,2016-06-12,M
+U.S.,Anemona,2016-06-12,U
+World,Kimiko,2016-06-12,F
+Technology,Conor,2016-06-12,M
+Your Money,Jeff,2016-06-12,M
+Real Estate,Ronda,2016-06-12,F
+Technology,Farhad,2016-06-12,M
+N.Y. / Region,Russ,2016-06-12,M
+N.Y. / Region,Jim,2016-06-12,M
+N.Y. / Region,Clay,2016-06-12,M
+N.Y. / Region,George,2016-06-12,M
+N.Y. / Region,Emily,2016-06-12,F
+N.Y. / Region,Bill,2016-06-12,M
+N.Y. / Region,Sam,2016-06-12,M
+N.Y. / Region,Dave,2016-06-12,M
+Opinion,Ashley,2016-06-12,F
+N.Y. / Region,Aileen,2016-06-12,F
+N.Y. / Region,Michael,2016-06-12,M
+N.Y. / Region,Sylviane,2016-06-12,U
+N.Y. / Region,Marissa,2016-06-12,F
+N.Y. / Region,Sarah,2016-06-12,F
+N.Y. / Region,Joanne,2016-06-12,F
+N.Y. / Region,Alice,2016-06-12,F
+Opinion,Adam,2016-06-12,M
+Arts,Philip,2016-06-12,M
+Real Estate,Joanne,2016-06-12,F
+Real Estate,Michelle,2016-06-12,F
+Real Estate,Michelle,2016-06-12,F
+T Magazine,Deborah,2016-06-12,F
+Real Estate,Vivian,2016-06-12,F
+Opinion,Peter,2016-06-12,M
+Real Estate,Vivian,2016-06-12,F
+N.Y. / Region,Clay,2016-06-12,M
+Business Day,Gretchen,2016-06-12,F
+Books,John,2016-06-12,M
+Books,Joumana,2016-06-12,U
+Arts,Alan,2016-06-12,M
+Real Estate,Alyson,2016-06-12,F
+Opinion,Judith,2016-06-12,F
+Job Market,Rob,2016-06-12,M
+Magazine,Sara,2016-06-12,F
+Magazine,Malia,2016-06-12,F
+Business Day,Adam,2016-06-12,M
+Magazine,John,2016-06-12,M
+N.Y. / Region,Winnie,2016-06-12,F
+Magazine,Robert,2016-06-12,M
+Arts,Joe,2016-06-12,M
+Arts,Rebecca,2016-06-12,F
+Movies,Marc,2016-06-12,M
+Movies,Andy,2016-06-12,M
+Movies,J.,2016-06-12,U
+Theater,Alexis,2016-06-12,F
+Fashion & Style,Katie,2016-06-12,F
+Magazine,Ana,2016-06-12,F
+Magazine,Rosie,2016-06-12,F
+Real Estate,Joyce,2016-06-12,F
+Theater,Charles,2016-06-12,M
+Movies,Mekado,2016-06-12,U
+Real Estate,Roxana,2016-06-12,F
+Real Estate,Mike,2016-06-12,M
+Magazine,Rumaan,2016-06-12,U
+Magazine,Kwame,2016-06-12,M
+Magazine,Photographs,2016-06-12,U
+Real Estate,Ronda,2016-06-12,F
+Theater,Michael,2016-06-12,M
+Arts,Kathryn,2016-06-12,F
+Magazine,Adam,2016-06-12,M
+Magazine,Emily,2016-06-12,F
+Books,Gregory,2016-06-12,M
+N.Y. / Region,Kathryn,2016-06-13,F
+Crosswords & Games,Deb,2016-06-13,F
+Technology,Katie,2016-06-13,F
+U.S.,Wilson,2016-06-13,M
+Books,Alexandra,2016-06-13,F
+U.S.,Michael,2016-06-13,M
+Food,Jeff,2016-06-13,M
+U.S.,Edward,2016-06-13,M
+NYT Now,Andrea,2016-06-13,F
+World,Natalia,2016-06-13,F
+Arts,Genevieve,2016-06-13,F
+Arts,Ainara,2016-06-13,F
+Health,Brian,2016-06-13,M
+T Magazine,Hattie,2016-06-13,F
+Sports,Harvey,2016-06-13,M
+Opinion,Bilal,2016-06-13,M
+T Magazine,Osman,2016-06-13,M
+Arts,Margaret,2016-06-13,F
+U.S.,Shane,2016-06-13,M
+Crosswords & Games,Gary,2016-06-13,M
+World,International,2016-06-13,U
+Times Insider,Mark,2016-06-13,M
+Food,Sam,2016-06-13,M
+Opinion,Vikas,2016-06-13,M
+World,International,2016-06-13,U
+Travel,Nell,2016-06-13,F
+Opinion,Jim,2016-06-13,M
+Books,Dayna,2016-06-13,F
+Education,Katherine,2016-06-13,F
+Magazine,Luke,2016-06-13,M
+Blogs,Amie,2016-06-13,F
+Health,Perri,2016-06-13,F
+Science,James,2016-06-13,M
+Science,Manjula,2016-06-13,U
+N.Y. / Region,Jonathan,2016-06-13,M
+NYT Now,Adeel,2016-06-13,M
+Health,Jane,2016-06-13,F
+Fashion & Style,Dana,2016-06-13,F
+Opinion,Se-woong,2016-06-13,U
+Opinion,Paul,2016-06-13,M
+Opinion,Mckay,2016-06-13,M
+N.Y. / Region,Sarah,2016-06-13,F
+Education,Katherine,2016-06-13,F
+Multimedia/Photos,Jonathan,2016-06-13,M
+U.S.,Turner,2016-06-13,M
+Sports,Karen,2016-06-13,F
+U.S.,Nicole,2016-06-13,F
+Arts,Kathryn,2016-06-13,F
+Business Day,Jim,2016-06-13,M
+Arts,Mike,2016-06-13,M
+Sports,David,2016-06-13,M
+Business Day,Reed,2016-06-13,M
+Sports,Joseph,2016-06-13,M
+N.Y. / Region,Rick,2016-06-13,M
+Sports,Tyler,2016-06-13,M
+U.S.,Alan,2016-06-13,M
+Business Day,Michael,2016-06-13,M
+U.S.,Rukmini,2016-06-13,F
+Sports,William,2016-06-13,M
+N.Y. / Region,Noah,2016-06-13,M
+Sports,Billy,2016-06-13,M
+N.Y. / Region,Kate,2016-06-13,F
+Sports,Sam,2016-06-13,M
+World,Steven,2016-06-13,M
+Opinion,Daniel,2016-06-13,M
+Business Day,Sydney,2016-06-13,F
+Sports,Scott,2016-06-13,M
+Theater,Zach,2016-06-13,M
+U.S.,Julie,2016-06-13,F
+Business Day,Pat,2016-06-13,F
+N.Y. / Region,Jesse,2016-06-13,M
+World,Christopher,2016-06-13,M
+U.S.,Thomas,2016-06-13,M
+Business Day,Alexandra,2016-06-13,F
+N.Y. / Region,Michael,2016-06-13,M
+U.S.,Yamiche,2016-06-13,U
+Sports,Wayne,2016-06-13,M
+Sports,Pat,2016-06-13,F
+Sports,Joe,2016-06-13,M
+Arts,Anthony,2016-06-13,M
+Business Day,Ciara,2016-06-13,F
+Arts,Vivien,2016-06-13,F
+Arts,James,2016-06-13,M
+World,Alisa,2016-06-13,F
+Books,Jennifer,2016-06-13,F
+U.S.,Marc,2016-06-13,M
+Arts,Brian,2016-06-13,M
+Arts,Shaun,2016-06-13,M
+Movies,Brooks,2016-06-13,M
+U.S.,Michael,2016-06-13,M
+Theater,Michael,2016-06-13,M
+Sports,Pat,2016-06-13,F
+U.S.,Jonathan,2016-06-13,M
+Sports,Scott,2016-06-13,M
+Arts,Doreen,2016-06-13,F
+Technology,Cecilia,2016-06-13,F
+U.S.,Albert,2016-06-13,M
+N.Y. / Region,David,2016-06-13,M
+Sports,Jeff,2016-06-13,M
+Sports,Jeff,2016-06-13,M
+World,Keith,2016-06-13,M
+Sports,Rob,2016-06-13,M
+U.S.,Amy,2016-06-13,F
+U.S.,Lizette,2016-06-13,F
+Arts,Gia,2016-06-13,F
+Theater,Ben,2016-06-13,M
+Times Insider,Christine,2016-06-14,F
+T Magazine,Kevin,2016-06-14,M
+Opinion,Blake,2016-06-14,M
+Books,Sam,2016-06-14,M
+U.S.,Shane,2016-06-14,M
+U.S.,Lizette,2016-06-14,F
+Crosswords & Games,Deb,2016-06-14,F
+Universal,Jonah,2016-06-14,M
+T Magazine,Hettie,2016-06-14,F
+N.Y. / Region,Jennifer,2016-06-14,F
+Science,Jada,2016-06-14,F
+U.S.,Yousur,2016-06-14,U
+Health,Nicholas,2016-06-14,M
+U.S.,Jackie,2016-06-14,GN
+T Magazine,Wendy,2016-06-14,F
+NYT Now,Karen,2016-06-14,F
+N.Y. / Region,Kristin,2016-06-14,F
+U.S.,David,2016-06-14,M
+Sports,Natalia,2016-06-14,F
+Food,Jonah,2016-06-14,M
+T Magazine,Hettie,2016-06-14,F
+Arts,James,2016-06-14,M
+U.S.,Alicia,2016-06-14,F
+Real Estate,Lisa,2016-06-14,F
+Education,Katherine,2016-06-14,F
+Fashion & Style,Brooks,2016-06-14,M
+U.S.,Carl,2016-06-14,M
+U.S.,David,2016-06-14,M
+U.S.,House,2016-06-14,U
+Books,Penelope,2016-06-14,F
+Books,Walter,2016-06-14,M
+U.S.,Cbs,2016-06-14,U
+U.S.,Orlando,2016-06-14,M
+U.S.,Rachel,2016-06-14,F
+Health,Roni,2016-06-14,F
+Food,Jonah,2016-06-14,M
+T Magazine,Kari,2016-06-14,F
+T Magazine,Mimi,2016-06-14,F
+Times Insider,Nikole,2016-06-14,F
+Times Insider,Charles,2016-06-14,M
+Fashion & Style,Elizabeth,2016-06-14,F
+Opinion,Patrick,2016-06-14,M
+World,Alissa,2016-06-14,F
+U.S.,Dan,2016-06-14,M
+Magazine,Jacob,2016-06-14,M
+Magazine,Jay,2016-06-14,M
+World,International,2016-06-14,U
+Health,Michele,2016-06-14,F
+Travel,Justin,2016-06-14,M
+Business Day,David,2016-06-14,M
+U.S.,Yamiche,2016-06-14,U
+World,Max,2016-06-14,M
+Arts,Michael,2016-06-14,M
+World,International,2016-06-14,U
+U.S.,Leslye,2016-06-14,F
+Blogs,Amie,2016-06-14,F
+N.Y. / Region,Jonathan,2016-06-14,M
+NYT Now,Adeel,2016-06-14,M
+Education,Michael,2016-06-14,M
+Opinion,Tina,2016-06-14,F
+Opinion,Emma,2016-06-14,F
+Opinion,David,2016-06-14,M
+Opinion,Masha,2016-06-14,F
+Multimedia/Photos,Clarence,2016-06-14,M
+Arts,Daniel,2016-06-14,M
+Arts,William,2016-06-14,M
+U.S.,Bruce,2016-06-14,M
+Arts,Kathryn,2016-06-14,F
+Sports,Melissa,2016-06-14,F
+U.S.,Jess,2016-06-14,M
+N.Y. / Region,Jesse,2016-06-14,M
+Sports,John,2016-06-14,M
+N.Y. / Region,Noah,2016-06-14,M
+Food,Julia,2016-06-14,F
+N.Y. / Region,David,2016-06-14,M
+Sports,Karen,2016-06-14,F
+N.Y. / Region,Joseph,2016-06-14,M
+Arts,Andrew,2016-06-14,M
+Theater,Ben,2016-06-14,M
+N.Y. / Region,Kate,2016-06-14,F
+U.S.,Lizette,2016-06-14,F
+U.S.,Timothy,2016-06-14,M
+Sports,David,2016-06-14,M
+N.Y. / Region,Sarah,2016-06-14,F
+Sports,Tyler,2016-06-14,M
+U.S.,Patrick,2016-06-14,M
+World,Alissa,2016-06-14,F
+Sports,Billy,2016-06-14,M
+Business Day,Andrew,2016-06-14,M
+Business Day,Michael,2016-06-14,M
+Opinion,Adam,2016-06-14,M
+U.S.,Ben,2016-06-14,M
+Business Day,Rachel,2016-06-14,F
+U.S.,Jack,2016-06-14,M
+Technology,Mike,2016-06-14,M
+Business Day,Michael,2016-06-14,M
+Health,Donald,2016-06-14,M
+Technology,Vindu,2016-06-14,U
+Arts,Jeremy,2016-06-14,M
+Arts,Ben,2016-06-14,M
+Books,Michiko,2016-06-14,F
+Science,Natalie,2016-06-14,F
+World,Jim,2016-06-14,M
+Sports,Tyler,2016-06-14,M
+Arts,James,2016-06-14,M
+World,Jeffrey,2016-06-14,M
+U.S.,Michael,2016-06-14,M
+T Magazine,Gabe,2016-06-14,M
+Arts,Neil,2016-06-14,M
+Arts,James,2016-06-14,M
+Sports,Sam,2016-06-14,M
+Arts,Mike,2016-06-14,M
+Theater,Michael,2016-06-14,M
+Business Day,Liz,2016-06-14,F
+Sports,Sam,2016-06-14,M
+U.S.,Eric,2016-06-14,M
+U.S.,David,2016-06-14,M
+Business Day,Robert,2016-06-14,M
+Business Day,Peter,2016-06-14,M
+Science,C.,2016-06-14,U
+Business Day,Liz,2016-06-14,F
+Science,Claudia,2016-06-14,F
+Science,Nicholas,2016-06-14,M
+Business Day,Chad,2016-06-14,M
+Science,Nicholas,2016-06-14,M
+Arts,Randy,2016-06-14,M
+Arts,Ben,2016-06-14,M
+World,Dan,2016-06-14,M
+U.S.,Nick,2016-06-14,M
+Theater,John,2016-06-14,M
+Business Day,Matt,2016-06-14,M
+The Upshot,Kevin,2016-06-14,M
+Technology,Brian,2016-06-14,M
+World,Steven,2016-06-14,M
+Arts,Nazanin,2016-06-14,F
+Technology,Pui-wing,2016-06-14,U
+U.S.,Julie,2016-06-14,F
+Business Day,Carl,2016-06-14,M
+U.S.,Liam,2016-06-14,M
+U.S.,Jonathan,2016-06-14,M
+World,Javier,2016-06-14,M
+World,Celestine,2016-06-14,F
+Business Day,Adam,2016-06-14,M
+Movies,Dave,2016-06-14,M
+Business Day,Michael,2016-06-14,M
+U.S.,Adam,2016-06-14,M
+Opinion,Uki,2016-06-14,U
+Technology,J.,2016-06-14,U
+World,Ismail,2016-06-14,M
+Sports,Victor,2016-06-14,M
+Arts,Michael,2016-06-14,M
+World,Elisabeth,2016-06-14,F
+U.S.,Jada,2016-06-14,F
+N.Y. / Region,Rick,2016-06-14,M
+U.S.,Christopher,2016-06-14,M
+Sports,Ryan,2016-06-14,M
+Sports,Ryan,2016-06-14,M
+Business Day,Nick,2016-06-14,M
+World,Chris,2016-06-14,M
+World,Dan,2016-06-14,M
+The Upshot,Austin,2016-06-14,M
+U.S.,Maggie,2016-06-14,F
+Sports,Brad,2016-06-14,M
+Arts,Scott,2016-06-14,M
+Science,Erica,2016-06-14,F
+Opinion,Roger,2016-06-14,M
+U.S.,Jack,2016-06-14,M
+World,Sewell,2016-06-14,M
+U.S.,Carl,2016-06-14,M
+N.Y. / Region,Corey,2016-06-14,M
+The Upshot,Binyamin,2016-06-14,M
+U.S.,Lizette,2016-06-14,F
+World,Chris,2016-06-14,M
+U.S.,Nick,2016-06-14,M
+Health,Jan,2016-06-14,F
+Technology,Natalia,2016-06-14,F
+Times Insider,Insider,2016-06-15,U
+Fashion & Style,Guy,2016-06-15,M
+Movies,Roslyn,2016-06-15,F
+Movies,Jennifer,2016-06-15,F
+Crosswords & Games,Deb,2016-06-15,F
+U.S.,Jackie,2016-06-15,GN
+Science,Dennis,2016-06-15,M
+N.Y. / Region,James,2016-06-15,M
+Business Day,Jennifer,2016-06-15,F
+The Upshot,Reed,2016-06-15,M
+Sports,Rebecca,2016-06-15,F
+Arts,Joe,2016-06-15,M
+NYT Now,Andrea,2016-06-15,F
+Opinion,Elizabeth,2016-06-15,F
+T Magazine,Aimee,2016-06-15,F
+Fashion & Style,Erica,2016-06-15,F
+Technology,Kit,2016-06-15,M
+U.S.,Les,2016-06-15,M
+Sports,Richard,2016-06-15,M
+Science,Dennis,2016-06-15,M
+Opinion,Andrew,2016-06-15,M
+Books,Randi,2016-06-15,F
+Times Insider,Susan,2016-06-15,F
+N.Y. / Region,Gloria,2016-06-15,F
+Opinion,Andrew,2016-06-15,M
+World,Alissa,2016-06-15,F
+Magazine,Nikole,2016-06-15,F
+T Magazine,Alexandria,2016-06-15,F
+World,International,2016-06-15,U
+Times Insider,Bruce,2016-06-15,M
+U.S.,Leslye,2016-06-15,F
+Food,Shaw,2016-06-15,M
+Travel,Shivani,2016-06-15,F
+T Magazine,Aimee,2016-06-15,F
+Real Estate,Lisa,2016-06-15,F
+T Magazine,Alice,2016-06-15,F
+Opinion,Cassidy,2016-06-15,F
+Health,Nicholas,2016-06-15,M
+World,International,2016-06-15,U
+Food,Sam,2016-06-15,M
+Magazine,Joe,2016-06-15,M
+Magazine,Kwame,2016-06-15,M
+Magazine,Interview,2016-06-15,U
+Magazine,John,2016-06-15,M
+Food,Shaw,2016-06-15,M
+World,International,2016-06-15,U
+Food,Shaw,2016-06-15,M
+Books,Maria,2016-06-15,F
+Opinion,Paul,2016-06-15,M
+Travel,Elaine,2016-06-15,F
+Travel,Elaine,2016-06-15,F
+Travel,Lucas,2016-06-15,M
+Travel,Mekado,2016-06-15,U
+Books,Thomas,2016-06-15,M
+Books,Heidi,2016-06-15,F
+Real Estate,Alison,2016-06-15,F
+Fashion & Style,Guy,2016-06-15,M
+Health,Anahad,2016-06-15,U
+Sports,James,2016-06-15,M
+Blogs,Amie,2016-06-15,F
+N.Y. / Region,Jonathan,2016-06-15,M
+N.Y. / Region,Liz,2016-06-15,F
+N.Y. / Region,Manjula,2016-06-15,U
+Health,Lisa,2016-06-15,F
+NYT Now,Adeel,2016-06-15,M
+Health,Gretchen,2016-06-15,F
+Education,Michael,2016-06-15,M
+Opinion,Valerie,2016-06-15,F
+Opinion,Andrew,2016-06-15,M
+Opinion,Thomas,2016-06-15,M
+Multimedia/Photos,David,2016-06-15,M
+Education,Katherine,2016-06-15,F
+U.S.,Sam,2016-06-15,M
+Arts,William,2016-06-15,M
+U.S.,Jennifer,2016-06-15,F
+Arts,Kathryn,2016-06-15,F
+U.S.,Lizette,2016-06-15,F
+World,Somini,2016-06-15,U
+Sports,Billy,2016-06-15,M
+Business Day,Jim,2016-06-15,M
+Health,Denise,2016-06-15,F
+U.S.,Frances,2016-06-15,F
+Sports,Seth,2016-06-15,M
+Sports,Billy,2016-06-15,M
+U.S.,Nick,2016-06-15,M
+N.Y. / Region,Emma,2016-06-15,F
+N.Y. / Region,Jesse,2016-06-15,M
+N.Y. / Region,Alan,2016-06-15,M
+World,Alan,2016-06-15,M
+N.Y. / Region,Jim,2016-06-15,M
+Sports,Tyler,2016-06-15,M
+Business Day,Sydney,2016-06-15,F
+U.S.,David,2016-06-15,M
+Sports,Neal,2016-06-15,M
+N.Y. / Region,Sam,2016-06-15,M
+Business Day,Matthew,2016-06-15,M
+Sports,Bill,2016-06-15,M
+U.S.,Christopher,2016-06-15,M
+Health,Donald,2016-06-15,M
+World,Rick,2016-06-15,M
+Business Day,Neil,2016-06-15,M
+Business Day,Ben,2016-06-15,M
+N.Y. / Region,Rick,2016-06-15,M
+Business Day,Michael,2016-06-15,M
+Business Day,Steven,2016-06-15,M
+Business Day,Leslie,2016-06-15,F
+U.S.,Colin,2016-06-15,M
+Arts,Jon,2016-06-15,M
+Arts,Gia,2016-06-15,F
+Arts,Jennifer,2016-06-15,F
+World,Megan,2016-06-15,F
+Books,Dwight,2016-06-15,M
+Opinion,Peter,2016-06-15,M
+Real Estate,Rosalie,2016-06-15,F
+Travel,Shivani,2016-06-15,F
+World,Nick,2016-06-15,M
+Business Day,Reed,2016-06-15,M
+Opinion,Frank,2016-06-15,M
+Sports,John,2016-06-15,M
+Food,Jeff,2016-06-15,M
+Business Day,Eduardo,2016-06-15,M
+N.Y. / Region,Noah,2016-06-15,M
+Arts,Michael,2016-06-15,M
+U.S.,Matt,2016-06-15,M
+U.S.,Patrick,2016-06-15,M
+N.Y. / Region,David,2016-06-15,M
+Food,Florence,2016-06-15,F
+Business Day,John,2016-06-15,M
+Food,Chris,2016-06-15,M
+Business Day,Gina,2016-06-15,F
+U.S.,Julie,2016-06-15,F
+World,Michelle,2016-06-15,F
+Food,Pete,2016-06-15,M
+Arts,Joe,2016-06-15,M
+Books,Alexandra,2016-06-15,F
+Sports,Michael,2016-06-15,M
+Food,Jeff,2016-06-15,M
+U.S.,Jeremy,2016-06-15,M
+World,Dan,2016-06-15,M
+Technology,Cecilia,2016-06-15,F
+World,Steven,2016-06-15,M
+Sports,Scott,2016-06-15,M
+World,Sewell,2016-06-15,M
+World,Andrew,2016-06-15,M
+U.S.,Liam,2016-06-15,M
+Technology,J.,2016-06-15,U
+World,Jacey,2016-06-15,F
+Technology,Quentin,2016-06-15,M
+Arts,Dave,2016-06-15,M
+Technology,Mike,2016-06-15,M
+World,Michelle,2016-06-15,F
+U.S.,Sheryl,2016-06-15,F
+U.S.,Maggie,2016-06-15,F
+Arts,Roslyn,2016-06-15,F
+Sports,Sam,2016-06-15,M
+Sports,Benjamin,2016-06-15,M
+World,Michael,2016-06-15,M
+Sports,Rob,2016-06-15,M
+U.S.,Maggie,2016-06-15,F
+Opinion,Kenan,2016-06-15,M
+U.S.,Carl,2016-06-15,M
+Business Day,Paul,2016-06-15,M
+World,Floyd,2016-06-15,M
+Science,Joanna,2016-06-15,F
+World,Somini,2016-06-15,U
+The Upshot,Nate,2016-06-15,M
+World,Austin,2016-06-15,M
+Opinion,Douglas,2016-06-15,M
+Arts,Roslyn,2016-06-15,F
+U.S.,Alan,2016-06-15,M
+Food,Florence,2016-06-15,F
+Food,Florence,2016-06-15,F
+Food,Florence,2016-06-15,F
+Food,Florence,2016-06-15,F
+Food,Florence,2016-06-15,F
+Food,Florence,2016-06-15,F
+Food,Julia,2016-06-15,F
+Food,David,2016-06-15,M
+Food,Melissa,2016-06-15,F
+Food,Jeff,2016-06-15,M
+Food,Ligaya,2016-06-15,F
+Theater,Laura,2016-06-15,F
+T Magazine,Laura,2016-06-16,F
+T Magazine,Aimee,2016-06-16,F
+Crosswords & Games,Deb,2016-06-16,F
+U.S.,Michael,2016-06-16,M
+Business Day,Annalyn,2016-06-16,F
+Books,John,2016-06-16,M
+Fashion & Style,Katie,2016-06-16,F
+Movies,Jeannette,2016-06-16,F
+U.S.,Michael,2016-06-16,M
+World,Elisabetta,2016-06-16,F
+Travel,Steve,2016-06-16,M
+World,Max,2016-06-16,M
+Fashion & Style,Philip,2016-06-16,M
+Arts,Ainara,2016-06-16,F
+N.Y. / Region,Joseph,2016-06-16,M
+The Upshot,Gregor,2016-06-16,M
+N.Y. / Region,Jim,2016-06-16,M
+U.S.,Jennifer,2016-06-16,F
+Obituaries,Robert,2016-06-16,M
+The Upshot,Gregor,2016-06-16,M
+Opinion,Gabriel,2016-06-16,M
+NYT Now,Andrea,2016-06-16,F
+Opinion,Elizabeth,2016-06-16,F
+T Magazine,Nadia,2016-06-16,F
+T Magazine,Hilary,2016-06-16,F
+Opinion,Neal,2016-06-16,M
+T Magazine,Hilary,2016-06-16,F
+Travel,Wadzanai,2016-06-16,U
+Fashion & Style,Katherine,2016-06-16,F
+Fashion & Style,Katherine,2016-06-16,F
+N.Y. / Region,Joyce,2016-06-16,F
+Arts,Elisabetta,2016-06-16,F
+Business Day,Nathaniel,2016-06-16,M
+World,International,2016-06-16,U
+T Magazine,Kat,2016-06-16,F
+Movies,Mekado,2016-06-16,U
+Health,Roni,2016-06-16,F
+Opinion,Anna,2016-06-16,F
+T Magazine,Alexis,2016-06-16,F
+Magazine,Nate,2016-06-16,M
+World,Stephen,2016-06-16,M
+Travel,Shivani,2016-06-16,F
+Fashion & Style,Elizabeth,2016-06-16,F
+The Upshot,Gregor,2016-06-16,M
+The Upshot,Gregor,2016-06-16,M
+The Upshot,Gregor,2016-06-16,M
+The Upshot,Gregor,2016-06-16,M
+Arts,Ted,2016-06-16,M
+Arts,Nina,2016-06-16,F
+Arts,Ginanne,2016-06-16,U
+Arts,Hannah,2016-06-16,F
+Arts,Roderick,2016-06-16,M
+Arts,Palko,2016-06-16,U
+Arts,Ginanne,2016-06-16,U
+U.S.,Julie,2016-06-16,F
+Fashion & Style,Matthew,2016-06-16,M
+Magazine,Jon,2016-06-16,M
+Times Insider,David,2016-06-16,M
+Magazine,Moises,2016-06-16,M
+Magazine,Zachary,2016-06-16,M
+Magazine,Francis,2016-06-16,M
+Times Insider,Manny,2016-06-16,M
+World,International,2016-06-16,U
+Fashion & Style,Vanessa,2016-06-16,F
+Books,Michelle,2016-06-16,F
+U.S.,Brent,2016-06-16,M
+World,Javier,2016-06-16,M
+Science,Joanna,2016-06-16,F
+Real Estate,Joyce,2016-06-16,F
+Opinion,Thomas,2016-06-16,M
+Education,Katherine,2016-06-16,F
+Education,Katherine,2016-06-16,F
+The Upshot,Gregor,2016-06-16,M
+The Upshot,Gregor,2016-06-16,M
+The Upshot,Gregor,2016-06-16,M
+The Upshot,Gregor,2016-06-16,M
+World,International,2016-06-16,U
+Health,Mikkael,2016-06-16,U
+Sports,Victor,2016-06-16,M
+Travel,Mekado,2016-06-16,U
+Blogs,Amie,2016-06-16,F
+N.Y. / Region,Jonathan,2016-06-16,M
+NYT Now,Adeel,2016-06-16,M
+Health,Roni,2016-06-16,F
+U.S.,Haeyoun,2016-06-16,U
+Opinion,Dawn,2016-06-16,F
+Opinion,Dawn,2016-06-16,F
+Opinion,Nicholas,2016-06-16,M
+Opinion,Dionne,2016-06-16,F
+Opinion,Gail,2016-06-16,F
+Opinion,Charles,2016-06-16,M
+Multimedia/Photos,Maurice,2016-06-16,M
+N.Y. / Region,Jesse,2016-06-16,M
+Books,Margalit,2016-06-16,F
+Arts,Kathryn,2016-06-16,F
+Arts,Elisabetta,2016-06-16,F
+N.Y. / Region,Alan,2016-06-16,M
+N.Y. / Region,Sam,2016-06-16,M
+Sports,David,2016-06-16,M
+Sports,Ken,2016-06-16,M
+Sports,Seth,2016-06-16,M
+N.Y. / Region,Rick,2016-06-16,M
+Business Day,Ben,2016-06-16,M
+U.S.,Mark,2016-06-16,M
+U.S.,Jeremy,2016-06-16,M
+World,Raphael,2016-06-16,M
+Sports,Bill,2016-06-16,M
+N.Y. / Region,Kim,2016-06-16,F
+Business Day,Sydney,2016-06-16,F
+Sports,Rebecca,2016-06-16,F
+World,Charlie,2016-06-16,M
+Business Day,Emily,2016-06-16,F
+Business Day,Michael,2016-06-16,M
+Sports,Scott,2016-06-16,M
+World,Thomas,2016-06-16,M
+U.S.,Jennifer,2016-06-16,F
+Opinion,Yelena,2016-06-16,F
+Sports,Billy,2016-06-16,M
+U.S.,Michael,2016-06-16,M
+Sports,John,2016-06-16,M
+U.S.,Frances,2016-06-16,F
+World,Didi,2016-06-16,F
+Books,Adam,2016-06-16,M
+Theater,Michael,2016-06-16,M
+World,Kaushik,2016-06-16,M
+Arts,Jon,2016-06-16,M
+Arts,Gia,2016-06-16,F
+Arts,Anthony,2016-06-16,M
+Theater,Elise,2016-06-16,F
+Arts,Ben,2016-06-16,M
+Arts,Brian,2016-06-16,M
+U.S.,Alan,2016-06-16,M
+N.Y. / Region,Samantha,2016-06-16,F
+World,Nick,2016-06-16,M
+World,Didi,2016-06-16,F
+The Upshot,Neil,2016-06-16,M
+World,Nicola,2016-06-16,F
+U.S.,Nick,2016-06-16,M
+Sports,Billy,2016-06-16,M
+Business Day,Leslie,2016-06-16,F
+Arts,Nate,2016-06-16,M
+Sports,Victor,2016-06-16,M
+Business Day,Brooks,2016-06-16,M
+World,Dan,2016-06-16,M
+Your Money,Ann,2016-06-16,F
+World,Katie,2016-06-16,F
+Business Day,Binyamin,2016-06-16,M
+World,Russell,2016-06-16,M
+Business Day,Stacy,2016-06-16,F
+U.S.,Frances,2016-06-16,F
+Business Day,Alexandra,2016-06-16,F
+Sports,Sam,2016-06-16,M
+U.S.,Ashley,2016-06-16,F
+U.S.,Daniel,2016-06-16,M
+N.Y. / Region,David,2016-06-16,M
+Business Day,Stephanie,2016-06-16,F
+Business Day,John,2016-06-16,M
+World,Hari,2016-06-16,M
+N.Y. / Region,Patrick,2016-06-16,M
+Theater,Michael,2016-06-16,M
+Arts,Robin,2016-06-16,F
+World,Sewell,2016-06-16,M
+Theater,Michael,2016-06-16,M
+Opinion,Mohammed,2016-06-16,M
+World,Michael,2016-06-16,M
+Technology,Quentin,2016-06-16,M
+Technology,J.,2016-06-16,U
+World,Somini,2016-06-16,U
+World,Joe,2016-06-16,M
+World,Austin,2016-06-16,M
+Fashion & Style,Guy,2016-06-16,M
+World,Chris,2016-06-16,M
+The Upshot,Peter,2016-06-16,M
+U.S.,Maggie,2016-06-16,F
+The Upshot,Peter,2016-06-16,M
+Fashion & Style,Matthew,2016-06-16,M
+World,Chris,2016-06-16,M
+World,Jonathan,2016-06-16,M
+World,Damien,2016-06-16,M
+World,Amanda,2016-06-16,F
+Fashion & Style,Vanessa,2016-06-16,F
+The Upshot,Neil,2016-06-16,M
+Business Day,Peter,2016-06-16,M
+Opinion,Mark,2016-06-16,M
+Business Day,Danny,2016-06-16,M
+Theater,Michael,2016-06-16,M
+Fashion & Style,Jessica,2016-06-16,F
+Fashion & Style,Sarah,2016-06-16,F
+Fashion & Style,Bee,2016-06-16,M
+Technology,Farhad,2016-06-16,M
+The Upshot,Neil,2016-06-16,M
+Theater,Ben,2016-06-16,M
+Technology,Brian,2016-06-16,M
+Fashion & Style,Jacob,2016-06-16,M
+Fashion & Style,Vanessa,2016-06-16,F
+Fashion & Style,Elizabeth,2016-06-16,F
+World,Anjali,2016-06-17,F
+Opinion,Dianne,2016-06-17,F
+Opinion,Phil,2016-06-17,M
+World,Mark,2016-06-17,M
+N.Y. / Region,Michael,2016-06-17,M
+Fashion & Style,Richard,2016-06-17,M
+Crosswords & Games,Deb,2016-06-17,F
+Movies,Glenn,2016-06-17,M
+Opinion,Moshe,2016-06-17,M
+Arts,Vivien,2016-06-17,F
+Business Day,Matthew,2016-06-17,M
+Sports,Bill,2016-06-17,M
+Arts,Brian,2016-06-17,M
+Arts,Mike,2016-06-17,M
+N.Y. / Region,Marc,2016-06-17,M
+N.Y. / Region,Andrew,2016-06-17,M
+N.Y. / Region,Corey,2016-06-17,M
+Opinion,Paul,2016-06-17,M
+Business Day,Emily,2016-06-17,F
+N.Y. / Region,Aileen,2016-06-17,F
+Fashion & Style,Alix,2016-06-17,F
+N.Y. / Region,Ken,2016-06-17,M
+Arts,Anthony,2016-06-17,M
+Real Estate,C.,2016-06-17,U
+N.Y. / Region,Phillip,2016-06-17,M
+World,Andrew,2016-06-17,M
+Arts,Margaret,2016-06-17,F
+N.Y. / Region,John,2016-06-17,M
+Sports,Christopher,2016-06-17,M
+Business Day,Ben,2016-06-17,M
+N.Y. / Region,Phillip,2016-06-17,M
+Opinion,Guy,2016-06-17,M
+N.Y. / Region,Vivian,2016-06-17,F
+Real Estate,Tim,2016-06-17,M
+The Upshot,Gregor,2016-06-17,M
+The Upshot,Gregor,2016-06-17,M
+The Upshot,Gregor,2016-06-17,M
+The Upshot,Gregor,2016-06-17,M
+World,Steven,2016-06-17,M
+N.Y. / Region,Christopher,2016-06-17,M
+Technology,Paul,2016-06-17,M
+NYT Now,Andrea,2016-06-17,F
+N.Y. / Region,Joanne,2016-06-17,F
+N.Y. / Region,Emily,2016-06-17,F
+Books,Lauren,2016-06-17,F
+N.Y. / Region,Shivani,2016-06-17,F
+Books,N.,2016-06-17,U
+N.Y. / Region,Ginia,2016-06-17,F
+Theater,Amy,2016-06-17,F
+Arts,Joe,2016-06-17,M
+Business Day,Gretchen,2016-06-17,F
+World,Natalia,2016-06-17,F
+Opinion,Sonia,2016-06-17,F
+World,Nick,2016-06-17,M
+Your Money,Paul,2016-06-17,M
+Books,James,2016-06-17,M
+Real Estate,Vivian,2016-06-17,F
+Books,Benjamin,2016-06-17,M
+Books,James,2016-06-17,M
+Fashion & Style,Guy,2016-06-17,M
+Your Money,Ron,2016-06-17,M
+Books,Leigh,2016-06-17,F
+World,Julfikar,2016-06-17,U
+Books,Renee,2016-06-17,F
+Books,Natalie,2016-06-17,F
+Books,Lizi,2016-06-17,U
+Books,William,2016-06-17,M
+N.Y. / Region,N.,2016-06-17,U
+Sports,Rebecca,2016-06-17,F
+Arts,Louis,2016-06-17,M
+Opinion,Paul,2016-06-17,M
+Sports,Randal,2016-06-17,M
+Sports,David,2016-06-17,M
+World,Michael,2016-06-17,M
+Your Money,Amy,2016-06-17,F
+World,Alison,2016-06-17,F
+Arts,Margaret,2016-06-17,F
+World,Tim,2016-06-17,M
+Real Estate,Joanne,2016-06-17,F
+Magazine,Greg,2016-06-17,M
+Your Money,Ann,2016-06-17,F
+Books,Maria,2016-06-17,F
+Food,Alec,2016-06-17,M
+Opinion,Richard,2016-06-17,M
+T Magazine,Ari,2016-06-17,M
+Health,Kj,2016-06-17,M
+World,Nour,2016-06-17,F
+Food,Sam,2016-06-17,M
+Magazine,Chip,2016-06-17,M
+Magazine,Karan,2016-06-17,F
+Magazine,Malia,2016-06-17,F
+Arts,Amy,2016-06-17,F
+T Magazine,Booth,2016-06-17,M
+Times Insider,Jordan,2016-06-17,M
+World,Stephen,2016-06-17,M
+World,International,2016-06-17,U
+Travel,Nell,2016-06-17,F
+Travel,Shivani,2016-06-17,F
+Travel,Elaine,2016-06-17,F
+Fashion & Style,Lois,2016-06-17,F
+World,Eli,2016-06-17,M
+Fashion & Style,David,2016-06-17,M
+Real Estate,Lisa,2016-06-17,F
+Real Estate,Lisa,2016-06-17,F
+World,Declan,2016-06-17,M
+World,International,2016-06-17,U
+Opinion,David,2016-06-17,M
+World,Stephen,2016-06-17,M
+Health,Arthur,2016-06-17,M
+N.Y. / Region,Jonathan,2016-06-17,M
+Blogs,Amie,2016-06-17,F
+Health,Karen,2016-06-17,F
+Health,Toby,2016-06-17,M
+NYT Now,Adeel,2016-06-17,M
+World,Austin,2016-06-17,M
+Education,Katherine,2016-06-17,F
+Fashion & Style,Matthew,2016-06-17,M
+Education,Michael,2016-06-17,M
+Opinion,Timothy,2016-06-17,M
+Opinion,Randall,2016-06-17,M
+N.Y. / Region,Vivian,2016-06-17,F
+N.Y. / Region,Megan,2016-06-17,F
+Arts,Laurel,2016-06-17,F
+N.Y. / Region,William,2016-06-17,M
+Arts,Zach,2016-06-17,M
+Movies,Ainara,2016-06-17,F
+Arts,Kathryn,2016-06-17,F
+N.Y. / Region,Sam,2016-06-17,M
+The Upshot,Peter,2016-06-17,M
+Sports,Pat,2016-06-17,F
+Sports,Scott,2016-06-17,M
+Sports,David,2016-06-17,M
+Sports,Seth,2016-06-17,M
+N.Y. / Region,Joseph,2016-06-17,M
+U.S.,Yamiche,2016-06-17,U
+Business Day,Victoria,2016-06-17,F
+N.Y. / Region,David,2016-06-17,M
+Business Day,Michael,2016-06-17,M
+N.Y. / Region,Jim,2016-06-17,M
+Sports,Bill,2016-06-17,M
+U.S.,Maggie,2016-06-17,F
+N.Y. / Region,Eli,2016-06-17,M
+Science,John,2016-06-17,M
+U.S.,John,2016-06-17,M
+N.Y. / Region,Arielle,2016-06-17,F
+World,Mark,2016-06-17,M
+Business Day,Alexandra,2016-06-17,F
+World,Joseph,2016-06-17,M
+U.S.,Manny,2016-06-17,M
+Opinion,Stanley,2016-06-17,M
+Books,Mary,2016-06-17,F
+The Upshot,Gregor,2016-06-17,M
+Universal,Gregor,2016-06-17,M
+Arts,Neil,2016-06-17,M
+World,Jeffrey,2016-06-17,M
+Movies,Stephen,2016-06-17,M
+Movies,A.,2016-06-17,U
+Movies,Manohla,2016-06-17,U
+Arts,Wesley,2016-06-17,M
+Movies,Manohla,2016-06-17,U
+Movies,Neil,2016-06-17,M
+Sports,James,2016-06-17,M
+Arts,Jason,2016-06-17,M
+Arts,Robin,2016-06-17,F
+Movies,Ken,2016-06-17,M
+Arts,Alastair,2016-06-17,M
+Movies,Ken,2016-06-17,M
+Movies,Ken,2016-06-17,M
+Sports,Rebecca,2016-06-17,F
+Movies,Ben,2016-06-17,M
+Movies,Andy,2016-06-17,M
+Movies,Glenn,2016-06-17,M
+Arts,Eve,2016-06-17,F
+Movies,Jeannette,2016-06-17,F
+Movies,Ben,2016-06-17,M
+Arts,James,2016-06-17,M
+N.Y. / Region,Michael,2016-06-17,M
+Business Day,Emily,2016-06-17,F
+Sports,Michael,2016-06-17,M
+Books,Dwight,2016-06-17,M
+U.S.,Damien,2016-06-17,M
+Business Day,Michael,2016-06-17,M
+Movies,Mekado,2016-06-17,U
+U.S.,Daniel,2016-06-17,M
+U.S.,Alexander,2016-06-17,M
+The Upshot,Margot,2016-06-17,F
+World,Aurelien,2016-06-17,U
+Movies,Michael,2016-06-17,M
+Health,Sabrina,2016-06-17,F
+Science,Pam,2016-06-17,F
+Business Day,Adam,2016-06-17,M
+Science,Nicholas,2016-06-17,M
+Business Day,Jeffrey,2016-06-17,M
+Business Day,James,2016-06-17,M
+Arts,Holland,2016-06-17,GN
+Sports,Jamie,2016-06-17,F
+Arts,Ben,2016-06-17,M
+Business Day,Anita,2016-06-17,F
+World,Alan,2016-06-17,M
+U.S.,Jasmine,2016-06-17,F
+Business Day,Reed,2016-06-17,M
+Theater,Michael,2016-06-17,M
+Sports,James,2016-06-17,M
+Automobiles,John,2016-06-17,M
+Sports,Sam,2016-06-17,M
+Arts,Michael,2016-06-17,M
+Opinion,Achal,2016-06-17,U
+World,James,2016-06-17,M
+World,David,2016-06-17,M
+Arts,Laurel,2016-06-17,F
+U.S.,Maggie,2016-06-17,F
+U.S.,Alan,2016-06-17,M
+N.Y. / Region,Benjamin,2016-06-17,M
+World,Nour,2016-06-17,F
+U.S.,Jonah,2016-06-17,M
+Arts,Ken,2016-06-17,M
+Sports,Brad,2016-06-17,M
+Sports,Brad,2016-06-17,M
+Sports,Brad,2016-06-17,M
+Sports,Brad,2016-06-17,M
+Sports,Brad,2016-06-17,M
+Sports,Brad,2016-06-17,M
+Technology,J.,2016-06-17,U
+Technology,Quentin,2016-06-17,M
+World,Floyd,2016-06-17,M
+Business Day,Rachel,2016-06-17,F
+U.S.,John,2016-06-17,M
+Automobiles,Tom,2016-06-17,M
+World,Nick,2016-06-17,M
+Arts,Matt,2016-06-17,M
+U.S.,David,2016-06-17,M
+World,Jacey,2016-06-17,F
+U.S.,Nick,2016-06-17,M
+The Upshot,Nate,2016-06-17,M
+U.S.,Maggie,2016-06-17,F
+Sports,Scott,2016-06-17,M
+Business Day,Jack,2016-06-17,M
+Real Estate,Jane,2016-06-17,F
+Opinion,Roger,2016-06-17,M
+U.S.,Carl,2016-06-17,M
+Real Estate,Abigail,2016-06-17,F
+World,Austin,2016-06-17,M
+Opinion,Ivan,2016-06-17,M
+Business Day,Brooks,2016-06-17,M
+World,Dionne,2016-06-17,F
+World,Steven,2016-06-17,M
+U.S.,Jonah,2016-06-17,M
+Business Day,Paul,2016-06-17,M
+Movies,A.,2016-06-17,U
+U.S.,Nick,2016-06-17,M
+Theater,Ben,2016-06-17,M
+Theater,Laura,2016-06-17,F
+Theater,Charles,2016-06-17,M
+Arts,Alastair,2016-06-17,M
+U.S.,Liam,2016-06-17,M
+World,Photographs,2016-06-18,U
+T Magazine,Laura,2016-06-18,F
+Arts,Angelica,2016-06-18,F
+Sports,Pat,2016-06-18,F
+Sports,James,2016-06-18,M
+Sports,Dave,2016-06-18,M
+Sports,Benjamin,2016-06-18,M
+Sports,Tyler,2016-06-18,M
+Sports,Richard,2016-06-18,M
+Sports,John,2016-06-18,M
+Sports,Karen,2016-06-18,F
+Sports,Karen,2016-06-18,F
+Sports,Rebecca,2016-06-18,F
+Opinion,Bonnie,2016-06-18,F
+Opinion,Michael,2016-06-18,M
+Sunday Review,Sam,2016-06-18,M
+Opinion,Rumaan,2016-06-18,U
+Opinion,Frank,2016-06-18,M
+Opinion,Maureen,2016-06-18,F
+Opinion,Scott,2016-06-18,M
+Opinion,Kevin,2016-06-18,M
+Opinion,Nicholas,2016-06-18,M
+Opinion,Yaa,2016-06-18,F
+Opinion,Julie,2016-06-18,F
+Opinion,Kate,2016-06-18,F
+Opinion,Jesse,2016-06-18,M
+Sports,Tyler,2016-06-18,M
+The Upshot,Gregor,2016-06-18,M
+The Upshot,Gregor,2016-06-18,M
+The Upshot,Gregor,2016-06-18,M
+The Upshot,Gregor,2016-06-18,M
+Sports,Richard,2016-06-18,M
+Crosswords & Games,Deb,2016-06-18,F
+U.S.,Nick,2016-06-18,M
+Books,Daniel,2016-06-18,M
+Theater,Bruce,2016-06-18,M
+Books,William,2016-06-18,M
+Sports,Harvey,2016-06-18,M
+Real Estate,Ronda,2016-06-18,F
+Crosswords & Games,Deb,2016-06-18,F
+Opinion,Paul,2016-06-18,M
+The Upshot,Gregor,2016-06-18,M
+The Upshot,Gregor,2016-06-18,M
+The Upshot,Gregor,2016-06-18,M
+The Upshot,Gregor,2016-06-18,M
+Fashion & Style,Alex,2016-06-18,M
+Fashion & Style,Philip,2016-06-18,M
+Opinion,Paul,2016-06-18,M
+Crosswords & Games,Deb,2016-06-18,F
+Sports,Jesse,2016-06-18,M
+Sports,Pat,2016-06-18,F
+NYT Now,Lela,2016-06-18,F
+N.Y. / Region,Liz,2016-06-18,F
+Science,Sam,2016-06-18,M
+World,Sarah,2016-06-18,F
+N.Y. / Region,Emma,2016-06-18,F
+Arts,Kathryn,2016-06-18,F
+Business Day,Alexandra,2016-06-18,F
+World,Rick,2016-06-18,M
+Opinion,Gail,2016-06-18,F
+World,Mark,2016-06-18,M
+Business Day,Nathaniel,2016-06-18,M
+Sports,Filip,2016-06-18,M
+Sports,James,2016-06-18,M
+N.Y. / Region,Eli,2016-06-18,M
+Sports,Karen,2016-06-18,F
+Sports,Ben,2016-06-18,M
+Sports,Pat,2016-06-18,F
+Science,Tatiana,2016-06-18,F
+World,Stephen,2016-06-18,M
+Sports,Karen,2016-06-18,F
+Sports,Michael,2016-06-18,M
+U.S.,Richard,2016-06-18,M
+U.S.,Richard,2016-06-18,M
+U.S.,Frances,2016-06-18,F
+U.S.,Jeremy,2016-06-18,M
+Business Day,Ben,2016-06-18,M
+U.S.,Michael,2016-06-18,M
+Theater,Michael,2016-06-18,M
+U.S.,Daniel,2016-06-18,M
+Health,Catherine,2016-06-18,F
+World,Somini,2016-06-18,U
+Sports,Victor,2016-06-18,M
+Business Day,Jennifer,2016-06-18,F
+Sports,Joe,2016-06-18,M
+Science,Kenneth,2016-06-18,M
+Business Day,James,2016-06-18,M
+Business Day,Patricia,2016-06-18,F
+Science,Tatiana,2016-06-18,F
+U.S.,Maggie,2016-06-18,F
+Arts,Roslyn,2016-06-18,F
+U.S.,Jess,2016-06-18,M
+Arts,Jon,2016-06-18,M
+World,Raphael,2016-06-18,M
+Opinion,Patrick,2016-06-18,M
+U.S.,Christopher,2016-06-18,M
+Business Day,Steven,2016-06-18,M
+U.S.,Alan,2016-06-18,M
+Arts,Scott,2016-06-18,M
+U.S.,Maggie,2016-06-18,F
+The Upshot,Neil,2016-06-18,M
+Fashion & Style,Vanessa,2016-06-18,F
+Business Day,Nathaniel,2016-06-18,M
+World,Didi,2016-06-18,F
+World,Hari,2016-06-18,M
+Technology,J.,2016-06-18,U
+U.S.,David,2016-06-18,M
+Sports,Billy,2016-06-18,M
+Technology,Quentin,2016-06-18,M
+World,Michael,2016-06-18,M
+U.S.,Gardiner,2016-06-18,M
+U.S.,Jeremy,2016-06-18,M
+Sports,Rob,2016-06-18,M
+Business Day,Niraj,2016-06-18,M
+U.S.,Maggie,2016-06-18,F
+World,Chris,2016-06-18,M
+U.S.,Carl,2016-06-18,M
+N.Y. / Region,Alan,2016-06-18,M
+U.S.,Jack,2016-06-18,M
+U.S.,Matt,2016-06-18,M
+U.S.,Manny,2016-06-18,M
+Arts,Jeremy,2016-06-19,M
+Arts,Noel,2016-06-19,M
+Arts,Scott,2016-06-19,M
+Theater,Neil,2016-06-19,M
+World,Jasmine,2016-06-19,F
+N.Y. / Region,Sara,2016-06-19,F
+Movies,Dave,2016-06-19,M
+Crosswords & Games,Deb,2016-06-19,F
+U.S.,Eric,2016-06-19,M
+N.Y. / Region,James,2016-06-19,M
+N.Y. / Region,Rick,2016-06-19,M
+U.S.,Dave,2016-06-19,M
+World,International,2016-06-19,U
+Food,Sam,2016-06-19,M
+World,International,2016-06-19,U
+Health,Pam,2016-06-19,F
+NYT Now,Andrea,2016-06-19,F
+Health,John,2016-06-19,M
+Multimedia/Photos,Randy,2016-06-19,M
+Sports,James,2016-06-19,M
+Sports,Bill,2016-06-19,M
+Sports,David,2016-06-19,M
+Arts,Kathryn,2016-06-19,F
+Sports,Scott,2016-06-19,M
+Sports,Sam,2016-06-19,M
+U.S.,Maggie,2016-06-19,F
+Sports,Ben,2016-06-19,M
+U.S.,Liam,2016-06-19,M
+Fashion & Style,Rosalie,2016-06-19,F
+Fashion & Style,Vincent,2016-06-19,M
+Books; Arts,Maria,2016-06-19,F
+U.S.,Fernanda,2016-06-19,F
+World,Adam,2016-06-19,M
+World,Matthew,2016-06-19,M
+N.Y. / Region,Ashley,2016-06-19,F
+World,Nour,2016-06-19,F
+U.S.,Robert,2016-06-19,M
+Sports,Bill,2016-06-19,M
+World,Joe,2016-06-19,M
+N.Y. / Region,Kate,2016-06-19,F
+U.S.,John,2016-06-19,M
+U.S.,Les,2016-06-19,M
+Sunday Review,Diana,2016-06-19,F
+World,Jane,2016-06-19,F
+U.S.,Karen,2016-06-19,F
+World,Tim,2016-06-19,M
+U.S.,Karen,2016-06-19,F
+Opinion,Brian,2016-06-19,M
+World,Jim,2016-06-19,M
+U.S.,Julia,2016-06-19,F
+U.S.,Dan,2016-06-19,M
+Job Market,Michael,2016-06-19,M
+Your Money,David,2016-06-19,M
+Job Market,Interview,2016-06-19,U
+Business Day,Ellen,2016-06-19,F
+World,Edward,2016-06-19,M
+Technology,Farhad,2016-06-19,M
+U.S.,Rachel,2016-06-19,F
+World,Alissa,2016-06-19,F
+World,Kimiko,2016-06-19,F
+Business Day,Kevin,2016-06-19,M
+Business Day,Nathaniel,2016-06-19,M
+Theater,J.,2016-06-19,U
+Books,Joumana,2016-06-19,U
+Arts,Patricia,2016-06-19,F
+Movies,Finn,2016-06-19,M
+Movies,Marc,2016-06-19,M
+Real Estate,Michelle,2016-06-19,F
+Arts,Gavin,2016-06-19,M
+Arts,Lorne,2016-06-19,M
+Books,John,2016-06-19,M
+The Upshot,Margot,2016-06-19,F
+The Upshot,N.,2016-06-19,U
+Sports,Brad,2016-06-19,M
+Magazine,Robert,2016-06-19,M
+Business Day,Adam,2016-06-19,M
+Business Day,Noam,2016-06-19,M
+Arts,Kathryn,2016-06-19,F
+Your Money,Jeff,2016-06-19,M
+Business Day,David,2016-06-19,M
+World,Steven,2016-06-19,M
+Arts,Zachary,2016-06-19,M
+Theater,Laura,2016-06-19,F
+Arts,Gia,2016-06-19,F
+Magazine,Lisa,2016-06-19,F
+Arts,Cara,2016-06-19,F
+Arts,Roberta,2016-06-19,F
+Theater,Jason,2016-06-19,M
+Movies,Daniel,2016-06-19,M
+Arts,Kathryn,2016-06-19,F
+Arts,Jack,2016-06-19,M
+Arts,Ben,2016-06-19,M
+Theater,Bruce,2016-06-19,M
+Real Estate,Mike,2016-06-19,M
+Theater,Jason,2016-06-19,M
+Sports,Peter,2016-06-19,M
+Movies,Robert,2016-06-19,M
+Movies,Robert,2016-06-19,M
+U.S.,Kassie,2016-06-19,F
+Sports,Seth,2016-06-20,M
+Arts,Genevieve,2016-06-20,F
+Crosswords & Games,Deb,2016-06-20,F
+Theater,Alexis,2016-06-20,F
+Travel,Erik,2016-06-20,M
+Travel,Steven,2016-06-20,M
+World,Rick,2016-06-20,M
+World,Michelle,2016-06-20,F
+N.Y. / Region,Nate,2016-06-20,M
+N.Y. / Region,Daniel,2016-06-20,M
+Arts,Joshua,2016-06-20,M
+Times Insider,Carl,2016-06-20,M
+World,Steven,2016-06-20,M
+NYT Now,Andrea,2016-06-20,F
+T Magazine,Hilary,2016-06-20,F
+Food,Sam,2016-06-20,M
+Food,Florence,2016-06-20,F
+Food,Florence,2016-06-20,F
+Food,Florence,2016-06-20,F
+Food,Florence,2016-06-20,F
+Food,Florence,2016-06-20,F
+Food,Florence,2016-06-20,F
+Science,Nicholas,2016-06-20,M
+Health,Kj,2016-06-20,M
+Opinion,Roger,2016-06-20,M
+T Magazine,Laura,2016-06-20,F
+Opinion,Paul,2016-06-20,M
+Science,Manjula,2016-06-20,U
+T Magazine,Alex,2016-06-20,M
+U.S.,Natalia,2016-06-20,F
+U.S.,Julie,2016-06-20,F
+Arts,Margaret,2016-06-20,F
+World,Gaia,2016-06-20,F
+Opinion,Anna,2016-06-20,F
+Crosswords & Games,Gary,2016-06-20,M
+Health,Nicholas,2016-06-20,M
+N.Y. / Region,William,2016-06-20,M
+Times Insider,Elizabeth,2016-06-20,F
+Opinion,Roger,2016-06-20,M
+Arts,James,2016-06-20,M
+Science,James,2016-06-20,M
+World,International,2016-06-20,U
+Opinion,Charles,2016-06-20,M
+Science,Natalia,2016-06-20,F
+Health,Perri,2016-06-20,F
+World,International,2016-06-20,U
+Blogs,Amie,2016-06-20,F
+Health,Jane,2016-06-20,F
+N.Y. / Region,Alexandra,2016-06-20,F
+NYT Now,Adeel,2016-06-20,M
+World,Kareem,2016-06-20,M
+Multimedia/Photos,Fred,2016-06-20,M
+Books,Sam,2016-06-20,M
+Multimedia/Photos,Fred,2016-06-20,M
+Opinion,Viet,2016-06-20,M
+Opinion,Bryce,2016-06-20,M
+Opinion,Paul,2016-06-20,M
+N.Y. / Region,Eli,2016-06-20,M
+Arts,Jon,2016-06-20,M
+Business Day,Jim,2016-06-20,M
+World,Somini,2016-06-20,U
+Arts,Kathryn,2016-06-20,F
+U.S.,Maggie,2016-06-20,F
+U.S.,Maggie,2016-06-20,F
+Science,Nick,2016-06-20,M
+Opinion,Bert,2016-06-20,M
+Sports,Scott,2016-06-20,M
+Sports,Bill,2016-06-20,M
+Theater,Charles,2016-06-20,M
+N.Y. / Region,Ashley,2016-06-20,F
+N.Y. / Region,Jesse,2016-06-20,M
+N.Y. / Region,Noah,2016-06-20,M
+Sports,Karen,2016-06-20,F
+Business Day,Julie,2016-06-20,F
+Sports,Pat,2016-06-20,F
+U.S.,Sheryl,2016-06-20,F
+Sports,Richard,2016-06-20,M
+U.S.,Mike,2016-06-20,M
+Business Day,Martha,2016-06-20,F
+Sports,Brad,2016-06-20,M
+Technology,Mark,2016-06-20,M
+Sports,William,2016-06-20,M
+Arts,Neil,2016-06-20,M
+Arts,Ben,2016-06-20,M
+World,Ceylan,2016-06-20,F
+Books,Jennifer,2016-06-20,F
+World,Raphael,2016-06-20,M
+Sports,Pat,2016-06-20,F
+Arts,Jori,2016-06-20,F
+Arts,Mike,2016-06-20,M
+Arts,Andrew,2016-06-20,M
+Arts,Zachary,2016-06-20,M
+Sports,James,2016-06-20,M
+U.S.,Coral,2016-06-20,F
+U.S.,Clyde,2016-06-20,M
+Arts,Stephen,2016-06-20,M
+Business Day,Reed,2016-06-20,M
+World,Steven,2016-06-20,M
+Sports,Seth,2016-06-20,M
+World,Stephen,2016-06-20,M
+U.S.,Amy,2016-06-20,F
+Theater,Michael,2016-06-20,M
+Sports,Sam,2016-06-20,M
+U.S.,Jonathan,2016-06-20,M
+Movies,Brooks,2016-06-20,M
+U.S.,Nicholas,2016-06-20,M
+World,Isabel,2016-06-20,F
+World,Nicholas,2016-06-20,M
+Technology,Katie,2016-06-20,F
+U.S.,Albert,2016-06-20,M
+U.S.,Yamiche,2016-06-20,U
+Fashion & Style,Matthew,2016-06-20,M
+World,Michael,2016-06-20,M
+Health,Pam,2016-06-20,F
+Sports,Rob,2016-06-20,M
+Sports,Emma,2016-06-20,F
+Business Day,Sonia,2016-06-20,F
+World,Jonathan,2016-06-20,M
+Arts,Gia,2016-06-20,F
+Sports,Sam,2016-06-20,M
+T Magazine,Laura,2016-06-21,F
+U.S.,David,2016-06-21,M
+World,Ben,2016-06-21,M
+Crosswords & Games,Deb,2016-06-21,F
+Business Day,Sam,2016-06-21,M
+N.Y. / Region,Deborah,2016-06-21,F
+Travel,Shivani,2016-06-21,F
+NYT Now,Andrea,2016-06-21,F
+Opinion,Andrew,2016-06-21,M
+T Magazine,Alexandria,2016-06-21,F
+T Magazine,Kat,2016-06-21,F
+Opinion,Teresa,2016-06-21,F
+U.S.,Wilson,2016-06-21,M
+Arts,Joe,2016-06-21,M
+Health,Tara,2016-06-21,F
+World,Tim,2016-06-21,M
+T Magazine,Hilary,2016-06-21,F
+Opinion,Martin,2016-06-21,M
+T Magazine,Laura,2016-06-21,F
+Travel,Elaine,2016-06-21,F
+World,International,2016-06-21,U
+Travel,Jeannie,2016-06-21,F
+Times Insider,Insider,2016-06-21,U
+Books,Alex,2016-06-21,M
+Books,Nicholas,2016-06-21,M
+Opinion,Elizabeth,2016-06-21,F
+Opinion,Jennifer,2016-06-21,F
+World,International,2016-06-21,U
+Movies,Dave,2016-06-21,M
+U.S.,Carl,2016-06-21,M
+Opinion,Andrew,2016-06-21,M
+Opinion,Nicholas,2016-06-21,M
+Health,Nancy,2016-06-21,F
+Opinion,Patrick,2016-06-21,M
+Blogs,Amie,2016-06-21,F
+N.Y. / Region,Alexandra,2016-06-21,F
+NYT Now,Adeel,2016-06-21,M
+Health,Lisa,2016-06-21,F
+Multimedia/Photos,David,2016-06-21,M
+N.Y. / Region,Margalit,2016-06-21,F
+Opinion,David,2016-06-21,M
+Opinion,Steven,2016-06-21,M
+Opinion,Arthur,2016-06-21,M
+Opinion,Nicholas,2016-06-21,M
+Opinion,Emma,2016-06-21,F
+Opinion,David,2016-06-21,M
+Universal,Nelson,2016-06-21,M
+The Upshot,Peter,2016-06-21,M
+U.S.,David,2016-06-21,M
+Arts,Sam,2016-06-21,M
+Arts,Kathryn,2016-06-21,F
+U.S.,Amy,2016-06-21,F
+U.S.,Nicholas,2016-06-21,M
+N.Y. / Region,J.,2016-06-21,U
+N.Y. / Region,Alan,2016-06-21,M
+U.S.,Dan,2016-06-21,M
+Sports,David,2016-06-21,M
+U.S.,Sheryl,2016-06-21,F
+Sports,Sam,2016-06-21,M
+Business Day,Andrew,2016-06-21,M
+Sports,Bill,2016-06-21,M
+N.Y. / Region,David,2016-06-21,M
+U.S.,Jess,2016-06-21,M
+N.Y. / Region,Kristin,2016-06-21,F
+U.S.,Campbell,2016-06-21,GN
+Technology,Vindu,2016-06-21,U
+U.S.,Nick,2016-06-21,M
+Business Day,Landon,2016-06-21,M
+U.S.,Abby,2016-06-21,F
+Theater,Michael,2016-06-21,M
+Books,Michiko,2016-06-21,F
+Theater,Laura,2016-06-21,F
+World,James,2016-06-21,M
+Arts,Randy,2016-06-21,M
+Business Day,Christopher,2016-06-21,M
+Business Day,Adam,2016-06-21,M
+Sports,Scott,2016-06-21,M
+U.S.,Matt,2016-06-21,M
+Arts,David,2016-06-21,M
+Arts,Siobhan,2016-06-21,F
+Business Day,John,2016-06-21,M
+Science,C.,2016-06-21,U
+World,Max,2016-06-21,M
+Sports,Jay,2016-06-21,M
+Arts,Jeremy,2016-06-21,M
+N.Y. / Region,Sarah,2016-06-21,F
+World,Raphael,2016-06-21,M
+U.S.,Mike,2016-06-21,M
+World,Ivan,2016-06-21,M
+U.S.,Adam,2016-06-21,M
+Arts,Niraj,2016-06-21,M
+World,Alan,2016-06-21,M
+Arts,Kathryn,2016-06-21,F
+U.S.,Alan,2016-06-21,M
+Health,Donald,2016-06-21,M
+World,Geeta,2016-06-21,F
+Business Day,Julie,2016-06-21,F
+Science,Rachel,2016-06-21,F
+U.S.,Alan,2016-06-21,M
+Science,Steph,2016-06-21,F
+Sports,Victor,2016-06-21,M
+Arts,Ben,2016-06-21,M
+The Upshot,Neil,2016-06-21,M
+Arts,Michael,2016-06-21,M
+Sports,John,2016-06-21,M
+Arts,Alastair,2016-06-21,M
+Your Money,Carl,2016-06-21,M
+World,Thomas,2016-06-21,M
+Business Day,Peter,2016-06-21,M
+Sports,Rebecca,2016-06-21,F
+Technology,J.,2016-06-21,U
+U.S.,Richard,2016-06-21,M
+Business Day,Michael,2016-06-21,M
+Health,Abigail,2016-06-21,F
+U.S.,Anand,2016-06-21,M
+Business Day,Jack,2016-06-21,M
+Technology,Quentin,2016-06-21,M
+U.S.,Maggie,2016-06-21,F
+U.S.,Adam,2016-06-21,M
+World,Russell,2016-06-21,M
+The Upshot,Lynn,2016-06-21,F
+Opinion,David,2016-06-21,M
+Sports,Michael,2016-06-21,M
+U.S.,Julie,2016-06-21,F
+Fashion & Style,Matthew,2016-06-21,M
+World,Austin,2016-06-21,M
+Science,William,2016-06-21,M
+U.S.,Maggie,2016-06-21,F
+Technology,John,2016-06-21,M
+U.S.,Carl,2016-06-21,M
+World,Joe,2016-06-21,M
+World,Amanda,2016-06-21,F
+U.S.,Jonathan,2016-06-21,M
+N.Y. / Region,David,2016-06-21,M
+U.S.,Jennifer,2016-06-21,F
+Opinion,Seyed,2016-06-21,M
+Health,Catherine,2016-06-21,F
+Science,Carl,2016-06-21,M
+U.S.,Haeyoun,2016-06-22,U
+Business Day,Sam,2016-06-22,M
+Education,Randi,2016-06-22,F
+Education,Annette,2016-06-22,F
+Arts,James,2016-06-22,M
+Education,Marvin,2016-06-22,M
+Education,Marc,2016-06-22,M
+Education,Deborah,2016-06-22,F
+Education,John,2016-06-22,M
+Education,Harold,2016-06-22,M
+Education,Freeman,2016-06-22,M
+Education,Marybeth,2016-06-22,F
+Education,Joni,2016-06-22,F
+Education,Nicholas,2016-06-22,M
+Education,Jeffrey,2016-06-22,M
+World,Tim,2016-06-22,M
+Education,Stephanie,2016-06-22,F
+Education,Alina,2016-06-22,F
+Education,Alina,2016-06-22,F
+Education,Elizabeth,2016-06-22,F
+Crosswords & Games,Deb,2016-06-22,F
+Education,John,2016-06-22,M
+Education,Kerry,2016-06-22,GN
+Education,Eilene,2016-06-22,F
+Education,Abby,2016-06-22,F
+Fashion & Style,Erica,2016-06-22,F
+Education,Alina,2016-06-22,F
+Education,Mark,2016-06-22,M
+N.Y. / Region,Noah,2016-06-22,M
+N.Y. / Region,Kim,2016-06-22,F
+Times Insider,Didi,2016-06-22,F
+N.Y. / Region,Neil,2016-06-22,M
+Sports,Bruce,2016-06-22,M
+NYT Now,Andrea,2016-06-22,F
+Technology,Brian,2016-06-22,M
+World,Walt,2016-06-22,M
+Opinion,Giacomo,2016-06-22,M
+Health,Nicholas,2016-06-22,M
+Opinion,Elizabeth,2016-06-22,F
+Arts,Michael,2016-06-22,M
+Science,Nicholas,2016-06-22,M
+U.S.,David,2016-06-22,M
+U.S.,Megan,2016-06-22,F
+Arts,William,2016-06-22,M
+Theater,Joshua,2016-06-22,M
+T Magazine,Malina,2016-06-22,F
+Books,Pankaj,2016-06-22,U
+Multimedia/Photos,Alexandra,2016-06-22,F
+Fashion & Style,Marianne,2016-06-22,F
+T Magazine,Kari,2016-06-22,F
+T Magazine,Alex,2016-06-22,M
+Real Estate,Marcelle,2016-06-22,F
+Health,Ron,2016-06-22,M
+World,Dan,2016-06-22,M
+Education,Mark,2016-06-22,M
+Health,Nicholas,2016-06-22,M
+T Magazine,Laura,2016-06-22,F
+Theater,Alexis,2016-06-22,F
+Opinion,Andrew,2016-06-22,M
+Books,Maria,2016-06-22,F
+Education,Eilene,2016-06-22,F
+Food,Sam,2016-06-22,M
+World,International,2016-06-22,U
+Travel,Ralph,2016-06-22,M
+Travel,Jane,2016-06-22,F
+Books,Jeff,2016-06-22,M
+World,International,2016-06-22,U
+Health,Gretchen,2016-06-22,F
+Real Estate,Aileen,2016-06-22,F
+World,Eli,2016-06-22,M
+Education,Frank,2016-06-22,M
+Opinion,Nicki,2016-06-22,F
+Opinion,Thomas,2016-06-22,M
+N.Y. / Region,Alexandra,2016-06-22,F
+Blogs,Amie,2016-06-22,F
+NYT Now,Adeel,2016-06-22,M
+Opinion,Giacomo,2016-06-22,M
+Health,Robert,2016-06-22,M
+Multimedia/Photos,Quito,2016-06-22,U
+Science,Nicholas,2016-06-22,M
+Opinion,Joshua,2016-06-22,M
+Opinion,Robert,2016-06-22,M
+World,Sam,2016-06-22,M
+Books,Kimiko,2016-06-22,F
+Arts,Kathryn,2016-06-22,F
+N.Y. / Region,Nate,2016-06-22,M
+World,Rukmini,2016-06-22,F
+Business Day,Katie,2016-06-22,F
+U.S.,Robert,2016-06-22,M
+Sports,Billy,2016-06-22,M
+Sports,David,2016-06-22,M
+Sports,James,2016-06-22,M
+N.Y. / Region,Jim,2016-06-22,M
+U.S.,John,2016-06-22,M
+World,Luo,2016-06-22,U
+N.Y. / Region,Emma,2016-06-22,F
+U.S.,David,2016-06-22,M
+U.S.,Emmarie,2016-06-22,F
+N.Y. / Region,Sarah,2016-06-22,F
+Business Day,Christopher,2016-06-22,M
+U.S.,Julie,2016-06-22,F
+World,Agence-france,2016-06-22,U
+Business Day,Michael,2016-06-22,M
+World,Choe,2016-06-22,U
+Business Day,Leslie,2016-06-22,F
+Sports,Ben,2016-06-22,M
+Arts,Melena,2016-06-22,F
+Real Estate,Rosalie,2016-06-22,F
+U.S.,Barry,2016-06-22,M
+U.S.,Monica,2016-06-22,F
+Theater,Michael,2016-06-22,M
+Arts,Neil,2016-06-22,M
+U.S.,Katie,2016-06-22,F
+Movies,Mike,2016-06-22,M
+Arts,Michael,2016-06-22,M
+Arts,Neil,2016-06-22,M
+U.S.,Mike,2016-06-22,M
+World,Rick,2016-06-22,M
+Sports,Rebecca,2016-06-22,F
+Fashion & Style,Matthew,2016-06-22,M
+Movies,Glenn,2016-06-22,M
+Business Day,Daniel,2016-06-22,M
+Sports,Sam,2016-06-22,M
+Arts,Dave,2016-06-22,M
+U.S.,Matt,2016-06-22,M
+Business Day,Steven,2016-06-22,M
+Books,Dwight,2016-06-22,M
+World,Steven,2016-06-22,M
+N.Y. / Region,Eli,2016-06-22,M
+Business Day,Peter,2016-06-22,M
+Theater,Joshua,2016-06-22,M
+Food,Florence,2016-06-22,F
+Sports,Marc,2016-06-22,M
+Books,David,2016-06-22,M
+Food,Julia,2016-06-22,F
+World,Javier,2016-06-22,M
+World,Marlise,2016-06-22,F
+Business Day,Michael,2016-06-22,M
+Real Estate,Ronda,2016-06-22,F
+Health,Sabrina,2016-06-22,F
+Technology,Cecilia,2016-06-22,F
+World,Katie,2016-06-22,F
+U.S.,Alan,2016-06-22,M
+Business Day,Niraj,2016-06-22,M
+U.S.,Matt,2016-06-22,M
+Technology,J.,2016-06-22,U
+World,Dan,2016-06-22,M
+Technology,Quentin,2016-06-22,M
+Arts,Michael,2016-06-22,M
+Food,Pete,2016-06-22,M
+Business Day,Brooks,2016-06-22,M
+Fashion & Style,Vanessa,2016-06-22,F
+Business Day,Alexandra,2016-06-22,F
+U.S.,John,2016-06-22,M
+U.S.,Christine,2016-06-22,F
+World,Choe,2016-06-22,U
+Your Money,Ann,2016-06-22,F
+Business Day,Nelson,2016-06-22,M
+Business Day,Daniel,2016-06-22,M
+World,Nour,2016-06-22,F
+Business Day,Cecilia,2016-06-22,F
+U.S.,Alexander,2016-06-22,M
+Business Day,Diane,2016-06-22,F
+U.S.,Alan,2016-06-22,M
+Business Day,Jonathan,2016-06-22,M
+World,Thomas,2016-06-22,M
+World,Edward,2016-06-22,M
+Sports,Sam,2016-06-22,M
+U.S.,Frances,2016-06-22,F
+Business Day,Eduardo,2016-06-22,M
+World,Austin,2016-06-22,M
+The Upshot,Kevin,2016-06-22,M
+U.S.,Maggie,2016-06-22,F
+World,Isabel,2016-06-22,F
+Sports,Rob,2016-06-22,M
+World,Rana,2016-06-22,F
+Sports,Harvey,2016-06-22,M
+World,Amy,2016-06-22,F
+World,Kimiko,2016-06-22,F
+Food,Kim,2016-06-22,F
+Food,Robert,2016-06-22,M
+Food,Melissa,2016-06-22,F
+Food,David,2016-06-22,M
+Food,Florence,2016-06-22,F
+Food,Ligaya,2016-06-22,F
+T Magazine,Kat,2016-06-23,F
+World,Jasmine,2016-06-23,F
+Business Day,Karl,2016-06-23,M
+Theater,Michael,2016-06-23,M
+Crosswords & Games,Deb,2016-06-23,F
+Movies,Jeannette,2016-06-23,F
+Arts,Randy,2016-06-23,M
+Movies,Glenn,2016-06-23,M
+Your Money,Jeff,2016-06-23,M
+Travel,Ingrid,2016-06-23,F
+Opinion,Lawrence,2016-06-23,M
+N.Y. / Region,Michael,2016-06-23,M
+U.S.,Anemona,2016-06-23,U
+U.S.,Megan,2016-06-23,F
+Movies,Ainara,2016-06-23,F
+NYT Now,Andrea,2016-06-23,F
+Health,Nicholas,2016-06-23,M
+Arts,Ben,2016-06-23,M
+Movies,Mekado,2016-06-23,U
+T Magazine,Jason,2016-06-23,M
+Opinion,Sheryl,2016-06-23,F
+Fashion & Style,Philip,2016-06-23,M
+Business Day,Annalyn,2016-06-23,F
+T Magazine,Hilary,2016-06-23,F
+U.S.,United,2016-06-23,U
+T Magazine,Samantha,2016-06-23,F
+Business Day,James,2016-06-23,M
+Movies,Kathryn,2016-06-23,F
+Arts,Jori,2016-06-23,F
+Arts,Gia,2016-06-23,F
+Arts,Michael,2016-06-23,M
+T Magazine,Gisela,2016-06-23,F
+Times Insider,David,2016-06-23,M
+Arts,George,2016-06-23,M
+T Magazine,Hattie,2016-06-23,F
+U.S.,David,2016-06-23,M
+Opinion,Zoe,2016-06-23,F
+Theater,Diep,2016-06-23,F
+Automobiles,Tom,2016-06-23,M
+Technology,Nick,2016-06-23,M
+Movies,Jeannette,2016-06-23,F
+Sports,William,2016-06-23,M
+World,International,2016-06-23,U
+Health,Daniel,2016-06-23,M
+Travel,Shivani,2016-06-23,F
+Arts,Farah,2016-06-23,F
+World,Norimitsu,2016-06-23,U
+Real Estate,Joyce,2016-06-23,F
+World,International,2016-06-23,U
+Opinion,Gail,2016-06-23,F
+Blogs,Amie,2016-06-23,F
+Health,Sharon,2016-06-23,F
+N.Y. / Region,Alexandra,2016-06-23,F
+NYT Now,Adeel,2016-06-23,M
+Health,Gretchen,2016-06-23,F
+Health,Jane,2016-06-23,F
+Fashion & Style,Michelle,2016-06-23,F
+Opinion,Thomas,2016-06-23,M
+Multimedia/Photos,James,2016-06-23,M
+Automobiles,Cheryl,2016-06-23,F
+Opinion,Vince,2016-06-23,M
+Opinion,Jeanne,2016-06-23,F
+Opinion,Linda,2016-06-23,F
+Opinion,Charles,2016-06-23,M
+World,Somini,2016-06-23,U
+Arts,William,2016-06-23,M
+Movies,Margalit,2016-06-23,F
+U.S.,David,2016-06-23,M
+Arts,Kathryn,2016-06-23,F
+World,Steven,2016-06-23,M
+U.S.,Richard,2016-06-23,M
+Sports,Jamie,2016-06-23,F
+Arts,William,2016-06-23,M
+Health,Gina,2016-06-23,F
+N.Y. / Region,Eli,2016-06-23,M
+Sports,Harvey,2016-06-23,M
+N.Y. / Region,Ashley,2016-06-23,F
+Theater,Charles,2016-06-23,M
+N.Y. / Region,Kate,2016-06-23,F
+N.Y. / Region,John,2016-06-23,M
+U.S.,Eric,2016-06-23,M
+U.S.,David,2016-06-23,M
+U.S.,Fernanda,2016-06-23,F
+U.S.,Somini,2016-06-23,U
+Sports,Sam,2016-06-23,M
+Sports,David,2016-06-23,M
+Business Day,Brooks,2016-06-23,M
+Business Day,Leslie,2016-06-23,F
+Business Day,Bill,2016-06-23,M
+Sports,Ken,2016-06-23,M
+Education,Lee,2016-06-23,M
+Education,John,2016-06-23,M
+Education,James,2016-06-23,M
+Sports,Billy,2016-06-23,M
+Sports,James,2016-06-23,M
+Books,Janet,2016-06-23,F
+Arts,Jon,2016-06-23,M
+Arts,Michael,2016-06-23,M
+Fashion & Style,Alison,2016-06-23,F
+Science,Joanna,2016-06-23,F
+U.S.,Yamiche,2016-06-23,U
+U.S.,Adam,2016-06-23,M
+Health,Donald,2016-06-23,M
+Business Day,Peter,2016-06-23,M
+Arts,Mike,2016-06-23,M
+Sports,Andrew,2016-06-23,M
+The Upshot,Neil,2016-06-23,M
+World,Ayesha,2016-06-23,F
+Business Day,Nelson,2016-06-23,M
+Arts,Gia,2016-06-23,F
+Fashion & Style,Bennett,2016-06-23,M
+World,Stephen,2016-06-23,M
+Technology,Katie,2016-06-23,F
+N.Y. / Region,J.,2016-06-23,U
+Business Day,John,2016-06-23,M
+U.S.,Mitch,2016-06-23,M
+Arts,Roslyn,2016-06-23,F
+Technology,Kit,2016-06-23,M
+World,Suhasini,2016-06-23,U
+Business Day,Jennifer,2016-06-23,F
+Sports,Jamie,2016-06-23,F
+N.Y. / Region,Megan,2016-06-23,F
+U.S.,Robert,2016-06-23,M
+U.S.,Mitch,2016-06-23,M
+U.S.,Maggie,2016-06-23,F
+Business Day,Steven,2016-06-23,M
+Fashion & Style,Naomi,2016-06-23,F
+Theater,Michael,2016-06-23,M
+Business Day,Aili,2016-06-23,F
+Theater,Andrew,2016-06-23,M
+Business Day,Barry,2016-06-23,M
+World,Iliana,2016-06-23,F
+World,Nicholas,2016-06-23,M
+World,Max,2016-06-23,M
+Business Day,Jonathan,2016-06-23,M
+U.S.,Coral,2016-06-23,F
+U.S.,Ron,2016-06-23,M
+U.S.,Michael,2016-06-23,M
+U.S.,Liam,2016-06-23,M
+Sports,Melissa,2016-06-23,F
+Business Day,Gretchen,2016-06-23,F
+U.S.,Jeremy,2016-06-23,M
+World,Choe,2016-06-23,U
+Fashion & Style,Matthew,2016-06-23,M
+Fashion & Style,Vanessa,2016-06-23,F
+Technology,Quentin,2016-06-23,M
+Business Day,Elizabeth,2016-06-23,F
+Technology,J.,2016-06-23,U
+World,Victoria,2016-06-23,F
+Arts,Robin,2016-06-23,F
+U.S.,Amy,2016-06-23,F
+Sports,Karen,2016-06-23,F
+U.S.,Maggie,2016-06-23,F
+Sports,Ken,2016-06-23,M
+The Upshot,Brendan,2016-06-23,M
+U.S.,Carl,2016-06-23,M
+Opinion,Charlotte,2016-06-23,F
+World,Austin,2016-06-23,M
+Business Day,Megha,2016-06-23,F
+Sports,Victor,2016-06-23,M
+U.S.,Jennifer,2016-06-23,F
+Business Day,Jack,2016-06-23,M
+Technology,Farhad,2016-06-23,M
+U.S.,Trip,2016-06-23,M
+N.Y. / Region,Emma,2016-06-23,F
+Arts,Elaine,2016-06-23,F
+World,Stephen,2016-06-23,M
+World,Austin,2016-06-23,M
+The Upshot,Gregor,2016-06-23,M
+Fashion & Style,Guy,2016-06-23,M
+The Upshot,Neil,2016-06-23,M
+Fashion & Style,Vanessa,2016-06-23,F
+Fashion & Style,Bee,2016-06-23,M
+Fashion & Style,Guy,2016-06-23,M
+The Upshot,Aaron,2016-06-23,M
+Fashion & Style,Matthew,2016-06-23,M
+Opinion,Frank,2016-06-24,M
+Business Day,John,2016-06-24,M
+Opinion,Lee,2016-06-24,M
+Arts,Jon,2016-06-24,M
+Crosswords & Games,Deb,2016-06-24,F
+Theater,Michael,2016-06-24,M
+Arts,Alastair,2016-06-24,M
+Theater,Laura,2016-06-24,F
+Business Day,Leslie,2016-06-24,F
+Arts,Gia,2016-06-24,F
+Business Day,Jack,2016-06-24,M
+N.Y. / Region,Lisa,2016-06-24,F
+N.Y. / Region,Alex,2016-06-24,M
+N.Y. / Region,John,2016-06-24,M
+N.Y. / Region,Jaime,2016-06-24,GN
+Arts,Anthony,2016-06-24,M
+Arts,Siobhan,2016-06-24,F
+Opinion,Tony,2016-06-24,M
+N.Y. / Region,Dave,2016-06-24,M
+Arts,Melena,2016-06-24,F
+World,Ben,2016-06-24,M
+N.Y. / Region,Sam,2016-06-24,M
+Arts,Jada,2016-06-24,F
+Arts,Jon,2016-06-24,M
+Your Money,Ann,2016-06-24,F
+Arts,Robert,2016-06-24,M
+Arts,Zachary,2016-06-24,M
+Movies,Manohla,2016-06-24,U
+Travel,Steven,2016-06-24,M
+N.Y. / Region,Ginia,2016-06-24,F
+N.Y. / Region,Michael,2016-06-24,M
+N.Y. / Region,Eli,2016-06-24,M
+N.Y. / Region,Patricia,2016-06-24,F
+Real Estate,Joanne,2016-06-24,F
+N.Y. / Region,Kurt,2016-06-24,M
+N.Y. / Region,Fran,2016-06-24,F
+Opinion,Aziz,2016-06-24,M
+NYT Now,Andrea,2016-06-24,F
+Your Money,Paul,2016-06-24,M
+Opinion,Elizabeth,2016-06-24,F
+Travel,Elaine,2016-06-24,F
+Business Day,Gretchen,2016-06-24,F
+Your Money,Christopher,2016-06-24,M
+Opinion,Jochen,2016-06-24,U
+Opinion,Michael,2016-06-24,M
+Real Estate,Vivian,2016-06-24,F
+The Upshot,Neil,2016-06-24,M
+Arts,Margaret,2016-06-24,F
+Sports,Karen,2016-06-24,F
+N.Y. / Region,Andy,2016-06-24,M
+Arts,James,2016-06-24,M
+N.Y. / Region,David,2016-06-24,M
+Real Estate,Kaya,2016-06-24,F
+Opinion,Paul,2016-06-24,M
+Your Money,Ron,2016-06-24,M
+Opinion,Elizabeth,2016-06-24,F
+World,Megan,2016-06-24,F
+Movies,Tom,2016-06-24,M
+Books,Marilyn,2016-06-24,F
+T Magazine,Tas,2016-06-24,U
+N.Y. / Region,Jane,2016-06-24,F
+N.Y. / Region,Michael,2016-06-24,M
+Books,Samuel,2016-06-24,M
+Books,Jesse,2016-06-24,M
+Books,Felix,2016-06-24,M
+N.Y. / Region,Susan,2016-06-24,F
+T Magazine,Chrysanthe,2016-06-24,F
+Books,Pauls,2016-06-24,U
+Books,Alison,2016-06-24,F
+Books,Dorothy,2016-06-24,F
+Books,Thomas,2016-06-24,M
+N.Y. / Region,William,2016-06-24,M
+The Upshot,Justin,2016-06-24,M
+Magazine,Emily,2016-06-24,F
+T Magazine,Samantha,2016-06-24,F
+Food,Alec,2016-06-24,M
+World,Ivan,2016-06-24,M
+Arts,Louis,2016-06-24,M
+Times Insider,David,2016-06-24,M
+Real Estate,Jane,2016-06-24,F
+Travel,Nora,2016-06-24,F
+Movies,J.,2016-06-24,U
+Travel,Shivani,2016-06-24,F
+Travel,Lynn,2016-06-24,F
+Travel,Rachel,2016-06-24,F
+Times Insider,Susan,2016-06-24,F
+U.S.,Katharine,2016-06-24,F
+Arts,Ted,2016-06-24,M
+T Magazine,Laurie,2016-06-24,F
+Food,Sam,2016-06-24,M
+World,International,2016-06-24,U
+Opinion,Andrew,2016-06-24,M
+Business Day,Adam,2016-06-24,M
+Job Market,Rob,2016-06-24,M
+Magazine,John,2016-06-24,M
+Arts,Yousur,2016-06-24,U
+Opinion,Paul,2016-06-24,M
+Real Estate,Pamela,2016-06-24,F
+World,International,2016-06-24,U
+Education,Katherine,2016-06-24,F
+World,James,2016-06-24,M
+Times Insider,Jordan,2016-06-24,M
+Blogs,Amie,2016-06-24,F
+Opinion,Patrick,2016-06-24,M
+Health,Sharon,2016-06-24,F
+Health,Toby,2016-06-24,M
+N.Y. / Region,Adam,2016-06-24,M
+NYT Now,Adeel,2016-06-24,M
+Health,Roni,2016-06-24,F
+Arts,Bill,2016-06-24,M
+Opinion,Laura,2016-06-24,F
+Opinion,David,2016-06-24,M
+Opinion,Timothy,2016-06-24,M
+Opinion,Andrew,2016-06-24,M
+World,Gregor,2016-06-24,M
+Sports,Zach,2016-06-24,M
+Arts,Kathryn,2016-06-24,F
+N.Y. / Region,Daniel,2016-06-24,M
+N.Y. / Region,Megan,2016-06-24,F
+Sports,James,2016-06-24,M
+Sports,Harvey,2016-06-24,M
+N.Y. / Region,Emily,2016-06-24,F
+N.Y. / Region,Jim,2016-06-24,M
+Theater,Alexis,2016-06-24,F
+N.Y. / Region,Rick,2016-06-24,M
+World,Diaa,2016-06-24,U
+U.S.,Sheryl,2016-06-24,F
+U.S.,Julia,2016-06-24,F
+World,Rick,2016-06-24,M
+Business Day,Rachel,2016-06-24,F
+N.Y. / Region,Patrick,2016-06-24,M
+Arts,Laurel,2016-06-24,F
+Arts,Joshua,2016-06-24,M
+U.S.,Frances,2016-06-24,F
+Sports,Andrew,2016-06-24,M
+Sports,David,2016-06-24,M
+Business Day,Stacy,2016-06-24,F
+N.Y. / Region,Alan,2016-06-24,M
+Business Day,Brooks,2016-06-24,M
+World,Nour,2016-06-24,F
+U.S.,Nicholas,2016-06-24,M
+N.Y. / Region,Kate,2016-06-24,F
+Theater,Michael,2016-06-24,M
+Automobiles,Norman,2016-06-24,M
+Arts,Laurel,2016-06-24,F
+U.S.,Adam,2016-06-24,M
+Business Day,Leslie,2016-06-24,F
+Business Day,Andrew,2016-06-24,M
+Arts,Stephen,2016-06-24,M
+Arts,Michael,2016-06-24,M
+Books,Michiko,2016-06-24,F
+Movies,Manohla,2016-06-24,U
+Movies,Manohla,2016-06-24,U
+Movies,A.,2016-06-24,U
+Arts,Eve,2016-06-24,F
+Arts,Roberta,2016-06-24,F
+Movies,Glenn,2016-06-24,M
+Movies,Glenn,2016-06-24,M
+Movies,A.,2016-06-24,U
+The Upshot,Peter,2016-06-24,M
+Arts,Robin,2016-06-24,F
+Arts,Vivien,2016-06-24,F
+Movies,Glenn,2016-06-24,M
+Arts,Mary,2016-06-24,F
+Movies,Andy,2016-06-24,M
+Arts,Ken,2016-06-24,M
+Movies,Neil,2016-06-24,M
+Movies,Jeannette,2016-06-24,F
+Sports,Juliet,2016-06-24,F
+Movies,Helen,2016-06-24,F
+Movies,Ken,2016-06-24,M
+Movies,Neil,2016-06-24,M
+Movies,Andy,2016-06-24,M
+Business Day,Nathaniel,2016-06-24,M
+Movies,Mekado,2016-06-24,U
+Arts,Erik,2016-06-24,M
+Movies,Neil,2016-06-24,M
+Science,Steph,2016-06-24,F
+Opinion,Luba,2016-06-24,F
+Movies,A.,2016-06-24,U
+World,Sewell,2016-06-24,M
+World,Nick,2016-06-24,M
+U.S.,Timothy,2016-06-24,M
+Opinion,Richard,2016-06-24,M
+Business Day,Vanessa,2016-06-24,F
+Business Day,Liz,2016-06-24,F
+Theater,Michael,2016-06-24,M
+U.S.,Nicholas,2016-06-24,M
+Business Day,Noah,2016-06-24,M
+U.S.,Nick,2016-06-24,M
+U.S.,David,2016-06-24,M
+Opinion,Richard,2016-06-24,M
+Arts,Joe,2016-06-24,M
+Arts,Holland,2016-06-24,GN
+U.S.,Nick,2016-06-24,M
+Technology,John,2016-06-24,M
+Science,Joanna,2016-06-24,F
+World,Isabel,2016-06-24,F
+Business Day,Diane,2016-06-24,F
+Sports,Tyler,2016-06-24,M
+World,Declan,2016-06-24,M
+Sports,Benoît,2016-06-24,U
+U.S.,Carl,2016-06-24,M
+U.S.,Niraj,2016-06-24,M
+U.S.,Niraj,2016-06-24,M
+Times Insider,Susan,2016-06-24,F
+Business Day,Chad,2016-06-24,M
+World,Javier,2016-06-24,M
+Business Day,Leslie,2016-06-24,F
+Business Day,William,2016-06-24,M
+Automobiles,Tom,2016-06-24,M
+U.S.,Michael,2016-06-24,M
+Arts,Stephen,2016-06-24,M
+Sports,Liam,2016-06-24,M
+World,Alan,2016-06-24,M
+World,Jack,2016-06-24,M
+Arts,Jada,2016-06-24,F
+U.S.,Adam,2016-06-24,M
+Arts,James,2016-06-24,M
+U.S.,Adam,2016-06-24,M
+Arts,Neil,2016-06-24,M
+Technology,J.,2016-06-24,U
+Technology,Quentin,2016-06-24,M
+Business Day,Christopher,2016-06-24,M
+World,Raphael,2016-06-24,M
+Opinion,Bronwyn,2016-06-24,F
+Arts,Elisabetta,2016-06-24,F
+Business Day,Chad,2016-06-24,M
+Arts,Alice,2016-06-24,F
+U.S.,Jess,2016-06-24,M
+Real Estate,Nicola,2016-06-24,F
+World,Owen,2016-06-24,M
+The Upshot,Nate,2016-06-24,M
+U.S.,Maggie,2016-06-24,F
+Sports,Daniel,2016-06-24,M
+U.S.,Michael,2016-06-24,M
+Real Estate,Laura,2016-06-24,F
+U.S.,Julia,2016-06-24,F
+U.S.,Michael,2016-06-24,M
+World,Amie,2016-06-24,F
+World,Amanda,2016-06-24,F
+N.Y. / Region,Michael,2016-06-24,M
+U.S.,Ashley,2016-06-24,F
+Sports,Dan,2016-06-24,M
+World,Christopher,2016-06-24,M
+Arts,Stephen,2016-06-24,M
+Sports,Pat,2016-06-24,F
+Sports,Allan,2016-06-25,M
+Multimedia/Photos,Kerri,2016-06-25,F
+Arts,Angelica,2016-06-25,F
+Sports,Billy,2016-06-25,M
+Sports,Sam,2016-06-25,M
+Style,Jacob,2016-06-25,M
+World,Norimitsu,2016-06-25,U
+Sports,Margalit,2016-06-25,F
+Sports,Seth,2016-06-25,M
+Sports,Pat,2016-06-25,F
+U.S.,Richard,2016-06-25,M
+Sports,Christopher,2016-06-25,M
+Sports,Andrew,2016-06-25,M
+Food,Clay,2016-06-25,M
+U.S.,Frances,2016-06-25,F
+Sports,Tyler,2016-06-25,M
+Opinion,Linda,2016-06-25,F
+Opinion,J.,2016-06-25,U
+Opinion,Vanessa,2016-06-25,F
+Opinion,Nicholas,2016-06-25,M
+Opinion,Tom,2016-06-25,M
+Opinion,Maia,2016-06-25,F
+Opinion,Kate,2016-06-25,F
+Opinion,Ibby,2016-06-25,U
+Opinion,Adam,2016-06-25,M
+Opinion,Hisham,2016-06-25,M
+Opinion,Mark,2016-06-25,M
+Sports,James,2016-06-25,M
+U.S.,Trip,2016-06-25,M
+Sports,Benjamin,2016-06-25,M
+Crosswords & Games,Deb,2016-06-25,F
+U.S.,Nick,2016-06-25,M
+Sports,Melissa,2016-06-25,F
+Sports,Geoff,2016-06-25,M
+Opinion,Chisun,2016-06-25,U
+Opinion,Kate,2016-06-25,F
+Sports,Christopher,2016-06-25,M
+Business Day,Claire,2016-06-25,F
+World,Jane,2016-06-25,F
+Business Day,Robert,2016-06-25,M
+Business Day,Mark,2016-06-25,M
+Real Estate,Ronda,2016-06-25,F
+World,Max,2016-06-25,M
+U.S.,Carrie,2016-06-25,F
+Business Day,Nelson,2016-06-25,M
+Crosswords & Games,Deb,2016-06-25,F
+Business Day,Danielle,2016-06-25,F
+T Magazine,Samantha,2016-06-25,F
+Crosswords & Games,Deb,2016-06-25,F
+NYT Now,Marie,2016-06-25,F
+N.Y. / Region,Megan,2016-06-25,F
+N.Y. / Region,Eli,2016-06-25,M
+Arts,Bruce,2016-06-25,M
+World,Daniel,2016-06-25,M
+Arts,Kathryn,2016-06-25,F
+N.Y. / Region,Nikita,2016-06-25,F
+Business Day,Neil,2016-06-25,M
+Opinion,Gail,2016-06-25,F
+Opinion,Lawrence,2016-06-25,M
+N.Y. / Region,Liz,2016-06-25,F
+Opinion,Laura,2016-06-25,F
+U.S.,Julie,2016-06-25,F
+Sports,Karen,2016-06-25,F
+Sports,Ben,2016-06-25,M
+Sports,Andrew,2016-06-25,M
+Sports,Wayne,2016-06-25,M
+Sports,Seth,2016-06-25,M
+U.S.,Jonathan,2016-06-25,M
+Sports,James,2016-06-25,M
+Sports,Matt,2016-06-25,M
+U.S.,Julia,2016-06-25,F
+U.S.,Richard,2016-06-25,M
+U.S.,Jess,2016-06-25,M
+World,Diaa,2016-06-25,U
+Business Day,Steven,2016-06-25,M
+World,Claire,2016-06-25,F
+World,Elisabetta,2016-06-25,F
+World,Stephen,2016-06-25,M
+Sports,Simon,2016-06-25,M
+World,Rachel,2016-06-25,F
+U.S.,Maggie,2016-06-25,F
+Science,Nicholas,2016-06-25,M
+World,Kimiko,2016-06-25,F
+Sports,Benjamin,2016-06-25,M
+U.S.,Christine,2016-06-25,F
+U.S.,Jeremy,2016-06-25,M
+Sports,Rebecca,2016-06-25,F
+Arts,Sydney,2016-06-25,F
+U.S.,Niraj,2016-06-25,M
+Sports,Naila-jean,2016-06-25,U
+Opinion,Etgar,2016-06-25,U
+World,Ivan,2016-06-25,M
+U.S.,Erik,2016-06-25,M
+Arts,Christopher,2016-06-25,M
+Arts,Jeremy,2016-06-25,M
+Arts,Scott,2016-06-25,M
+World,Dan,2016-06-25,M
+World,Niraj,2016-06-25,M
+Arts,Ben,2016-06-25,M
+World,Melissa,2016-06-25,F
+The Upshot,Justin,2016-06-25,M
+U.S.,Jasmine,2016-06-25,F
+Business Day,Peter,2016-06-25,M
+Technology,J.,2016-06-25,U
+Technology,Jim,2016-06-25,M
+U.S.,Ashley,2016-06-25,F
+World,Jonathan,2016-06-25,M
+World,Julie,2016-06-25,F
+U.S.,Alan,2016-06-25,M
+World,Jane,2016-06-25,F
+Your Money,Ron,2016-06-25,M
+U.S.,Samuel,2016-06-25,M
+Opinion,Roger,2016-06-25,M
+Sports,Rob,2016-06-25,M
+U.S.,Maggie,2016-06-25,F
+World,Jim,2016-06-25,M
+Sports,Tim,2016-06-25,M
+U.S.,Carl,2016-06-25,M
+The Upshot,Nate,2016-06-25,M
+U.S.,Nick,2016-06-25,M
+Sports,Joe,2016-06-25,M
+World,Javier,2016-06-25,M
+World,Steven,2016-06-25,M
+Business Day,Peter,2016-06-25,M
+Arts,Ken,2016-06-26,M
+Arts,Ben,2016-06-26,M
+Arts,Zachary,2016-06-26,M
+Arts,Neil,2016-06-26,M
+Arts,Brian,2016-06-26,M
+Arts,Jeremy,2016-06-26,M
+Arts,Scott,2016-06-26,M
+Arts,Jon,2016-06-26,M
+N.Y. / Region,Lou,2016-06-26,F
+Movies,Brooks,2016-06-26,M
+Crosswords & Games,Deb,2016-06-26,F
+N.Y. / Region,Yousur,2016-06-26,U
+Style,Sona,2016-06-26,F
+N.Y. / Region,Neil,2016-06-26,M
+Theater,Ben,2016-06-26,M
+N.Y. / Region,David,2016-06-26,M
+N.Y. / Region,Neil,2016-06-26,M
+N.Y. / Region,Neil,2016-06-26,M
+N.Y. / Region,Neil,2016-06-26,M
+World,International,2016-06-26,U
+N.Y. / Region,Neil,2016-06-26,M
+Food,Sam,2016-06-26,M
+World,International,2016-06-26,U
+T Magazine,Samantha,2016-06-26,F
+Opinion,Paul,2016-06-26,M
+U.S.,Laurie,2016-06-26,F
+NYT Now,Stacy,2016-06-26,F
+World,Geeta,2016-06-26,F
+Arts,Kathryn,2016-06-26,F
+Fashion & Style,Jaclyn,2016-06-26,F
+Fashion & Style,Vincent,2016-06-26,M
+Fashion & Style,Rosalie,2016-06-26,F
+Sports,Naila-jean,2016-06-26,U
+Sports,Matt,2016-06-26,M
+World,Elisabetta,2016-06-26,F
+U.S.,Mike,2016-06-26,M
+U.S.,Ashley,2016-06-26,F
+N.Y. / Region,Andy,2016-06-26,M
+U.S.,Maggie,2016-06-26,F
+Fashion & Style,Cathy,2016-06-26,F
+Fashion & Style,Bill,2016-06-26,M
+World,Thomas,2016-06-26,M
+Sports,Christopher,2016-06-26,M
+World,Jeffrey,2016-06-26,M
+World,Jim,2016-06-26,M
+Arts,Joe,2016-06-26,M
+U.S.,Richard,2016-06-26,M
+World,Javier,2016-06-26,M
+Fashion & Style,Alison,2016-06-26,F
+U.S.,Maggie,2016-06-26,F
+Technology,Farhad,2016-06-26,M
+Business Day,Danielle,2016-06-26,F
+Business Day,Ben,2016-06-26,M
+Fashion & Style,Alexandra,2016-06-26,F
+Fashion & Style,Henry,2016-06-26,M
+World,Steven,2016-06-26,M
+U.S.,Christopher,2016-06-26,M
+Style,Michael,2016-06-26,M
+Fashion & Style,Hayley,2016-06-26,F
+Real Estate,Michelle,2016-06-26,F
+Books,John,2016-06-26,M
+Magazine,Ocean,2016-06-26,GN
+Books,Joumana,2016-06-26,U
+Movies,Neil,2016-06-26,M
+Magazine,Rosie,2016-06-26,F
+Magazine,Malia,2016-06-26,F
+Fashion & Style,Sarah,2016-06-26,F
+Fashion & Style,Lauren,2016-06-26,F
+Fashion & Style,Molly,2016-06-26,F
+Magazine,Sam,2016-06-26,M
+Real Estate,Mike,2016-06-26,M
+Magazine,Interview,2016-06-26,U
+Magazine,Kwame,2016-06-26,M
+Magazine,Molly,2016-06-26,F
+Magazine,Jenna,2016-06-26,F
+Fashion & Style,Guy,2016-06-26,M
+Magazine,Charles,2016-06-26,M
+Fashion & Style,Matthew,2016-06-26,M
+Books,Gregory,2016-06-26,M
+Magazine,Elise,2016-06-27,F
+N.Y. / Region,Alan,2016-06-27,M
+Movies,J.,2016-06-27,U
+Crosswords & Games,Deb,2016-06-27,F
+Arts,James,2016-06-27,M
+Books,Michiko,2016-06-27,F
+Sports,Naila-jean,2016-06-27,U
+Books,Barry,2016-06-27,M
+Books,Dani,2016-06-27,F
+Health,Benedict,2016-06-27,M
+T Magazine,Hayley,2016-06-27,F
+Travel,Shivani,2016-06-27,F
+Magazine,Emily,2016-06-27,F
+NYT Now,Jonah,2016-06-27,M
+NYT Now,Jonah,2016-06-27,M
+Opinion,Andrew,2016-06-27,M
+Health,Roni,2016-06-27,F
+Times Insider,Insider,2016-06-27,U
+Fashion & Style,Matthew,2016-06-27,M
+Travel,Elaine,2016-06-27,F
+T Magazine,Samantha,2016-06-27,F
+Health,Rachel,2016-06-27,F
+World,International,2016-06-27,U
+Times Insider,Donald,2016-06-27,M
+Arts,Margaret,2016-06-27,F
+Crosswords & Games,Gary,2016-06-27,M
+U.S.,Shane,2016-06-27,M
+Health,Kj,2016-06-27,M
+Arts,Noel,2016-06-27,M
+Food,Sam,2016-06-27,M
+Opinion,Aatish,2016-06-27,M
+Science,Manjula,2016-06-27,U
+The Upshot,Nate,2016-06-27,M
+World,International,2016-06-27,U
+U.S.,Alicia,2016-06-27,F
+Science,James,2016-06-27,M
+Blogs,Amie,2016-06-27,F
+Travel,Richard,2016-06-27,M
+N.Y. / Region,Jonathan,2016-06-27,M
+Health,Perri,2016-06-27,F
+NYT Now,Adeel,2016-06-27,M
+Health,Jane,2016-06-27,F
+Multimedia/Photos,Finbarr,2016-06-27,U
+T Magazine,Marella,2016-06-27,F
+Opinion,Josh,2016-06-27,M
+Opinion,Brittany,2016-06-27,F
+Opinion,Charles,2016-06-27,M
+Opinion,Mimi,2016-06-27,F
+Opinion,Steven,2016-06-27,M
+U.S.,Eli,2016-06-27,M
+N.Y. / Region,Joseph,2016-06-27,M
+Arts,Kathryn,2016-06-27,F
+Business Day,Matthew,2016-06-27,M
+Business Day,Jim,2016-06-27,M
+Sports,Richard,2016-06-27,M
+Sports,Andrew,2016-06-27,M
+World,Roslyn,2016-06-27,F
+Sports,Billy,2016-06-27,M
+N.Y. / Region,Rick,2016-06-27,M
+Sports,Karen,2016-06-27,F
+World,Walt,2016-06-27,M
+Sports,Billy,2016-06-27,M
+Sports,Ben,2016-06-27,M
+World,David,2016-06-27,M
+Theater,Dave,2016-06-27,M
+World,Kai,2016-06-27,M
+Business Day,Danny,2016-06-27,M
+N.Y. / Region,Elizabeth,2016-06-27,F
+U.S.,Matt,2016-06-27,M
+World,Raphael,2016-06-27,M
+World,Isabel,2016-06-27,F
+Technology,John,2016-06-27,M
+U.S.,Anemona,2016-06-27,U
+Opinion,Philippe,2016-06-27,M
+N.Y. / Region,William,2016-06-27,M
+U.S.,Fernanda,2016-06-27,F
+U.S.,Mike,2016-06-27,M
+N.Y. / Region,Mireya,2016-06-27,F
+World,Alan,2016-06-27,M
+Business Day,Michael,2016-06-27,M
+Science,Steph,2016-06-27,F
+Business Day,Stanley,2016-06-27,M
+World,Azam,2016-06-27,M
+Business Day,Landon,2016-06-27,M
+N.Y. / Region,Nina,2016-06-27,F
+World,Stephen,2016-06-27,M
+Books,Jennifer,2016-06-27,F
+U.S.,Dan,2016-06-27,M
+Movies,Michael,2016-06-27,M
+U.S.,Gardiner,2016-06-27,M
+Business Day,Stephanie,2016-06-27,F
+Arts,Robin,2016-06-27,F
+Theater,Neil,2016-06-27,M
+Arts,Brian,2016-06-27,M
+Business Day,Hiroko,2016-06-27,F
+Sports,James,2016-06-27,M
+Sports,Christopher,2016-06-27,M
+Sports,Karen,2016-06-27,F
+Theater,Joshua,2016-06-27,M
+Sports,Mike,2016-06-27,M
+Business Day,Rob,2016-06-27,M
+World,Mark,2016-06-27,M
+Business Day,Alexandra,2016-06-27,F
+U.S.,Jeremy,2016-06-27,M
+Sports,Sam,2016-06-27,M
+N.Y. / Region,Michael,2016-06-27,M
+World,Amanda,2016-06-27,F
+U.S.,Albert,2016-06-27,M
+Fashion & Style,Vanessa,2016-06-27,F
+U.S.,Jeremy,2016-06-27,M
+World,Edward,2016-06-27,M
+Sports,Rob,2016-06-27,M
+World,Alison,2016-06-27,F
+World,Steven,2016-06-27,M
+Opinion,Matthew,2016-06-27,M
+Arts,Brian,2016-06-27,M
+Arts,Daniel,2016-06-27,M
+Movies,Bruce,2016-06-27,M
+Sports,Tim,2016-06-27,M
+Style,Daniel,2016-06-28,M
+T Magazine,Jason,2016-06-28,M
+The Upshot,Neil,2016-06-28,M
+U.S.,Adam,2016-06-28,M
+Fashion & Style,Jon,2016-06-28,M
+Business Day,Sam,2016-06-28,M
+Crosswords & Games,Deb,2016-06-28,F
+World,Nina,2016-06-28,F
+Science,Henry,2016-06-28,M
+U.S.,Richard,2016-06-28,M
+Movies,Mekado,2016-06-28,U
+World,Neil,2016-06-28,M
+World,Adam,2016-06-28,M
+Opinion,Liriel,2016-06-28,F
+NYT Now,Jonah,2016-06-28,M
+T Magazine,David,2016-06-28,M
+T Magazine,Hilary,2016-06-28,F
+World,Jane,2016-06-28,F
+Sports,Naila-jean,2016-06-28,U
+World,Stephen,2016-06-28,M
+T Magazine,Lindsey,2016-06-28,F
+World,Shane,2016-06-28,M
+Health,Jen,2016-06-28,F
+World,Steven,2016-06-28,M
+Sports,Richard,2016-06-28,M
+World,Chris,2016-06-28,M
+Health,Nicholas,2016-06-28,M
+World,International,2016-06-28,U
+U.S.,Ian,2016-06-28,M
+Times Insider,Majd,2016-06-28,M
+Health,Richard,2016-06-28,M
+N.Y. / Region,Catherine,2016-06-28,F
+N.Y. / Region,Mary,2016-06-28,F
+Travel,Lucas,2016-06-28,M
+Travel,Jeremy,2016-06-28,M
+Arts,Genevieve,2016-06-28,F
+Health,Roni,2016-06-28,F
+World,Andrew,2016-06-28,M
+Magazine,Ruth,2016-06-28,F
+Movies,Charles,2016-06-28,M
+Magazine,Teju,2016-06-28,U
+Magazine,Wesley,2016-06-28,M
+Sports,Jeré,2016-06-28,U
+U.S.,David,2016-06-28,M
+World,International,2016-06-28,U
+World,Jonah,2016-06-28,M
+Opinion,Anna,2016-06-28,F
+World,Ron,2016-06-28,M
+N.Y. / Region,Natalia,2016-06-28,F
+Books,Chimamanda,2016-06-28,F
+U.S.,Thomas,2016-06-28,M
+Opinion,Patrick,2016-06-28,M
+Science,Kenneth,2016-06-28,M
+Science,Dennis,2016-06-28,M
+Blogs,Amie,2016-06-28,F
+N.Y. / Region,Jonathan,2016-06-28,M
+NYT Now,Adeel,2016-06-28,M
+Multimedia/Photos,Joseph,2016-06-28,M
+Sports,Seth,2016-06-28,M
+Opinion,Arthur,2016-06-28,M
+Opinion,Patrick,2016-06-28,M
+N.Y. / Region,Corey,2016-06-28,M
+Opinion,Marine,2016-06-28,F
+Opinion,Marine,2016-06-28,F
+Science,Jonathan,2016-06-28,M
+Health,Jan,2016-06-28,F
+Sports,Karen,2016-06-28,F
+Arts,Kathryn,2016-06-28,F
+Sports,James,2016-06-28,M
+Sports,Ben,2016-06-28,M
+Sports,Seth,2016-06-28,M
+Sports,Karen,2016-06-28,F
+World,Ben,2016-06-28,M
+Sports,Seth,2016-06-28,M
+U.S.,Samantha,2016-06-28,F
+Sports,Christopher,2016-06-28,M
+U.S.,Maggie,2016-06-28,F
+Sports,Tyler,2016-06-28,M
+World,Rick,2016-06-28,M
+Business Day,Michael,2016-06-28,M
+World,Ian,2016-06-28,M
+Business Day,Hiroko,2016-06-28,F
+World,Raphael,2016-06-28,M
+World,Max,2016-06-28,M
+Business Day,Jackie,2016-06-28,GN
+U.S.,Erik,2016-06-28,M
+World,Sabrina,2016-06-28,F
+Business Day,Hiroko,2016-06-28,F
+World,Pascale,2016-06-28,F
+Sports,Victor,2016-06-28,M
+Health,Nicholas,2016-06-28,M
+U.S.,Jeremy,2016-06-28,M
+Business Day,Leslie,2016-06-28,F
+Opinion,Linda,2016-06-28,F
+Theater,Andy,2016-06-28,M
+World,Jim,2016-06-28,M
+Theater,Michael,2016-06-28,M
+World,Ivan,2016-06-28,M
+Arts,Mike,2016-06-28,M
+Arts,Sandra,2016-06-28,F
+Business Day,Andrew,2016-06-28,M
+U.S.,Mike,2016-06-28,M
+Sports,Sam,2016-06-28,M
+World,Dan,2016-06-28,M
+World,Isabel,2016-06-28,F
+Sports,Seth,2016-06-28,M
+Business Day,Kevin,2016-06-28,M
+Arts,Alastair,2016-06-28,M
+Business Day,Geraldine,2016-06-28,F
+Arts,Reported,2016-06-28,U
+Business Day,Jonah,2016-06-28,M
+U.S.,David,2016-06-28,M
+Sports,Victor,2016-06-28,M
+U.S.,Manny,2016-06-28,M
+World,Patrick,2016-06-28,M
+World,Najim,2016-06-28,U
+Business Day,Annalyn,2016-06-28,F
+Business Day,Peter,2016-06-28,M
+Business Day,Jonathan,2016-06-28,M
+World,Kimiko,2016-06-28,F
+Sports,Victor,2016-06-28,M
+U.S.,Adam,2016-06-28,M
+Technology,J.,2016-06-28,U
+Technology,Jim,2016-06-28,M
+Theater,Joshua,2016-06-28,M
+Business Day,Carl,2016-06-28,M
+U.S.,Adam,2016-06-28,M
+Science,C.,2016-06-28,U
+Arts,Katie,2016-06-28,F
+World,Steven,2016-06-28,M
+N.Y. / Region,Liam,2016-06-28,M
+World,Ellen,2016-06-28,F
+The Upshot,Damon,2016-06-28,M
+World,Edward,2016-06-28,M
+The Upshot,Nate,2016-06-28,M
+Business Day,Michael,2016-06-28,M
+Technology,Natasha,2016-06-28,F
+Fashion & Style,Vanessa,2016-06-28,F
+U.S.,Mike,2016-06-28,M
+U.S.,Thomas,2016-06-28,M
+Opinion,Roger,2016-06-28,M
+U.S.,Amy,2016-06-28,F
+U.S.,Carl,2016-06-28,M
+World,Rana,2016-06-28,F
+Fashion & Style,Matthew,2016-06-28,M
+World,Motoko,2016-06-28,U
+Business Day,Nathaniel,2016-06-28,M
+Theater,Ben,2016-06-28,M
+Science,Matt,2016-06-28,M
+Science,Carl,2016-06-28,M
+Times Insider,Adam,2016-06-29,M
+Crosswords & Games,Deb,2016-06-29,F
+Business Day,Patricia,2016-06-29,F
+Business Day,Daniel,2016-06-29,M
+Business Day,Nathaniel,2016-06-29,M
+Arts,Zachary,2016-06-29,M
+Business Day,Nathaniel,2016-06-29,M
+Books,Carmela,2016-06-29,F
+Books,Keith,2016-06-29,M
+T Magazine,Hilary,2016-06-29,F
+NYT Now,Karen,2016-06-29,F
+Sports,Christopher,2016-06-29,M
+Technology,Natasha,2016-06-29,F
+Health,Rachel,2016-06-29,F
+U.S.,Jonathan,2016-06-29,M
+Health,Mikkael,2016-06-29,U
+Travel,Shivani,2016-06-29,F
+Travel,Justin,2016-06-29,M
+T Magazine,Hettie,2016-06-29,F
+Arts,Alastair,2016-06-29,M
+Technology,Farhad,2016-06-29,M
+World,International,2016-06-29,U
+Real Estate,Alison,2016-06-29,F
+T Magazine,Hilary,2016-06-29,F
+Health,Jan,2016-06-29,F
+Food,Sam,2016-06-29,M
+Health,Dawn,2016-06-29,F
+Arts,Lorne,2016-06-29,M
+Magazine,Michael,2016-06-29,M
+Magazine,David,2016-06-29,M
+Magazine,Kwame,2016-06-29,M
+World,International,2016-06-29,U
+Travel,Nina,2016-06-29,F
+Travel,Daniel,2016-06-29,M
+Books,Jim,2016-06-29,M
+Real Estate,Julie,2016-06-29,F
+Magazine,Interview,2016-06-29,U
+N.Y. / Region,Leslie,2016-06-29,F
+Opinion,Carol,2016-06-29,F
+Books,Maria,2016-06-29,F
+Arts,Edward,2016-06-29,M
+Blogs,Amie,2016-06-29,F
+Science,Nicholas,2016-06-29,M
+NYT Now,Adeel,2016-06-29,M
+Health,Gretchen,2016-06-29,F
+Multimedia/Photos,Whitney,2016-06-29,F
+N.Y. / Region,Sam,2016-06-29,M
+Opinion,Nicolle,2016-06-29,F
+Opinion,Thomas,2016-06-29,M
+Opinion,Robert,2016-06-29,M
+Arts,William,2016-06-29,M
+U.S.,Ron,2016-06-29,M
+Arts,Kathryn,2016-06-29,F
+U.S.,Mark,2016-06-29,M
+Sports,James,2016-06-29,M
+Books,William,2016-06-29,M
+U.S.,Eric,2016-06-29,M
+Arts,Sam,2016-06-29,M
+Business Day,Steve,2016-06-29,M
+N.Y. / Region,William,2016-06-29,M
+U.S.,Robert,2016-06-29,M
+Sports,Christopher,2016-06-29,M
+Sports,Karen,2016-06-29,F
+N.Y. / Region,Vivian,2016-06-29,F
+Sports,Seth,2016-06-29,M
+Sports,Karen,2016-06-29,F
+N.Y. / Region,Eli,2016-06-29,M
+N.Y. / Region,Rick,2016-06-29,M
+Sports,James,2016-06-29,M
+N.Y. / Region,Corey,2016-06-29,M
+World,Kareem,2016-06-29,M
+Sports,Jeré,2016-06-29,U
+Sports,Ben,2016-06-29,M
+N.Y. / Region,Jim,2016-06-29,M
+Business Day,Mike,2016-06-29,M
+Real Estate,Rosalie,2016-06-29,F
+Business Day,Landon,2016-06-29,M
+Real Estate,Keith,2016-06-29,M
+Arts,Joe,2016-06-29,M
+Theater,John,2016-06-29,M
+U.S.,Katie,2016-06-29,F
+Theater,Laura,2016-06-29,F
+Books,Dwight,2016-06-29,M
+Arts,Stephen,2016-06-29,M
+Opinion,Bernie,2016-06-29,M
+Business Day,Neal,2016-06-29,M
+Technology,Steve,2016-06-29,M
+World,Tim,2016-06-29,M
+Food,Julia,2016-06-29,F
+Business Day,Mike,2016-06-29,M
+Arts,Rachel,2016-06-29,F
+Business Day,Jonathan,2016-06-29,M
+Arts,Roslyn,2016-06-29,F
+Sports,Juliet,2016-06-29,F
+Business Day,Gina,2016-06-29,F
+N.Y. / Region,Sam,2016-06-29,M
+World,Isabel,2016-06-29,F
+Food,Eric,2016-06-29,M
+U.S.,Adam,2016-06-29,M
+Food,Florence,2016-06-29,F
+Food,Jeff,2016-06-29,M
+Business Day,Stacy,2016-06-29,F
+Food,Pete,2016-06-29,M
+Sports,Rebecca,2016-06-29,F
+N.Y. / Region,Emily,2016-06-29,F
+Business Day,Steven,2016-06-29,M
+Arts,John,2016-06-29,M
+Technology,J.,2016-06-29,U
+Opinion,Sarfraz,2016-06-29,U
+Technology,Jim,2016-06-29,M
+Theater,Scott,2016-06-29,M
+U.S.,John,2016-06-29,M
+U.S.,David,2016-06-29,M
+Business Day,Jack,2016-06-29,M
+Technology,Nick,2016-06-29,M
+Sports,Victor,2016-06-29,M
+World,Kiki,2016-06-29,F
+U.S.,Christopher,2016-06-29,M
+Business Day,Eduardo,2016-06-29,M
+U.S.,Nick,2016-06-29,M
+Business Day,Jonathan,2016-06-29,M
+U.S.,Kate,2016-06-29,F
+Technology,Katie,2016-06-29,F
+World,Andrew,2016-06-29,M
+Arts,Joshua,2016-06-29,M
+Arts,Jeremy,2016-06-29,M
+Food,Tejal,2016-06-29,F
+Food,Florence,2016-06-29,F
+Food,Florence,2016-06-29,F
+Food,Florence,2016-06-29,F
+Food,Florence,2016-06-29,F
+Food,Florence,2016-06-29,F
+Food,Florence,2016-06-29,F
+Food,Melissa,2016-06-29,F
+Food,David,2016-06-29,M
+Food,Kim,2016-06-29,F
+Food,Ligaya,2016-06-29,F
+Obituaries,Sarah,2016-06-30,F
+Obituaries,Daniel,2016-06-30,M
+Obituaries,Daniel,2016-06-30,M
+Obituaries,Darold,2016-06-30,M
+Obituaries,Shreeya,2016-06-30,F
+Obituaries,John,2016-06-30,M
+Obituaries,Daniel,2016-06-30,M
+Obituaries,Margalit,2016-06-30,F
+Obituaries,Sam,2016-06-30,M
+Obituaries,Tamara,2016-06-30,F
+Obituaries,Bruce,2016-06-30,M
+Obituaries,Daniel,2016-06-30,M
+Obituaries,Sam,2016-06-30,M
+Times Insider,Sarah,2016-06-30,F
+N.Y. / Region,William,2016-06-30,M
+Your Money,Jeff,2016-06-30,M
+N.Y. / Region,J.,2016-06-30,U
+Crosswords & Games,Deb,2016-06-30,F
+Arts,Gia,2016-06-30,F
+U.S.,Jonah,2016-06-30,M
+Arts,Siobhan,2016-06-30,F
+Sports,Randal,2016-06-30,M
+World,Nour,2016-06-30,F
+Science,Steph,2016-06-30,F
+Arts,Joe,2016-06-30,M
+Business Day,Stephanie,2016-06-30,F
+Fashion & Style,Philip,2016-06-30,M
+Technology,Mike,2016-06-30,M
+Travel,Esha,2016-06-30,F
+Travel,Elaine,2016-06-30,F
+Travel,Elaine,2016-06-30,F
+NYT Now,Karen,2016-06-30,F
+Fashion & Style,Jane,2016-06-30,F
+Fashion & Style,Jane,2016-06-30,F
+Movies,Ainara,2016-06-30,F
+U.S.,Sheryl,2016-06-30,F
+Opinion,Paul,2016-06-30,M
+Sports,Naila-jean,2016-06-30,U
+Opinion,Vatsal,2016-06-30,M
+Food,Eric,2016-06-30,M
+Movies,Mekado,2016-06-30,U
+Opinion,Francis,2016-06-30,M
+Movies,A.,2016-06-30,U
+Sports,Ian,2016-06-30,M
+Food,Robert,2016-06-30,M
+Times Insider,Julie,2016-06-30,F
+Times Insider,David,2016-06-30,M
+Times Insider,Susan,2016-06-30,F
+Travel,Alexander,2016-06-30,M
+Travel,Patricia,2016-06-30,F
+Travel,Kate,2016-06-30,F
+Travel,Adelle,2016-06-30,F
+Travel,Cheryl,2016-06-30,F
+World,International,2016-06-30,U
+Health,Susan,2016-06-30,F
+Theater,Eric,2016-06-30,M
+Business Day,John,2016-06-30,M
+Health,Amby,2016-06-30,F
+Magazine,Maggie,2016-06-30,F
+Arts,Joe,2016-06-30,M
+Magazine,John,2016-06-30,M
+Magazine,Tamar,2016-06-30,F
+Magazine,Malia,2016-06-30,F
+World,International,2016-06-30,U
+Food,Ligaya,2016-06-30,F
+World,Steven,2016-06-30,M
+Books,Carlo,2016-06-30,M
+Books,Parul,2016-06-30,F
+World,Diaa,2016-06-30,U
+World,Jodi,2016-06-30,F
+Sports,Jeré,2016-06-30,U
+N.Y. / Region,Eli,2016-06-30,M
+Real Estate,Joyce,2016-06-30,F
+World,Javier,2016-06-30,M
+World,Jodi,2016-06-30,F
+N.Y. / Region,Caroline,2016-06-30,F
+Obituaries,Daniel,2016-06-30,M
+Opinion,Mira,2016-06-30,F
+Health,Kj,2016-06-30,M
+Blogs,Amie,2016-06-30,F
+Health,Ira,2016-06-30,M
+N.Y. / Region,Jonathan,2016-06-30,M
+NYT Now,Adeel,2016-06-30,M
+Multimedia/Photos,David,2016-06-30,M
+Opinion,Thomas,2016-06-30,M
+Opinion,Michael,2016-06-30,M
+Opinion,Gail,2016-06-30,F
+Opinion,Charles,2016-06-30,M
+Business Day,Michael,2016-06-30,M
+N.Y. / Region,Sarah,2016-06-30,F
+Arts,William,2016-06-30,M
+N.Y. / Region,Vivian,2016-06-30,F
+Arts,Kathryn,2016-06-30,F
+Sports,Ben,2016-06-30,M
+Sports,James,2016-06-30,M
+N.Y. / Region,J.,2016-06-30,U
+N.Y. / Region,Alan,2016-06-30,M
+N.Y. / Region,Rick,2016-06-30,M
+Sports,Karen,2016-06-30,F
+Sports,Karen,2016-06-30,F
+Sports,Scott,2016-06-30,M
+N.Y. / Region,William,2016-06-30,M
+World,Declan,2016-06-30,M
+U.S.,Emmarie,2016-06-30,F
+World,Lilia,2016-06-30,F
+Technology,Katie,2016-06-30,F
+U.S.,Steven,2016-06-30,M
+World,Rukmini,2016-06-30,F
+N.Y. / Region,Kate,2016-06-30,F
+U.S.,Jennifer,2016-06-30,F
+Sports,Tyler,2016-06-30,M
+U.S.,Coral,2016-06-30,F
+World,Amanda,2016-06-30,F
+Fashion & Style,Alison,2016-06-30,F
+Arts,Graham,2016-06-30,M
+World,Kirk,2016-06-30,M
+World,Somini,2016-06-30,U
+Opinion,Mustafa,2016-06-30,M
+Fashion & Style,Ann,2016-06-30,F
+U.S.,Nick,2016-06-30,M
+Fashion & Style,Jacob,2016-06-30,M
+World,Michelle,2016-06-30,F
+Science,Nicholas,2016-06-30,M
+Arts,Michael,2016-06-30,M
+Style,Daniel,2016-06-30,M
+Fashion & Style,Crystal,2016-06-30,F
+Arts,Joe,2016-06-30,M
+World,Choe,2016-06-30,U
+World,Jeffrey,2016-06-30,M
+Theater,Alexis,2016-06-30,F
+Arts,Jon,2016-06-30,M
+Arts,Mike,2016-06-30,M
+Business Day,Michael,2016-06-30,M
+Fashion & Style,Liesl,2016-06-30,F
+Business Day,Michael,2016-06-30,M
+U.S.,Jack,2016-06-30,M
+World,Didi,2016-06-30,F
+Arts,Gia,2016-06-30,F
+Technology,Kit,2016-06-30,M
+Arts,Robin,2016-06-30,F
+World,Henrik,2016-06-30,M
+Business Day,Geraldine,2016-06-30,F
+Theater,Jennifer,2016-06-30,F
+N.Y. / Region,Marc,2016-06-30,M
+Books,Jennifer,2016-06-30,F
+World,Rick,2016-06-30,M
+Sports,Harvey,2016-06-30,M
+Technology,Mark,2016-06-30,M
+Your Money,Ann,2016-06-30,F
+Science,Joanna,2016-06-30,F
+Fashion & Style,Matthew,2016-06-30,M
+U.S.,Amy,2016-06-30,F
+World,Dan,2016-06-30,M
+Theater,Michael,2016-06-30,M
+Business Day,Rob,2016-06-30,M
+Business Day,Jackie,2016-06-30,GN
+Arts,Randy,2016-06-30,M
+Arts,Dave,2016-06-30,M
+World,Max,2016-06-30,M
+Fashion & Style,Michael,2016-06-30,M
+U.S.,Yamiche,2016-06-30,U
+Business Day,Annalyn,2016-06-30,F
+World,Michelle,2016-06-30,F
+Technology,Brian,2016-06-30,M
+Business Day,Chad,2016-06-30,M
+Sports,Naila-jean,2016-06-30,U
+Technology,J.,2016-06-30,U
+U.S.,Matt,2016-06-30,M
+Technology,Jim,2016-06-30,M
+Business Day,Keith,2016-06-30,M
+U.S.,Manny,2016-06-30,M
+Sports,Victor,2016-06-30,M
+Business Day,Michael,2016-06-30,M
+World,Andrew,2016-06-30,M
+U.S.,Alan,2016-06-30,M
+World,Mark,2016-06-30,M
+Business Day,Jane,2016-06-30,F
+Technology,Mike,2016-06-30,M
+Business Day,Eilene,2016-06-30,F
+World,Dionne,2016-06-30,F
+Business Day,Diane,2016-06-30,F
+World,Steven,2016-06-30,M
+The Upshot,Nate,2016-06-30,M
+World,Tim,2016-06-30,M
+Books,Alexandra,2016-06-30,F
+World,Austin,2016-06-30,M
+World,Prashant,2016-06-30,M
+U.S.,Maggie,2016-06-30,F
+U.S.,Maggie,2016-06-30,F
+Sports,Emma,2016-06-30,F
+U.S.,Jennifer,2016-06-30,F
+U.S.,Alan,2016-06-30,M
+U.S.,Carl,2016-06-30,M
+World,Alissa,2016-06-30,F
+Sports,William,2016-06-30,M
+Fashion & Style,Vanessa,2016-06-30,F
+The Upshot,Nate,2016-06-30,M
+Business Day,Chad,2016-06-30,M
+Business Day,Hiroko,2016-06-30,F
+Fashion & Style,Max,2016-06-30,M
+Opinion,Paul,2016-06-30,M
+Fashion & Style,Guy,2016-06-30,M
+Fashion & Style,Guy,2016-06-30,M
+Fashion & Style,Guy,2016-06-30,M
+Fashion & Style,Matthew,2016-06-30,M

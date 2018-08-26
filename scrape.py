@@ -6,7 +6,7 @@ key = '75ecb8e663da46c2ad9759c147fe0812'
 
 ## where should I put this
 gp = genderPredictor.genderPredictor()
-accuracy = gp.trainAndTest()
+# accuracy = gp.trainAndTest()
 
 def getArticlesMonth(year, month):
     url = 'http://api.nytimes.com/svc/archive/v1/{}/{}.json?api-key={}'.format(str(year), str(month), key)
@@ -18,7 +18,7 @@ def scrape(articles):
 
     filename = '{}.csv'.format(articles[0]['pub_date'][:7])
 
-    with open('data/{}'.format(filename), mode='w') as csv_file:
+    with open('data_conserv/{}'.format(filename), mode='w') as csv_file:
         nyt_writer = csv.writer(csv_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         nyt_writer.writerow(['section_name', 'firstname', 'pub_date', 'gender'])
         for article in articles:
@@ -27,7 +27,8 @@ def scrape(articles):
                     article['section_name'],
                     article['byline']['person'][0]['firstname'],
                     article['pub_date'][:10],
-                    gp.classify(article['byline']['person'][0]['firstname'])])
+                    # gp.classify(article['byline']['person'][0]['firstname'])])
+                    gp.getGender(article['byline']['person'][0]['firstname'])])
             except:
                 continue
 
@@ -40,5 +41,16 @@ def scrapeYears(year, month, startYear=2011):
         else:
             month -= 1
 
-# if __name__ == "__main__":
-    # scrapeYears(2012, 12, 2010)
+if __name__ == "__main__":
+    # scrape(getArticlesMonth(2011, 12))
+    # scrape(getArticlesMonth(2011, 11))
+    # scrape(getArticlesMonth(2011, 10))
+    # scrape(getArticlesMonth(2011, 9))
+    # scrape(getArticlesMonth(2011, 8))
+    # scrape(getArticlesMonth(2011, 7))
+    # scrape(getArticlesMonth(2011, 6))
+    # scrape(getArticlesMonth(2011, 5))
+    # scrape(getArticlesMonth(2011, 4))
+    # scrape(getArticlesMonth(2011, 3))
+    # scrape(getArticlesMonth(2011, 2))
+    # scrape(getArticlesMonth(2011, 1))

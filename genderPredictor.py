@@ -10,6 +10,8 @@ import random
 
 class genderPredictor():
 
+    def __init__(self):
+        self.nameDic = self._getNameDict()
     def getFeatures(self):
         maleNames,femaleNames=self._loadNames()
 
@@ -84,7 +86,25 @@ class genderPredictor():
         }
 
     # made by me, hopefully will use later to remove machine learning
-    def getNameDict(self):
+    def getGender(self, name, verbose=False):
+        try:
+            smalldic = self.nameDic[name.upper()]
+            men = list(smalldic.keys())[0]
+            women = list(smalldic.values())[0]
+            if verbose:
+                print (men / (men + women))
+            if (men / (men + women) > .6):
+                return 'M'
+            elif (men / (men + women) < .4):
+                return 'F'
+            else:
+                return 'GN'
+        except:
+            if verbose:
+                print ('Name not in database')
+            return 'U'
+
+    def _getNameDict(self):
         tuples = self._loadNames()
         dictTupleMen = {a:{b:c} for a,b,c in tuples[0]}
         dictTupleWomen = {a:{b:c} for a,b,c in tuples[1]}
