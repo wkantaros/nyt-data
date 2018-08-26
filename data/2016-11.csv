@@ -438,7 +438,7 @@ T Magazine,Carter,2016-11-03,M
 Business Day,William,2016-11-03,M
 Science,Joanna,2016-11-03,F
 World,Declan,2016-11-03,M
-T Magazine,Crystal,2016-11-03,F
+T Magazine,Crystal,2016-11-03,M
 Well,Susan,2016-11-03,M
 Opinion,Elizabeth,2016-11-03,F
 Arts,Michael,2016-11-03,M
@@ -768,11 +768,11 @@ The Learning Network,Michael,2016-11-04,M
 The Learning Network,Katherine,2016-11-04,F
 The Learning Network,Katherine,2016-11-04,F
 World,Ismail,2016-11-04,M
-Fashion & Style,Guy,2016-11-04,M
+Fashion & Style,Guy,2016-11-04,F
 Opinion,Lawrence,2016-11-04,F
 Opinion,Paul,2016-11-04,M
 Opinion,David,2016-11-04,M
-Opinion,Timothy,2016-11-04,M
+Opinion,Timothy,2016-11-04,F
 Business Day,Amie,2016-11-04,F
 Arts,Kathryn,2016-11-04,M
 Briefing,Patrick,2016-11-04,M
@@ -857,7 +857,7 @@ Fashion & Style,Rosalie,2016-11-05,F
 Technology,Farhad,2016-11-05,M
 Fashion & Style,Nina,2016-11-05,F
 Fashion & Style,Vincent,2016-11-05,M
-World,Felipe,2016-11-05,F
+World,Felipe,2016-11-05,M
 Real Estate,Julie,2016-11-05,F
 Crosswords & Games,Deb,2016-11-05,M
 Your Money,Ron,2016-11-05,M
@@ -872,7 +872,7 @@ Style,Heather,2016-11-05,M
 U.S.,Julie,2016-11-05,F
 Technology,Natasha,2016-11-05,F
 NYT Now,Lela,2016-11-05,F
-World,Felipe,2016-11-05,F
+World,Felipe,2016-11-05,M
 U.S.,Nick,2016-11-05,M
 Arts,Kathryn,2016-11-05,M
 Arts,Siobhan,2016-11-05,M
@@ -906,7 +906,7 @@ Technology,David,2016-11-05,M
 N.Y. / Region,Elizabeth,2016-11-05,F
 Opinion,Gail,2016-11-05,M
 N.Y. / Region,Emma,2016-11-05,F
-Sports,Tal,2016-11-05,F
+Sports,Tal,2016-11-05,M
 U.S.,Jason,2016-11-06,M
 Technology,Quentin,2016-11-06,M
 World,Stephen,2016-11-06,M
@@ -1003,7 +1003,7 @@ Health,Donald,2016-11-07,M
 Food,Melissa,2016-11-07,F
 Food,Alec,2016-11-07,M
 World,Dan,2016-11-07,M
-Sports,Tal,2016-11-07,F
+Sports,Tal,2016-11-07,M
 U.S.,Adam,2016-11-07,M
 Briefing,Charles,2016-11-07,M
 Times Insider,Kate,2016-11-07,F
@@ -1199,7 +1199,7 @@ U.S.,Yamiche,2016-11-08,F
 Food,Florence,2016-11-08,F
 Opinion,Andrew,2016-11-08,M
 World,Thomas,2016-11-08,M
-Fashion & Style,Crystal,2016-11-08,F
+Fashion & Style,Crystal,2016-11-08,M
 T Magazine,Andrew,2016-11-08,M
 Times Insider,Susan,2016-11-08,M
 U.S.,Liam,2016-11-08,M
@@ -1230,7 +1230,7 @@ Arts,William,2016-11-08,M
 World,Mike,2016-11-08,F
 The Upshot,Nate,2016-11-08,F
 Briefing,Sean,2016-11-08,M
-World,Felipe,2016-11-08,F
+World,Felipe,2016-11-08,M
 Travel,Jessica,2016-11-08,F
 Books,Frans,2016-11-08,M
 Books,Douglas,2016-11-08,M
@@ -1860,7 +1860,7 @@ Style,Susan,2016-11-11,M
 Opinion,Paul,2016-11-11,M
 Opinion,David,2016-11-11,M
 Opinion,Jan,2016-11-11,M
-Opinion,Timothy,2016-11-11,M
+Opinion,Timothy,2016-11-11,F
 Opinion,Steven,2016-11-11,M
 Arts,Robin,2016-11-11,M
 U.S.,Eric,2016-11-11,M
@@ -2095,7 +2095,7 @@ Science,Rachel,2016-11-14,M
 U.S.,Daniel,2016-11-14,M
 Briefing,Charles,2016-11-14,M
 World,Somini,2016-11-14,F
-T Magazine,Crystal,2016-11-14,F
+T Magazine,Crystal,2016-11-14,M
 U.S.,Jeremy,2016-11-14,F
 T Magazine,Kat,2016-11-14,M
 Arts,Mike,2016-11-14,F
@@ -2795,7 +2795,7 @@ Times Insider,Insider,2016-11-18,M
 Business Day,Nathaniel,2016-11-18,M
 World,Tim,2016-11-18,M
 Arts,Gia,2016-11-18,F
-Sports,Tal,2016-11-18,F
+Sports,Tal,2016-11-18,M
 N.Y. / Region,Joseph,2016-11-18,M
 Science,Nicholas,2016-11-18,M
 T Magazine,Ahilan,2016-11-18,M
@@ -2937,12 +2937,12 @@ World,Edward,2016-11-18,M
 World,Chris,2016-11-18,M
 Opinion,Noam,2016-11-18,M
 Opinion,Paul,2016-11-18,M
-Opinion,Timothy,2016-11-18,M
+Opinion,Timothy,2016-11-18,F
 Opinion,David,2016-11-18,M
 Opinion,Luigi,2016-11-18,F
 Arts,Kathryn,2016-11-18,M
 U.S.,Binyamin,2016-11-18,M
-World,Felipe,2016-11-18,F
+World,Felipe,2016-11-18,M
 Sports,Christopher,2016-11-18,M
 Sports,Christopher,2016-11-18,M
 Briefing,Jennifer,2016-11-18,M
@@ -3162,7 +3162,7 @@ Multimedia/Photos,Mike,2016-11-21,F
 Watching,Margaret,2016-11-21,M
 Arts,Nate,2016-11-21,F
 World,Motoko,2016-11-21,F
-Fashion & Style,Guy,2016-11-21,M
+Fashion & Style,Guy,2016-11-21,F
 Sports,Rory,2016-11-21,M
 Business Day,Kevin,2016-11-21,M
 Well,Roni,2016-11-21,F
@@ -3389,7 +3389,7 @@ Magazine,Jenna,2016-11-22,F
 Books,Virginia,2016-11-22,F
 Magazine,Emily,2016-11-22,F
 Magazine,Rosie,2016-11-22,F
-Books,Timothy,2016-11-22,M
+Books,Timothy,2016-11-22,F
 Magazine,Kwame,2016-11-22,F
 World,Rod,2016-11-22,M
 The Learning Network,Caroline,2016-11-22,F
@@ -3846,7 +3846,7 @@ World,Kassie,2016-11-25,F
 Opinion,Pagan,2016-11-25,M
 Opinion,Kelly,2016-11-25,F
 Opinion,J.,2016-11-25,M
-Opinion,Timothy,2016-11-25,M
+Opinion,Timothy,2016-11-25,F
 Opinion,Paul,2016-11-25,M
 Opinion,David,2016-11-25,M
 Arts,Anita,2016-11-25,F
@@ -3914,7 +3914,7 @@ Fashion & Style,Helene,2016-11-26,F
 Fashion & Style,Brooks,2016-11-26,M
 Fashion & Style,Katherine,2016-11-26,F
 N.Y. / Region,Jake,2016-11-26,M
-Fashion & Style,Brooke,2016-11-26,F
+Fashion & Style,Brooke,2016-11-26,M
 Science,Erin,2016-11-26,M
 World,Shreeya,2016-11-26,F
 Arts,Joshua,2016-11-26,F
@@ -4219,7 +4219,7 @@ Books,Alexandra,2016-11-29,F
 Opinion,Paul,2016-11-29,M
 Sports,Dhiren,2016-11-29,M
 Arts,John,2016-11-29,M
-Books,Liesl,2016-11-29,F
+Books,Liesl,2016-11-29,M
 World,Norimitsu,2016-11-29,M
 T Magazine,Nancy,2016-11-29,F
 N.Y. / Region,John,2016-11-29,M
@@ -4381,7 +4381,7 @@ Business Day,Gina,2016-11-30,F
 World,Carlotta,2016-11-30,F
 World,Frances,2016-11-30,M
 Business Day,Michael,2016-11-30,M
-Fashion & Style,Crystal,2016-11-30,F
+Fashion & Style,Crystal,2016-11-30,M
 Health,Benedict,2016-11-30,M
 Books,Alan,2016-11-30,M
 Opinion,Jason,2016-11-30,M

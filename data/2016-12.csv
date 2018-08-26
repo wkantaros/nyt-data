@@ -142,7 +142,7 @@ Opinion,William,2016-12-01,M
 Opinion,Gail,2016-12-01,M
 Opinion,Thomas,2016-12-01,M
 Opinion,Charles,2016-12-01,M
-Arts,Kathryn,2016-12-01,F
+Arts,Kathryn,2016-12-01,M
 Fashion & Style,Guy,2016-12-01,F
 Sports,Pat,2016-12-01,M
 Briefing,Patrick,2016-12-01,M
@@ -235,7 +235,7 @@ Movies,Andrew,2016-12-02,M
 Watching,Margaret,2016-12-02,M
 T Magazine,Hettie,2016-12-02,F
 Arts,Christopher,2016-12-02,M
-World,Joe,2016-12-02,M
+World,Joe,2016-12-02,F
 Books,Douglas,2016-12-02,M
 Fashion & Style,Valeriya,2016-12-02,F
 Theater,Joshua,2016-12-02,F
@@ -248,7 +248,7 @@ World,Henrik,2016-12-02,M
 Books,Marilyn,2016-12-02,F
 Books,N.,2016-12-02,M
 Books,Joumana,2016-12-02,F
-Books,Ruby,2016-12-02,M
+Books,Ruby,2016-12-02,F
 Books,Paul,2016-12-02,M
 Books,Albert,2016-12-02,M
 Books,Matthew,2016-12-02,M
@@ -304,7 +304,7 @@ T Magazine,Kai,2016-12-02,M
 Food,Sam,2016-12-02,M
 Books,Virginia,2016-12-02,F
 Books,Jeremy,2016-12-02,F
-Books,Bruce,2016-12-02,M
+Books,Bruce,2016-12-02,F
 Books,Regina,2016-12-02,F
 Books,Andrea,2016-12-02,F
 Books,Edmund,2016-12-02,M
@@ -318,7 +318,7 @@ Arts,Jennifer,2016-12-02,M
 U.S.,Niraj,2016-12-02,M
 Movies,Glenn,2016-12-02,M
 Well,Toby,2016-12-02,M
-Movies,Kathryn,2016-12-02,F
+Movies,Kathryn,2016-12-02,M
 World,Jaime,2016-12-02,F
 The Upshot,Neil,2016-12-02,M
 World,Ben,2016-12-02,M
@@ -370,7 +370,7 @@ Magazine,John,2016-12-02,M
 The Learning Network,Caroline,2016-12-02,F
 The Learning Network,Caroline,2016-12-02,F
 Opinion,Jennifer,2016-12-02,M
-Opinion,Timothy,2016-12-02,M
+Opinion,Timothy,2016-12-02,F
 Opinion,Paul,2016-12-02,M
 The Learning Network,Katherine,2016-12-02,F
 World,Jason,2016-12-02,M
@@ -378,7 +378,7 @@ World,Choe,2016-12-02,F
 World,Didi,2016-12-02,F
 U.S.,Kassie,2016-12-02,F
 Sports,Rory,2016-12-02,M
-Arts,Kathryn,2016-12-02,F
+Arts,Kathryn,2016-12-02,M
 World,Mujib,2016-12-02,M
 Briefing,Patrick,2016-12-02,M
 Sports,Benjamin,2016-12-02,M
@@ -490,9 +490,9 @@ Real Estate,Julie,2016-12-03,F
 Arts,Kassie,2016-12-03,F
 Business Day,Hiroko,2016-12-03,F
 NYT Now,Marie,2016-12-03,F
-Arts,Kathryn,2016-12-03,F
+Arts,Kathryn,2016-12-03,M
 Technology,Katie,2016-12-03,F
-World,Felipe,2016-12-03,F
+World,Felipe,2016-12-03,M
 Sports,Brad,2016-12-03,M
 Sports,Brad,2016-12-03,M
 Sports,Brad,2016-12-03,M
@@ -568,7 +568,7 @@ Arts,Natalia,2016-12-04,F
 Real Estate,C.,2016-12-04,M
 Multimedia/Photos,Ana,2016-12-04,F
 Travel,Shivani,2016-12-04,F
-Arts,Kathryn,2016-12-04,F
+Arts,Kathryn,2016-12-04,M
 Sports,Marc,2016-12-04,M
 Sports,Robert,2016-12-04,M
 U.S.,Jay,2016-12-04,M
@@ -641,7 +641,7 @@ Food,Florence,2016-12-05,F
 Health,Nicholas,2016-12-05,M
 Food,Florence,2016-12-05,F
 Arts,James,2016-12-05,M
-Arts,Joe,2016-12-05,M
+Arts,Joe,2016-12-05,F
 Food,Florence,2016-12-05,F
 Sports,Jonah,2016-12-05,F
 U.S.,Richard,2016-12-05,M
@@ -704,7 +704,7 @@ Opinion,Lawrence,2016-12-05,F
 Opinion,Roger,2016-12-05,M
 Opinion,Charles,2016-12-05,M
 Opinion,Evan,2016-12-05,M
-Opinion,Joe,2016-12-05,M
+Opinion,Joe,2016-12-05,F
 Opinion,Bianca,2016-12-05,F
 Opinion,Paul,2016-12-05,M
 Opinion,Norman,2016-12-05,M
@@ -718,7 +718,7 @@ Fashion & Style,Mike,2016-12-05,F
 U.S.,Benjamin,2016-12-05,M
 Fashion & Style,Libby,2016-12-05,M
 Fashion & Style,Penelope,2016-12-05,F
-Arts,Kathryn,2016-12-05,F
+Arts,Kathryn,2016-12-05,M
 U.S.,Ford,2016-12-05,M
 Fashion & Style,Tina,2016-12-05,F
 Business Day,Rachel,2016-12-05,M
@@ -783,7 +783,7 @@ Food,Florence,2016-12-06,F
 World,Andrew,2016-12-06,M
 Fashion & Style,Alexandra,2016-12-06,F
 Watching,Margaret,2016-12-06,M
-Arts,Joe,2016-12-06,M
+Arts,Joe,2016-12-06,F
 Business Day,Sydney,2016-12-06,F
 Times Insider,Susan,2016-12-06,M
 Food,Florence,2016-12-06,F
@@ -803,7 +803,7 @@ Opinion,Merete,2016-12-06,F
 World,Sean,2016-12-06,M
 Arts,Joshua,2016-12-06,F
 Sports,Tyler,2016-12-06,M
-Arts,Joe,2016-12-06,M
+Arts,Joe,2016-12-06,F
 Fashion & Style,Shozan,2016-12-06,M
 Well,Kelly,2016-12-06,F
 Sports,Rebecca,2016-12-06,F
@@ -891,7 +891,7 @@ Opinion,Peter,2016-12-06,M
 Opinion,Tina,2016-12-06,F
 World,Chris,2016-12-06,M
 Well,Roni,2016-12-06,F
-Arts,Kathryn,2016-12-06,F
+Arts,Kathryn,2016-12-06,M
 Sports,Rory,2016-12-06,M
 Briefing,Patrick,2016-12-06,M
 Sports,Mike,2016-12-06,F
@@ -1013,7 +1013,7 @@ Arts,Alexandra,2016-12-07,F
 Technology,J.,2016-12-07,M
 World,Seth,2016-12-07,F
 World,Jonah,2016-12-07,F
-Arts,Joe,2016-12-07,M
+Arts,Joe,2016-12-07,F
 Arts,Jon,2016-12-07,M
 Sports,Tim,2016-12-07,M
 Fashion & Style,Alexandra,2016-12-07,F
@@ -1056,7 +1056,7 @@ World,Anne,2016-12-07,F
 The Upshot,Margot,2016-12-07,M
 Movies,Nicolas,2016-12-07,M
 Opinion,Bethany,2016-12-07,F
-World,Joe,2016-12-07,M
+World,Joe,2016-12-07,F
 Well,David,2016-12-07,M
 World,Photographs,2016-12-07,M
 Business Day,Sei,2016-12-07,F
@@ -1090,7 +1090,7 @@ Opinion,Eric,2016-12-07,M
 Opinion,Frank,2016-12-07,M
 Opinion,Laurie,2016-12-07,F
 Opinion,Thomas,2016-12-07,M
-Arts,Kathryn,2016-12-07,F
+Arts,Kathryn,2016-12-07,M
 Fashion & Style,Elizabeth,2016-12-07,F
 Fashion & Style,Dana,2016-12-07,F
 Fashion & Style,Miki,2016-12-07,F
@@ -1267,7 +1267,7 @@ Opinion,Charles,2016-12-08,M
 Opinion,Thomas,2016-12-08,M
 Opinion,Linda,2016-12-08,F
 Opinion,Harry,2016-12-08,M
-Arts,Kathryn,2016-12-08,F
+Arts,Kathryn,2016-12-08,M
 Fashion & Style,Vanessa,2016-12-08,F
 Sports,Tyler,2016-12-08,M
 Magazine,Wesley,2016-12-08,F
@@ -1374,7 +1374,7 @@ Sports,Marc,2016-12-09,M
 Arts,Louis,2016-12-09,M
 Real Estate,Ronda,2016-12-09,F
 Arts,Anthony,2016-12-09,F
-Sports,Joe,2016-12-09,M
+Sports,Joe,2016-12-09,F
 Real Estate,Michelle,2016-12-09,F
 Your Money,Ann,2016-12-09,F
 Business Day,Gretchen,2016-12-09,M
@@ -1415,7 +1415,7 @@ Job Market,Rob,2016-12-09,M
 Opinion,Patrick,2016-12-09,M
 Sports,Victor,2016-12-09,M
 The Upshot,Neil,2016-12-09,M
-Theater,Kathryn,2016-12-09,F
+Theater,Kathryn,2016-12-09,M
 Real Estate,Michelle,2016-12-09,F
 Your Money,Paul,2016-12-09,M
 U.S.,Mike,2016-12-09,F
@@ -1457,8 +1457,8 @@ U.S.,K.,2016-12-09,M
 The Learning Network,Katherine,2016-12-09,F
 Science,Nicholas,2016-12-09,M
 The Learning Network,Caroline,2016-12-09,F
-Fashion & Style,Joe,2016-12-09,M
-Opinion,Timothy,2016-12-09,M
+Fashion & Style,Joe,2016-12-09,F
+Opinion,Timothy,2016-12-09,F
 Opinion,Mark,2016-12-09,M
 Opinion,Paul,2016-12-09,M
 Opinion,Elizabeth,2016-12-09,F
@@ -1466,9 +1466,9 @@ World,Chris,2016-12-09,M
 U.S.,Brent,2016-12-09,M
 World,Choe,2016-12-09,F
 World,Choe,2016-12-09,F
-Arts,Kathryn,2016-12-09,F
-Arts,Joe,2016-12-09,M
-U.S.,Timothy,2016-12-09,M
+Arts,Kathryn,2016-12-09,M
+Arts,Joe,2016-12-09,F
+U.S.,Timothy,2016-12-09,F
 World,Jonathan,2016-12-09,M
 Briefing,Patrick,2016-12-09,M
 Sports,Rory,2016-12-09,M
@@ -1509,7 +1509,7 @@ Movies,Meg,2016-12-09,M
 N.Y. / Region,Arielle,2016-12-09,F
 World,Ian,2016-12-09,M
 World,Rick,2016-12-09,M
-Arts,Joe,2016-12-10,M
+Arts,Joe,2016-12-10,F
 Crosswords & Games,Deb,2016-12-10,M
 World,Rod,2016-12-10,M
 World,Tim,2016-12-10,M
@@ -1566,7 +1566,7 @@ Magazine,Kassie,2016-12-10,F
 Business Day,Liz,2016-12-10,F
 World,Edward,2016-12-10,M
 Health,Donald,2016-12-10,M
-Arts,Kathryn,2016-12-10,F
+Arts,Kathryn,2016-12-10,M
 World,Susan,2016-12-10,M
 U.S.,Jess,2016-12-10,M
 U.S.,Erica,2016-12-10,F
@@ -1619,7 +1619,7 @@ Arts,Scott,2016-12-11,M
 Briefing,Charles,2016-12-11,M
 Sports,Benjamin,2016-12-11,M
 N.Y. / Region,Michael,2016-12-11,M
-Arts,Caryn,2016-12-11,F
+Arts,Caryn,2016-12-11,M
 World,Rick,2016-12-11,M
 N.Y. / Region,David,2016-12-11,M
 World,Gaia,2016-12-11,F
@@ -1634,7 +1634,7 @@ World,Declan,2016-12-11,M
 Arts,Tony,2016-12-11,F
 Briefing,Karen,2016-12-11,M
 Real Estate,C.,2016-12-11,M
-Arts,Kathryn,2016-12-11,F
+Arts,Kathryn,2016-12-11,M
 Sports,Brian,2016-12-11,M
 U.S.,Jeremy,2016-12-11,F
 World,Motoko,2016-12-11,F
@@ -1756,7 +1756,7 @@ U.S.,Andrew,2016-12-12,M
 World,Rukmini,2016-12-12,F
 World,Dionne,2016-12-12,F
 World,Kassie,2016-12-12,F
-Arts,Kathryn,2016-12-12,F
+Arts,Kathryn,2016-12-12,M
 Sports,Mike,2016-12-12,F
 Arts,Jeremy,2016-12-12,F
 Briefing,Patrick,2016-12-12,M
@@ -1804,7 +1804,7 @@ Arts,Gia,2016-12-13,F
 U.S.,Steve,2016-12-13,F
 Arts,Zachary,2016-12-13,F
 Arts,Metropolitan,2016-12-13,M
-Arts,Joe,2016-12-13,M
+Arts,Joe,2016-12-13,F
 Books,Helen,2016-12-13,M
 Arts,Marina,2016-12-13,F
 Business Day,Emily,2016-12-13,F
@@ -1870,7 +1870,7 @@ Magazine,Jenna,2016-12-13,F
 U.S.,Coral,2016-12-13,M
 Opinion,Thorbjorn,2016-12-13,M
 Sports,Victor,2016-12-13,M
-World,Joe,2016-12-13,M
+World,Joe,2016-12-13,F
 Fashion & Style,Vanessa,2016-12-13,F
 Business Day,Stephanie,2016-12-13,F
 U.S.,Michael,2016-12-13,M
@@ -1907,7 +1907,7 @@ Opinion,Jonathan,2016-12-13,M
 Opinion,Anna,2016-12-13,F
 Opinion,David,2016-12-13,M
 World,Katrin,2016-12-13,M
-Arts,Kathryn,2016-12-13,F
+Arts,Kathryn,2016-12-13,M
 Travel,Elaine,2016-12-13,F
 U.S.,Sheryl,2016-12-13,M
 Briefing,Patrick,2016-12-13,M
@@ -1950,7 +1950,7 @@ Fashion & Style,Alison,2016-12-14,M
 Opinion,Teresa,2016-12-14,F
 Arts,William,2016-12-14,M
 Obituaries,Daniel,2016-12-14,M
-Technology,Vindu,2016-12-14,F
+Technology,Vindu,2016-12-14,M
 Business Day,Antony,2016-12-14,F
 Arts,Neil,2016-12-14,M
 N.Y. / Region,Marc,2016-12-14,M
@@ -2018,7 +2018,7 @@ Public Editor,Liz,2016-12-14,F
 Food,Sam,2016-12-14,M
 Arts,Jon,2016-12-14,M
 Arts,Zachary,2016-12-14,F
-Arts,Kathryn,2016-12-14,F
+Arts,Kathryn,2016-12-14,M
 U.S.,Jennifer,2016-12-14,M
 Arts,Randy,2016-12-14,F
 Opinion,Benjamin,2016-12-14,M
@@ -2075,7 +2075,7 @@ Opinion,Dahlia,2016-12-14,F
 Opinion,Thomas,2016-12-14,M
 Business Day,Elizabeth,2016-12-14,F
 Fashion & Style,Elizabeth,2016-12-14,F
-Arts,Kathryn,2016-12-14,F
+Arts,Kathryn,2016-12-14,M
 Briefing,Patrick,2016-12-14,M
 Travel,Ken,2016-12-14,M
 Well,Lisa,2016-12-14,F
@@ -2211,9 +2211,9 @@ Automobiles,Tom,2016-12-15,M
 Opinion,Kristina,2016-12-15,F
 Automobiles,Tom,2016-12-15,M
 Technology,J.,2016-12-15,M
-World,Felipe,2016-12-15,F
+World,Felipe,2016-12-15,M
 Arts,Raphael,2016-12-15,M
-Arts,Kathryn,2016-12-15,F
+Arts,Kathryn,2016-12-15,M
 Science,Tatiana,2016-12-15,F
 U.S.,Mike,2016-12-15,F
 Opinion,David,2016-12-15,M
@@ -2251,7 +2251,7 @@ Opinion,David,2016-12-15,M
 Opinion,Francis,2016-12-15,M
 Travel,Alex,2016-12-15,M
 Travel,Jeffrey,2016-12-15,F
-Arts,Kathryn,2016-12-15,F
+Arts,Kathryn,2016-12-15,M
 Sports,Marc,2016-12-15,M
 Travel,Sam,2016-12-15,M
 Briefing,Patrick,2016-12-15,M
@@ -2447,10 +2447,10 @@ The Learning Network,Katherine,2016-12-16,F
 Opinion,Steven,2016-12-16,M
 Opinion,Steven,2016-12-16,M
 Opinion,Paul,2016-12-16,M
-Opinion,Timothy,2016-12-16,M
+Opinion,Timothy,2016-12-16,F
 Opinion,Bill,2016-12-16,M
 Sports,Geoff,2016-12-16,M
-Arts,Kathryn,2016-12-16,F
+Arts,Kathryn,2016-12-16,M
 U.S.,Robert,2016-12-16,M
 N.Y. / Region,Shivani,2016-12-16,F
 Briefing,Patrick,2016-12-16,M
@@ -2461,7 +2461,7 @@ N.Y. / Region,J.,2016-12-16,M
 U.S.,Mark,2016-12-16,M
 Sports,Christopher,2016-12-16,M
 Crosswords & Games,Deb,2016-12-16,M
-Technology,Vindu,2016-12-16,F
+Technology,Vindu,2016-12-16,M
 Business Day,Sydney,2016-12-16,F
 U.S.,Jennifer,2016-12-16,M
 N.Y. / Region,William,2016-12-16,M
@@ -2543,7 +2543,7 @@ Business Day,Peter,2016-12-17,M
 NYT Now,Lela,2016-12-17,F
 World,Meridith,2016-12-17,M
 World,Steven,2016-12-17,M
-Arts,Kathryn,2016-12-17,F
+Arts,Kathryn,2016-12-17,M
 Business Day,Geeta,2016-12-17,F
 World,Eric,2016-12-17,M
 Opinion,Ariel,2016-12-17,M
@@ -2582,7 +2582,7 @@ Crosswords & Games,Deb,2016-12-18,M
 U.S.,Michael,2016-12-18,M
 Arts,Neil,2016-12-18,M
 Theater,Laura,2016-12-18,F
-Arts,Kathryn,2016-12-18,F
+Arts,Kathryn,2016-12-18,M
 Arts,Alastair,2016-12-18,M
 Books,James,2016-12-18,M
 Arts,Michael,2016-12-18,M
@@ -2590,7 +2590,7 @@ N.Y. / Region,Lisa,2016-12-18,F
 Arts,Jonah,2016-12-18,F
 Sports,Zach,2016-12-18,M
 Theater,Joshua,2016-12-18,F
-World,Joe,2016-12-18,M
+World,Joe,2016-12-18,F
 Opinion,Yi-zheng,2016-12-18,M
 Sports,Rory,2016-12-18,M
 Opinion,Ali,2016-12-18,F
@@ -2621,7 +2621,7 @@ U.S.,Emmarie,2016-12-18,F
 U.S.,Jugal,2016-12-18,M
 World,Stefania,2016-12-18,F
 Arts,Dave,2016-12-18,F
-Arts,Kathryn,2016-12-18,F
+Arts,Kathryn,2016-12-18,M
 Sports,Zach,2016-12-18,M
 N.Y. / Region,Joseph,2016-12-18,M
 U.S.,Nick,2016-12-18,M
@@ -2740,7 +2740,7 @@ Opinion,Darren,2016-12-19,M
 The Learning Network,Shannon,2016-12-19,M
 World,Zach,2016-12-19,M
 Fashion & Style,Valeriya,2016-12-19,F
-Arts,Kathryn,2016-12-19,F
+Arts,Kathryn,2016-12-19,M
 U.S.,Niraj,2016-12-19,M
 Briefing,Patrick,2016-12-19,M
 Sports,Dave,2016-12-19,F
@@ -2829,7 +2829,7 @@ World,International,2016-12-20,M
 Opinion,Patrick,2016-12-20,M
 Business Day,Chad,2016-12-20,M
 U.S.,Mike,2016-12-20,F
-Technology,Vindu,2016-12-20,F
+Technology,Vindu,2016-12-20,M
 Opinion,Hansda,2016-12-20,F
 World,Nick,2016-12-20,M
 Business Day,Mark,2016-12-20,M
@@ -2873,7 +2873,7 @@ Opinion,Desmond,2016-12-20,M
 The Learning Network,Katherine,2016-12-20,F
 World,Chris,2016-12-20,M
 Arts,Jennifer,2016-12-20,M
-Arts,Kathryn,2016-12-20,F
+Arts,Kathryn,2016-12-20,M
 Briefing,Patrick,2016-12-20,M
 Sports,Christopher,2016-12-20,M
 World,Liam,2016-12-20,M
@@ -2991,7 +2991,7 @@ U.S.,Mike,2016-12-21,F
 Business Day,Cao,2016-12-21,M
 The Upshot,Claire,2016-12-21,F
 World,Melissa,2016-12-21,F
-Opinion,Joe,2016-12-21,M
+Opinion,Joe,2016-12-21,F
 World,Stephen,2016-12-21,M
 Magazine,Gareth,2016-12-21,F
 Magazine,Colson,2016-12-21,M
@@ -3052,7 +3052,7 @@ Business Day,Barry,2016-12-21,M
 U.S.,Robert,2016-12-21,M
 The Upshot,Quoctrung,2016-12-21,M
 World,Amy,2016-12-21,F
-Arts,Kathryn,2016-12-21,F
+Arts,Kathryn,2016-12-21,M
 Travel,Shivani,2016-12-21,F
 Arts,Nina,2016-12-21,F
 Arts,Ginanne,2016-12-21,F
@@ -3127,7 +3127,7 @@ Arts,William,2016-12-22,M
 Arts,Zachary,2016-12-22,F
 Automobiles,Tom,2016-12-22,M
 Automobiles,Tom,2016-12-22,M
-World,Felipe,2016-12-22,F
+World,Felipe,2016-12-22,M
 Arts,Mike,2016-12-22,F
 Arts,Roslyn,2016-12-22,F
 Business Day,Richard,2016-12-22,M
@@ -3192,7 +3192,7 @@ Business Day,Cao,2016-12-22,M
 N.Y. / Region,Jonathan,2016-12-22,M
 Movies,Jeannette,2016-12-22,F
 Business Day,Amie,2016-12-22,F
-Arts,Joe,2016-12-22,M
+Arts,Joe,2016-12-22,F
 Fashion & Style,Steven,2016-12-22,M
 Movies,Neil,2016-12-22,M
 Arts,Jon,2016-12-22,M
@@ -3222,7 +3222,7 @@ Opinion,Linda,2016-12-22,F
 Opinion,Oleg,2016-12-22,M
 The Learning Network,Katherine,2016-12-22,F
 U.S.,John,2016-12-22,M
-Arts,Kathryn,2016-12-22,F
+Arts,Kathryn,2016-12-22,M
 Briefing,Patrick,2016-12-22,M
 Sports,Christopher,2016-12-22,M
 Sports,Christopher,2016-12-22,M
@@ -3317,7 +3317,7 @@ World,Craig,2016-12-23,M
 Science,Joanna,2016-12-23,F
 Real Estate,Abigail,2016-12-23,M
 Theater,Laura,2016-12-23,F
-Arts,Finn,2016-12-23,F
+Arts,Finn,2016-12-23,M
 Well,Toby,2016-12-23,M
 Real Estate,Ronda,2016-12-23,F
 World,Edward,2016-12-23,M
@@ -3327,7 +3327,7 @@ Times Insider,Rachel,2016-12-23,M
 World,International,2016-12-23,M
 U.S.,Mike,2016-12-23,F
 World,Chris,2016-12-23,M
-World,Joe,2016-12-23,M
+World,Joe,2016-12-23,F
 World,Mike,2016-12-23,F
 World,Declan,2016-12-23,M
 Business Day,Adam,2016-12-23,M
@@ -3360,7 +3360,7 @@ Opinion,Nicholas,2016-12-23,M
 Opinion,Mustafa,2016-12-23,F
 Opinion,Cengiz,2016-12-23,M
 Opinion,Paul,2016-12-23,M
-Opinion,Timothy,2016-12-23,M
+Opinion,Timothy,2016-12-23,F
 Opinion,Stanley,2016-12-23,F
 Business Day,Chad,2016-12-23,M
 Business Day,Amie,2016-12-23,F
@@ -3368,7 +3368,7 @@ The Learning Network,Katherine,2016-12-23,F
 Opinion,Patrick,2016-12-23,M
 Opinion,Lisa,2016-12-23,F
 Opinion,Sylvie,2016-12-23,F
-Arts,Kathryn,2016-12-23,F
+Arts,Kathryn,2016-12-23,M
 N.Y. / Region,Emily,2016-12-23,F
 Sports,Bill,2016-12-23,M
 N.Y. / Region,Logan,2016-12-23,M
@@ -3396,7 +3396,7 @@ Arts,David,2016-12-23,M
 Sports,Scott,2016-12-23,M
 Movies,J.,2016-12-23,M
 N.Y. / Region,Annie,2016-12-23,F
-Technology,Vindu,2016-12-23,F
+Technology,Vindu,2016-12-23,M
 World,Rick,2016-12-23,M
 Theater,Medea,2016-12-23,F
 N.Y. / Region,Benjamin,2016-12-23,M
@@ -3421,7 +3421,7 @@ N.Y. / Region,Eli,2016-12-24,F
 Sports,Ben,2016-12-24,M
 Business Day,Andrew,2016-12-24,M
 Opinion,Ross,2016-12-24,M
-Opinion,Bruce,2016-12-24,M
+Opinion,Bruce,2016-12-24,F
 Opinion,Paul,2016-12-24,M
 World,Rod,2016-12-24,M
 Science,Nicholas,2016-12-24,M
@@ -3453,7 +3453,7 @@ U.S.,Dan,2016-12-24,M
 Business Day,Danielle,2016-12-24,F
 World,Andrew,2016-12-24,M
 NYT Now,Lela,2016-12-24,F
-Arts,Kathryn,2016-12-24,F
+Arts,Kathryn,2016-12-24,M
 World,Kiersten,2016-12-24,M
 Business Day,Dealbook,2016-12-24,M
 Crosswords & Games,Deb,2016-12-24,M
@@ -3465,7 +3465,7 @@ Sports,Andrew,2016-12-24,M
 U.S.,Mark,2016-12-24,M
 Real Estate,Michelle,2016-12-24,F
 World,Peter,2016-12-24,M
-Sports,Joe,2016-12-24,M
+Sports,Joe,2016-12-24,F
 Sports,James,2016-12-24,M
 Business Day,Andrew,2016-12-24,M
 Opinion,Peter,2016-12-24,M
@@ -3492,7 +3492,7 @@ World,Nicholas,2016-12-25,M
 Opinion,Gene,2016-12-25,F
 Sports,David,2016-12-25,M
 Arts,Michael,2016-12-25,M
-Arts,Joe,2016-12-25,M
+Arts,Joe,2016-12-25,F
 Arts,Randy,2016-12-25,F
 Arts,Wesley,2016-12-25,F
 Sports,Mike,2016-12-25,F
@@ -3516,7 +3516,7 @@ U.S.,Megan,2016-12-25,M
 Real Estate,C.,2016-12-25,M
 World,Ivan,2016-12-25,M
 U.S.,Kirk,2016-12-25,M
-Arts,Kathryn,2016-12-25,F
+Arts,Kathryn,2016-12-25,M
 Travel,Neil,2016-12-25,M
 World,Motoko,2016-12-25,F
 U.S.,Trip,2016-12-26,M
@@ -3578,11 +3578,11 @@ Opinion,Valerie,2016-12-26,F
 Opinion,Paul,2016-12-26,M
 Opinion,Anna,2016-12-26,F
 Opinion,John,2016-12-26,M
-Arts,Kathryn,2016-12-26,F
+Arts,Kathryn,2016-12-26,M
 Sports,Christopher,2016-12-26,M
 Sports,Christopher,2016-12-26,M
 Sports,Sam,2016-12-26,M
-Arts,Caryn,2016-12-26,F
+Arts,Caryn,2016-12-26,M
 Theater,Laura,2016-12-26,F
 N.Y. / Region,Niraj,2016-12-26,M
 Arts,Niraj,2016-12-26,M
@@ -3621,7 +3621,7 @@ Movies,Glenn,2016-12-27,M
 Opinion,Richard,2016-12-27,M
 Fashion & Style,Rachel,2016-12-27,M
 World,Sewell,2016-12-27,M
-Arts,Joe,2016-12-27,M
+Arts,Joe,2016-12-27,F
 U.S.,Laurie,2016-12-27,F
 Food,Pete,2016-12-27,F
 Business Day,Jennifer,2016-12-27,M
@@ -3659,7 +3659,7 @@ Food,Florence,2016-12-27,F
 Food,Florence,2016-12-27,F
 Food,Florence,2016-12-27,F
 Food,Florence,2016-12-27,F
-Real Estate,Joe,2016-12-27,M
+Real Estate,Joe,2016-12-27,F
 Food,Florence,2016-12-27,F
 World,James,2016-12-27,M
 Opinion,David,2016-12-27,M
@@ -3711,7 +3711,7 @@ N.Y. / Region,Christina,2016-12-27,F
 Sports,Adam,2016-12-27,M
 U.S.,Adam,2016-12-27,M
 Business Day,Elizabeth,2016-12-28,F
-Arts,Joe,2016-12-28,M
+Arts,Joe,2016-12-28,F
 Business Day,Jack,2016-12-28,M
 Sports,Scott,2016-12-28,M
 Business Day,William,2016-12-28,M
@@ -3741,7 +3741,7 @@ U.S.,Christopher,2016-12-28,M
 World,Isabel,2016-12-28,M
 World,Nina,2016-12-28,F
 Opinion,Lev,2016-12-28,M
-Arts,Joe,2016-12-28,M
+Arts,Joe,2016-12-28,F
 Arts,Joshua,2016-12-28,F
 Fashion & Style,Stuart,2016-12-28,M
 Arts,James,2016-12-28,M
@@ -3762,7 +3762,7 @@ Business Day,Constance,2016-12-28,F
 Arts,Farah,2016-12-28,F
 Technology,Pui-wing,2016-12-28,M
 U.S.,David,2016-12-28,M
-World,Cyn,2016-12-28,M
+World,Cyn,2016-12-28,F
 Technology,J.,2016-12-28,M
 Business Day,Jonathan,2016-12-28,M
 Arts,Jon,2016-12-28,M
@@ -3778,7 +3778,7 @@ U.S.,Nelson,2016-12-28,M
 Opinion,Anna,2016-12-28,F
 Watching,Megan,2016-12-28,M
 Theater,Anita,2016-12-28,F
-Movies,Kathryn,2016-12-28,F
+Movies,Kathryn,2016-12-28,M
 World,Victoria,2016-12-28,F
 Arts,Roslyn,2016-12-28,F
 Real Estate,Alison,2016-12-28,M
@@ -3851,14 +3851,14 @@ Arts,Elise,2016-12-29,F
 Theater,Laura,2016-12-29,F
 Theater,Charles,2016-12-29,M
 Arts,Holland,2016-12-29,M
-Arts,Kathryn,2016-12-29,F
+Arts,Kathryn,2016-12-29,M
 Arts,Karen,2016-12-29,M
 Books,Joumana,2016-12-29,F
 Arts,Alastair,2016-12-29,M
 Movies,Jeannette,2016-12-29,F
 Sports,Jonah,2016-12-29,F
 Movies,Daniel,2016-12-29,M
-Arts,Joe,2016-12-29,M
+Arts,Joe,2016-12-29,F
 Business Day,Michael,2016-12-29,M
 Arts,Zachary,2016-12-29,F
 Arts,Jack,2016-12-29,M
@@ -3919,7 +3919,7 @@ Podcasts,Wesley,2016-12-29,F
 Business Day,Andy,2016-12-29,F
 World,Edward,2016-12-29,M
 U.S.,Mike,2016-12-29,F
-Theater,Finn,2016-12-29,F
+Theater,Finn,2016-12-29,M
 World,Javier,2016-12-29,M
 World,Ben,2016-12-29,M
 Arts,Michael,2016-12-29,M
@@ -3929,7 +3929,7 @@ Travel,Kelly,2016-12-29,F
 Briefing,Sean,2016-12-29,M
 World,Karoline,2016-12-29,F
 Opinion,Ben,2016-12-29,M
-Sports,Joe,2016-12-29,M
+Sports,Joe,2016-12-29,F
 N.Y. / Region,J.,2016-12-29,M
 Science,Dennis,2016-12-29,M
 Travel,Patrick,2016-12-29,M
@@ -4037,7 +4037,7 @@ Fashion & Style,Guy,2016-12-30,F
 Opinion,Maeve,2016-12-30,F
 The Upshot,Susan,2016-12-30,M
 Sports,Victor,2016-12-30,M
-Arts,Joe,2016-12-30,M
+Arts,Joe,2016-12-30,F
 Arts,Kimiko,2016-12-30,F
 World,Jeremy,2016-12-30,F
 Science,Joanna,2016-12-30,F
@@ -4135,7 +4135,7 @@ U.S.,Leslie,2016-12-30,F
 Sports,Richard,2016-12-30,M
 N.Y. / Region,Eva,2016-12-30,F
 N.Y. / Region,Andy,2016-12-30,F
-U.S.,Timothy,2016-12-30,M
+U.S.,Timothy,2016-12-30,F
 Obituaries,Richard,2016-12-30,M
 N.Y. / Region,Tammy,2016-12-30,F
 Books,Alexandra,2016-12-30,F
