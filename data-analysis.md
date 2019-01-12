@@ -16,7 +16,7 @@ Although I had a list of the authors' first names, the New York Times did not ex
 
 ## Analysis
 
-In order to determine whether an imbalance exists between articles written by men and women, we need to look at the number of articles written by each gender. Seeing how this data looks over a seven year span ensures reliability and eliminates the possibility of an outlier month as the cause for an inbalance.
+In order to determine whether an imbalance exists between articles written by men and women, we need to look at the number of articles written by each gender. Seeing how this data looks over a seven year span ensures reliability and eliminates the possibility of an outlier month as the cause for an imbalance.
 
 ![](figures/histogram-2011-to-2018.png)
 As we can see from the histogram above, male authors heavily dominate writing at the New York Times. Men consistently double or nearly double women in total articles every month. In January, 2012, men wrote 7,290 articles - the greatest number of articles written by a single gender in a month. For comparison, during that same month women wrote a measly 3,554 articles, or a little over 32% of the total articles. Eight years later, there doesn't appear to be any progress concerning the amelioration of gender discrepancies at The Times.
