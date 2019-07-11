@@ -69,8 +69,6 @@ def makeLineGraphs(gender_category_data):
     plt.tick_params(axis="both", which="both", bottom="off", top="off",
                     labelbottom="on", left="off", right="off", labelleft="on")
 
-    # Now that the plot is prepared, it's time to actually plot the data!
-    # Note that I plotted the majors in order of the highest % in the final year.
     # topics = ['Travel', 'Real Estate', 'Fashion & Style', 'Food',
     #           'N.Y. / Region', 'Health', 'Arts', 'Magazine', 'Books',
     #           'Business', 'Multimedia', 'Movies', 'World', 'Science',

@@ -1,8 +1,9 @@
 import requests
 import csv
 import genderPredictor
+import config
 
-key = '75ecb8e663da46c2ad9759c147fe0812'
+key = config.api_key
 
 ## where should I put this
 gp = genderPredictor.genderPredictor()
